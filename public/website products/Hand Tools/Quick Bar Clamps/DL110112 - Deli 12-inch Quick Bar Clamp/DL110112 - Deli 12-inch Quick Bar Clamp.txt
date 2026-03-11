@@ -1,0 +1,4 @@
+Clamp size: 63x300mm
+Max clamp force: 90N
+Trigger-type clamp and rubber chuck
+Packed by label

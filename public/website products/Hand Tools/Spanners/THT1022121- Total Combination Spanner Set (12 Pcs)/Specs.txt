@@ -1,0 +1,4 @@
+Model no.	THT1022121
+Dimensions	47cm * 12cm * 8cm
+Material	Chromium-vanadium steel (Cr-V)
+Size	6mm, 8mm, 10mm, 11mm, 12mm, 13mm, 14mm, 15mm, 17mm, 19mm, 22mm, 24mm

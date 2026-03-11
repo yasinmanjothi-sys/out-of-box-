@@ -1,0 +1,12 @@
+Voltage:20V
+Nail type: F15~F50
+Drive rate: 3 nails/s
+Magazine capacity: 105pcs
+Brushless motor
+Include:
+1 Pcs 140mm blade
+1000 Pcs brad nails(50mm)
+1 Pcs air nozzle
+1 Pcs pin
+
+Battery and charger sold separately

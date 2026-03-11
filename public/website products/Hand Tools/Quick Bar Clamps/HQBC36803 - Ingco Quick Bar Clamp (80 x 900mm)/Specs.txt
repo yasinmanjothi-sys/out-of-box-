@@ -1,0 +1,4 @@
+Clamp size:80x900mm
+Max clamp force:135KGS
+Thickness and width of iron ruler:6X18mm
+Packed by label

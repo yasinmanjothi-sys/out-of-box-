@@ -1,0 +1,131 @@
+.video-grid-section {
+    padding: 5rem 0;
+    background-color: var(--pure-white);
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.section-title {
+    font-size: 2.5rem;
+    color: var(--industrial-blue);
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.section-subtitle {
+    color: var(--graphite-grey);
+    font-size: 1.125rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Grid container styles moved to media queries at the bottom */
+
+.video-card {
+    display: block;
+    text-decoration: none;
+    aspect-ratio: 9/16;
+    /* Vertical video format common on social media */
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    background-color: var(--white-smoke);
+}
+
+.video-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.video-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--graphite-grey);
+    color: var(--pure-white);
+    padding: 2rem;
+    text-align: center;
+    position: relative;
+    transition: background-color 0.3s ease;
+}
+
+.video-card:hover .video-placeholder {
+    background-color: var(--industrial-blue);
+}
+
+.play-icon {
+    margin-bottom: 1.5rem;
+    opacity: 0.8;
+    transition: transform 0.3s ease;
+}
+
+.video-card:hover .play-icon {
+    transform: scale(1.2);
+    opacity: 1;
+}
+
+.platform-badge {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    color: var(--pure-white);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.placeholder-text {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    /* 1 per row on very small screens */
+    gap: 1.5rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    /* Center the grid container */
+}
+
+@media (min-width: 640px) {
+    .video-grid {
+        grid-template-columns: repeat(2, 1fr);
+        /* 2 per row on small tablets */
+    }
+
+    /* Center the 3rd item if it wraps to the next line */
+    .video-card:last-child {
+        grid-column: 1 / -1;
+        justify-self: center;
+        width: 100%;
+        max-width: calc(50% - 0.75rem);
+        /* Match the width of the other items */
+    }
+}
+
+@media (min-width: 1024px) {
+    .video-grid {
+        grid-template-columns: repeat(3, 1fr);
+        /* 3 per row on desktop */
+    }
+
+    .video-card:last-child {
+        grid-column: auto;
+        justify-self: stretch;
+        max-width: none;
+    }
+}

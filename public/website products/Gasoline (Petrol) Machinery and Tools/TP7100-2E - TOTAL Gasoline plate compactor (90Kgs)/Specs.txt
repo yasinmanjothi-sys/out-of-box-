@@ -1,0 +1,10 @@
+Gasoline engine
+Engine power:4.8kW(6.5HP)
+Weight:90kg
+Frequency:4200VPM
+Centrifugal force:15kN
+Compaction depth:30cm
+Travel speed:45cm/s
+Efficiency:660㎡/Hr
+Plate size:56x44cm
+Packed by carton box

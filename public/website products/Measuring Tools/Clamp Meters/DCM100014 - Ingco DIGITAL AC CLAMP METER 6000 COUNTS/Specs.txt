@@ -1,0 +1,17 @@
+Display :6000 counts
+LCD with backlight
+AC Current: 60A/600A/1000A
+AC Voltage:600mV/6V/60V/600V/750V
+DC Voltage:600mV/6V/60V/600V/1000V
+Resistance: 600Ω/6kΩ/60kΩ/600kΩ/6MΩ/60MΩ
+Capacitance:10nf/100nf/1000nf/10μF/100μF/1000μF/10mf/100mf
+Frequency:10Hz/100Hz/1000Hz/10KHz/100KHz/1000KHz/10MHz
+Duty cycle: 1%~99%
+Temperature: -20~1000℃(-8~1832°F)
+Non-contact voltage detection
+Diode test
+Data Hold
+Low battery indication
+Auto power off
+With flash light function
+Packed by double blister

@@ -1,0 +1,4 @@
+Input voltage:220-240V~50/60Hz
+Output voltage:20V
+Output current:2A
+Packed by color box

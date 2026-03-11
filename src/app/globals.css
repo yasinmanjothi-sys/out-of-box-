@@ -1,26 +1,207 @@
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;500;600;700&display=swap');
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --industrial-blue: #1F4E79;
+  --graphite-grey: #3A3A3A;
+  --safety-orange: #F37321;
+  --steel-silver: #BFBFBF;
+  --white-smoke: #F5F5F5;
+  --pure-white: #FFFFFF;
+  --text-primary: var(--graphite-grey);
+  --text-light: var(--white-smoke);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  color: var(--text-primary);
+  background-color: var(--white-smoke);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 1px;
+  font-weight: 400;
+  /* Bebas Neue is 400 weight typically */
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Button Styles */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 4px;
+  /* Industrial slight rounding */
+}
+
+.btn-primary {
+  background-color: var(--safety-orange);
+  color: var(--pure-white);
+}
+
+.btn-primary:hover {
+  background-color: #d9621a;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: var(--pure-white);
+  border: 2px solid var(--pure-white);
+}
+
+.btn-outline:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Blueprint Pattern with Ruler Edges */
+.bg-blueprint {
+  background-color: var(--industrial-blue);
+  background-image:
+    linear-gradient(rgba(191, 191, 191, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(191, 191, 191, 0.1) 1px, transparent 1px);
+  background-size: 20px 20px;
+  position: relative;
+}
+
+/* Left Ruler markings */
+.bg-blueprint::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 20px;
+  /* Width of ruler area */
+  border-right: 1px solid rgba(191, 191, 191, 0.4);
+  background-image:
+    linear-gradient(rgba(191, 191, 191, 0.6) 1px, transparent 1px),
+    linear-gradient(rgba(191, 191, 191, 0.3) 1px, transparent 1px);
+  background-size: 10px 50px, 5px 10px;
+  /* Major ticks every 50px, minor every 10px */
+  background-position: left top;
+  background-repeat: repeat-y;
+  pointer-events: none;
+}
+
+/* Right Ruler markings */
+.bg-blueprint::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 20px;
+  border-left: 1px solid rgba(191, 191, 191, 0.4);
+  background-image:
+    linear-gradient(rgba(191, 191, 191, 0.6) 1px, transparent 1px),
+    linear-gradient(rgba(191, 191, 191, 0.3) 1px, transparent 1px);
+  background-size: 10px 50px, 5px 10px;
+  background-position: right top;
+  background-repeat: repeat-y;
+  pointer-events: none;
+}
+
+/* Faded Grey Rulers for Light Sections */
+.faded-ruler {
+  position: relative;
+}
+
+.faded-ruler::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 20px;
+  border-right: 1px solid rgba(58, 58, 58, 0.1);
+  background-image:
+    linear-gradient(rgba(58, 58, 58, 0.2) 1px, transparent 1px),
+    linear-gradient(rgba(58, 58, 58, 0.1) 1px, transparent 1px);
+  background-size: 10px 50px, 5px 10px;
+  background-position: left top;
+  background-repeat: repeat-y;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.faded-ruler::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 20px;
+  border-left: 1px solid rgba(58, 58, 58, 0.1);
+  background-image:
+    linear-gradient(rgba(58, 58, 58, 0.2) 1px, transparent 1px),
+    linear-gradient(rgba(58, 58, 58, 0.1) 1px, transparent 1px);
+  background-size: 10px 50px, 5px 10px;
+  background-position: right top;
+  background-repeat: repeat-y;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* Shared Section Styles */
+.section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.section-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 3rem;
+  color: var(--industrial-blue);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  position: relative;
+  display: inline-block;
+}
+
+.section-title::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background-color: var(--safety-orange);
+  margin: 0.75rem auto 0;
+}
+
+.section-subtitle {
+  font-size: 1.125rem;
+  color: var(--graphite-grey);
+  margin-top: 0.75rem;
 }

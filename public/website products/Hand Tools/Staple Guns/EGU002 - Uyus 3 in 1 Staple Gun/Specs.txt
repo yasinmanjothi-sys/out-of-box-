@@ -1,0 +1,5 @@
+Type	3-Way Staple Gun
+Model	EGU002
+Material	High-Quality Steel
+Application	DIY, Professional, Commercial
+Staple Directions	3 Adjustable Angles

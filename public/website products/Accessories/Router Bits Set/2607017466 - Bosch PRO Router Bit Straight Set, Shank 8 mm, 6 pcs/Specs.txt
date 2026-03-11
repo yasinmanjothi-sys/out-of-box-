@@ -1,0 +1,15 @@
+Set Type: Straight router bit set for woodworking
+Number of Pieces: 6 router bits
+Shank Diameter: 8 mm (fits routers with an 8 mm collet)
+Cutting Material: Carbide cutting edges brazed to steel for durability and smoother cuts
+Case: Comes in a plastic or cassette style carrying case for secure bit storage and transport
+Typical Uses: Grooves, slots, rebates and straight routing in softwoods, hardwoods and wood composite materials
+
+
+Diameter (D)	Working/Cutting Length	Total Length	Type
+6 mm	        20 mm	                54 mm	        Straight bit (2-cutter)
+8 mm	        20 mm	                50 mm	        Straight bit (2-cutter)
+10 mm	        30 mm	                60 mm	        Straight bit (2-cutter)
+12 mm	        30 mm	                60 mm	        Straight bit (3-cutter)
+16 mm	        30 mm	                60 mm	        Straight bit (3-cutter)
+20 mm	        30 mm	                60 mm	        Straight bit (3-cutter)

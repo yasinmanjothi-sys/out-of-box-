@@ -1,0 +1,6 @@
+Model: YT-07042
+Capacity: 600cc
+Material: Aluminum gun head and T-handle, zinc tube, and handle
+Operating Pressure: 27-41 MPa
+Dimensions: 330x6.4x1.2 mm
+Weight: 1.95 kg

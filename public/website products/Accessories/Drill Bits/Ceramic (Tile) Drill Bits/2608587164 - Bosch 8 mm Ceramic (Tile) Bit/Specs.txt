@@ -1,0 +1,4 @@
+Diameter (D) mm :8
+Product text :Pack of 1
+Specification :8 x 80 mm
+Total length (L2) mm :80

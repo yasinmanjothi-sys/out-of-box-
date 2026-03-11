@@ -1,0 +1,13 @@
+DAYLIFF DDA submersible multistage centrifugal pumps are designed for pumping clean, non-aggressive water in various domestic and light duty applications. They are particularly suitable for wells and boreholes, though can also be used for water transfer from tanks, irrigation and pressure boosting applications as an alternative to a conventional dry mounted pump. A design feature is the jacketed motor arrangement which provides excellent cooling and allows the pump to work semi-submerged. The pumps also feature mechanical seals (twin on DDA600C & DDA1200C2) in an intermediate oil chamber for greater pump reliability and pump construction is Polypropylene impellers and diffusers and stainless steel pump casing.
+
+Pumps can be fitted with a pressure controller for automatic operation. All pumps are supplied complete with 20m cable.
+
+DDA1000P, DDA600C & DDA1200C2 are fitted with a low level float switch with adjustment clamp and an inbuilt capacitor for simplified installation and are particularly suitable to well and tank applications. DDA900C is particularly suited to borehole applications and is supplied with an external control box which incorporates an isolator, run indicator light, thermal overload protection and starting capacitor which can be connected directly to mains power. The box is also provided with auxiliary terminals for control probes, pressure switch or float switch.
+
+MOTOR
+Enclosed and rewindable liquid cooled, non-overloading induction motor designed for continuous operations incorporating a thermal cut-out in the windings to protect against overloading. Pumps can be connected directly to the mains power supply through a 10A fuse or MCB.
+
+Enclosure Class: X8
+Insulation Class: B
+Voltage: 1x240V
+Speed: 2900rpm

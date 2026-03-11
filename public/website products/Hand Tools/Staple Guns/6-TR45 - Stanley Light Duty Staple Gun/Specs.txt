@@ -1,0 +1,6 @@
+Material	Steel
+Compatible Staples	A-Type (Light Duty) [T50]
+Loading Mechanism (Staple Guns)	Bottom Loading
+Compatible Staple Size	6, 8, 10 mm
+Fastener Reload Indicator	Yes
+Anti-Jam Function	Yes

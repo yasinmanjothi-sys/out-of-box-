@@ -1,0 +1,13 @@
+Viewing area: 90x35mm
+Cartridge size: 108x 51x 5mm
+Sensors: 2
+Light state: 4
+Dark state: 11
+UV/IR protection: up to DIN 11
+ON / OFF: automatic
+Switch time(Light to dark): <1ms
+TIG amps rated: ≥ 30 amps
+Operating temperature: -5℃~ +55℃
+Storing temperature: -20℃~ +70℃
+Power supply: solar panel & lithium battery CR1025
+Packed by double blister

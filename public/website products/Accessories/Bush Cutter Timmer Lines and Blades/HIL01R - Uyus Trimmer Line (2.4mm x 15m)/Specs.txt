@@ -1,0 +1,6 @@
+Round shape
+Width: 2.4mm
+Length: 15m
+Material: PA6 nylon
+Breaking strength> 900N
+Package: blister card

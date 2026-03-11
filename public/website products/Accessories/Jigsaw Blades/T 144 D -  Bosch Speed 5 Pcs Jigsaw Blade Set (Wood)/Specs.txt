@@ -1,0 +1,9 @@
+Total length mm :100
+Shank :Single lug shank
+Type :T 144 D
+Length of teeth mm :74
+Material :HCS
+Tooth spacing [mm] :4.0 - 5.2
+Softwood (5-50 mm), chipboard, wood core plywood, fibre boards
+Specification :Speed for Wood
+

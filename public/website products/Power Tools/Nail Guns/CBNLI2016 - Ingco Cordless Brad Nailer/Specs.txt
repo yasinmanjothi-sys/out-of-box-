@@ -1,0 +1,9 @@
+Specifications:
+Voltage:20V
+With 1pcs 20V 2.0AH battery (FBLI2001)and 1pcs charge (FCLI2001E)
+Nail type:F15~F50
+Suitable for:ANA18201,ANA18251,ANA18301,ANA18351,ANA18401,ANA18501
+Drive rate:2.5nails/s
+Magazine capacity:100pcs
+Ramp up time:80ms
+Packed by color box

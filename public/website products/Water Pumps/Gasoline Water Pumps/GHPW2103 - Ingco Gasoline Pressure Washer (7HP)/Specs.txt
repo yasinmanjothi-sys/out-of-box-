@@ -1,0 +1,19 @@
+Pump Type:AxialPump
+Pump head material:Brass
+Pump with changing oil function
+Max Output:7.0HP
+Life time:300h
+Max. Pressure:235Bar (3450psi)
+Flow Rate:9.5L/min (2.5GPM)
+Displacement :212cc
+Starting System :Recoil
+Engine Type :OHV 4-stroke
+Engine Speed :3600rpm
+Fuel volume :3.6L
+Oil Volume :0.6L
+Fuel Type:Unleaded Gasoline
+1 pcs metal lance
+1 pcs metal gun
+9.1m pressure hose
+Four nozzles
+Packed by carton box

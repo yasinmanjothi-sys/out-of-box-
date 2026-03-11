@@ -1,0 +1,7 @@
+2000 Counts
+Data Hold
+AC Current:2A/20A/200A/±(2.5% +8)
+AC Voltage:0.1~600V±(1.0% +5)
+DC Voltage:0.1~600V±(0.5% +5)
+Resistance:2kΩ/20kΩ±(1.0% +3)
+Packed by color box

@@ -1,0 +1,23 @@
+High specification in-line electronic pump controllers for automatic operation of pressurised water supplies.
+
+
+Features include:-
+
+Starts pump on pressure or through the flow sensor (minimum 1.5litres/min)and stops on low flow. The
+controller automatically senses the pipe pressure and regulates the starting pressure
+Dry run protection provided and restart when supply returns (positive suction)
+Incorporates a spring activated hydraulic accumulator to control pump cycling
+LED power on, pump run, dry run indicators and delay timer
+Settable delay timer for tank filling (P)
+Built in pressure gauge for pressure monitoring (P
+Max Motor size: 2.2kW/1ph
+
+Max Current: 10A
+
+Protection: IP65
+
+Max Operating Pressure: 10 Bar
+
+Connection: 1''M Voltage: 90-260V
+
+Dimensions (L/W/H): 192x140x90mm

@@ -1,0 +1,5 @@
+Product: THT9391BL (Planer Blade).
+Brand: TOTAL Tools.
+Compatibility: Specifically for the THT9391 Planer.
+Dimensions: 80mm (Length) x 44mm (Width).
+Material: Often Q195 steel for durability, as seen with the main planer model.

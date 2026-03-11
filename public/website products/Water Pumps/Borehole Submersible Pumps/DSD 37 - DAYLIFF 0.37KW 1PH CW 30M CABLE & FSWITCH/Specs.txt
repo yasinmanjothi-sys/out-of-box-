@@ -1,0 +1,28 @@
+Dayliff DSD range of Submersible Multistage centrifugal pumps are specially designed for domestic and small scale water supply from wells and boreholes. Material of construction include plastic impellers and diffusers, cast iron delivery and suction chambers and AISI 304 stainless steel pump housing, shaft and shaft coupling. These quality materials together with the plastic impellers provide the pumps with excellent sand handling capabilities for a longer life. The pumps are also supplied complete with 30m cable.
+
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Motors are supplied complete with purpose designed control boxes that include the capacitor and electrical overload protection.
+
+A DAYLIFF electronic Pump Controller is recommended for comprehensive pump control including wireless low level, motor overload and irregular power supply protection.
+
+Motor:
+Enclosure Class: IP68
+Voltage: 1 X 240V
+Insulation: Class B
+Speed: 2850rpm
+
+Operating Conditions:
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids with a max. sand content of 0.25%
+Maximum Fluid Temperature: +35C
+Maximum Ambient Temperature: +35C
+Maximum immersion depth: 80M
+Minimum borehole diameter: 110mm
+
+Dimensions & Weights:
+DN("): 1.25
+
+Pump Information
+Istat / I: 6.0
+Model: DSD 3/7
+Power (kW): 0.37
+Maximum Operating Current (A): 3.7
+Weight (kg): 7

@@ -1,0 +1,16 @@
+Viewing area:90×35mm
+Cartridge size:110×90×10mm
+Arc sensor:2
+Light state:DIN 4
+Dark state:fixed shade 11
+Shade control: unadjustable
+Power ON/OFF:fully automatic
+Sensitivity control: unadjustable,auto
+UV/IR protection: DIN 16
+Power supply: solar cells+1*CR2032 lithium battery
+Switching time:1/5000s,from light to dark
+Dark to light:0.15-0.45s auto
+Low amperage TIG:≥20amps(DC), ≥20amps(AC)
+Operating temperature:-5℃~+55℃
+Storing temperature:-20℃~+70℃
+Packed by color box

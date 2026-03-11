@@ -1,0 +1,6 @@
+Diameter (D) mm :11
+Product text :Pack of 5
+Total length (L2) mm :142
+Working length (L1) mm :94
+Shank diameter (d) mm :11
+

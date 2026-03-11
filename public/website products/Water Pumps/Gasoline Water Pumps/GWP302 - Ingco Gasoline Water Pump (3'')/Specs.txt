@@ -1,0 +1,9 @@
+Suction&amp;Discharge port diameter:80mm,3"
+Max.flow:1000L/min
+Max.head lift:32m
+Max.suction head:8m
+7.0HP gasoline engine
+Displacement:208cc
+Fuel tank:3.6L
+Starting system:Recoil
+Packed by carton box

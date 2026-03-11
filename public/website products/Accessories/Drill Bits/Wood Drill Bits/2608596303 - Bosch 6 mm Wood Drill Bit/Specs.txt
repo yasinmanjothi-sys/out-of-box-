@@ -1,0 +1,8 @@
+Diameter (D) mm :6
+Product text :Pack of 1
+Specification : 6 x 57 x 93 mm, d 6 mm
+Total length (L2) mm :93
+Working length (L1) mm :60
+Shank diameter (d) mm :6
+Net Weight :0.015 kg
+Gross Weight :0.018 kg

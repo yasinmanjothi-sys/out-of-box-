@@ -1,0 +1,13 @@
+Type: Straight router bit set for woodworking routers
+Number of Pieces: 6 router bits
+Shank Diameter: 6 mm (fits routers with 6 mm collet)
+Material: Carbide cutting edges for durability and clean cuts
+Case: Comes in a robust storage case with transparent cover for easy organization and transport
+
+Diameter (D)	Working/Cutting Length	Total Length	Type
+6 mm	        20 mm	                54 mm	        Straight bit (2-cutter)
+8 mm	        20 mm	                50 mm	        Straight bit (2-cutter)
+10 mm	        30 mm	                60 mm	        Straight bit (2-cutter)
+12 mm	        30 mm	                60 mm	        Straight bit (3-cutter)
+16 mm	        30 mm	                60 mm	        Straight bit (3-cutter)
+20 mm	        30 mm	                60 mm	        Straight bit (3-cutter)

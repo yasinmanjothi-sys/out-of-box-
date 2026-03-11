@@ -1,0 +1,17 @@
+Data Hold
+Display :6000 counts
+LCD with double color backlight
+AC Current:4A/40A/400A/600A
+AC Voltage:4V/40V/400V/600V
+DC Voltage:400mV/4V/40V/400V/600V
+Resistance: 400Ω/4kΩ/40kΩ/400kΩ/4MΩ/40MΩ
+Capacitance:4nf/40nf/400nf/4μF/40μF/400μF/4mf
+Non-contact voltage detection
+Diode test
+Data Hold
+Auto power off
+With backlight function
+With flash light function
+With lower battery indication function
+With 2pcs LR03 AAA batteries
+Packed by color box

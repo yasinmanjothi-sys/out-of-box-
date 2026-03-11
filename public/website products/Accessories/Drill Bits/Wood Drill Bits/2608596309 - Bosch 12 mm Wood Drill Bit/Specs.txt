@@ -1,0 +1,8 @@
+Diameter (D) mm :12
+Product text :Pack of 1
+Specification : 12 x 96 x 151 mm, d 10 mm
+Total length (L2) mm :151
+Working length (L1) mm :110
+Shank diameter (d) mm :10
+Net Weight :0.068 kg
+Gross Weight :0.071 kg

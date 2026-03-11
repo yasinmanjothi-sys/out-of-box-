@@ -1,0 +1,5 @@
+Bore diameter mm :22.230
+Thickness mm :6
+Diameter mm :230
+Specification :A 24 P BF, 125 mm, 22,23 mm, 6,0 mm
+Specification :A 24 P BF
