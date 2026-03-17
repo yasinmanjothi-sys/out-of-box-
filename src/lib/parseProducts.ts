@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import * as xlsx from 'xlsx'
 
 export interface ProductImage {
     url: string;
@@ -13,6 +14,7 @@ export interface Product {
     category: string;
     subcategory: string;
     images: ProductImage[];
+    price?: string;
 }
 
 export interface CategoryData {
@@ -31,6 +33,59 @@ export function getProducts(): CategoryData[] {
     }
 
     const categories: CategoryData[] = []
+
+    // Read Excel Prices First
+    const exactPricesMap = new Map<string, string>();
+    const signaturePricesMap = new Map<string, string>();
+    const excelPath = path.join(productsDir, 'Updated pricelist 12.03.26 - Copy.xlsx');
+    
+    const getSignature = (str: string, isFolder: boolean) => {
+        let prefix = str;
+        if (isFolder) {
+            if (str.includes(' - ')) prefix = str.split(' - ')[0];
+        } else {
+            if (str.includes('(')) prefix = str.split('(')[0];
+            else if (str.includes(' - ')) prefix = str.split(' - ')[0];
+        }
+        return prefix.replace(/[^a-z0-9]/gi, '').toLowerCase();
+    };
+
+    if (fs.existsSync(excelPath)) {
+        try {
+            const fileBuffer = fs.readFileSync(excelPath);
+            const workbook = xlsx.read(fileBuffer, { type: 'buffer' });
+            
+            for (const sheetName of workbook.SheetNames) {
+                const sheet = workbook.Sheets[sheetName];
+                const data = xlsx.utils.sheet_to_json(sheet) as any[];
+                
+                for (const row of data) {
+                    const normalizedRow: Record<string, any> = {};
+                    for (const key in row) {
+                        normalizedRow[key.trim().toLowerCase()] = row[key];
+                    }
+
+                    const productName = normalizedRow['product name'];
+                    
+                    const rowKeys = Object.keys(normalizedRow);
+                    let priceKey = rowKeys.find(k => k.includes('starting price'));
+                    const price = priceKey ? normalizedRow[priceKey] : normalizedRow['starting price (v.a.t incl)'];
+
+                    if (productName && price !== undefined) {
+                        const nameString = String(productName).trim();
+                        exactPricesMap.set(nameString.toLowerCase(), String(price));
+                        
+                        const sig = getSignature(nameString, false);
+                        if (sig.length > 2) {
+                            signaturePricesMap.set(sig, String(price));
+                        }
+                    }
+                }
+            }
+        } catch (e) {
+            console.error("Failed to parse prices excel:", e);
+        }
+    }
 
     // Read depth 1: Categories
     const categoryFolders = fs.readdirSync(productsDir, { withFileTypes: true })
@@ -76,6 +131,16 @@ export function getProducts(): CategoryData[] {
                         } catch { /* ignore read errors */ }
                     }
 
+                    // Look up price
+                    const normalizedFolderName = folderName.trim().toLowerCase();
+                    let productPrice = exactPricesMap.get(normalizedFolderName);
+
+                    // Fallback to signature matching
+                    if (!productPrice) {
+                        const sig = getSignature(folderName, true);
+                        productPrice = signaturePricesMap.get(sig);
+                    }
+
                     productsData.push({
                         id: `${relativePathSoFar.join('-')}-${folderName}`,
                         name: folderName,
@@ -85,7 +150,8 @@ export function getProducts(): CategoryData[] {
                         images: imageFiles.map(file => ({
                             name: file,
                             url: encodeURI(`/website products/${category}/${subcategory}/${[...relativePathSoFar, file].join('/')}`)
-                        }))
+                        })),
+                        price: productPrice
                     })
                 }
 

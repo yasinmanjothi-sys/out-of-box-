@@ -30,7 +30,7 @@ export default function FloatingWhatsApp() {
 
     return (
         <a
-            href="whatsapp://send?phone=254110264532&text=Hello%20Out%20of%20Box%20Tools"
+            href="https://wa.me/254110264532?text=Hello%20Out%20of%20Box%20Tools"
             className="floating-wa"
             aria-label="Contact us on WhatsApp"
             target="_blank"

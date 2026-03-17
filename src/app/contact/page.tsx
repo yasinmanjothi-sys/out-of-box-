@@ -29,7 +29,7 @@ export default function ContactPage() {
 
                             <div>
                                 <strong>📞 Phone / WhatsApp:</strong><br />
-                                <a href="whatsapp://send?phone=254110264532&text=Hello%20Out%20of%20Box%20Tools" style={{ color: 'var(--safety-orange)' }}>0110 264532</a>
+                                <a href="https://wa.me/254110264532?text=Hello%20Out%20of%20Box%20Tools" style={{ color: 'var(--safety-orange)' }}>0110 264532</a>
                             </div>
 
                             <div>

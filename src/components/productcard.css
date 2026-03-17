@@ -45,9 +45,17 @@
     /* Force 2 lines of text no matter what for consistent height */
     display: -webkit-box;
     -webkit-line-clamp: 2;
+    line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
     min-height: calc(1.5rem * 1.2 * 2);
+}
+
+.product-price {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--safety-orange);
+    margin-bottom: 1rem;
 }
 
 .product-actions {

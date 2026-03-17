@@ -36,9 +36,18 @@ export default function ProductLightbox({ product, isOpen, onClose }: ProductLig
         : []
     const specsText = specLines.length > 0 ? `\n\nSpecs:\n- ${specLines.join('\n- ')}` : '';
 
+    const formatPrice = (price?: string) => {
+        if (!price) return null;
+        if (price.toLowerCase().includes('ksh')) return price;
+        const num = Number(price.replace(/,/g, ''));
+        if (!isNaN(num)) return `KSh ${num.toLocaleString()}`;
+        return `KSh ${price}`;
+    }
+    const displayPrice = formatPrice(product.price);
+
     // Create the WhatsApp message payload
     const waMessage = `Hello Out of Box Tools, I am interested in inquiring about the following tool:\n\nName: ${displayName}\nCategory: ${product.category}\nSubcategory: ${product.subcategory}${specsText}\n\nImage: ${origin}${mainImage}`
-    const waUrl = `whatsapp://send?phone=254110264532&text=${encodeURIComponent(waMessage)}`
+    const waUrl = `https://wa.me/254110264532?text=${encodeURIComponent(waMessage)}`
 
     return (
         <div className="lightbox-overlay" onClick={onClose}>
@@ -63,6 +72,9 @@ export default function ProductLightbox({ product, isOpen, onClose }: ProductLig
                         <div className="lightbox-header">
                             <span className="lightbox-category">{product.category} &gt; {product.subcategory}</span>
                             <h2 className="lightbox-title">{displayName}</h2>
+                            {displayPrice && (
+                                <div className="lightbox-price">{displayPrice}</div>
+                            )}
                         </div>
 
                         <div className="lightbox-specs-area">
