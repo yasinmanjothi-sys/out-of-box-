@@ -41,33 +41,51 @@
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
 }
 
-.video-placeholder {
+.video-thumbnail-container {
     width: 100%;
     height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: var(--graphite-grey);
-    color: var(--pure-white);
-    padding: 2rem;
-    text-align: center;
     position: relative;
-    transition: background-color 0.3s ease;
+    overflow: hidden;
+    background-color: #000;
 }
 
-.video-card:hover .video-placeholder {
-    background-color: var(--industrial-blue);
+.video-thumbnail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.video-card:hover .video-thumbnail {
+    transform: scale(1.05);
+}
+
+.video-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--pure-white);
+    transition: background 0.3s ease;
+}
+
+.video-card:hover .video-overlay {
+    background: rgba(0, 0, 0, 0.2);
 }
 
 .play-icon {
-    margin-bottom: 1.5rem;
-    opacity: 0.8;
-    transition: transform 0.3s ease;
+    opacity: 0.9;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    filter: drop-shadow(0 4px 6px rgba(0,0,0,0.5));
 }
 
 .video-card:hover .play-icon {
-    transform: scale(1.2);
+    transform: scale(1.15);
     opacity: 1;
 }
 
@@ -75,20 +93,125 @@
     position: absolute;
     top: 1rem;
     right: 1rem;
-    padding: 0.25rem 0.75rem;
+    padding: 0.35rem 0.85rem;
     border-radius: 20px;
-    font-size: 0.75rem;
-    font-weight: bold;
+    font-size: 0.8rem;
+    font-weight: 700;
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     color: var(--pure-white);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0.5px;
 }
 
-.placeholder-text {
-    font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.5rem;
-    letter-spacing: 1px;
+/* Lightbox Styles */
+.video-lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.9);
+    z-index: 9999; /* Super high to cover everything */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.lightbox-content {
+    position: relative;
+    width: 100%;
+    height: 90vh; /* Constrain exact proportions to the screen to never scroll off */
+    max-width: calc((90vh - 80px) * 9 / 16); /* Estimate the 9:16 portrait ratio */
+    background: #000;
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes slideUp {
+    from { transform: translateY(20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+.close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 10;
+    transition: background 0.3s ease, transform 0.2s ease;
+    backdrop-filter: blur(4px);
+}
+
+.close-btn:hover {
+    background: rgba(255, 255, 255, 0.25);
+    transform: scale(1.05);
+}
+
+.lightbox-video-container {
+    flex-grow: 1;
+    min-height: 0;
+    width: 100%;
+    background: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.lightbox-video {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* Exact original format without crop */
+}
+
+.lightbox-actions {
+    flex-shrink: 0;
+    padding: 1rem;
+    background: var(--pure-white);
+    text-align: center;
+}
+
+.see-more-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0.8rem 1rem;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: filter 0.3s ease, transform 0.2s ease;
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.see-more-btn:hover {
+    filter: brightness(1.1);
+    transform: translateY(-2px);
+    color: #fff;
 }
 
 .video-grid {

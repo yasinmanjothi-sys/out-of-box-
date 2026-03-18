@@ -1,5 +1,5 @@
 "use client"
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import { useSearchParams } from 'next/navigation'
 import { CategoryData } from '@/lib/parseProducts'
 import ProductCard from '@/components/ProductCard'
@@ -16,6 +16,7 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
     const [activeCategory, setActiveCategory] = useState<string>(searchParams.get('category') || 'All')
     const [activeSubcategory, setActiveSubcategory] = useState<string>(searchParams.get('subcategory') || 'All')
     const [searchQuery, setSearchQuery] = useState<string>('')
+    const contentRef = useRef<HTMLDivElement>(null)
 
     // Sync with URL search params when they change
     useEffect(() => {
@@ -40,6 +41,15 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
             : []
     )
 
+    const scrollToContent = () => {
+        setTimeout(() => {
+            if (window.innerWidth < 968 && contentRef.current) {
+                const y = contentRef.current.getBoundingClientRect().top + window.scrollY - 100;
+                window.scrollTo({ top: y, behavior: 'smooth' });
+            }
+        }, 50);
+    }
+
     const handleCategoryClick = (categoryName: string) => {
         if (activeCategory === categoryName && categoryName !== 'All') {
             // Toggle off if clicking the active category again
@@ -49,15 +59,31 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
             setActiveCategory(categoryName)
             setActiveSubcategory('All')
         }
+        scrollToContent()
     }
 
     const handleSubcategoryClick = (subcategoryName: string, e: React.MouseEvent) => {
         e.stopPropagation()
         setActiveSubcategory(subcategoryName)
+        scrollToContent()
     }
 
     return (
         <div className="catalogue-layout">
+            {/* Search Bar */}
+            <div className="catalogue-top-bar">
+                <div className="search-bar-container">
+                    <Search className="search-icon" size={20} />
+                    <input
+                        type="text"
+                        className="search-input"
+                        placeholder="Search tools, categories, or specifications..."
+                        value={searchQuery}
+                        onChange={(e) => setSearchQuery(e.target.value)}
+                    />
+                </div>
+            </div>
+
             {/* Sidebar / Filter Menu */}
             <aside className="catalogue-sidebar">
                 <h2 className="filter-title">Categories</h2>
@@ -115,20 +141,7 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
             </aside>
 
             {/* Product Grid */}
-            <div className="catalogue-content">
-                <div className="catalogue-top-bar">
-                    <div className="search-bar-container">
-                        <Search className="search-icon" size={20} />
-                        <input
-                            type="text"
-                            className="search-input"
-                            placeholder="Search tools, categories, or specifications..."
-                            value={searchQuery}
-                            onChange={(e) => setSearchQuery(e.target.value)}
-                        />
-                    </div>
-                </div>
-
+            <div className="catalogue-content" ref={contentRef}>
                 <div className="products-header">
                     <h2>
                         {activeCategory === 'All'
