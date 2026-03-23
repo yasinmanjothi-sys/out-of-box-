@@ -1,8 +1,9 @@
 "use client"
 import { useState, useEffect, useRef } from 'react'
-import { useSearchParams } from 'next/navigation'
-import { CategoryData } from '@/lib/parseProducts'
+import { useSearchParams, useRouter, usePathname } from 'next/navigation'
+import { CategoryData, Product } from '@/lib/parseProducts'
 import ProductCard from '@/components/ProductCard'
+import ProductLightbox from '@/components/ProductLightbox'
 import './catalogue.css'
 import './catalogue-subcategories.css'
 import { ChevronDown, ChevronRight, Search } from 'lucide-react'
@@ -13,18 +14,35 @@ interface CatalogueClientProps {
 
 export default function CatalogueClient({ categories }: CatalogueClientProps) {
     const searchParams = useSearchParams()
+    const router = useRouter()
+    const pathname = usePathname()
+    
     const [activeCategory, setActiveCategory] = useState<string>(searchParams.get('category') || 'All')
     const [activeSubcategory, setActiveSubcategory] = useState<string>(searchParams.get('subcategory') || 'All')
     const [searchQuery, setSearchQuery] = useState<string>('')
+    const [selectedProduct, setSelectedProduct] = useState<Product | null>(null)
     const contentRef = useRef<HTMLDivElement>(null)
 
     // Sync with URL search params when they change
     useEffect(() => {
         const cat = searchParams.get('category')
         const sub = searchParams.get('subcategory')
+        const toolId = searchParams.get('tool')
+
         if (cat) setActiveCategory(cat)
         if (sub) setActiveSubcategory(sub)
-    }, [searchParams])
+        
+        // Handle tool deep link
+        if (toolId) {
+            const allProducts = categories.flatMap(c => c.subcategories.flatMap(s => s.products))
+            const product = allProducts.find(p => p.id === toolId)
+            if (product) {
+                setSelectedProduct(product)
+            }
+        } else {
+            setSelectedProduct(null)
+        }
+    }, [searchParams, categories])
 
     // Get all flat products or filtered by category/subcategory and search query
     const filteredProducts = categories.flatMap(cat =>
@@ -52,7 +70,6 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
 
     const handleCategoryClick = (categoryName: string) => {
         if (activeCategory === categoryName && categoryName !== 'All') {
-            // Toggle off if clicking the active category again
             setActiveCategory('All')
             setActiveSubcategory('All')
         } else {
@@ -66,6 +83,18 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
         e.stopPropagation()
         setActiveSubcategory(subcategoryName)
         scrollToContent()
+    }
+
+    const handleOpenProduct = (product: Product) => {
+        const params = new URLSearchParams(searchParams.toString())
+        params.set('tool', product.id)
+        router.push(`${pathname}?${params.toString()}`, { scroll: false })
+    }
+
+    const handleCloseProduct = () => {
+        const params = new URLSearchParams(searchParams.toString())
+        params.delete('tool')
+        router.push(`${pathname}?${params.toString()}`, { scroll: false })
     }
 
     return (
@@ -160,11 +189,24 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
                 ) : (
                     <div className="product-grid">
                         {filteredProducts.map((product) => (
-                            <ProductCard key={`${product.category}-${product.subcategory}-${product.id}`} product={product} />
+                            <ProductCard 
+                                key={`${product.category}-${product.subcategory}-${product.id}`} 
+                                product={product} 
+                                onOpenProduct={handleOpenProduct}
+                            />
                         ))}
                     </div>
                 )}
             </div>
+
+            {/* Global Lightbox */}
+            {selectedProduct && (
+                <ProductLightbox 
+                    product={selectedProduct} 
+                    isOpen={!!selectedProduct} 
+                    onClose={handleCloseProduct} 
+                />
+            )}
         </div>
     )
 }

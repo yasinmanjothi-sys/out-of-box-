@@ -1,0 +1,8 @@
+Diameter (D) mm :8
+Product text :Pack of 1
+Specification : 8 x 75 x 117 mm, d 8 mm
+Total length (L2) mm :117
+Working length (L1) mm :80
+Shank diameter (d) mm :8
+Net Weight :0.031 kg
+Gross Weight :0.032 kg

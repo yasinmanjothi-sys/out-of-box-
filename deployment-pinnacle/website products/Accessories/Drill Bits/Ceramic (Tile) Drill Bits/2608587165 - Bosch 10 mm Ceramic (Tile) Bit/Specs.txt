@@ -1,0 +1,4 @@
+Diameter (D) mm :10
+Product text :Pack of 1
+Specification :10 x 90 mm
+Total length (L2) mm :90

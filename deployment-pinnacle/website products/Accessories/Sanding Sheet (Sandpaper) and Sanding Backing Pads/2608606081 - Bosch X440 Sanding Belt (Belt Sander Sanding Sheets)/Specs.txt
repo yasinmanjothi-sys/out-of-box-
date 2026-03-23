@@ -1,0 +1,7 @@
+Grit :60
+Machine type :Belt Sanders
+Type :X440
+Product text :Pack of 10
+Suitable for :Bosch; AEG; DeWalt; Festool; Holz-Her; Makita; Skil
+Specification :75 x 533 mm, 60
+

@@ -1,0 +1,11 @@
+Display :2000 counts
+AC Current:2A/20A/200A
+AC Voltage:2V/20V/200V/600V
+DC Voltage:200mV/2V/20V/200V/600V
+Resistance: 200Ω/2kΩ/20kΩ/200kΩ/2MΩ/20MΩ
+Data Hold
+Diode test
+date hold
+Low battery indication
+Auto power off
+Packed by color box

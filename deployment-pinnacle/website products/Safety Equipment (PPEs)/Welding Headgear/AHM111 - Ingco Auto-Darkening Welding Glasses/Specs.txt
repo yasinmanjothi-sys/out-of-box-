@@ -1,0 +1,14 @@
+Auto-darkening welding glasses
+Viewing area:95x31mm
+Cartridge size:108x 50.8x 5mm
+Sensors:2
+Light state:3
+Dark state:11
+UV/IR protection: up to DIN 16
+ON / OFF: automatic
+Switch time(Light to dark): <0.5ms
+TIG amps rated: ≥ 30 amps
+Operating temperature: -5℃~ +55℃
+Storing temperature: -20℃~ +70℃
+Power supply: solar panel & lithium battery 2xCR1220
+Packed by double blister

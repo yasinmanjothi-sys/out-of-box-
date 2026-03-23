@@ -1,0 +1,4 @@
+Flashlight button: Short press this button to turn on/oﬀ the flashlight
+NCV Multi-Segment Display and audio/visual alarm
+True RMS/Auto backlight
+NCV/Function retention

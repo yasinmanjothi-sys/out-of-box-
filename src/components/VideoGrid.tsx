@@ -46,6 +46,8 @@ export default function VideoGrid() {
                                     loop 
                                     muted 
                                     playsInline 
+                                    preload="none"
+                                    aria-label={`${video.platform} video preview – Out of Box Tools demonstrations`}
                                 />
                                 <div className="video-overlay">
                                     <Play size={48} className="play-icon" />

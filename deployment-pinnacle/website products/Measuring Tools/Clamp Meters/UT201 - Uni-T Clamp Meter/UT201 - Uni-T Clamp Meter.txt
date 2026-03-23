@@ -1,0 +1,5 @@
+True RMS
+LCD backlight
+Large screen and display digits
+60mF large capacitance measurement (UT202A+/UT204+)
+Neutral/live wire test (UT202A+/UT204+)

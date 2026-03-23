@@ -1,0 +1,4 @@
+Model no.	TAC310601
+Diameter	6mm
+Total length	110mm
+Working length	50mm

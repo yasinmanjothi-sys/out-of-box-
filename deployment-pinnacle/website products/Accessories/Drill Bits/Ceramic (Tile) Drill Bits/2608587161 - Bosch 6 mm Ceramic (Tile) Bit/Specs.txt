@@ -1,0 +1,6 @@
+Diameter (D) mm :6
+Product text :Pack of 1
+Specification :6 x 80 mm
+Total length (L2) mm :80
+Net Weight :0.008 kg
+Gross Weight :0.012 kg

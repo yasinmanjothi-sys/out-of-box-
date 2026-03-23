@@ -1,0 +1,8 @@
+Diameter (D) mm :10
+Product text :Pack of 1
+Specification : 10 x 80 x 120 mm, d 10 mm
+Total length (L2) mm :120
+Working length (L1) mm :80
+Shank diameter (d) mm :10
+Net Weight :0.047 kg
+Gross Weight :0.047 kg

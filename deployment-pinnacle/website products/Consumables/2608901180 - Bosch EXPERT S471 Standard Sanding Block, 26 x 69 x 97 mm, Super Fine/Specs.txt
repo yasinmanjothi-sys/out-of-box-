@@ -1,0 +1,7 @@
+Dimensions LxWxT [mm] :69 x 97 x 26
+Width mm :97
+Grade :Superfine
+Height mm :26
+Length mm :69
+Product colour :Green
+Specification :69 x 97 x 26 mm, super fine

@@ -1,0 +1,9 @@
+Total length mm :100
+Shank :Single lug shank
+Type :T 111 C
+Length of teeth mm :74
+Material :HCS
+Tooth spacing [mm] :3
+Softwood (4-50 mm), chipboard, wood core plywood, fibre boards, quick cutHCS, side set, milled
+Specification :Basic for Wood
+

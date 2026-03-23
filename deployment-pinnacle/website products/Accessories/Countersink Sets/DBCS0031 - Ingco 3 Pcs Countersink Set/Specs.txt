@@ -1,0 +1,8 @@
+Type: Countersink Bit Set.
+Quantity: 3 bits per set.
+Sizes: 12mm, 16mm, 19mm.
+Angle: 90°.
+Material: High-Speed Steel (HSS).
+Shank: 1/4" Hex Shank (Quick Change).
+Applications: Metal, mild steel, copper, zinc, woodworking.
+Packaging: Often sold in a double blister pack

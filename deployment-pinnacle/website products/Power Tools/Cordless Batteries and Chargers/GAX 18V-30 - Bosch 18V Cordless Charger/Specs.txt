@@ -1,0 +1,26 @@
+Technical data
+Additional data
+Battery voltage
+18.0 V
+Battery charging voltage
+10.8 – 18 V
+Charge current
+3 A
+Weight
+0.8 kg
+Interfaces
+USB port: 5 V, max. 2.1 A
+Charg. time at bat. cap. 2.0 Ah (80%/100%) approx.
+35/45 min
+Charg. time at bat. cap. 2.5 Ah (80%/100%) approx.
+40/65 min
+Charg. time at bat. cap. 3.0 Ah (80%/100%) approx.
+53/68 min
+Charg. time at bat. cap. 4.0 Ah (80%/100%) approx.
+65/85 min
+Charg. time at bat. cap. 5.0 Ah (80%/100%) approx.
+82/107 min
+Charg. time at bat. cap. 6.0 Ah (80%/100%) approx.
+100/130 min
+Charg. time at bat. cap. 6.3 Ah (80%/100%) approx.
+109/181 min

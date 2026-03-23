@@ -1,0 +1,6 @@
+Bore diameter mm :22.230
+Thickness mm :1
+Diameter mm :115
+Product text :Straight
+Specification :A 60 T BF
+

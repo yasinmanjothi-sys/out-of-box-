@@ -14,7 +14,7 @@ export default function SiteFooter() {
                             alt="Out of Box Tools & Hardware Logo"
                             className="footer-logo"
                         />
-                        <h2 className="footer-motto">The right tool for the right job</h2>
+                        <p className="footer-motto">The right tool for the right job</p>
                         <p className="footer-description">
                             Quality hardware, professional advice, and the exact tools you need
                             for any project. Browse our extensive catalogue.

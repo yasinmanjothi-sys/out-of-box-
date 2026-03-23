@@ -1,8 +1,8 @@
 import AnimatedStats from '@/components/AnimatedStats'
 
 export const metadata = {
-    title: 'About Us | Out of Box Tools',
-    description: 'Learn more about Out of Box Tools and our commitment to quality hardware.',
+    title: 'About Us',
+    description: 'Out of Box Tools supplies trade professionals and DIY enthusiasts with top-quality hardware in Nairobi. Learn about our mission and commitment.',
 }
 
 export default function AboutPage() {

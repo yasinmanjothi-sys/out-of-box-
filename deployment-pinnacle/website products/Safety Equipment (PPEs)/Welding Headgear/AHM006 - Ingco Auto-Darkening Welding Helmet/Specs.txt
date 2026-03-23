@@ -1,0 +1,18 @@
+Optical rating:1/1/1/1
+The biggest view area:100 x 67 mm
+Sensors:4
+Light state:DIN 3
+Dark state: DIN 5-9 / 9-13
+UV/lR protection:up to DlN 16
+Switch time (Light to dark): <0.04ms
+Shade control:inside & stepless
+Sensitivity control:inside & stepless
+Delay control (Dark to light):inside & stepless, 0.15-0.80s
+TlG amps rated:≥2 amps
+Grind mode:yes, inside
+Material of helmet: nylon
+Weight:560g±5%
+Operating temperature: -5℃ (23°F)- +55℃ (131°F)
+Storing temperature: -20℃ (-4°F)- +70℃ (158°F)
+Power supply: solar panel & replaceable lithium batteries 2pcs*CR2032
+Packed by color box

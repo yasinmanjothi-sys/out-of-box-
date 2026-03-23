@@ -1,0 +1,14 @@
+Displacement(ml):80
+Rated power(Kw):2.0
+Max output(Kw):2.3
+No load speed:4250rpm
+Impact rate:1300bpm
+Impact energy:55J
+Fuel consumption(L/h):1.8L/h
+Oil tank capacity(L):1.2L
+Petrol-oil mixture:50:1
+Dry weight(Kg):23
+Square chuck system
+Air-cooled,2 cycle single cylinder
+Including 2pcs chisels
+Packed by carton with foam

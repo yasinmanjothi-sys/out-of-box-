@@ -1,0 +1,6 @@
+No-load speed :8000/min
+Blade diameter :255mm (3 teeth)
+Cutting capacity :420mm
+Engine :2-stroke
+Displacement :42.7cc
+Fuel tank :1200ml (Mix ratio: 40:1)

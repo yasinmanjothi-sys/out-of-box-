@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /lib/
+
+Sitemap: https://outofboxtools.com/sitemap.xml

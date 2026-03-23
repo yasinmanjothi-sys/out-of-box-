@@ -1,0 +1,9 @@
+Petrol Engine
+Engine power:4.8kW(6.5HP)
+Tilling Scope(mm):900
+Driving model:Belt
+Tilling depth(mm):150-300
+Gear shifting:-1,0,2,1
+Max. torque(N.m/rpm):11/2500
+Transmission oil capacity(L):0.95
+Packed by carton box

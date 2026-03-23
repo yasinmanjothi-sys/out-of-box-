@@ -1,0 +1,9 @@
+Power: 2400 Watts.
+Disc Diameter: 230 mm (9 inches).
+No-Load Speed: 6,500 rpm.
+Voltage: 230 V.
+Spindle Thread: M14.
+Weight: Around 5.1 - 5.8 kg (depending on source).
+Motor: "Champion" motor with high overload capacity for fast material removal.
+Safety Features: Restart protection, soft start, anti-rotation protective guard, lockable switch.
+Durability: Armored coils protect motor from dust, double sealed ball bearings, sturdy gearing.

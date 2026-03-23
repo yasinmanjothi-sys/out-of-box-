@@ -1,0 +1,5 @@
+Material :High Speed Steel
+Colour :Blue
+Number of Teeth :24
+Style :Traditional
+Item Weight :0.9 Kilograms

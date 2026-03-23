@@ -1,0 +1,8 @@
+Length mm :65
+Set description :Set Content: 10 PH2 double ended screwdriver bits
+Dimensions, 2nd bit :Object #200227055: 8678 
+PH2
+Dimensions, 1st bit :Object #200227055: 8678
+PH2
+Net Weight :0.155 kg
+Gross Weight :0.155 kg

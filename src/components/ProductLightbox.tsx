@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Product } from '@/lib/parseProducts'
 import { X } from 'lucide-react'
+import { trackWhatsAppInquiry } from '@/lib/analytics'
 import './lightbox.css'
 
 interface ProductLightboxProps {
@@ -46,7 +47,8 @@ export default function ProductLightbox({ product, isOpen, onClose }: ProductLig
     const displayPrice = formatPrice(product.price);
 
     // Create the WhatsApp message payload
-    const waMessage = `Hello Out of Box Tools, I am interested in inquiring about the following tool:\n\nName: ${displayName}\nCategory: ${product.category}\nSubcategory: ${product.subcategory}${specsText}\n\nImage: ${origin}${mainImage}`
+    const currentUrl = typeof window !== 'undefined' ? window.location.href : '';
+    const waMessage = `Hello, I am interested in ${displayName}. Here is the link: ${currentUrl}\n\n--- Product Details ---\nCategory: ${product.category}\nSubcategory: ${product.subcategory}${specsText}`
     const waUrl = `https://wa.me/254110264532?text=${encodeURIComponent(waMessage)}`
 
     return (
@@ -62,8 +64,9 @@ export default function ProductLightbox({ product, isOpen, onClose }: ProductLig
                             {/* eslint-disable-next-line @next/next/no-img-element */}
                             <img
                                 src={mainImage}
-                                alt={product.name}
+                                alt={`${displayName} – Ref: ${product.id}`}
                                 className="lightbox-image"
+                                loading="lazy"
                             />
                         </div>
                     </div>
@@ -95,6 +98,7 @@ export default function ProductLightbox({ product, isOpen, onClose }: ProductLig
                                 className="btn btn-primary lightbox-wa-btn"
                                 target="_blank"
                                 rel="noopener noreferrer"
+                                onClick={() => trackWhatsAppInquiry(displayName)}
                             >
                                 Inquire via WhatsApp
                             </a>

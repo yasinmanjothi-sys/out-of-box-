@@ -1,0 +1,9 @@
+Model: DEWALT DCD996P2-B5.
+Voltage: 18V.
+Motor: Brushless, providing longer run time and power.
+Speeds: 3-speed transmission (0-450/1300/2000 RPM).
+Chuck: 13mm (1/2") keyless metal chuck.
+Hammer Function: Delivers up to 38,250 BPM for masonry.
+Batteries: Comes with two 18V 5.0Ah XR Li-Ion batteries.
+Lighting: 3-mode LED light with a flashlight function.
+Included: Charger, side handle, and a kit box. 

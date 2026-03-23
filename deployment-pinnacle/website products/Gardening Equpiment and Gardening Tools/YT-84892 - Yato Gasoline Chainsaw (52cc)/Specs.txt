@@ -1,0 +1,9 @@
+Brand:YATO
+Symbol:YT-84892
+Product Name:Gasoline Chainsaw 52CC
+Engine Displacement :52cc
+Power:2.1kw
+Fuel Tank:0.50l
+Oil Tank:0.24l
+Chinese Chain & Bar:20"
+Easy Start

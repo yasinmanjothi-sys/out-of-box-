@@ -1,0 +1,3 @@
+Range : 0-24mm
+Material : C45 Carbon Steel
+Length : 200mm (8 Inch)

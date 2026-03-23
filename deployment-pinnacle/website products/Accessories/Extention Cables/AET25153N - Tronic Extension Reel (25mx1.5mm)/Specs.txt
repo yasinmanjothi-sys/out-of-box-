@@ -1,0 +1,9 @@
+Color: Black & Yellow
+Amps: 13Amps
+Voltage: AC 220 - 240V
+Cable Rating: 1.5mm 3 Core
+Cable Length: 25 Meters
+Load Rotating: 3600 Watts
+Material: PVC
+Additional Features: 4x13A Sockets
+Warranty: 1 Year
