@@ -1,9 +1,0 @@
-Feature	Details
-Brand	Black+Decker
-Model	BDHT62296
-Type	Phillips Dranfees (PH1)
-Blade Length	100mm
-Material	Chrome Vanadium Steel (Cr-V)
-Tip Coating	Black Phosphate-Coated Magnetic Tip
-Handle Type	Bi-Material Soft Grip
-Ergonomic Design	Yes
