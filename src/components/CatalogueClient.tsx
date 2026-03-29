@@ -1,7 +1,8 @@
 "use client"
 import { useState, useEffect, useRef } from 'react'
 import { useSearchParams, useRouter, usePathname } from 'next/navigation'
-import { CategoryData, Product } from '@/lib/parseProducts'
+import { CategoryData } from '@/lib/parseProducts'
+import { Tool } from '@/lib/catalogue'
 import ProductCard from '@/components/ProductCard'
 import ProductLightbox from '@/components/ProductLightbox'
 import './catalogue.css'
@@ -20,7 +21,7 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
     const [activeCategory, setActiveCategory] = useState<string>(searchParams.get('category') || 'All')
     const [activeSubcategory, setActiveSubcategory] = useState<string>(searchParams.get('subcategory') || 'All')
     const [searchQuery, setSearchQuery] = useState<string>('')
-    const [selectedProduct, setSelectedProduct] = useState<Product | null>(null)
+    const [selectedProduct, setSelectedProduct] = useState<Tool | null>(null)
     const contentRef = useRef<HTMLDivElement>(null)
 
     // Sync with URL search params when they change
@@ -85,7 +86,7 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
         scrollToContent()
     }
 
-    const handleOpenProduct = (product: Product) => {
+    const handleOpenProduct = (product: Tool) => {
         const params = new URLSearchParams(searchParams.toString())
         params.set('tool', product.id)
         router.push(`${pathname}?${params.toString()}`, { scroll: false })

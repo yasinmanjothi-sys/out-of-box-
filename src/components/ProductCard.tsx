@@ -1,12 +1,11 @@
 import { useState } from 'react'
-import { Product } from '@/lib/parseProducts'
-import ProductLightbox from './ProductLightbox'
+import { Tool } from '@/lib/catalogue'
 import { trackWhatsAppInquiry } from '@/lib/analytics'
 import './productcard.css'
 
 interface ProductCardProps {
-    product: Product;
-    onOpenProduct: (product: Product) => void;
+    product: Tool;
+    onOpenProduct: (product: Tool) => void;
 }
 
 export default function ProductCard({ product, onOpenProduct }: ProductCardProps) {
@@ -20,21 +19,33 @@ export default function ProductCard({ product, onOpenProduct }: ProductCardProps
         : []
     const specsText = specLines.length > 0 ? `\n\nSpecs:\n- ${specLines.join('\n- ')}` : '';
 
-    const formatPrice = (price?: string) => {
+    const formatPrice = (price?: string | number) => {
         if (!price) return null;
-        if (price.toLowerCase().includes('ksh')) return price;
-        const num = Number(price.replace(/,/g, ''));
+        if (typeof price === 'string' && price.toLowerCase().includes('ksh')) return price;
+        const num = typeof price === 'string' ? Number(price.replace(/,/g, '')) : price;
         if (!isNaN(num)) return `KSh ${num.toLocaleString()}`;
         return `KSh ${price}`;
     }
-    const displayPrice = formatPrice(product.price);
+
+    const displayPrice = product.isOnOffer 
+        ? formatPrice(product.offerPrice) 
+        : formatPrice(product.price);
+    
+    const originalPriceFormatted = product.isOnOffer ? formatPrice(product.originalPrice || product.price) : null;
 
     // Create the WhatsApp message payload
-    const waMessage = `Hello Out of Box Tools, I am interested in inquiring about the following tool:\n\nName: ${displayName}\nCategory: ${product.category}\nSubcategory: ${product.subcategory}${specsText}\n\nImage: ${origin}${mainImage}`
+    const waMessage = `Hello Out of Box Tools, I am interested in inquiring about the following tool:\n\nName: ${displayName}\nCategory: ${product.category}\nSubcategory: ${product.subcategory}${specsText}\n\n${product.isOnOffer ? `OFFER PRICE: ${displayPrice}\n` : ''}Image: ${origin}${mainImage}`
     const waUrl = `https://wa.me/254110264532?text=${encodeURIComponent(waMessage)}`
 
     return (
-        <div className="product-card" onClick={() => onOpenProduct(product)} style={{ cursor: 'pointer' }}>
+        <div className="product-card" onClick={() => onOpenProduct(product)} style={{ cursor: 'pointer', position: 'relative' }}>
+            {product.isBestseller && (
+                <div className="bestseller-ribbon">Bestseller</div>
+            )}
+            {product.isOnOffer && (
+                <div className="offer-badge">Offer</div>
+            )}
+            
             <div className="product-image-container">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
@@ -47,9 +58,17 @@ export default function ProductCard({ product, onOpenProduct }: ProductCardProps
 
             <div className="product-details">
                 <h3 className="product-name">{displayName}</h3>
-                {displayPrice && (
-                    <p className="product-price">{displayPrice}</p>
-                )}
+                
+                <div className="price-container">
+                    {product.isOnOffer && originalPriceFormatted && (
+                        <span className="original-price">{originalPriceFormatted}</span>
+                    )}
+                    {displayPrice && (
+                        <p className={`product-price ${product.isOnOffer ? 'on-offer' : ''}`}>
+                            {displayPrice}
+                        </p>
+                    )}
+                </div>
 
                 <div className="product-actions" onClick={e => e.stopPropagation()}>
                     <a

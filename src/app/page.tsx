@@ -2,6 +2,7 @@ import Link from "next/link";
 import AnimatedIntro from "@/components/AnimatedIntro";
 import Hero from "@/components/Hero";
 import TrustBar from "@/components/TrustBar";
+import CurrentOffers from "@/components/CurrentOffers";
 import BestSellers from "@/components/BestSellers";
 import ShopByCategory from "@/components/ShopByCategory";
 import NewArrivals from "@/components/NewArrivals";
@@ -64,6 +65,7 @@ export default function Home() {
       <AnimatedIntro />
       <Hero />
       <TrustBar />
+      <CurrentOffers />
       <BestSellers />
       <ShopByCategory />
       <NewArrivals />

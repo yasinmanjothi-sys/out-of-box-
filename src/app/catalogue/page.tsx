@@ -1,5 +1,5 @@
 import { Suspense } from 'react'
-import { getProducts } from '@/lib/parseProducts'
+import { getStaticProducts } from '@/lib/parseProducts'
 import CatalogueClient from '@/components/CatalogueClient'
 import type { Metadata } from 'next'
 
@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 }
 
 export default function CataloguePage() {
-    const categories = getProducts()
+    const categories = getStaticProducts()
 
     const itemListJsonLd = {
         "@context": "https://schema.org",
