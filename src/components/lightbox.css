@@ -123,6 +123,7 @@
 }
 
 .lightbox-info-col {
+    background-color: var(--pure-white);
     padding: 2rem;
     display: flex;
     flex-direction: column;
@@ -139,7 +140,7 @@
 .lightbox-header {
     margin-bottom: 1.5rem;
     padding-bottom: 1.5rem;
-    border-bottom: 1px solid var(--steel-silver);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08); /* Darker border for white bg */
 }
 
 .lightbox-category {

@@ -1,6 +1,8 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import { ChevronDown } from 'lucide-react'
+import './hero.css' // Import styles for the scroll hint
 
 export default function AnimatedIntro() {
     const [progress, setProgress] = useState(0)
@@ -76,6 +78,39 @@ export default function AnimatedIntro() {
                             filter: 'drop-shadow(0 10px 20px rgba(0,0,0,0.5))' // Extra pop on intro
                         }}
                     />
+                </div>
+
+                {/* Scroll Indicator - Fixed to absolute bottom of screen */}
+                <div className="hero-scroll-hint" style={{ 
+                    position: 'fixed',
+                    bottom: '40px',
+                    left: '50%',
+                    transform: 'translateX(-50%)',
+                    opacity: 1 - progress * 2,
+                    zIndex: 101, // Above the intro overlay
+                    pointerEvents: 'none',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    gap: '12px'
+                }}>
+                    <span className="scroll-text" style={{ 
+                        fontSize: '1.4rem', 
+                        fontWeight: 700,
+                        textShadow: '0 2px 4px rgba(0,0,0,0.5)'
+                    }}>Scroll to Explore</span>
+                    <div className="scroll-arrow" style={{ 
+                        width: '60px', 
+                        height: '60px',
+                        backgroundColor: 'var(--safety-orange)',
+                        borderRadius: '50%',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        boxShadow: '0 4px 15px rgba(0,0,0,0.4)'
+                    }}>
+                        <ChevronDown size={36} strokeWidth={3} color="white" />
+                    </div>
                 </div>
             </div>
         </div>

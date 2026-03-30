@@ -1,0 +1,28 @@
+Missing Images Audit Report - Generated at 2026-03-30T12:18:40.236Z
+
+Products with 0 images found in their folders:
+
+[Hand Tools] > [Precision Screwdrivers] > HKSDB0348 -  Ingco 32 Pcs Precision Screwdriver Set
+[Hand Tools] > [Screwdrivers] > HKSDB0348 -  Ingco 32 Pcs Precision Screwdriver Set
+[Hand Tools] > [Snap-off (Stripping) Knife] > HKNS28035 - Ingco Snap Off Blade Knife
+[Measuring Tools] > [Laser Distance Detectors] > GLM 20 - Bosch 20m Laser Distance Detector
+[Measuring Tools] > [Laser Distance Detectors] > GLM 40 - Bosch 40m Laser Distance Detector
+[Measuring Tools] > [Laser Distance Detectors] > MDL060 - Uyus 60m Laser Distance Detector
+[Measuring Tools] > [Laser Levels] > GLL 12-22 G Professional - Bosch Laser Level
+[Measuring Tools] > [Laser Levels] > GLL3-15 X - Bosch Laser Level
+[Measuring Tools] > [Measuring Tapes] > TMT126051 - Total 5m x 19mm Steel Measuring Tape
+[Measuring Tools] > [Measuring Tapes] > TMT126081 - Total 8m x 25mm Steel Measuring Tape
+[Measuring Tools] > [Measuring Tapes] > TMT134316 - Total 3m x 16mm Steel Measuring Tape
+[Measuring Tools] > [Multimeters] > DM310002 - Ingco 1000v Multimeter
+[Measuring Tools] > [Multimeters] > DM360011 - Ingco 600v Multimeter
+[Measuring Tools] > [Multimeters] > TMT423 - Multimeter Test Leads
+[Measuring Tools] > [Multimeters] > UT31 - Uni-T Multimeter
+[Measuring Tools] > [Multimeters] > UT33 - Uni-T Multimeter
+[Power Tools] > [Impact Wrenches] > TIWLI42608 - Total 600nm (42V) Cordless Impact Wrench
+[Safety Equipment (PPEs)] > [Gloves] > DL521032 - Deli Polyester (PU) Safety Gloves
+[Safety Equipment (PPEs)] > [Gloves] > TSPIT02-XL - Total Cut Resistant Gloves
+[Safety Equipment (PPEs)] > [Safety Goggles] > FPSG03 - Fixtec Safety Goggles
+[Safety Equipment (PPEs)] > [Safety Goggles] > HGVW01 - Ingco 14 Inch Welding Leather Gloves
+[Safety Equipment (PPEs)] > [Safety Goggles] > HGVW02 - Ingco 16 Inch Welding Leather Gloves
+[Safety Equipment (PPEs)] > [Safety Goggles] > TSP1806-XL - Total Mechanic Gloves
+[Safety Equipment (PPEs)] > [Welding Headgear] > HSG07 - Ingco Welding Goggles

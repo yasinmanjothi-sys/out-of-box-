@@ -46,9 +46,12 @@ export function getStaticProducts(): CategoryData[] {
         subcat.products.push(tool)
     })
     
-    // Sort categories and subcategories by name for consistency
+    // Sort categories, subcategories, and products for consistency
     categories.sort((a,b) => a.name.localeCompare(b.name));
-    categories.forEach(c => c.subcategories.sort((a,b) => a.name.localeCompare(b.name)));
+    categories.forEach(c => {
+        c.subcategories.sort((a,b) => a.name.localeCompare(b.name));
+        c.subcategories.forEach(s => s.products.sort((a,b) => a.name.localeCompare(b.name)));
+    });
     
     return categories
 }

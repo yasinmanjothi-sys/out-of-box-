@@ -1,59 +1,50 @@
-"use client"
-
 import Link from 'next/link'
 import { catalogue } from '@/lib/catalogue'
-import ProductCard from './ProductCard'
-import { useState } from 'react'
-import ProductLightbox from './ProductLightbox'
 import './bestsellers.css'
 
 export default function BestSellers() {
-    const [selectedProduct, setSelectedProduct] = useState<any>(null)
-    
-    // Filter bestsellers from catalogue
-    let featured = catalogue.filter(p => p.isBestseller)
+    // Pick 4 products that have at least one image
+    const bestSellers = catalogue
+        .filter(p => p.images && p.images.length > 0)
+        .slice(0, 4)
+        .map(product => ({
+            id: product.id,
+            name: product.name.replace(/^.*\s-\s/, ''),
+            image: product.images[0].url,
+            category: product.category,
+            price: product.price || 'Inquire for Price'
+        }))
 
-    // Fallback if no bestsellers are flagged yet
-    if (featured.length === 0) {
-        const targetCategories = ['Power Tools', 'Hand Tools', 'Measuring Tools', 'Safety Equipment (PPEs)', 'Accessories', 'Tool Sets (Tool Boxes)']
-        for (const targetCat of targetCategories) {
-            const prod = catalogue.find(p => p.category === targetCat && p.images.length > 0)
-            if (prod && featured.length < 6) {
-                featured.push(prod)
-            }
-        }
-    }
+    if (bestSellers.length === 0) return null
 
     return (
-        <section className="bestsellers-section faded-ruler">
+        <section className="bestsellers-section">
             <div className="container">
                 <div className="section-header">
                     <h2 className="section-title">Best Sellers</h2>
-                    <p className="section-subtitle">Our most popular tools trusted by professionals</p>
+                    <p className="section-subtitle">Our most popular professional tools and equipment</p>
                 </div>
 
                 <div className="bestsellers-grid">
-                    {featured.slice(0, 8).map((product) => (
-                        <ProductCard 
-                            key={product.id} 
-                            product={product} 
-                            onOpenProduct={setSelectedProduct}
-                        />
+                    {bestSellers.map((item, idx) => (
+                        <Link href={`/catalogue?search=${encodeURIComponent(item.name)}`} key={idx} className="bestseller-card">
+                            <div className="bestseller-badge">HOT</div>
+                            <div className="bestseller-img-wrap">
+                                {/* eslint-disable-next-line @next/next/no-img-element */}
+                                <img src={item.image} alt={item.name} className="bestseller-img" loading="lazy" />
+                            </div>
+                            <div className="bestseller-info">
+                                <span className="bestseller-category">{item.category}</span>
+                                <h3 className="bestseller-name">{item.name}</h3>
+                                <div className="bestseller-footer">
+                                    <span className="bestseller-price">{item.price}</span>
+                                    <span className="view-link">View Details</span>
+                                </div>
+                            </div>
+                        </Link>
                     ))}
                 </div>
-
-                <div className="bestsellers-cta">
-                    <Link href="/catalogue" className="btn btn-primary">View Full Catalogue</Link>
-                </div>
             </div>
-
-            {selectedProduct && (
-                <ProductLightbox 
-                    product={selectedProduct} 
-                    isOpen={!!selectedProduct} 
-                    onClose={() => setSelectedProduct(null)} 
-                />
-            )}
         </section>
     )
 }

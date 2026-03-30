@@ -30,7 +30,7 @@ export default function WhyChooseUs() {
             <div className="container">
                 <div className="section-header">
                     <h2 className="section-title" style={{ color: 'var(--pure-white)' }}>Why Choose Out of Box</h2>
-                    <p className="section-subtitle" style={{ color: 'var(--steel-silver)' }}>Built on trust, powered by expertise</p>
+                    <p className="section-subtitle" style={{ color: 'var(--steel-silver)' }}>Genuine. Efficient. Reliable</p>
                 </div>
 
                 <div className="whychoose-grid">

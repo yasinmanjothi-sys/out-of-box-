@@ -28,10 +28,12 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
     useEffect(() => {
         const cat = searchParams.get('category')
         const sub = searchParams.get('subcategory')
+        const query = searchParams.get('search')
         const toolId = searchParams.get('tool')
 
         if (cat) setActiveCategory(cat)
         if (sub) setActiveSubcategory(sub)
+        if (query) setSearchQuery(query)
         
         // Handle tool deep link
         if (toolId) {
@@ -62,7 +64,7 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
 
     const scrollToContent = () => {
         setTimeout(() => {
-            if (window.innerWidth < 968 && contentRef.current) {
+            if (contentRef.current) {
                 const y = contentRef.current.getBoundingClientRect().top + window.scrollY - 100;
                 window.scrollTo({ top: y, behavior: 'smooth' });
             }
@@ -70,19 +72,28 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
     }
 
     const handleCategoryClick = (categoryName: string) => {
+        const params = new URLSearchParams(searchParams.toString())
         if (activeCategory === categoryName && categoryName !== 'All') {
             setActiveCategory('All')
             setActiveSubcategory('All')
+            params.set('category', 'All')
+            params.set('subcategory', 'All')
         } else {
             setActiveCategory(categoryName)
             setActiveSubcategory('All')
+            params.set('category', categoryName)
+            params.set('subcategory', 'All')
         }
+        router.push(`${pathname}?${params.toString()}`, { scroll: false })
         scrollToContent()
     }
 
     const handleSubcategoryClick = (subcategoryName: string, e: React.MouseEvent) => {
         e.stopPropagation()
         setActiveSubcategory(subcategoryName)
+        const params = new URLSearchParams(searchParams.toString())
+        params.set('subcategory', subcategoryName)
+        router.push(`${pathname}?${params.toString()}`, { scroll: false })
         scrollToContent()
     }
 
@@ -109,7 +120,17 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
                         className="search-input"
                         placeholder="Search tools, categories, or specifications..."
                         value={searchQuery}
-                        onChange={(e) => setSearchQuery(e.target.value)}
+                        onChange={(e) => {
+                            const val = e.target.value
+                            setSearchQuery(val)
+                            const params = new URLSearchParams(searchParams.toString())
+                            if (val) {
+                                params.set('search', val)
+                            } else {
+                                params.delete('search')
+                            }
+                            router.push(`${pathname}?${params.toString()}`, { scroll: false })
+                        }}
                     />
                 </div>
             </div>

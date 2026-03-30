@@ -735,6 +735,27 @@ export default function AdminDashboard() {
             </header>
 
             <main className="flex-1 w-full max-w-screen-2xl mx-auto px-4 sm:px-10 py-8">
+                {/* REVERSION NOTICE: Manual Sync Priority */}
+                <div className="mb-8 p-6 rounded-[2rem] border-2 border-orange-200 bg-orange-50 shadow-sm flex flex-col sm:flex-row items-center gap-6">
+                    <div className="bg-orange-500 p-4 rounded-2xl text-white">
+                        <AlertCircle size={32} />
+                    </div>
+                    <div className="flex-1 text-center sm:text-left">
+                        <h3 className="text-xl font-black text-orange-900 uppercase" style={{ fontFamily: "'Bebas Neue', sans-serif", letterSpacing: '1px' }}>
+                            Manual Sync Mode Active
+                        </h3>
+                        <p className="text-orange-800 font-semibold text-sm leading-relaxed">
+                            The website has been reverted to the legacy folder & Excel update process for production stability. 
+                            <br />Changes made here will <span className="font-black underline">not</span> be reflected on the live site until the dashboard kinks are resolved.
+                        </p>
+                    </div>
+                    <div className="flex flex-col gap-2">
+                        <div className="px-4 py-2 rounded-xl bg-orange-200 text-orange-900 text-xs font-black uppercase tracking-widest text-center">
+                            Dev Preview
+                        </div>
+                    </div>
+                </div>
+
                 {message.text && (
                     <div className={`mb-8 p-5 rounded-3xl border-2 flex items-center gap-3 shadow-md ${msgStyle[message.type] || msgStyle.info}`}>
                         <span className="font-bold flex-1">{message.text}</span>
