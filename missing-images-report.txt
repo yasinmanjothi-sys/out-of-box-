@@ -1,4 +1,4 @@
-Missing Images Audit Report - Generated at 2026-03-30T12:18:40.236Z
+Missing Images Audit Report - Generated at 2026-03-31T10:09:39.082Z
 
 Products with 0 images found in their folders:
 

@@ -158,63 +158,74 @@ async function sync() {
     }
 
     const pricing = getPricingMap();
+    const products = [];
+    const missingImages = [];
+    /**
+     * Smarter helper to process a product folder
+     */
+    async function processProduct(category, subcategory, folderName, prodPath) {
+        const allFiles = getAllFiles(prodPath, prodPath);
+
+        // Images
+        const images = allFiles.filter(f => IMAGE_EXTS.includes(path.extname(f.name).toLowerCase()))
+            .map(f => ({ name: f.name, url: f.relativeUrl }));
+
+        if (images.length === 0) {
+            missingImages.push(`[${category}] > [${subcategory}] > ${folderName}`);
+        }
+
+        // Description
+        let description = await extractDescription(allFiles);
+        if (!description) {
+            description = `Professional ${subcategory} from the ${category} collection. High-quality engineering for reliable performance.`;
+        }
+
+        // Price
+        const price = findPrice(folderName, pricing);
+
+        // Generate ID
+        const id = folderName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+
+        products.push({
+            id: id,
+            name: folderName,
+            description: description,
+            category: category,
+            subcategory: subcategory,
+            images: images,
+            price: price ? price.toString() : '',
+            isOnOffer: false,
+            isBestseller: false,
+            originalPrice: 0,
+            offerPrice: 0
+        });
+    }
+
     const categories = fs.readdirSync(PRODUCTS_DIR).filter(f => {
         return fs.statSync(path.join(PRODUCTS_DIR, f)).isDirectory();
     });
 
-    const products = [];
-
-    const missingImages = [];
-
     for (const category of categories) {
         const catPath = path.join(PRODUCTS_DIR, category);
-        const subcategories = fs.readdirSync(catPath).filter(f => {
+        const entries = fs.readdirSync(catPath).filter(f => {
             return fs.statSync(path.join(catPath, f)).isDirectory();
         });
 
-        for (const subcategory of subcategories) {
-            const subPath = path.join(catPath, subcategory);
-            const productFolders = fs.readdirSync(subPath).filter(f => {
-                return fs.statSync(path.join(subPath, f)).isDirectory();
+        for (const entry of entries) {
+            const entryPath = path.join(catPath, entry);
+            const subfolders = fs.readdirSync(entryPath).filter(f => {
+                return fs.statSync(path.join(entryPath, f)).isDirectory();
             });
 
-            for (const folderName of productFolders) {
-                const prodPath = path.join(subPath, folderName);
-                const allFiles = getAllFiles(prodPath, prodPath);
-
-                // Images
-                const images = allFiles.filter(f => IMAGE_EXTS.includes(path.extname(f.name).toLowerCase()))
-                    .map(f => ({ name: f.name, url: f.relativeUrl }));
-
-                if (images.length === 0) {
-                    missingImages.push(`[${category}] > [${subcategory}] > ${folderName}`);
+            // If entry has subfolders, it's a subcategory folder with products inside it
+            if (subfolders.length > 0) {
+                for (const folderName of subfolders) {
+                    const prodPath = path.join(entryPath, folderName);
+                    await processProduct(category, entry, folderName, prodPath);
                 }
-
-                // Description
-                let description = await extractDescription(allFiles);
-                if (!description) {
-                    description = `Professional ${subcategory} from the ${category} collection. High-quality engineering for reliable performance.`;
-                }
-
-                // Price
-                const price = findPrice(folderName, pricing);
-
-                // Generate ID
-                const id = folderName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-
-                products.push({
-                    id: id,
-                    name: folderName,
-                    description: description,
-                    category: category,
-                    subcategory: subcategory,
-                    images: images,
-                    price: price ? price.toString() : '',
-                    isOnOffer: false,
-                    isBestseller: false,
-                    originalPrice: 0,
-                    offerPrice: 0
-                });
+            } else {
+                // If entry has no subfolders, it's likely a product folder directly under the category
+                await processProduct(category, category, entry, entryPath);
             }
         }
     }
