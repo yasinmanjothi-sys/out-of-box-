@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { useState } from 'react'
 import { Tool } from '@/lib/catalogue'
 import { trackWhatsAppInquiry } from '@/lib/analytics'
@@ -33,20 +34,20 @@ export default function ProductCard({ product, onOpenProduct }: ProductCardProps
     
     const originalPriceFormatted = product.isOnOffer ? formatPrice(product.originalPrice || product.price) : null;
 
-    // Create the WhatsApp message payload
-    const waMessage = `Hello Out of Box Tools, I am interested in inquiring about the following tool:\n\nName: ${displayName}\nCategory: ${product.category}\nSubcategory: ${product.subcategory}${specsText}\n\n${product.isOnOffer ? `OFFER PRICE: ${displayPrice}\n` : ''}Image: ${origin}${mainImage}`
+    // Create the WhatsApp message payload matching the audit recommendation
+    const waMessage = `Hello Out of Box Tools, I'm interested in ${displayName} (SKU: ${product.id}).\n\nCould you please confirm if it's in stock and the price is ${displayPrice || 'as quoted'}?\n\nImage: ${origin}${mainImage}`
     const waUrl = `https://wa.me/254110264532?text=${encodeURIComponent(waMessage)}`
 
     return (
-        <div className="product-card" onClick={() => onOpenProduct(product)} style={{ cursor: 'pointer', position: 'relative' }}>
+        <div className="product-card" style={{ position: 'relative' }}>
             {product.isBestseller && (
                 <div className="bestseller-ribbon">Bestseller</div>
             )}
             {product.isOnOffer && (
                 <div className="offer-badge">Offer</div>
-            )}
-            
-            <div className="product-image-container">
+            ) }
+
+            <Link href={`/product/${product.id}`} className="product-image-container">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                     src={mainImage}
@@ -54,10 +55,12 @@ export default function ProductCard({ product, onOpenProduct }: ProductCardProps
                     className="product-image"
                     loading="lazy"
                 />
-            </div>
+            </Link>
 
             <div className="product-details">
-                <h3 className="product-name">{displayName}</h3>
+                <Link href={`/product/${product.id}`}>
+                    <h3 className="product-name">{displayName}</h3>
+                </Link>
                 
                 <div className="price-container">
                     {product.isOnOffer && originalPriceFormatted && (

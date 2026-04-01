@@ -15,6 +15,7 @@ export default function NewArrivals() {
         const product = catalogue.find(p => p.id === id)
         if (!product) return null
         return {
+            id: product.id,
             name: product.name.replace(/^.*\s-\s/, ''),
             image: product.images.length > 0 ? product.images[0].url : '/placeholder.jpg',
             category: product.category,
@@ -35,7 +36,7 @@ export default function NewArrivals() {
 
                 <div className="newarrivals-grid">
                     {arrivals.map((item, idx) => (
-                        <Link href="/catalogue" key={idx} className="arrival-card">
+                        <Link href={`/product/${item.id}`} key={idx} className="arrival-card">
                             <div className="arrival-badge">NEW</div>
                             <div className="arrival-img-wrap">
                                 {/* eslint-disable-next-line @next/next/no-img-element */}

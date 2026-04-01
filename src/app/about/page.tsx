@@ -5,9 +5,31 @@ export const metadata = {
     description: 'Out of Box Tools supplies trade professionals and DIY enthusiasts with top-quality hardware in Nairobi. Learn about our mission and commitment.',
 }
 
+const organizationJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Out of Box Tools & Hardware",
+    url: "https://outofboxtools.com",
+    contactPoint: {
+        "@type": "ContactPoint",
+        telephone: "+254110264532",
+        contactType: "customer service",
+        email: "info@outofboxtools.com"
+    },
+    sameAs: [
+        "https://www.instagram.com/outofboxtools/",
+        "https://www.tiktok.com/@outofboxtools",
+        "https://www.facebook.com/OutofBoxTools/"
+    ],
+}
+
 export default function AboutPage() {
     return (
         <div className="page-wrapper" style={{ backgroundColor: 'var(--pure-white)', overflow: 'hidden' }}>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+            />
             <div className="container" style={{ paddingTop: '4rem', paddingBottom: '2rem', position: 'relative' }}>
                 <h1 className="page-title" style={{ position: 'relative', zIndex: 2 }}>About Out of Box Tools</h1>
 

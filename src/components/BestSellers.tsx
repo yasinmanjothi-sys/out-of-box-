@@ -27,7 +27,7 @@ export default function BestSellers() {
 
                 <div className="bestsellers-grid">
                     {bestSellers.map((item, idx) => (
-                        <Link href={`/catalogue?search=${encodeURIComponent(item.name)}`} key={idx} className="bestseller-card">
+                        <Link href={`/product/${item.id}`} key={idx} className="bestseller-card">
                             <div className="bestseller-badge">HOT</div>
                             <div className="bestseller-img-wrap">
                                 {/* eslint-disable-next-line @next/next/no-img-element */}

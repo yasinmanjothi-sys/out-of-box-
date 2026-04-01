@@ -41,6 +41,14 @@ export default function SiteFooter() {
                             <a href="#" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><Instagram size={24} /></a>
                             <a href="#" target="_blank" rel="noopener noreferrer" aria-label="TikTok"><Music2 size={24} /></a>
                         </div>
+                        
+                        <div className="payment-methods" style={{ marginTop: '2rem' }}>
+                            <h3 className="footer-heading" style={{ fontSize: '1.125rem', color: 'var(--safety-orange)' }}>Accepted Payments</h3>
+                            <p style={{ color: 'var(--white-smoke)', marginTop: '0.5rem', opacity: 0.9 }}>
+                                We securely accept <strong>M-Pesa</strong> and Cash.
+                            </p>
+                            <p style={{ fontSize: '0.875rem', marginTop: '0.25rem', opacity: 0.7 }}>Till / Paybill available upon WhatsApp order confirmation.</p>
+                        </div>
                     </div>
                 </div>
 
