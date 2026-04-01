@@ -1,6 +1,8 @@
 import type { MetadataRoute } from 'next'
 import { catalogue } from '@/lib/catalogue'
 
+export const dynamic = 'force-static'
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://outofboxtools.com'
   
