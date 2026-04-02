@@ -1,7 +1,7 @@
 "use client"
 import Link from 'next/link'
 import Image from 'next/image'
-import { Facebook, Instagram, Music2, Menu, X, ChevronDown } from 'lucide-react'
+import { Facebook, Instagram, Youtube, Linkedin, Mail, Menu, X, ChevronDown } from 'lucide-react'
 import { useState, useEffect } from 'react'
 import { usePathname } from 'next/navigation'
 import { CategoryData } from '@/lib/parseProducts'
@@ -84,9 +84,14 @@ export default function SiteHeader({ categories = [] }: { categories?: CategoryD
 
         {/* Social Links */}
         <div className="social-links desktop-only">
-          <a href="#" target="_blank" rel="noopener noreferrer"><Facebook size={20} /></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><Instagram size={20} /></a>
-          <a href="#" target="_blank" rel="noopener noreferrer"><Music2 size={20} /></a>
+          <a href="https://www.facebook.com/OutofBoxTools/" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><Facebook size={20} /></a>
+          <a href="https://www.instagram.com/outofboxtools/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><Instagram size={20} /></a>
+          <a href="https://www.tiktok.com/@outofboxtools" target="_blank" rel="noopener noreferrer" aria-label="TikTok">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.18 8.18 0 004.77 1.52V6.76a4.85 4.85 0 01-1-.07z"/></svg>
+          </a>
+          <a href="https://www.youtube.com/@OutOfBoxTools" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><Youtube size={20} /></a>
+          <a href="https://ke.linkedin.com/company/out-of-box-hardware-limited" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><Linkedin size={20} /></a>
+          <a href="mailto:info@outofboxtools.com" aria-label="Email"><Mail size={20} /></a>
         </div>
 
         {/* Mobile Menu Button */}
@@ -139,9 +144,14 @@ export default function SiteHeader({ categories = [] }: { categories?: CategoryD
           <Link href="/contact" className="mobile-nav-link" onClick={() => setIsMenuOpen(false)}>Contact</Link>
 
           <div className="mobile-social-links">
-            <a href="#" target="_blank" rel="noopener noreferrer"><Facebook size={24} /></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><Instagram size={24} /></a>
-            <a href="#" target="_blank" rel="noopener noreferrer"><Music2 size={24} /></a>
+            <a href="https://www.facebook.com/OutofBoxTools/" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><Facebook size={24} /></a>
+            <a href="https://www.instagram.com/outofboxtools/" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><Instagram size={24} /></a>
+            <a href="https://www.tiktok.com/@outofboxtools" target="_blank" rel="noopener noreferrer" aria-label="TikTok">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.18 8.18 0 004.77 1.52V6.76a4.85 4.85 0 01-1-.07z"/></svg>
+            </a>
+            <a href="https://www.youtube.com/@OutOfBoxTools" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><Youtube size={24} /></a>
+            <a href="https://ke.linkedin.com/company/out-of-box-hardware-limited" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><Linkedin size={24} /></a>
+            <a href="mailto:info@outofboxtools.com" aria-label="Email"><Mail size={24} /></a>
           </div>
         </div>
       )}

@@ -102,13 +102,13 @@ export default function AnimatedStats() {
                         icon={<Wrench size={32} strokeWidth={1.5} />}
                     />
                     <Counter
-                        end={100}
-                        label="Professionals Supplied"
+                        end={1000000}
+                        label="Professionals Served"
                         suffix="+"
                         icon={<Users size={32} strokeWidth={1.5} />}
                     />
                     <Counter
-                        end={2}
+                        end={4}
                         label="Years of Excellence"
                         icon={<Award size={32} strokeWidth={1.5} />}
                     />

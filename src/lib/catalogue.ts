@@ -5308,7 +5308,12 @@ export const catalogue: Tool[] = [
         "description": "Blade Size:18mmx100mm\r\nWith 3 pcs SK5 blades HKNSB181\r\nWith flat push button",
         "category": "Hand Tools",
         "subcategory": "Snap-off (Stripping) Knife",
-        "images": [],
+        "images": [
+            {
+                "name": "image_1_354246d6-a6ca-4824-9ea0-df6e76d529f2_300x.avif",
+                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/HKNS28035%20-%20Ingco%20Snap%20Off%20Blade%20Knife/image_1_354246d6-a6ca-4824-9ea0-df6e76d529f2_300x.avif"
+            }
+        ],
         "price": "265",
         "isOnOffer": false,
         "isBestseller": false,

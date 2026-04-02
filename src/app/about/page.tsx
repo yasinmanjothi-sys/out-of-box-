@@ -2,7 +2,7 @@ import AnimatedStats from '@/components/AnimatedStats'
 
 export const metadata = {
     title: 'About Us',
-    description: 'Out of Box Tools supplies trade professionals and DIY enthusiasts with top-quality hardware in Nairobi. Learn about our mission and commitment.',
+    description: 'Out of Box Tools & Hardware supplies trade professionals and DIY enthusiasts with top-quality tools, hardware, plumbing, and electrical equipment in Nairobi. Learn about our mission and commitment.',
 }
 
 const organizationJsonLd = {
@@ -31,9 +31,9 @@ export default function AboutPage() {
                 dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
             />
             <div className="container" style={{ paddingTop: '4rem', paddingBottom: '2rem', position: 'relative' }}>
-                <h1 className="page-title" style={{ position: 'relative', zIndex: 2 }}>About Out of Box Tools</h1>
+                <h1 className="page-title" style={{ position: 'relative', zIndex: 2 }}>About Out of Box Tools &amp; Hardware</h1>
 
-                <div style={{ maxWidth: '800px', margin: '2rem 0', color: 'var(--graphite-grey)', fontSize: '1.125rem', lineHeight: '1.8', position: 'relative', zIndex: 2 }}>
+                <div style={{ maxWidth: '900px', margin: '2rem auto', color: 'var(--graphite-grey)', fontSize: '1.125rem', lineHeight: '1.8', position: 'relative', zIndex: 2 }}>
                     <p style={{ marginBottom: '1.5rem' }}>
                         At <strong>Out of Box Tools</strong>, we believe that the foundation of every successful project relies on the quality of the equipment used. Founded on the principle of providing unparalleled reliability, we supply trade professionals, contractors, and DIY enthusiasts with the finest hardware available.
                     </p>

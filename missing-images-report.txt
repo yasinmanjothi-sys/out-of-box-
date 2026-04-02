@@ -1,10 +1,9 @@
-Missing Images Audit Report - Generated at 2026-03-31T10:09:39.082Z
+Missing Images Audit Report - Generated at 2026-04-02T16:22:21.408Z
 
 Products with 0 images found in their folders:
 
 [Hand Tools] > [Precision Screwdrivers] > HKSDB0348 -  Ingco 32 Pcs Precision Screwdriver Set
 [Hand Tools] > [Screwdrivers] > HKSDB0348 -  Ingco 32 Pcs Precision Screwdriver Set
-[Hand Tools] > [Snap-off (Stripping) Knife] > HKNS28035 - Ingco Snap Off Blade Knife
 [Measuring Tools] > [Laser Distance Detectors] > GLM 20 - Bosch 20m Laser Distance Detector
 [Measuring Tools] > [Laser Distance Detectors] > GLM 40 - Bosch 40m Laser Distance Detector
 [Measuring Tools] > [Laser Distance Detectors] > MDL060 - Uyus 60m Laser Distance Detector

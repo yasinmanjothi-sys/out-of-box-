@@ -5,7 +5,7 @@ const reasons = [
     {
         icon: BadgeCheck,
         title: 'Genuine Products Only',
-        description: 'Every tool in our catalogue is sourced directly from authorized distributors. No counterfeits, no compromises.'
+        description: 'Every tool in our catalogue is sourced directly from authorized sources. No counterfeits, no compromises.'
     },
     {
         icon: Headphones,

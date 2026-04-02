@@ -3,16 +3,23 @@ import { catalogue } from '@/lib/catalogue'
 import './bestsellers.css'
 
 export default function BestSellers() {
-    // Pick 4 products that have at least one image
+    const formatPrice = (price?: string | number) => {
+        if (!price || price === '') return 'Inquire for Price';
+        const num = typeof price === 'string' ? Number(price.replace(/,/g, '')) : price;
+        if (!isNaN(num)) return `KSh ${num.toLocaleString()}`;
+        return `KSh ${price}`;
+    }
+
+    // Pick 3 products that have at least one image
     const bestSellers = catalogue
         .filter(p => p.images && p.images.length > 0)
-        .slice(0, 4)
+        .slice(0, 3)
         .map(product => ({
             id: product.id,
             name: product.name.replace(/^.*\s-\s/, ''),
             image: product.images[0].url,
             category: product.category,
-            price: product.price || 'Inquire for Price'
+            price: formatPrice(product.price)
         }))
 
     if (bestSellers.length === 0) return null
@@ -38,7 +45,6 @@ export default function BestSellers() {
                                 <h3 className="bestseller-name">{item.name}</h3>
                                 <div className="bestseller-footer">
                                     <span className="bestseller-price">{item.price}</span>
-                                    <span className="view-link">View Details</span>
                                 </div>
                             </div>
                         </Link>

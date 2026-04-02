@@ -64,8 +64,8 @@ export default function Home() {
       <AnimatedIntro />
       <Hero />
       <TrustBar />
-      <BestSellers />
       <ShopByCategory />
+      <BestSellers />
       <NewArrivals />
       <WhyChooseUs />
       <VideoGrid />

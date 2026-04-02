@@ -53,9 +53,10 @@ export default function ContactPage() {
 
                 <div style={{
                     display: 'grid',
-                    gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
+                    gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
                     gap: '3rem',
-                    marginTop: '2rem'
+                    marginTop: '2rem',
+                    alignItems: 'start'
                 }}>
                     {/* Contact Details */}
                     <section>

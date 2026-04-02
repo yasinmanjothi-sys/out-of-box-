@@ -9,7 +9,7 @@ const PRODUCTS_DIR = path.join(PROJECT_ROOT, 'public', 'website products');
 const EXCEL_FILE = path.join(PRODUCTS_DIR, 'Updated pricelist 12.03.26 - Copy.xlsx');
 const OUTPUT_FILE = path.join(PROJECT_ROOT, 'src', 'lib', 'catalogue.ts');
 
-const IMAGE_EXTS = ['.jpg', '.jpeg', '.png', '.webp', '.gif', '.svg', '.jfif'];
+const IMAGE_EXTS = ['.jpg', '.jpeg', '.png', '.webp', '.gif', '.svg', '.jfif', '.avif', '.bmp', '.tiff', '.heic'];
 const TXT_EXTS = ['.txt'];
 const DOCX_EXTS = ['.docx'];
 
