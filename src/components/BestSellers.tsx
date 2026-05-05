@@ -10,10 +10,9 @@ export default function BestSellers() {
         return `KSh ${price}`;
     }
 
-    // Pick 3 products that have at least one image
-    const bestSellers = catalogue
-        .filter(p => p.images && p.images.length > 0)
-        .slice(0, 3)
+    // Get products marked as best sellers, or fall back to first 3 products with images
+    let bestSellers = catalogue
+        .filter(p => p.isBestseller && p.images && p.images.length > 0)
         .map(product => ({
             id: product.id,
             name: product.name.replace(/^.*\s-\s/, ''),
@@ -21,6 +20,20 @@ export default function BestSellers() {
             category: product.category,
             price: formatPrice(product.price)
         }))
+
+    // If no explicitly marked best sellers, fall back to first 3 products with images
+    if (bestSellers.length === 0) {
+        bestSellers = catalogue
+            .filter(p => p.images && p.images.length > 0)
+            .slice(0, 3)
+            .map(product => ({
+                id: product.id,
+                name: product.name.replace(/^.*\s-\s/, ''),
+                image: product.images[0].url,
+                category: product.category,
+                price: formatPrice(product.price)
+            }))
+    }
 
     if (bestSellers.length === 0) return null
 

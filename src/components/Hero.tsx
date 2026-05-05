@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import Link from 'next/link'
-import { Search, ChevronDown } from 'lucide-react'
+import { Search } from 'lucide-react'
 import './hero.css'
 
 export default function Hero() {
@@ -23,8 +23,7 @@ export default function Hero() {
                 <div className="hero-text-box">
                     <h1 className="hero-title">The right tool for the right job</h1>
                     <p className="hero-subtitle">
-                        Engineered for precision. Built for reliability.
-                        Discover our comprehensive catalogue of professional hardware and equipment.
+                        Authorized Retailer for Professional Tools and Machinery
                     </p>
                     
                     <div className="hero-actions">

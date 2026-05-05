@@ -2,7 +2,10 @@ import Link from "next/link";
 import AnimatedIntro from "@/components/AnimatedIntro";
 import Hero from "@/components/Hero";
 import TrustBar from "@/components/TrustBar";
+import OfferPosts from "@/components/OfferPosts";
+import BrandLogos from "@/components/BrandLogos";
 import BestSellers from "@/components/BestSellers";
+import MonthlyOffers from "@/components/MonthlyOffers";
 import ShopByCategory from "@/components/ShopByCategory";
 import NewArrivals from "@/components/NewArrivals";
 import WhyChooseUs from "@/components/WhyChooseUs";
@@ -64,8 +67,11 @@ export default function Home() {
       <AnimatedIntro />
       <Hero />
       <TrustBar />
+      <OfferPosts />
+      <BrandLogos />
       <ShopByCategory />
       <BestSellers />
+      <MonthlyOffers />
       <NewArrivals />
       <WhyChooseUs />
       <VideoGrid />

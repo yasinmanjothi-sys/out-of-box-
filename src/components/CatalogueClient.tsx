@@ -47,20 +47,27 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
         }
     }, [searchParams, categories])
 
-    // Get all flat products or filtered by category/subcategory and search query
-    const filteredProducts = categories.flatMap(cat =>
-        (activeCategory === 'All' || cat.name === activeCategory)
-            ? cat.subcategories.flatMap(sub =>
-                (activeSubcategory === 'All' || sub.name === activeSubcategory)
-                    ? sub.products.filter(p =>
-                        p.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                        p.category.toLowerCase().includes(searchQuery.toLowerCase()) ||
-                        p.subcategory.toLowerCase().includes(searchQuery.toLowerCase())
-                    )
-                    : []
+    // When searching, ignore category/subcategory filters and search globally
+    const filteredProducts = searchQuery.trim()
+        ? categories.flatMap(cat =>
+            cat.subcategories.flatMap(sub =>
+                sub.products.filter(p =>
+                    p.name.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                    p.description?.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                    p.category.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                    p.subcategory.toLowerCase().includes(searchQuery.toLowerCase())
+                )
             )
-            : []
-    )
+        )
+        : categories.flatMap(cat =>
+            (activeCategory === 'All' || cat.name === activeCategory)
+                ? cat.subcategories.flatMap(sub =>
+                    (activeSubcategory === 'All' || sub.name === activeSubcategory)
+                        ? sub.products
+                        : []
+                )
+                : []
+        )
 
     const scrollToContent = () => {
         setTimeout(() => {
@@ -110,7 +117,7 @@ export default function CatalogueClient({ categories }: CatalogueClientProps) {
     }
 
     return (
-        <div className="catalogue-layout">
+        <div className={`catalogue-layout ${searchQuery.trim() ? 'catalogue-searching' : ''}`}>
             {/* Search Bar */}
             <div className="catalogue-top-bar">
                 <div className="search-bar-container">

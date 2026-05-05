@@ -1,0 +1,72 @@
+.brand-logos-section {
+    padding: 3rem 0;
+    background: var(--pure-white);
+    border-top: 1px solid var(--steel-silver);
+    border-bottom: 1px solid var(--steel-silver);
+}
+
+.brand-logos-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: var(--industrial-blue);
+    text-align: center;
+    margin-bottom: 2rem;
+    letter-spacing: 1px;
+}
+
+.brand-logos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 2rem;
+    align-items: center;
+}
+
+.brand-logo-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    background: var(--white-smoke);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    min-height: 80px;
+}
+
+.brand-logo-wrapper:hover {
+    background: linear-gradient(135deg, var(--white-smoke) 0%, rgba(31, 78, 121, 0.05) 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.brand-logo {
+    max-width: 100%;
+    height: auto;
+    filter: grayscale(0.8);
+    transition: filter 0.3s ease;
+}
+
+.brand-logo-wrapper:hover .brand-logo {
+    filter: grayscale(0);
+}
+
+@media (max-width: 768px) {
+    .brand-logos-section {
+        padding: 2rem 0;
+    }
+
+    .brand-logos-title {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .brand-logos-grid {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        gap: 1rem;
+    }
+
+    .brand-logo-wrapper {
+        padding: 0.75rem;
+        min-height: 60px;
+    }
+}

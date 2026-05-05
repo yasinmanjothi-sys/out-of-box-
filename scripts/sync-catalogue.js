@@ -1,55 +1,47 @@
 const fs = require('fs');
 const path = require('path');
-const XLSX = require('xlsx');
 const mammoth = require('mammoth');
+const pdfParse = require('pdf-parse');
 
 // Configuration
 const PROJECT_ROOT = path.resolve(__dirname, '..');
 const PRODUCTS_DIR = path.join(PROJECT_ROOT, 'public', 'website products');
-const EXCEL_FILE = path.join(PRODUCTS_DIR, 'Updated pricelist 12.03.26 - Copy.xlsx');
 const OUTPUT_FILE = path.join(PROJECT_ROOT, 'src', 'lib', 'catalogue.ts');
 
-const IMAGE_EXTS = ['.jpg', '.jpeg', '.png', '.webp', '.gif', '.svg', '.jfif', '.avif', '.bmp', '.tiff', '.heic'];
-const TXT_EXTS = ['.txt'];
-const DOCX_EXTS = ['.docx'];
+// Extensions that are definitively NOT images — everything else is treated as an image
+const NON_IMAGE_EXTS = new Set([
+    '.txt', '.docx', '.doc', '.pdf',
+    '.xlsx', '.xls', '.xmp',
+    '.js', '.ts', '.json', '.md', '.zip'
+]);
 
-/**
- * Normalizes strings for matching
- */
-function normalize(str) {
-    if (!str) return '';
-    // Remove special chars, spaces, and lowercase
-    return str.toString().trim().toLowerCase()
-        .replace(/[^a-z0-9]/g, '');
-}
+// Extensions we consider spec/text documents
+const SPEC_EXTS = new Set(['.txt', '.docx', '.pdf']);
 
-/**
- * Extracts product code from a string (e.g., "TH308268-2 - Name" -> "TH308268-2")
- */
-function extractCode(str) {
-    if (!str) return '';
-    const match = str.match(/^[a-z0-9-]+/i);
-    return match ? match[0].toLowerCase() : '';
-}
+// Regex to detect a PRICE line anywhere in spec text
+const PRICE_REGEX = /^PRICE\s+(\d+(?:\.\d+)?)/im;
 
 /**
  * Recursively walks directory to get all files
  */
-function getAllFiles(dir, baseDir) {
+function getAllFiles(dir) {
     let results = [];
     if (!fs.existsSync(dir)) return [];
-    
+
     const list = fs.readdirSync(dir);
     list.forEach(file => {
         const filePath = path.join(dir, file);
         const stat = fs.statSync(filePath);
         if (stat && stat.isDirectory()) {
-            results = results.concat(getAllFiles(filePath, baseDir));
+            results = results.concat(getAllFiles(filePath));
         } else {
             results.push({
                 name: file,
                 path: filePath,
-                relativeUrl: '/' + encodeURI(path.relative(path.join(PROJECT_ROOT, 'public'), filePath).split(path.sep).join('/'))
+                relativeUrl: '/' + path.relative(path.join(PROJECT_ROOT, 'public'), filePath)
+                    .split(path.sep)
+                    .map(segment => encodeURIComponent(segment))
+                    .join('/')
             });
         }
     });
@@ -57,180 +49,187 @@ function getAllFiles(dir, baseDir) {
 }
 
 /**
- * Extracts text from .txt or .docx
+ * Extracts raw text from a single file based on its extension
  */
-async function extractDescription(files) {
-    // Priority: specs.txt, specs.docx, other .txt, other .docx
-    const priority = ['specs.txt', 'specs.docx', 'description.txt', 'description.docx'];
-    
-    for (const pName of priority) {
-        const found = files.find(f => f.name.toLowerCase() === pName);
-        if (found) {
-            if (found.name.toLowerCase().endsWith('.txt')) {
-                return fs.readFileSync(found.path, 'utf8').trim();
-            } else if (found.name.toLowerCase().endsWith('.docx')) {
-                try {
-                    const result = await mammoth.extractRawText({ path: found.path });
-                    return result.value.trim();
-                } catch (e) {
-                    console.error(`Error reading docx: ${found.path}`, e);
-                }
-            }
+async function extractTextFromFile(filePath) {
+    const ext = path.extname(filePath).toLowerCase();
+    try {
+        if (ext === '.txt') {
+            return fs.readFileSync(filePath, 'utf8');
+        } else if (ext === '.docx') {
+            const result = await mammoth.extractRawText({ path: filePath });
+            return result.value;
+        } else if (ext === '.pdf') {
+            const buffer = fs.readFileSync(filePath);
+            const result = await pdfParse(buffer);
+            return result.text;
         }
+    } catch (e) {
+        console.warn(`  ⚠️  Could not read ${path.basename(filePath)}: ${e.message}`);
     }
-    
-    // Any remaining txt or docx
-    for (const f of files) {
-        if (TXT_EXTS.includes(path.extname(f.name).toLowerCase())) {
-            return fs.readFileSync(f.path, 'utf8').trim();
-        }
-        if (DOCX_EXTS.includes(path.extname(f.name).toLowerCase())) {
-            try {
-                const result = await mammoth.extractRawText({ path: f.path });
-                return result.value.trim();
-            } catch (e) {}
-        }
-    }
-    
     return '';
 }
 
 /**
- * Parses the Excel file and returns a map of product codes/names to prices
+ * Reads ALL spec files in a product folder, merges text, extracts price.
+ * Returns { description: string, price: string }
  */
-function getPricingMap() {
-    console.log('📖 Reading Excel File...', EXCEL_FILE);
-    const workbook = XLSX.readFile(EXCEL_FILE);
-    const sheet = workbook.Sheets['Sheet1'];
-    const data = XLSX.utils.sheet_to_json(sheet, { header: 1 });
+async function extractDescription(files) {
+    const specFiles = files.filter(f => SPEC_EXTS.has(path.extname(f.name).toLowerCase()));
 
-    const priceMap = new Map();
-    data.forEach((row, index) => {
-        if (index === 0) return; // Skip header
-        const rawName = row[2];
-        const price = row[3];
-        if (rawName && price !== undefined) {
-            const normName = normalize(rawName);
-            const code = extractCode(rawName);
-            
-            // Map by full name, normalized name, and code
-            priceMap.set(normName, price);
-            if (code && code.length > 3) {
-                priceMap.set(code, price);
+    if (specFiles.length === 0) return { description: '', price: '' };
+
+    // Priority order for reading spec files
+    const priorityNames = ['specs.txt', 'specs.docx', 'description.txt', 'description.docx'];
+    const ordered = [];
+
+    // Add priority files first (in order)
+    for (const pName of priorityNames) {
+        const found = specFiles.find(f => f.name.toLowerCase() === pName);
+        if (found) ordered.push(found);
+    }
+    // Append any remaining spec files not already in the list
+    for (const f of specFiles) {
+        if (!ordered.includes(f)) ordered.push(f);
+    }
+
+    // Read all spec files and merge lines (deduplicate, preserve first-seen order)
+    const seenLines = new Map(); // trimmed line -> true
+    let priceValue = '';
+
+    for (const f of ordered) {
+        const text = await extractTextFromFile(f.path);
+        if (!text.trim()) continue;
+
+        const lines = text.split(/\r?\n/);
+        for (const rawLine of lines) {
+            const line = rawLine.trimEnd(); // preserve leading indent but strip trailing whitespace
+            const trimmed = line.trim();
+
+            // Check for PRICE line — capture first match, strip all occurrences
+            const priceMatch = trimmed.match(PRICE_REGEX);
+            if (priceMatch) {
+                if (!priceValue) priceValue = priceMatch[1];
+                continue; // don't include PRICE line in description
+            }
+
+            // Deduplicate by trimmed content (handles minor whitespace differences)
+            if (!seenLines.has(trimmed)) {
+                seenLines.set(trimmed, line);
             }
         }
-    });
-    console.log(`✅ Loaded pricing for ${priceMap.size} unique identifiers.`);
-    return priceMap;
-}
-
-/**
- * Smarter Price Finder
- */
-function findPrice(folderName, pricingMap) {
-    const normFolder = normalize(folderName);
-    const folderCode = extractCode(folderName);
-    
-    // 1. Exact normalized match
-    if (pricingMap.has(normFolder)) return pricingMap.get(normFolder);
-    
-    // 2. Code-based match
-    if (folderCode && pricingMap.has(folderCode)) return pricingMap.get(folderCode);
-    
-    // 3. Reverse match: Does any Excel key contain this code?
-    for (const [key, value] of pricingMap.entries()) {
-        if (folderCode && key.includes(folderCode)) return value;
-        if (normFolder && key.includes(normFolder)) return value;
     }
-    
-    return null;
+
+    // Rebuild description from ordered unique lines
+    let description = Array.from(seenLines.values()).join('\n').trim();
+
+    // Collapse runs of more than 2 consecutive blank lines
+    description = description.replace(/\n{3,}/g, '\n\n');
+
+    return { description, price: priceValue };
 }
 
 /**
  * Main Sync Function
  */
 async function sync() {
-    console.log('🔄 Starting Synchronisation (Robust Mode)...');
+    console.log('🔄 Starting Synchronisation...');
 
     if (!fs.existsSync(PRODUCTS_DIR)) {
         console.error('❌ Products directory not found!');
         return;
     }
 
-    const pricing = getPricingMap();
     const products = [];
     const missingImages = [];
+    const bestSellersPath = path.join(PRODUCTS_DIR, 'Best Sellers');
+    const bestSellersFolders = fs.existsSync(bestSellersPath)
+        ? fs.readdirSync(bestSellersPath).filter(f =>
+            fs.statSync(path.join(bestSellersPath, f)).isDirectory()
+        )
+        : [];
+
+    const monthlyOffersPath = path.join(PRODUCTS_DIR, 'monthly offers');
+    const monthlyOffersFolders = fs.existsSync(monthlyOffersPath)
+        ? fs.readdirSync(monthlyOffersPath).filter(f =>
+            fs.statSync(path.join(monthlyOffersPath, f)).isDirectory()
+        )
+        : [];
+
     /**
-     * Smarter helper to process a product folder
+     * Processes a single product folder
      */
     async function processProduct(category, subcategory, folderName, prodPath) {
-        const allFiles = getAllFiles(prodPath, prodPath);
+        const allFiles = getAllFiles(prodPath);
 
-        // Images
-        const images = allFiles.filter(f => IMAGE_EXTS.includes(path.extname(f.name).toLowerCase()))
+        // Images — accept everything except known non-image extensions
+        const images = allFiles
+            .filter(f => !NON_IMAGE_EXTS.has(path.extname(f.name).toLowerCase()))
             .map(f => ({ name: f.name, url: f.relativeUrl }));
 
         if (images.length === 0) {
             missingImages.push(`[${category}] > [${subcategory}] > ${folderName}`);
         }
 
-        // Description
-        let description = await extractDescription(allFiles);
-        if (!description) {
-            description = `Professional ${subcategory} from the ${category} collection. High-quality engineering for reliable performance.`;
-        }
+        // Description + Price from spec files
+        const { description: rawDescription, price } = await extractDescription(allFiles);
+        const description = rawDescription ||
+            `Professional ${subcategory} from the ${category} collection. High-quality engineering for reliable performance.`;
 
-        // Price
-        const price = findPrice(folderName, pricing);
-
-        // Generate ID
+        // Generate ID slug
         const id = folderName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 
+        // Check if this product is in the Best Sellers folder
+        const isBestseller = bestSellersFolders.includes(folderName);
+
+        // Check if this product is in the Monthly Offers folder
+        const isOnOffer = monthlyOffersFolders.includes(folderName);
+
         products.push({
-            id: id,
+            id,
             name: folderName,
-            description: description,
-            category: category,
-            subcategory: subcategory,
-            images: images,
+            description,
+            category,
+            subcategory,
+            images,
             price: price ? price.toString() : '',
-            isOnOffer: false,
-            isBestseller: false,
+            isOnOffer,
+            isBestseller,
             originalPrice: 0,
             offerPrice: 0
         });
     }
 
-    const categories = fs.readdirSync(PRODUCTS_DIR).filter(f => {
-        return fs.statSync(path.join(PRODUCTS_DIR, f)).isDirectory();
-    });
+    const categories = fs.readdirSync(PRODUCTS_DIR).filter(f =>
+        fs.statSync(path.join(PRODUCTS_DIR, f)).isDirectory()
+    );
 
     for (const category of categories) {
         const catPath = path.join(PRODUCTS_DIR, category);
-        const entries = fs.readdirSync(catPath).filter(f => {
-            return fs.statSync(path.join(catPath, f)).isDirectory();
-        });
+        const entries = fs.readdirSync(catPath).filter(f =>
+            fs.statSync(path.join(catPath, f)).isDirectory()
+        );
 
         for (const entry of entries) {
             const entryPath = path.join(catPath, entry);
-            const subfolders = fs.readdirSync(entryPath).filter(f => {
-                return fs.statSync(path.join(entryPath, f)).isDirectory();
-            });
+            const subfolders = fs.readdirSync(entryPath).filter(f =>
+                fs.statSync(path.join(entryPath, f)).isDirectory()
+            );
 
-            // If entry has subfolders, it's a subcategory folder with products inside it
             if (subfolders.length > 0) {
+                // entry is a subcategory — products are inside it
                 for (const folderName of subfolders) {
                     const prodPath = path.join(entryPath, folderName);
                     await processProduct(category, entry, folderName, prodPath);
                 }
             } else {
-                // If entry has no subfolders, it's likely a product folder directly under the category
+                // entry is itself a product folder directly under the category
                 await processProduct(category, category, entry, entryPath);
             }
         }
     }
 
-    // Generate File Content
+    // Generate TypeScript output
     const content = `export interface ProductImage {
     url: string;
     name: string;
@@ -254,13 +253,25 @@ export const catalogue: Tool[] = ${JSON.stringify(products, null, 4)};
 `;
 
     fs.writeFileSync(OUTPUT_FILE, content);
-    console.log(`✨ Successfully synchronised ${products.length} products to ${OUTPUT_FILE}`);
 
-    // Missing Images Report
+    // Stats
+    const withPrice = products.filter(p => p.price !== '').length;
+    const noSpecs = products.filter(p =>
+        p.description.startsWith(`Professional `)
+    ).length;
+
+    console.log(`\n📊 Sync Summary:`);
+    console.log(`   Total products:           ${products.length}`);
+    console.log(`   Products with prices:     ${withPrice}`);
+    console.log(`   Products missing prices:  ${products.length - withPrice}`);
+    console.log(`   Products with no specs:   ${noSpecs}`);
+    console.log(`\n✨ Catalogue written to ${OUTPUT_FILE}`);
+
+    // Missing images report
     const reportPath = path.join(PROJECT_ROOT, 'missing-images-report.txt');
     const reportContent = `Missing Images Audit Report - Generated at ${new Date().toISOString()}\n\nProducts with 0 images found in their folders:\n\n${missingImages.join('\n')}\n`;
     fs.writeFileSync(reportPath, reportContent);
-    console.log(`📋 Missing images report generated: ${reportPath}`);
+    console.log(`📋 Missing images report: ${reportPath}`);
 }
 
 sync().catch(console.error);

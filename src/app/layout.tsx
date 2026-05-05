@@ -9,11 +9,11 @@ import { GoogleAnalytics } from '@next/third-parties/google';
 export const metadata: Metadata = {
   metadataBase: new URL("https://outofboxtools.com"),
   title: {
-    default: "Out of Box Tools | The Right Tool For The Right Job",
-    template: "%s | Out of Box Tools | The Right Tool For The Right Job",
+    default: "Out of Box Tools & Hardware | Nairobi",
+    template: "%s | Out of Box Tools & Hardware | Nairobi",
   },
   description:
-    "Browse our extensive catalogue of professional hardware, power tools, hand tools, and safety equipment. Inquire directly via WhatsApp. Visit us at Jampark Plaza, Ngong Rd, Nairobi.",
+    "Discover professional hardware, power tools, and safety equipment at Out of Box Tools, Nairobi. Browse our full catalogue and enquire via WhatsApp.",
 };
 
 export const viewport: Viewport = {
