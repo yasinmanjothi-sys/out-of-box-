@@ -27,7 +27,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "X_yem1158342.png",
-                "url": "/website%20products/Accessories/Angle%20Grinder%20Wrenches%20(Spanners)/YEM%20115%20-%20Uyus%20Angle%20Grinder%20Wrench%20(Spanner)/X_yem1158342.png"
+                "url": "/Website%20Products/Accessories/Angle%20Grinder%20Wrenches%20(Spanners)/YEM%20115%20-%20Uyus%20Angle%20Grinder%20Wrench%20(Spanner)/X_yem1158342.png"
             }
         ],
         "price": "150",
@@ -45,7 +45,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "006478.x27086.webp",
-                "url": "/website%20products/Accessories/Bush%20Cutter%20Timmer%20Lines%20and%20Blades/HIL01R%20-%20Uyus%20Trimmer%20Line%20(2.4mm%20x%2015m)/006478.x27086.webp"
+                "url": "/Website%20Products/Accessories/Bush%20Cutter%20Timmer%20Lines%20and%20Blades/HIL01R%20-%20Uyus%20Trimmer%20Line%20(2.4mm%20x%2015m)/006478.x27086.webp"
             }
         ],
         "price": "450",
@@ -63,7 +63,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TGTLS2545.jpg",
-                "url": "/website%20products/Accessories/Bush%20Cutter%20Timmer%20Lines%20and%20Blades/TGTLS2545%20-%20Total%20Line%20Spool/TGTLS2545.jpg"
+                "url": "/Website%20Products/Accessories/Bush%20Cutter%20Timmer%20Lines%20and%20Blades/TGTLS2545%20-%20Total%20Line%20Spool/TGTLS2545.jpg"
             }
         ],
         "price": "1350",
@@ -81,7 +81,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TSB423045.jpg",
-                "url": "/website%20products/Accessories/Bush%20Cutter%20Timmer%20Lines%20and%20Blades/TSB423045%20-%20Ingco%20Bush%20Cutter%20Blade/TSB423045.jpg"
+                "url": "/Website%20Products/Accessories/Bush%20Cutter%20Timmer%20Lines%20and%20Blades/TSB423045%20-%20Ingco%20Bush%20Cutter%20Blade/TSB423045.jpg"
             }
         ],
         "price": "1250",
@@ -99,7 +99,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CK1301.jpg",
-                "url": "/website%20products/Accessories/Chuck%20Key/CK1301%20-%20Ingco%2013mm%20Chuck%20Key/CK1301.jpg"
+                "url": "/Website%20Products/Accessories/Chuck%20Key/CK1301%20-%20Ingco%2013mm%20Chuck%20Key/CK1301.jpg"
             }
         ],
         "price": "300",
@@ -117,7 +117,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CK1601.jpg",
-                "url": "/website%20products/Accessories/Chuck%20Key/CK1601%20-%20Ingco%2016mm%20Chuck%20Key/CK1601.jpg"
+                "url": "/Website%20Products/Accessories/Chuck%20Key/CK1601%20-%20Ingco%2016mm%20Chuck%20Key/CK1601.jpg"
             }
         ],
         "price": "280",
@@ -135,7 +135,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC470131.jpg",
-                "url": "/website%20products/Accessories/Chuck%20Key/TAC470131%20-%20Total%2013mm%20Chuck%20Key/TAC470131.jpg"
+                "url": "/Website%20Products/Accessories/Chuck%20Key/TAC470131%20-%20Total%2013mm%20Chuck%20Key/TAC470131.jpg"
             }
         ],
         "price": "200",
@@ -153,7 +153,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[4093] DRILL CHUCK & KEY 1.5-13MM 1-2_-20 UNF MDB13U UYUS.png",
-                "url": "/website%20products/Accessories/Chucks/MDB13U%20-%20Uyus%20Keyless%20Chuck%20(13mm)/%5B4093%5D%20DRILL%20CHUCK%20%26%20KEY%201.5-13MM%201-2_-20%20UNF%20MDB13U%20UYUS.png"
+                "url": "/Website%20Products/Accessories/Chucks/MDB13U%20-%20Uyus%20Keyless%20Chuck%20(13mm)/%5B4093%5D%20DRILL%20CHUCK%20%26%20KEY%201.5-13MM%201-2_-20%20UNF%20MDB13U%20UYUS.png"
             }
         ],
         "price": "800",
@@ -171,7 +171,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608644404-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-e.jpg",
-                "url": "/website%20products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/2%20608%20644%20404%20-%20Bosch%209%20Inch%20(235mm)%20Eco%20Circular%20Saw%20Blade%20(40T)/2608644404-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-e.jpg"
+                "url": "/Website%20Products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/2%20608%20644%20404%20-%20Bosch%209%20Inch%20(235mm)%20Eco%20Circular%20Saw%20Blade%20(40T)/2608644404-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-e.jpg"
             }
         ],
         "price": "2410",
@@ -189,7 +189,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608644405-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Sa.jpg",
-                "url": "/website%20products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/2%20608%20644%20405%20-%20Bosch%209%20Inch%20(235mm)%20Eco%20Circular%20Saw%20Blade%20(60T)/2608644405-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Sa.jpg"
+                "url": "/Website%20Products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/2%20608%20644%20405%20-%20Bosch%209%20Inch%20(235mm)%20Eco%20Circular%20Saw%20Blade%20(60T)/2608644405-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Sa.jpg"
             }
         ],
         "price": "2950",
@@ -207,7 +207,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608644399-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-e.jpg",
-                "url": "/website%20products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/2608644399%20-%20Bosch%207%20Inch%20(185mm)%20Eco%20Circular%20Saw%20Blade%20(40T)/2608644399-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-e.jpg"
+                "url": "/Website%20Products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/2608644399%20-%20Bosch%207%20Inch%20(185mm)%20Eco%20Circular%20Saw%20Blade%20(40T)/2608644399-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-e.jpg"
             }
         ],
         "price": "1870",
@@ -225,7 +225,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608644400-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-en-K.jpg",
-                "url": "/website%20products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/2608644400%20-%20Bosch%207%20Inch%20(185mm)%20Eco%20Circular%20Saw%20Blade%20(60T)/2608644400-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-en-K.jpg"
+                "url": "/Website%20Products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/2608644400%20-%20Bosch%207%20Inch%20(185mm)%20Eco%20Circular%20Saw%20Blade%20(60T)/2608644400-Eco-for-Wood-Circular-Saw-Blades-for-Hand-Held-Saws-en-K.jpg"
             }
         ],
         "price": "2050",
@@ -243,7 +243,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC231255.jpg",
-                "url": "/website%20products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/TAC231255%20-%20Total%204%20Inch%20TCT%20Saw%20Blade%20(40T)/TAC231255.jpg"
+                "url": "/Website%20Products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/TAC231255%20-%20Total%204%20Inch%20TCT%20Saw%20Blade%20(40T)/TAC231255.jpg"
             }
         ],
         "price": "600",
@@ -261,7 +261,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC231413.jpg",
-                "url": "/website%20products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/TAC231413%20-%20Total%20185mm%20(7%20Inch)%20TCT%20Saw%20Blade%20(60T)/TAC231413.jpg"
+                "url": "/Website%20Products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/TAC231413%20-%20Total%20185mm%20(7%20Inch)%20TCT%20Saw%20Blade%20(60T)/TAC231413.jpg"
             }
         ],
         "price": "1350",
@@ -279,10 +279,28 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC231415.jpg",
-                "url": "/website%20products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/TAC231415%20-%20Total%20185mm%20(7%20Inch)%20TCT%20Saw%20Blade%20(40T)/TAC231415.jpg"
+                "url": "/Website%20Products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/TAC231415%20-%20Total%20185mm%20(7%20Inch)%20TCT%20Saw%20Blade%20(40T)/TAC231415.jpg"
             }
         ],
         "price": "1000",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "tac231623---total-tct-saw-blade-235mm-9",
+        "name": "TAC231623 - Total TCT Saw Blade (235mm) (9'')",
+        "description": "235mm(9-1/4\")\n60T,arbor:30mm\n16mm and 25.4 ring\nSuitable for circular saw item TS1222356,TS122235622\nWood cutting\nPacked by double blister",
+        "category": "Accessories",
+        "subcategory": "Circular Saw Wood Cutting Discs (TCT Saw Blade)",
+        "images": [
+            {
+                "name": "TAC231623.jpg",
+                "url": "/Website%20Products/Accessories/Circular%20Saw%20Wood%20Cutting%20Discs%20(TCT%20Saw%20Blade)/TAC231623%20-%20Total%20TCT%20Saw%20Blade%20(235mm)%20(9'')/TAC231623.jpg"
+            }
+        ],
+        "price": "1750",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -297,7 +315,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DBCS0031.jpg",
-                "url": "/website%20products/Accessories/Countersink%20Sets/DBCS0031%20-%20Ingco%203%20Pcs%20Countersink%20Set/DBCS0031.jpg"
+                "url": "/Website%20Products/Accessories/Countersink%20Sets/DBCS0031%20-%20Ingco%203%20Pcs%20Countersink%20Set/DBCS0031.jpg"
             }
         ],
         "price": "850",
@@ -315,7 +333,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o234198v82_2608615027_bo_pro_u_f_1.webp",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/2608615027%20-%20Bosch%204%20Inch%20(115mm)%20Eco%20for%20Universal%20Segmented%20Diamond%20Cutting%20Disc/o234198v82_2608615027_bo_pro_u_f_1.webp"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/2608615027%20-%20Bosch%204%20Inch%20(115mm)%20Eco%20for%20Universal%20Segmented%20Diamond%20Cutting%20Disc/o234198v82_2608615027_bo_pro_u_f_1.webp"
             }
         ],
         "price": "750",
@@ -333,7 +351,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608615030-Eco-for-Universal-Diamond-Cutting-Discs-for-Large-Angle-Gr.jpg",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/2608615030%20-%20Bosch%207%20Inch%20(185mm)%20Eco%20for%20Universal%20Segmented%20Diamond%20Cutting%20Disc/2608615030-Eco-for-Universal-Diamond-Cutting-Discs-for-Large-Angle-Gr.jpg"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/2608615030%20-%20Bosch%207%20Inch%20(185mm)%20Eco%20for%20Universal%20Segmented%20Diamond%20Cutting%20Disc/2608615030-Eco-for-Universal-Diamond-Cutting-Discs-for-Large-Angle-Gr.jpg"
             }
         ],
         "price": "1930",
@@ -351,7 +369,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608615031-Eco-for-Universal-Diamond-Cutting-Discs-for-Large-Angle-Grinde.jpg",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/2608615031%20-%20Bosch%209%20Inch%20(235mm)%20Eco%20for%20Universal%20Segmented%20Diamond%20Cutting%20Disc/2608615031-Eco-for-Universal-Diamond-Cutting-Discs-for-Large-Angle-Grinde.jpg"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/2608615031%20-%20Bosch%209%20Inch%20(235mm)%20Eco%20for%20Universal%20Segmented%20Diamond%20Cutting%20Disc/2608615031-Eco-for-Universal-Diamond-Cutting-Discs-for-Large-Angle-Grinde.jpg"
             }
         ],
         "price": "1850",
@@ -369,7 +387,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[DMD0123023] DMD0123023 DRY DIAMOND DISC 9_.jfif",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/DMD0123023%20-%20Ingco%20Dry%20Diamond%20Disc%20(Super%20Select)%20(9'')%20(3%20Pcs)/%5BDMD0123023%5D%20DMD0123023%20DRY%20DIAMOND%20DISC%209_.jfif"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/DMD0123023%20-%20Ingco%20Dry%20Diamond%20Disc%20(Super%20Select)%20(9'')%20(3%20Pcs)/%5BDMD0123023%5D%20DMD0123023%20DRY%20DIAMOND%20DISC%209_.jfif"
             }
         ],
         "price": "3650",
@@ -387,7 +405,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[DMD012302M] DMD012302M DRY DIAMOND DISC 9_.jfif",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/DMD012302M%20-%20Ingco%209%20Inch%20(230mm)%20Segmented%20Diamond%20Cutting%20Disc/%5BDMD012302M%5D%20DMD012302M%20DRY%20DIAMOND%20DISC%209_.jfif"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/DMD012302M%20-%20Ingco%209%20Inch%20(230mm)%20Segmented%20Diamond%20Cutting%20Disc/%5BDMD012302M%5D%20DMD012302M%20DRY%20DIAMOND%20DISC%209_.jfif"
             }
         ],
         "price": "1750",
@@ -405,7 +423,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[DMD011802M] DMD011802M DRY DIAMOND DISC 7_.jfif",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/DMD11802%20M%20-%20Ingco%207%20Inch%20(185mm)%20Segmented%20Diamond%20Cutting%20Disc/%5BDMD011802M%5D%20DMD011802M%20DRY%20DIAMOND%20DISC%207_.jfif"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/DMD11802%20M%20-%20Ingco%207%20Inch%20(185mm)%20Segmented%20Diamond%20Cutting%20Disc/%5BDMD011802M%5D%20DMD011802M%20DRY%20DIAMOND%20DISC%207_.jfif"
             }
         ],
         "price": "1200",
@@ -423,7 +441,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC-21111532.jpg",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/TAC21111532%20-%20Total%204.5%20Inch%20(115mm)%202%20Pcs%20Diamond%20Cutting%20Disc%20%20Set%20(Segmented)/TAC-21111532.jpg"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/TAC21111532%20-%20Total%204.5%20Inch%20(115mm)%202%20Pcs%20Diamond%20Cutting%20Disc%20%20Set%20(Segmented)/TAC-21111532.jpg"
             }
         ],
         "price": "600",
@@ -441,7 +459,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC2112303.jpg",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/TAC2112303%20-%20Total%209%20Inch%20(230mm)%20Diamond%20Disc/TAC2112303.jpg"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/TAC2112303%20-%20Total%209%20Inch%20(230mm)%20Diamond%20Disc/TAC2112303.jpg"
             }
         ],
         "price": "1350",
@@ -459,7 +477,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "71ca7b1d0deffa2472283f97f3d1ba6028879dad__94236.jpg",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/TAC2131153%20-%20Total%204.5%20Inch%20(115mm)%20Turbo%20Diamond%20Cutting%20Disc%20(Continuos)/71ca7b1d0deffa2472283f97f3d1ba6028879dad__94236.jpg"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/TAC2131153%20-%20Total%204.5%20Inch%20(115mm)%20Turbo%20Diamond%20Cutting%20Disc%20(Continuos)/71ca7b1d0deffa2472283f97f3d1ba6028879dad__94236.jpg"
             }
         ],
         "price": "450",
@@ -477,7 +495,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC2164051.jpg",
-                "url": "/website%20products/Accessories/Diamond%20Cutting%20Discs/TAC2164051%20-%20TOTAL%20DIAMOND%20DISC%20FOR%20ASPHALT%20CUTTING%20LASER%20%CE%A6%20-%20405%20X%2025.4mm/TAC2164051.jpg"
+                "url": "/Website%20Products/Accessories/Diamond%20Cutting%20Discs/TAC2164051%20-%20TOTAL%20DIAMOND%20DISC%20FOR%20ASPHALT%20CUTTING%20LASER%20%CE%A6%20-%20405%20X%2025.4mm/TAC2164051.jpg"
             }
         ],
         "price": "20000",
@@ -487,41 +505,159 @@ export const catalogue: Tool[] = [
         "offerPrice": 0
     },
     {
-        "id": "ceramic-tile-drill-bits",
-        "name": "Ceramic (Tile) Drill Bits",
-        "description": "Diameter (D) mm :6\nProduct text :Pack of 1\nSpecification :6 x 80 mm\nTotal length (L2) mm :80\nNet Weight :0.008 kg\nGross Weight :0.012 kg\n\nDiameter (D) mm :8\nSpecification :8 x 80 mm\nDiameter (D) mm :10\nSpecification :10 x 90 mm\nTotal length (L2) mm :90",
+        "id": "2607017503---bosch-27-pcs-accessory-kit-hand-tool-screwdriver-and-drill-bit-combo-set",
+        "name": "2607017503 - Bosch 27 Pcs Accessory Kit Hand Tool (Screwdriver and Drill Bit Combo Set)",
+        "description": "5 Drill bits for iron 2 / 2 / 3 / 4 / 5mm.\n– 5 Drill bits for concrete 5 / 5.5 / 6 / 7 / 8mm.\n– 5 Drill bits for wood 4 / 5 / 6 / 7 / 8mm.\n– 10 bits PH1 / PH2 / PH2 / PH3 / PZ1 / PZ2 / PZ2 / PZ2 / S4 / S6.\n– 1 Key\n– 1 Adapter bits.",
         "category": "Accessories",
         "subcategory": "Drill Bits",
         "images": [
             {
-                "name": "2608587161-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181150v117-2608587161-bo-pro-u-a-1.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Ceramic%20(Tile)%20Drill%20Bits/2608587161%20-%20Bosch%206%20mm%20Ceramic%20(Tile)%20Bit/2608587161-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181150v117-2608587161-bo-pro-u-a-1.jpg"
-            },
-            {
-                "name": "2608587164-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181152v117-2608587164-bo-pro-u-a-1.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Ceramic%20(Tile)%20Drill%20Bits/2608587164%20-%20Bosch%208%20mm%20Ceramic%20(Tile)%20Bit/2608587164-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181152v117-2608587164-bo-pro-u-a-1.jpg"
-            },
-            {
-                "name": "2608587165-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181153v117-2608587165-bo-pro-u-a-1.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Ceramic%20(Tile)%20Drill%20Bits/2608587165%20-%20Bosch%2010%20mm%20Ceramic%20(Tile)%20Bit/2608587165-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181153v117-2608587165-bo-pro-u-a-1.jpg"
+                "name": "Bosch-Accessories-Set-27-pc-260.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2607017503%20-%20Bosch%2027%20Pcs%20Accessory%20Kit%20Hand%20Tool%20(Screwdriver%20and%20Drill%20Bit%20Combo%20Set)/Bosch-Accessories-Set-27-pc-260.webp"
             }
         ],
-        "price": "690",
+        "price": "1500",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
     },
     {
-        "id": "glass-drill-bits",
-        "name": "Glass Drill Bits",
-        "description": "5 Pcs glass drill bits\nCross head carbide tip\nHigh quality carbide tip\nSize:4mm,5mm,6mm,8mm,10mm\nShank:1/4\" hex shank,Titanium finishing\nPacked by plastic box",
+        "id": "2608521042---bosch-ph2-screwdriver-bits-10-pcs",
+        "name": "2608521042 - Bosch PH2 Screwdriver Bits (10 Pcs)",
+        "description": "Length mm :65\nSet description :Set Content: 10 PH2 double ended screwdriver bits\nDimensions, 2nd bit :Object #200227055: 8678\nPH2\nDimensions, 1st bit :Object #200227055: 8678\nNet Weight :0.155 kg\nGross Weight :0.155 kg",
         "category": "Accessories",
         "subcategory": "Drill Bits",
         "images": [
             {
-                "name": "AKD7058.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Glass%20Drill%20Bits/AKD7058%20-%20Ingco%205%20Pcs%20Glass%20Drill%20Bit%20Set/AKD7058.jpg"
+                "name": "PH2-65mm-Gold-700x700.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608521042%20-%20Bosch%20PH2%20Screwdriver%20Bits%20(10%20Pcs)/PH2-65mm-Gold-700x700.jpg"
+            }
+        ],
+        "price": "1030",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608577198---bosch-hss-twist-pointteq-3mm-metal-drill-bit",
+        "name": "2608577198 - Bosch HSS Twist PointTeQ 3mm Metal Drill Bit",
+        "description": "Diameter (D) mm :3\nProduct text :Pack of 10\nTotal length (L2) mm :61\nWorking length (L1) mm :33\nShank diameter (d) mm :3",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577198%20-%20Bosch%20HSS%20Twist%20PointTeQ%203mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
+            }
+        ],
+        "price": "450",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608577208---bosch-hss-twist-pointteq-4mm-metal-drill-bit",
+        "name": "2608577208 - Bosch HSS Twist PointTeQ 4mm Metal Drill Bit",
+        "description": "Diameter (D) mm :4\nProduct text :Pack of 10\nTotal length (L2) mm :75\nWorking length (L1) mm :43\nShank diameter (d) mm :4",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577208%20-%20Bosch%20HSS%20Twist%20PointTeQ%204mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
+            }
+        ],
+        "price": "550",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608577218---bosch-hss-twist-pointteq-5mm-metal-drill-bit",
+        "name": "2608577218 - Bosch HSS Twist PointTeQ 5mm Metal Drill Bit",
+        "description": "Diameter (D) mm :5\nProduct text :Pack of 10\nTotal length (L2) mm :86\nWorking length (L1) mm :52\nShank diameter (d) mm :5",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577218%20-%20Bosch%20HSS%20Twist%20PointTeQ%205mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
+            }
+        ],
+        "price": "750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608577228---bosch-hss-twist-pointteq-6mm-metal-drill-bit",
+        "name": "2608577228 - Bosch HSS Twist PointTeQ 6mm Metal Drill Bit",
+        "description": "Diameter (D) mm :6\nProduct text :Pack of 10\nTotal length (L2) mm :93\nWorking length (L1) mm :57\nShank diameter (d) mm :6",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577228%20-%20Bosch%20HSS%20Twist%20PointTeQ%206mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
+            }
+        ],
+        "price": "1100",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608577238---bosch-hss-twist-pointteq-7mm-metal-drill-bit",
+        "name": "2608577238 - Bosch HSS Twist PointTeQ 7mm Metal Drill Bit",
+        "description": "Diameter (D) mm :7\nProduct text :Pack of 10\nTotal length (L2) mm :109\nWorking length (L1) mm :69\nShank diameter (d) mm :7",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577238%20-%20Bosch%20HSS%20Twist%20PointTeQ%207mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
+            }
+        ],
+        "price": "1450",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608577248---bosch-hss-twist-pointteq-8mm-metal-drill-bit",
+        "name": "2608577248 - Bosch HSS Twist PointTeQ 8mm Metal Drill Bit",
+        "description": "Diameter (D) mm :8\nProduct text :Pack of 10\nTotal length (L2) mm :117\nWorking length (L1) mm :75\nShank diameter (d) mm :8",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577248%20-%20Bosch%20HSS%20Twist%20PointTeQ%208mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
+            }
+        ],
+        "price": "1850",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608577258---bosch-hss-twist-pointteq-9mm-metal-drill-bit",
+        "name": "2608577258 - Bosch HSS Twist PointTeQ 9mm Metal Drill Bit",
+        "description": "Diameter (D) mm :9\nProduct text :Pack of 10\nTotal length (L2) mm :125\nWorking length (L1) mm :81\nShank diameter (d) mm :9",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577258%20-%20Bosch%20HSS%20Twist%20PointTeQ%209mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
             }
         ],
         "price": "2500",
@@ -531,96 +667,396 @@ export const catalogue: Tool[] = [
         "offerPrice": 0
     },
     {
-        "id": "impact-drill-concrete-masonry-drill-bits",
-        "name": "Impact Drill Concrete (Masonry) Drill Bits",
-        "description": "5 Drill bits for iron 2 / 2 / 3 / 4 / 5mm.\n– 5 Drill bits for concrete 5 / 5.5 / 6 / 7 / 8mm.\n– 5 Drill bits for wood 4 / 5 / 6 / 7 / 8mm.\n– 10 bits PH1 / PH2 / PH2 / PH3 / PZ1 / PZ2 / PZ2 / PZ2 / S4 / S6.\n– 1 Key\n– 1 Adapter bits.\n\nPackage Contents: 1-Piece 4mm Drill Bit, 1-Piece 5mm Drill Bit, 1-Piece 6mm Drill Bit, 1-Piece 8mm Drill Bit and 1-Piece 10mm Drill Bit\nBosch 5 pieces masonry drill bit set\nSize Diameter: 4mm, 5mm, 6mm, 8mm and 10mm\nMaterial: HSS with brazed carbide tip\nPackage comes with,\n7 pcs HSS drill bits: 2mm, 3mm, 3.5mm, 4mm, 4mm, 5mm, 6mm\n4 pcs Masonry drill bits: 4mm, 5mm, 6mm, 8mm\n8 pcs Screwdriver bits, 25mm: SL4.5, SL5.5, PH1, PH2, PZ1, PZ2, TX20, TX30",
+        "id": "2608577268---bosch-hss-twist-pointteq-10mm-metal-drill-bit",
+        "name": "2608577268 - Bosch HSS Twist PointTeQ 10mm Metal Drill Bit",
+        "description": "Diameter (D) mm :10\nProduct text :Pack of 10\nTotal length (L2) mm :133\nWorking length (L1) mm :87\nShank diameter (d) mm :10",
         "category": "Accessories",
         "subcategory": "Drill Bits",
         "images": [
             {
-                "name": "Bosch-Accessories-Set-27-pc-260.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Impact%20Drill%20Concrete%20(Masonry)%20Drill%20Bits/2607017503%20-%20Bosch%2027%20Pcs%20Accessory%20Kit%20Hand%20Tool%20(Screwdriver%20and%20Drill%20Bit%20Combo%20Set)/Bosch-Accessories-Set-27-pc-260.webp"
-            },
-            {
-                "name": "2608590090-CYL-1-Masonry-Drill-B.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Impact%20Drill%20Concrete%20(Masonry)%20Drill%20Bits/2608590090%20-%20Bosch%205%20Pcs%20Concrete%20(Masonry)%20Drill%20Bit%20Set/2608590090-CYL-1-Masonry-Drill-B.jpg"
-            },
-            {
-                "name": "TACSDB1901.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Impact%20Drill%20Concrete%20(Masonry)%20Drill%20Bits/TACSDB1901%20-%20Total%2019%20Pcs%20Drill%20and%20Screwdriver%20Bits%20Set/TACSDB1901.jpg"
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577268%20-%20Bosch%20HSS%20Twist%20PointTeQ%2010mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
             }
         ],
-        "price": "1500",
+        "price": "2600",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
     },
     {
-        "id": "metal-drill-bits",
-        "name": "Metal Drill Bits",
-        "description": "5 Drill bits for iron 2 / 2 / 3 / 4 / 5mm.\n– 5 Drill bits for concrete 5 / 5.5 / 6 / 7 / 8mm.\n– 5 Drill bits for wood 4 / 5 / 6 / 7 / 8mm.\n– 10 bits PH1 / PH2 / PH2 / PH3 / PZ1 / PZ2 / PZ2 / PZ2 / S4 / S6.\n– 1 Key\n– 1 Adapter bits.\n\nDiameter (D) mm :3\nProduct text :Pack of 10\nTotal length (L2) mm :61\nWorking length (L1) mm :33\nShank diameter (d) mm :3\nDiameter (D) mm :4\nTotal length (L2) mm :75\nWorking length (L1) mm :43\nShank diameter (d) mm :4\nDiameter (D) mm :5\nTotal length (L2) mm :86\nWorking length (L1) mm :52\nShank diameter (d) mm :5\nDiameter (D) mm :6\nTotal length (L2) mm :93\nWorking length (L1) mm :57\nShank diameter (d) mm :6\nDiameter (D) mm :7\nTotal length (L2) mm :109\nWorking length (L1) mm :69\nShank diameter (d) mm :7\nDiameter (D) mm :8\nTotal length (L2) mm :117\nWorking length (L1) mm :75\nShank diameter (d) mm :8\nDiameter (D) mm :9\nTotal length (L2) mm :125\nWorking length (L1) mm :81\nShank diameter (d) mm :9\nDiameter (D) mm :10\nTotal length (L2) mm :133\nWorking length (L1) mm :87\nShank diameter (d) mm :10\nDiameter (D) mm :11\nProduct text :Pack of 5\nTotal length (L2) mm :142\nWorking length (L1) mm :94\nShank diameter (d) mm :11\nDiameter (D) mm :12\nTotal length (L2) mm :151\nWorking length (L1) mm :101\nShank diameter (d) mm :12\n6pcs Metal drill bits set\nMaterial:HSS 4341\nSIZE:2,3,4,5,6,8mm\nPacked by plastic box\nSize：2,2.5,3,3.5,4,4.5,5,5.5,6,6.5,7,8mm\n12pcs HSS twist drill bits set\nPacked by double blister\nPackage comes with,\n7 pcs HSS drill bits: 2mm, 3mm, 3.5mm, 4mm, 4mm, 5mm, 6mm\n4 pcs Masonry drill bits: 4mm, 5mm, 6mm, 8mm\n8 pcs Screwdriver bits, 25mm: SL4.5, SL5.5, PH1, PH2, PZ1, PZ2, TX20, TX30",
+        "id": "2608577278---bosch-hss-twist-pointteq-11mm-metal-drill-bit",
+        "name": "2608577278 - Bosch HSS Twist PointTeQ 11mm Metal Drill Bit",
+        "description": "Diameter (D) mm :11\nProduct text :Pack of 5\nTotal length (L2) mm :142\nWorking length (L1) mm :94\nShank diameter (d) mm :11",
         "category": "Accessories",
         "subcategory": "Drill Bits",
         "images": [
             {
-                "name": "Bosch-Accessories-Set-27-pc-260.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2607017503%20-%20Bosch%2027%20Pcs%20Accessory%20Kit%20Hand%20Tool%20(Screwdriver%20and%20Drill%20Bit%20Combo%20Set)/Bosch-Accessories-Set-27-pc-260.webp"
-            },
-            {
                 "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577198%20-%20Bosch%20HSS%20Twist%20PointTeQ%203mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577208%20-%20Bosch%20HSS%20Twist%20PointTeQ%204mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577218%20-%20Bosch%20HSS%20Twist%20PointTeQ%205mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577228%20-%20Bosch%20HSS%20Twist%20PointTeQ%206mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577238%20-%20Bosch%20HSS%20Twist%20PointTeQ%207mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577248%20-%20Bosch%20HSS%20Twist%20PointTeQ%208mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577258%20-%20Bosch%20HSS%20Twist%20PointTeQ%209mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577268%20-%20Bosch%20HSS%20Twist%20PointTeQ%2010mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577278%20-%20Bosch%20HSS%20Twist%20PointTeQ%2011mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/2608577288%20-%20Bosch%20HSS%20Twist%20PointTeQ%2012mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
-            },
-            {
-                "name": "AKD1055.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/AKD1055%20-%20Ingco%206%20Pcs%20HSS%20Metal%20Drill%20Bit%20Set%20(Hard%20Case)/AKD1055.jpg"
-            },
-            {
-                "name": "TACSD0125.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/TACSD0125%20-%20Total%2012%20Pcs%20HSS%20Metal%20Drill%20Bit%20Set/TACSD0125.jpg"
-            },
-            {
-                "name": "TACSDB1901.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Metal%20Drill%20Bits/TACSDB1901%20-%20Total%2019%20Pcs%20Drill%20and%20Screwdriver%20Bits%20Set/TACSDB1901.jpg"
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577278%20-%20Bosch%20HSS%20Twist%20PointTeQ%2011mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
             }
         ],
-        "price": "1500",
+        "price": "2600",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608577288---bosch-hss-twist-pointteq-12mm-metal-drill-bit",
+        "name": "2608577288 - Bosch HSS Twist PointTeQ 12mm Metal Drill Bit",
+        "description": "Diameter (D) mm :12\nProduct text :Pack of 5\nTotal length (L2) mm :151\nWorking length (L1) mm :101\nShank diameter (d) mm :12",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "o257151v82_2608577228_bo_pro_u_a_1.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608577288%20-%20Bosch%20HSS%20Twist%20PointTeQ%2012mm%20Metal%20Drill%20Bit/o257151v82_2608577228_bo_pro_u_a_1.webp"
+            }
+        ],
+        "price": "2700",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608587161---bosch-6-mm-ceramic-tile-bit",
+        "name": "2608587161 - Bosch 6 mm Ceramic (Tile) Bit",
+        "description": "Diameter (D) mm :6\nProduct text :Pack of 1\nSpecification :6 x 80 mm\nTotal length (L2) mm :80\nNet Weight :0.008 kg\nGross Weight :0.012 kg",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "2608587161-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181150v117-2608587161-bo-pro-u-a-1.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608587161%20-%20Bosch%206%20mm%20Ceramic%20(Tile)%20Bit/2608587161-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181150v117-2608587161-bo-pro-u-a-1.jpg"
+            }
+        ],
+        "price": "690",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608587164---bosch-8-mm-ceramic-tile-bit",
+        "name": "2608587164 - Bosch 8 mm Ceramic (Tile) Bit",
+        "description": "Diameter (D) mm :8\nProduct text :Pack of 1\nSpecification :8 x 80 mm\nTotal length (L2) mm :80",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "2608587164-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181152v117-2608587164-bo-pro-u-a-1.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608587164%20-%20Bosch%208%20mm%20Ceramic%20(Tile)%20Bit/2608587164-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181152v117-2608587164-bo-pro-u-a-1.jpg"
+            }
+        ],
+        "price": "760",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608587165---bosch-10-mm-ceramic-tile-bit",
+        "name": "2608587165 - Bosch 10 mm Ceramic (Tile) Bit",
+        "description": "Diameter (D) mm :10\nProduct text :Pack of 1\nSpecification :10 x 90 mm\nTotal length (L2) mm :90",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "2608587165-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181153v117-2608587165-bo-pro-u-a-1.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608587165%20-%20Bosch%2010%20mm%20Ceramic%20(Tile)%20Bit/2608587165-CYL-9-SoftCeramic-Drill-Bits-en-KE-o181153v117-2608587165-bo-pro-u-a-1.jpg"
+            }
+        ],
+        "price": "810",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608590090---bosch-5-pcs-concrete-masonry-drill-bit-set",
+        "name": "2608590090 - Bosch 5 Pcs Concrete (Masonry) Drill Bit Set",
+        "description": "Package Contents: 1-Piece 4mm Drill Bit, 1-Piece 5mm Drill Bit, 1-Piece 6mm Drill Bit, 1-Piece 8mm Drill Bit and 1-Piece 10mm Drill Bit\nBosch 5 pieces masonry drill bit set\nSize Diameter: 4mm, 5mm, 6mm, 8mm and 10mm\nMaterial: HSS with brazed carbide tip",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "2608590090-CYL-1-Masonry-Drill-B.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608590090%20-%20Bosch%205%20Pcs%20Concrete%20(Masonry)%20Drill%20Bit%20Set/2608590090-CYL-1-Masonry-Drill-B.jpg"
+            }
+        ],
+        "price": "750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608596303---bosch-6-mm-wood-drill-bit",
+        "name": "2608596303 - Bosch 6 mm Wood Drill Bit",
+        "description": "Diameter (D) mm :6\nProduct text :Pack of 1\nSpecification : 6 x 57 x 93 mm, d 6 mm\nTotal length (L2) mm :93\nWorking length (L1) mm :60\nShank diameter (d) mm :6\nNet Weight :0.015 kg\nGross Weight :0.018 kg",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608596303%20-%20Bosch%206%20mm%20Wood%20Drill%20Bit/2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg"
+            }
+        ],
+        "price": "190",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608596305---bosch-8-mm-wood-drill-bit",
+        "name": "2608596305 - Bosch 8 mm Wood Drill Bit",
+        "description": "Diameter (D) mm :8\nProduct text :Pack of 1\nSpecification : 8 x 75 x 117 mm, d 8 mm\nTotal length (L2) mm :117\nWorking length (L1) mm :80\nShank diameter (d) mm :8\nNet Weight :0.031 kg\nGross Weight :0.032 kg",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608596305%20-%20Bosch%208%20mm%20Wood%20Drill%20Bit/2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg"
+            }
+        ],
+        "price": "220",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608596307---bosch-10-mm-wood-drill-bit",
+        "name": "2608596307 - Bosch 10 mm Wood Drill Bit",
+        "description": "Diameter (D) mm :10\nProduct text :Pack of 1\nSpecification : 10 x 80 x 120 mm, d 10 mm\nTotal length (L2) mm :120\nWorking length (L1) mm :80\nShank diameter (d) mm :10\nNet Weight :0.047 kg\nGross Weight :0.047 kg",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608596307%20-%20Bosch%2010%20mm%20Wood%20Drill%20Bit/2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg"
+            }
+        ],
+        "price": "320",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "2608596309---bosch-12-mm-wood-drill-bit",
+        "name": "2608596309 - Bosch 12 mm Wood Drill Bit",
+        "description": "Diameter (D) mm :12\nProduct text :Pack of 1\nSpecification : 12 x 96 x 151 mm, d 10 mm\nTotal length (L2) mm :151\nWorking length (L1) mm :110\nShank diameter (d) mm :10\nNet Weight :0.068 kg\nGross Weight :0.071 kg",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/2608596309%20-%20Bosch%2012%20mm%20Wood%20Drill%20Bit/2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg"
+            }
+        ],
+        "price": "510",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "abh10601---ingco-screwdriver-bit-holder",
+        "name": "ABH10601 - Ingco Screwdriver bit holder",
+        "description": "60mm,2pcs/set\nMaterial：Steel + Cr-v\nPacked by double blister",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "[ABH10601] ABH10601 SCREWDRIVER BIT HOLDER.jfif",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/ABH10601%20-%20Ingco%20Screwdriver%20bit%20holder/%5BABH10601%5D%20ABH10601%20SCREWDRIVER%20BIT%20HOLDER.jfif"
+            }
+        ],
+        "price": "450",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "akd1055---ingco-6-pcs-hss-metal-drill-bit-set-hard-case",
+        "name": "AKD1055 - Ingco 6 Pcs HSS Metal Drill Bit Set (Hard Case)",
+        "description": "6pcs Metal drill bits set\nMaterial:HSS 4341\nSIZE:2,3,4,5,6,8mm\nPacked by plastic box",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "AKD1055.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/AKD1055%20-%20Ingco%206%20Pcs%20HSS%20Metal%20Drill%20Bit%20Set%20(Hard%20Case)/AKD1055.jpg"
+            }
+        ],
+        "price": "550",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "akd7058---ingco-5-pcs-glass-drill-bit-set",
+        "name": "AKD7058 - Ingco 5 Pcs Glass Drill Bit Set",
+        "description": "5 Pcs glass drill bits\nCross head carbide tip\nHigh quality carbide tip\nSize:4mm,5mm,6mm,8mm,10mm\nShank:1/4\" hex shank,Titanium finishing\nPacked by plastic box",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "AKD7058.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/AKD7058%20-%20Ingco%205%20Pcs%20Glass%20Drill%20Bit%20Set/AKD7058.jpg"
+            }
+        ],
+        "price": "2500",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dbw2211001---ingco-10mm-flat-wood-drill-bit-set",
+        "name": "DBW2211001 - Ingco 10mm Flat Wood Drill Bit Set",
+        "description": "Wood Flat Drill Bit\nDiameter:10mm\nTotal length:152mm",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "[DBW2211001] DBW2211001 WOOD FLAT DRILL BIT 10MM.png",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/DBW2211001%20-%20Ingco%2010mm%20Flat%20Wood%20Drill%20Bit%20Set/%5BDBW2211001%5D%20DBW2211001%20WOOD%20FLAT%20DRILL%20BIT%2010MM.png"
+            }
+        ],
+        "price": "150",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dbw2211401---ingco-wood-flat-drill-bit-14mm",
+        "name": "DBW2211401 - Ingco WOOD FLAT DRILL BIT 14mm",
+        "description": "Wood Flat Drill Bit\nDiameter:14mm\nTotal length:152mm",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/DBW2211401%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%2014mm/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
+            }
+        ],
+        "price": "210",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dbw2211601---ingco-wood-flat-drill-bit-6mm",
+        "name": "DBW2211601 - Ingco WOOD FLAT DRILL BIT 6mm",
+        "description": "Wood Flat Drill Bit\nDiameter:6mm\nTotal length:152mm",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/DBW2211601%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%206mm/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
+            }
+        ],
+        "price": "140",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dbw2212001---ingco-wood-flat-drill-bit-12mm",
+        "name": "DBW2212001 - Ingco WOOD FLAT DRILL BIT 12mm",
+        "description": "Wood Flat Drill Bit\nDiameter:12mm\nTotal length:152mm",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/DBW2212001%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%2012mm/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
+            }
+        ],
+        "price": "200",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dbw2212501---ingco-wood-flat-drill-bit-25mm",
+        "name": "DBW2212501 - Ingco WOOD FLAT DRILL BIT 25mm",
+        "description": "Wood Flat Drill Bit\nDiameter:25mm\nTotal length:152mm",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/DBW2212501%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%2025mm/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
+            }
+        ],
+        "price": "300",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dbw2213001---ingco-wood-flat-drill-bit-30mm",
+        "name": "DBW2213001 - Ingco WOOD FLAT DRILL BIT 30MM",
+        "description": "Wood Flat Drill Bit\nDiameter:30mm\nTotal length:152mm",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/DBW2213001%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%2030MM/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
+            }
+        ],
+        "price": "300",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dh-mbz006-ed1---deli-flat-wood-drill-bit-set",
+        "name": "DH-MBZ006-ED1 - Deli Flat Wood Drill Bit Set",
+        "description": "Specification\nMaterial :High-speed steel\nSizes :10mm, 12mm, 16mm, 18mm, 20mm, 25mm\nQuantity :6 pieces\nApplication:Wood drilling\nShank type:Hex shank",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "download-2025-03-26T111931.382.jfif",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/DH-MBZ006-ED1%20-%20Deli%20Flat%20Wood%20Drill%20Bit%20Set/download-2025-03-26T111931.382.jfif"
+            }
+        ],
+        "price": "1250",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dl6903---deli-double-side-ph2x100-mm-bit-10-pcs",
+        "name": "DL6903 - Deli Double Side Ph2X100 mm Bit (10 Pcs)",
+        "description": "Dimension :2x100 mm\nUsage For :Home, Industry and Professional\nMaterial :Stainless Steel\nRust Proof :Yes\nColor :Silver\nSize :100 mm",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "HAN.BIT.99632652_1726654399813.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/DL6903%20-%20Deli%20Double%20Side%20Ph2X100%20mm%20Bit%20(10%20Pcs)/HAN.BIT.99632652_1726654399813.webp"
+            }
+        ],
+        "price": "850",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -635,19 +1071,19 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC261012-500x500.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/SDS%20(Rotary%20Hammer)%20Concrete%20(Masonry)%20Drill%20Bits/TAC261012%20-%20Total%20SDS%20Plus%20Concrete%20Drill%20Bit%20(10%20x%20120mm)/TAC261012-500x500.webp"
+                "url": "/Website%20Products/Accessories/Drill%20Bits/SDS%20(Rotary%20Hammer)%20Concrete%20(Masonry)%20Drill%20Bits/TAC261012%20-%20Total%20SDS%20Plus%20Concrete%20Drill%20Bit%20(10%20x%20120mm)/TAC261012-500x500.webp"
             },
             {
                 "name": "TAC310601.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/SDS%20(Rotary%20Hammer)%20Concrete%20(Masonry)%20Drill%20Bits/TAC310601%20-%20Total%20SDS%20Plus%20Concrete%20Drill%20Bit%20(6%20x%20110mm)/TAC310601.jpg"
+                "url": "/Website%20Products/Accessories/Drill%20Bits/SDS%20(Rotary%20Hammer)%20Concrete%20(Masonry)%20Drill%20Bits/TAC310601%20-%20Total%20SDS%20Plus%20Concrete%20Drill%20Bit%20(6%20x%20110mm)/TAC310601.jpg"
             },
             {
                 "name": "TAC310602.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/SDS%20(Rotary%20Hammer)%20Concrete%20(Masonry)%20Drill%20Bits/TAC310602%20-%20Total%20SDS%20Plus%20Concrete%20Drill%20Bit%20(6%20x%20160mm)/TAC310602.jpg"
+                "url": "/Website%20Products/Accessories/Drill%20Bits/SDS%20(Rotary%20Hammer)%20Concrete%20(Masonry)%20Drill%20Bits/TAC310602%20-%20Total%20SDS%20Plus%20Concrete%20Drill%20Bit%20(6%20x%20160mm)/TAC310602.jpg"
             },
             {
                 "name": "TAC310803.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/SDS%20(Rotary%20Hammer)%20Concrete%20(Masonry)%20Drill%20Bits/TAC310803%20-%20Total%20SDS%20Plus%20Concrete%20Drill%20Bit%20(8%20x%20210mm)/TAC310803.jpg"
+                "url": "/Website%20Products/Accessories/Drill%20Bits/SDS%20(Rotary%20Hammer)%20Concrete%20(Masonry)%20Drill%20Bits/TAC310803%20-%20Total%20SDS%20Plus%20Concrete%20Drill%20Bit%20(8%20x%20210mm)/TAC310803.jpg"
             }
         ],
         "price": "300",
@@ -657,31 +1093,51 @@ export const catalogue: Tool[] = [
         "offerPrice": 0
     },
     {
-        "id": "screwdriver-bits",
-        "name": "Screwdriver Bits",
-        "description": "5 Drill bits for iron 2 / 2 / 3 / 4 / 5mm.\n– 5 Drill bits for concrete 5 / 5.5 / 6 / 7 / 8mm.\n– 5 Drill bits for wood 4 / 5 / 6 / 7 / 8mm.\n– 10 bits PH1 / PH2 / PH2 / PH3 / PZ1 / PZ2 / PZ2 / PZ2 / S4 / S6.\n– 1 Key\n– 1 Adapter bits.\n\nLength mm :65\nSet description :Set Content: 10 PH2 double ended screwdriver bits\nDimensions, 2nd bit :Object #200227055: 8678\nPH2\nDimensions, 1st bit :Object #200227055: 8678\nNet Weight :0.155 kg\nGross Weight :0.155 kg\n60mm,2pcs/set\nMaterial：Steel + Cr-v\nPacked by double blister\nDimension :2x100 mm\nUsage For :Home, Industry and Professional\nMaterial :Stainless Steel\nRust Proof :Yes\nColor :Silver\nSize :100 mm\nImpact Screwdriver bit\nPH2+PH2 65mm\n10pcs/set\nWith high visibility sleeve\nThe larger optimized Shock Zone are reduces tip breakages\nS2 industrial steel\nBlack surface with magnet\nPacked by plastic box",
+        "id": "tacim16ph23---total-ph2-screwdriver-bit-10-pcs",
+        "name": "TACIM16PH23 - Total PH2 Screwdriver Bit (10 Pcs)",
+        "description": "Impact Screwdriver bit\nPH2+PH2 65mm\n10pcs/set\nWith high visibility sleeve\nThe larger optimized Shock Zone are reduces tip breakages\nS2 industrial steel\nBlack surface with magnet\nPacked by plastic box",
         "category": "Accessories",
         "subcategory": "Drill Bits",
         "images": [
             {
-                "name": "Bosch-Accessories-Set-27-pc-260.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Screwdriver%20Bits/2607017503%20-%20Bosch%2027%20Pcs%20Accessory%20Kit%20Hand%20Tool%20(Screwdriver%20and%20Drill%20Bit%20Combo%20Set)/Bosch-Accessories-Set-27-pc-260.webp"
-            },
-            {
-                "name": "PH2-65mm-Gold-700x700.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Screwdriver%20Bits/2608521042%20-%20Bosch%20PH2%20Screwdriver%20Bits%20(10%20Pcs)/PH2-65mm-Gold-700x700.jpg"
-            },
-            {
-                "name": "[ABH10601] ABH10601 SCREWDRIVER BIT HOLDER.jfif",
-                "url": "/website%20products/Accessories/Drill%20Bits/Screwdriver%20Bits/ABH10601%20-%20Ingco%20Screwdriver%20bit%20holder/%5BABH10601%5D%20ABH10601%20SCREWDRIVER%20BIT%20HOLDER.jfif"
-            },
-            {
-                "name": "HAN.BIT.99632652_1726654399813.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Screwdriver%20Bits/DL6903%20-%20Deli%20Double%20Side%20Ph2X100%20mm%20Bit%20(10%20Pcs)/HAN.BIT.99632652_1726654399813.webp"
-            },
-            {
                 "name": "TACIM16PH233.webp",
-                "url": "/website%20products/Accessories/Drill%20Bits/Screwdriver%20Bits/TACIM16PH23%20-%20Total%20PH2%20Screwdriver%20Bit%20(10%20Pcs)/TACIM16PH233.webp"
+                "url": "/Website%20Products/Accessories/Drill%20Bits/TACIM16PH23%20-%20Total%20PH2%20Screwdriver%20Bit%20(10%20Pcs)/TACIM16PH233.webp"
+            }
+        ],
+        "price": "650",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "tacsd0125---total-12-pcs-hss-metal-drill-bit-set",
+        "name": "TACSD0125 - Total 12 Pcs HSS Metal Drill Bit Set",
+        "description": "Size：2,2.5,3,3.5,4,4.5,5,5.5,6,6.5,7,8mm\n12pcs HSS twist drill bits set\nPacked by double blister",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "TACSD0125.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/TACSD0125%20-%20Total%2012%20Pcs%20HSS%20Metal%20Drill%20Bit%20Set/TACSD0125.jpg"
+            }
+        ],
+        "price": "550",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "tacsd7156---total-multi-function-drill-bits-set-5-pcs",
+        "name": "TACSD7156 - Total Multi Function Drill Bits Set (5 Pcs)",
+        "description": "Key Features\n\nSizes: 4mm, 5mm, 6mm, 8mm, 10mm\nQuantity: 5 pcs\nType: Multi-function drill bits\nPacked by: Plastic box",
+        "category": "Accessories",
+        "subcategory": "Drill Bits",
+        "images": [
+            {
+                "name": "TACSD7156-i1_400x.webp",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/TACSD7156%20-%20Total%20Multi%20Function%20Drill%20Bits%20Set%20(5%20Pcs)/TACSD7156-i1_400x.webp"
             }
         ],
         "price": "1500",
@@ -691,58 +1147,18 @@ export const catalogue: Tool[] = [
         "offerPrice": 0
     },
     {
-        "id": "wood-drill-bits",
-        "name": "Wood Drill Bits",
-        "description": "Diameter (D) mm :6\nProduct text :Pack of 1\nSpecification : 6 x 57 x 93 mm, d 6 mm\nTotal length (L2) mm :93\nWorking length (L1) mm :60\nShank diameter (d) mm :6\nNet Weight :0.015 kg\nGross Weight :0.018 kg\n\nDiameter (D) mm :8\nSpecification : 8 x 75 x 117 mm, d 8 mm\nTotal length (L2) mm :117\nWorking length (L1) mm :80\nShank diameter (d) mm :8\nNet Weight :0.031 kg\nGross Weight :0.032 kg\nDiameter (D) mm :10\nSpecification : 10 x 80 x 120 mm, d 10 mm\nTotal length (L2) mm :120\nShank diameter (d) mm :10\nNet Weight :0.047 kg\nGross Weight :0.047 kg\nDiameter (D) mm :12\nSpecification : 12 x 96 x 151 mm, d 10 mm\nTotal length (L2) mm :151\nWorking length (L1) mm :110\nNet Weight :0.068 kg\nGross Weight :0.071 kg\nWood Flat Drill Bit\nDiameter:10mm\nTotal length:152mm\nDiameter:14mm\nDiameter:6mm\nDiameter:12mm\nDiameter:25mm\nDiameter:30mm\nSpecification\nMaterial :High-speed steel\nSizes :10mm, 12mm, 16mm, 18mm, 20mm, 25mm\nQuantity :6 pieces\nApplication:Wood drilling\nShank type:Hex shank",
+        "id": "tacsdb1901---total-19-pcs-drill-and-screwdriver-bits-set",
+        "name": "TACSDB1901 - Total 19 Pcs Drill and Screwdriver Bits Set",
+        "description": "Package comes with,\n\n7 pcs HSS drill bits: 2mm, 3mm, 3.5mm, 4mm, 4mm, 5mm, 6mm\n4 pcs Masonry drill bits: 4mm, 5mm, 6mm, 8mm\n8 pcs Screwdriver bits, 25mm: SL4.5, SL5.5, PH1, PH2, PZ1, PZ2, TX20, TX30",
         "category": "Accessories",
         "subcategory": "Drill Bits",
         "images": [
             {
-                "name": "2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/2608596303%20-%20Bosch%206%20mm%20Wood%20Drill%20Bit/2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg"
-            },
-            {
-                "name": "2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/2608596305%20-%20Bosch%208%20mm%20Wood%20Drill%20Bit/2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg"
-            },
-            {
-                "name": "2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/2608596307%20-%20Bosch%2010%20mm%20Wood%20Drill%20Bit/2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg"
-            },
-            {
-                "name": "2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/2608596309%20-%20Bosch%2012%20mm%20Wood%20Drill%20Bit/2608596303-Brad-Point-Wood-Drill-Bits-with-Cylindrical-Shan.jpg"
-            },
-            {
-                "name": "[DBW2211001] DBW2211001 WOOD FLAT DRILL BIT 10MM.png",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/DBW2211001%20-%20Ingco%2010mm%20Flat%20Wood%20Drill%20Bit%20Set/%5BDBW2211001%5D%20DBW2211001%20WOOD%20FLAT%20DRILL%20BIT%2010MM.png"
-            },
-            {
-                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/DBW2211401%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%2014mm/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
-            },
-            {
-                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/DBW2211601%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%206mm/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
-            },
-            {
-                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/DBW2212001%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%2012mm/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
-            },
-            {
-                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/DBW2212501%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%2025mm/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
-            },
-            {
-                "name": "[DBW2211401] DBW2211401 WOOD FLAT DRILL BIT 14MM.png",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/DBW2213001%20-%20Ingco%20WOOD%20FLAT%20DRILL%20BIT%2030MM/%5BDBW2211401%5D%20DBW2211401%20WOOD%20FLAT%20DRILL%20BIT%2014MM.png"
-            },
-            {
-                "name": "download-2025-03-26T111931.382.jfif",
-                "url": "/website%20products/Accessories/Drill%20Bits/Wood%20Drill%20Bits/DH-MBZ006-ED1%20-%20Deli%20Flat%20Wood%20Drill%20Bit%20Set/download-2025-03-26T111931.382.jfif"
+                "name": "TACSDB1901.jpg",
+                "url": "/Website%20Products/Accessories/Drill%20Bits/TACSDB1901%20-%20Total%2019%20Pcs%20Drill%20and%20Screwdriver%20Bits%20Set/TACSDB1901.jpg"
             }
         ],
-        "price": "190",
+        "price": "550",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -757,7 +1173,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "5_87461c00-f76f-4620-a898-b7dab2ca7e79.webp",
-                "url": "/website%20products/Accessories/Extention%20Cables/AET25153N%20-%20Tronic%20Extension%20Reel%20(25mx1.5mm)/5_87461c00-f76f-4620-a898-b7dab2ca7e79.webp"
+                "url": "/Website%20Products/Accessories/Extention%20Cables/AET25153N%20-%20Tronic%20Extension%20Reel%20(25mx1.5mm)/5_87461c00-f76f-4620-a898-b7dab2ca7e79.webp"
             }
         ],
         "price": "12900",
@@ -775,7 +1191,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "5_04793bb4-72e1-4682-8eff-89265897c2e1.webp",
-                "url": "/website%20products/Accessories/Extention%20Cables/AET25253N%20-%20Tronic%20Extension%20Reel%20(25m%20x%202.5mm)/5_04793bb4-72e1-4682-8eff-89265897c2e1.webp"
+                "url": "/Website%20Products/Accessories/Extention%20Cables/AET25253N%20-%20Tronic%20Extension%20Reel%20(25m%20x%202.5mm)/5_04793bb4-72e1-4682-8eff-89265897c2e1.webp"
             }
         ],
         "price": "15850",
@@ -793,7 +1209,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "5.webp",
-                "url": "/website%20products/Accessories/Extention%20Cables/AET50253N%20-%20Tronic%20Extension%20Reel%20(50m%20x%202.5mm)/5.webp"
+                "url": "/Website%20Products/Accessories/Extention%20Cables/AET50253N%20-%20Tronic%20Extension%20Reel%20(50m%20x%202.5mm)/5.webp"
             }
         ],
         "price": "24350",
@@ -811,7 +1227,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1.jpg",
-                "url": "/website%20products/Accessories/Extention%20Cables/Generic%20Cable%20Reel/1.jpg"
+                "url": "/Website%20Products/Accessories/Extention%20Cables/Generic%20Cable%20Reel/1.jpg"
             }
         ],
         "price": "",
@@ -829,7 +1245,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HES03041V] HES03041V 4 WAYS EXTENSION SOCKETS.jfif",
-                "url": "/website%20products/Accessories/Extention%20Cables/HES03041V%20-%20Ingco%204%20Ways%20Extension%20Socket/%5BHES03041V%5D%20HES03041V%204%20WAYS%20EXTENSION%20SOCKETS.jfif"
+                "url": "/Website%20Products/Accessories/Extention%20Cables/HES03041V%20-%20Ingco%204%20Ways%20Extension%20Socket/%5BHES03041V%5D%20HES03041V%204%20WAYS%20EXTENSION%20SOCKETS.jfif"
             }
         ],
         "price": "2000",
@@ -847,7 +1263,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HES13041VSB] HES13041VSB 3 WAYS EXTENSION SOCKETS WITH USB.jfif",
-                "url": "/website%20products/Accessories/Extention%20Cables/HES13041VSB%20-%20Ingco%20Extention%20Cable/%5BHES13041VSB%5D%20HES13041VSB%203%20WAYS%20EXTENSION%20SOCKETS%20WITH%20USB.jfif"
+                "url": "/Website%20Products/Accessories/Extention%20Cables/HES13041VSB%20-%20Ingco%20Extention%20Cable/%5BHES13041VSB%5D%20HES13041VSB%203%20WAYS%20EXTENSION%20SOCKETS%20WITH%20USB.jfif"
             }
         ],
         "price": "2000",
@@ -865,7 +1281,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "55294b9abb723fa5be113089fdec05c6958b6.png",
-                "url": "/website%20products/Accessories/Flap%20Discs/DH-115P100%20-%20Deli%20Flap%20Disc%20(P100)/55294b9abb723fa5be113089fdec05c6958b6.png"
+                "url": "/Website%20Products/Accessories/Flap%20Discs/DH-115P100%20-%20Deli%20Flap%20Disc%20(P100)/55294b9abb723fa5be113089fdec05c6958b6.png"
             }
         ],
         "price": "150",
@@ -883,7 +1299,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "55294b9abb723fa5be113089fdec05c6958b6.png",
-                "url": "/website%20products/Accessories/Flap%20Discs/DH-115P40%20-%20Deli%20Flap%20Disc%20(P40)/55294b9abb723fa5be113089fdec05c6958b6.png"
+                "url": "/Website%20Products/Accessories/Flap%20Discs/DH-115P40%20-%20Deli%20Flap%20Disc%20(P40)/55294b9abb723fa5be113089fdec05c6958b6.png"
             }
         ],
         "price": "150",
@@ -901,7 +1317,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "55294b9abb723fa5be113089fdec05c6958b6.png",
-                "url": "/website%20products/Accessories/Flap%20Discs/DH-115P60%20-%20Deli%20Flap%20Disc%20(P60)/55294b9abb723fa5be113089fdec05c6958b6.png"
+                "url": "/Website%20Products/Accessories/Flap%20Discs/DH-115P60%20-%20Deli%20Flap%20Disc%20(P60)/55294b9abb723fa5be113089fdec05c6958b6.png"
             }
         ],
         "price": "150",
@@ -919,7 +1335,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "55294b9abb723fa5be113089fdec05c6958b6.png",
-                "url": "/website%20products/Accessories/Flap%20Discs/DH-115P80%20-%20Deli%20Flap%20Disc%20(P80)/55294b9abb723fa5be113089fdec05c6958b6.png"
+                "url": "/Website%20Products/Accessories/Flap%20Discs/DH-115P80%20-%20Deli%20Flap%20Disc%20(P80)/55294b9abb723fa5be113089fdec05c6958b6.png"
             }
         ],
         "price": "150",
@@ -937,7 +1353,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC631252.jpg",
-                "url": "/website%20products/Accessories/Flap%20Discs/TAC631252%20-%20Total%20Flap%20Disc%20(P60)/TAC631252.jpg"
+                "url": "/Website%20Products/Accessories/Flap%20Discs/TAC631252%20-%20Total%20Flap%20Disc%20(P60)/TAC631252.jpg"
             }
         ],
         "price": "250",
@@ -955,7 +1371,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC631803.jpg",
-                "url": "/website%20products/Accessories/Flap%20Discs/TAC631803%20-%20Total%20Flap%20Disc%20(P80)/TAC631803.jpg"
+                "url": "/Website%20Products/Accessories/Flap%20Discs/TAC631803%20-%20Total%20Flap%20Disc%20(P80)/TAC631803.jpg"
             }
         ],
         "price": "250",
@@ -973,7 +1389,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "51YTIK+vboL._SX569_.jpg",
-                "url": "/website%20products/Accessories/Hacksaw%20Blades/2608003025%20-%20Bosch%20Hacksaw%20Blade%20(150%20mm)/51YTIK%2BvboL._SX569_.jpg"
+                "url": "/Website%20Products/Accessories/Hacksaw%20Blades/2608003025%20-%20Bosch%20Hacksaw%20Blade%20(150%20mm)/51YTIK%2BvboL._SX569_.jpg"
             }
         ],
         "price": "100",
@@ -991,7 +1407,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608630033-T-111-C-Basic-for-Wood-Jigsaw-Blades-en-KE-o353506v117-2608630808-bo-pro-u-f-2.jpg",
-                "url": "/website%20products/Accessories/Jigsaw%20Blades/T%20111%20C%20-%20%20Bosch%20Basic%205%20Pcs%20Jigsaw%20Blade%20Set%20(Wood)/2608630033-T-111-C-Basic-for-Wood-Jigsaw-Blades-en-KE-o353506v117-2608630808-bo-pro-u-f-2.jpg"
+                "url": "/Website%20Products/Accessories/Jigsaw%20Blades/T%20111%20C%20-%20%20Bosch%20Basic%205%20Pcs%20Jigsaw%20Blade%20Set%20(Wood)/2608630033-T-111-C-Basic-for-Wood-Jigsaw-Blades-en-KE-o353506v117-2608630808-bo-pro-u-f-2.jpg"
             }
         ],
         "price": "500",
@@ -1009,7 +1425,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608630040-T-144-D-Speed-for-Wood-Jigsaw-Blades-en-KE-o353701v117-2608630560-bo-pro-u-f-2.jpg",
-                "url": "/website%20products/Accessories/Jigsaw%20Blades/T%20144%20D%20-%20%20Bosch%20Speed%205%20Pcs%20Jigsaw%20Blade%20Set%20(Wood)/2608630040-T-144-D-Speed-for-Wood-Jigsaw-Blades-en-KE-o353701v117-2608630560-bo-pro-u-f-2.jpg"
+                "url": "/Website%20Products/Accessories/Jigsaw%20Blades/T%20144%20D%20-%20%20Bosch%20Speed%205%20Pcs%20Jigsaw%20Blade%20Set%20(Wood)/2608630040-T-144-D-Speed-for-Wood-Jigsaw-Blades-en-KE-o353701v117-2608630560-bo-pro-u-f-2.jpg"
             }
         ],
         "price": "500",
@@ -1027,7 +1443,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TJSBT111C.jpg",
-                "url": "/website%20products/Accessories/Jigsaw%20Blades/TJSBT111C%20-%20Total%20Jigsaw%20Blade%20Set%20(5%20Pcs)/TJSBT111C.jpg"
+                "url": "/Website%20Products/Accessories/Jigsaw%20Blades/TJSBT111C%20-%20Total%20Jigsaw%20Blade%20Set%20(5%20Pcs)/TJSBT111C.jpg"
             }
         ],
         "price": "350",
@@ -1045,7 +1461,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "EDL4808T-i1_400x.webp",
-                "url": "/website%20products/Accessories/Magnetic%20Nut%20Sets/EDL4808T%20-%20Deli%20Magnetic%20Nut%20Driver%20Set%20(3%20Pcs)/EDL4808T-i1_400x.webp"
+                "url": "/Website%20Products/Accessories/Magnetic%20Nut%20Sets/EDL4808T%20-%20Deli%20Magnetic%20Nut%20Driver%20Set%20(3%20Pcs)/EDL4808T-i1_400x.webp"
             }
         ],
         "price": "450",
@@ -1063,7 +1479,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC270831.jpg",
-                "url": "/website%20products/Accessories/Magnetic%20Nut%20Sets/TAC270831%20-%20Total%203%20Pcs%20Magnetic%20Nut%20Set/TAC270831.jpg"
+                "url": "/Website%20Products/Accessories/Magnetic%20Nut%20Sets/TAC270831%20-%20Total%203%20Pcs%20Magnetic%20Nut%20Set/TAC270831.jpg"
             }
         ],
         "price": "450",
@@ -1081,7 +1497,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC2765061.jpg",
-                "url": "/website%20products/Accessories/Magnetic%20Nut%20Sets/TAC2765061%20-%20Total%20Magnetic%20Impact%20Nut%20Set%20(6%20Pcs)/TAC2765061.jpg"
+                "url": "/Website%20Products/Accessories/Magnetic%20Nut%20Sets/TAC2765061%20-%20Total%20Magnetic%20Impact%20Nut%20Set%20(6%20Pcs)/TAC2765061.jpg"
             }
         ],
         "price": "900",
@@ -1099,7 +1515,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o323279v82_2608619383_bo_pro_u_f_1.webp",
-                "url": "/website%20products/Accessories/Metal%20Cutting%20Discs/2608619383%20-%20Bosch%204.5%20Inch%20(115mm)%20Metal%20Cuting%20Discs/o323279v82_2608619383_bo_pro_u_f_1.webp"
+                "url": "/Website%20Products/Accessories/Metal%20Cutting%20Discs/2608619383%20-%20Bosch%204.5%20Inch%20(115mm)%20Metal%20Cuting%20Discs/o323279v82_2608619383_bo_pro_u_f_1.webp"
             }
         ],
         "price": "65",
@@ -1117,7 +1533,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608619770-Standard-for-Metal-Cutting-Discs-with-Straight-Centre-22.23-mm-Bore-for-Large-Angle-Grin.jpg",
-                "url": "/website%20products/Accessories/Metal%20Cutting%20Discs/2608619770%20-%20Bosch%209%20Inch%20(230mm)%20Metal%20Cutting%20Disc/2608619770-Standard-for-Metal-Cutting-Discs-with-Straight-Centre-22.23-mm-Bore-for-Large-Angle-Grin.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Cutting%20Discs/2608619770%20-%20Bosch%209%20Inch%20(230mm)%20Metal%20Cutting%20Disc/2608619770-Standard-for-Metal-Cutting-Discs-with-Straight-Centre-22.23-mm-Bore-for-Large-Angle-Grin.jpg"
             }
         ],
         "price": "180",
@@ -1135,7 +1551,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC2162301.jpg",
-                "url": "/website%20products/Accessories/Metal%20Cutting%20Discs/TAC2162301%20-%20Total%209%20Inch%20(230mm)%20Metal%20Cutting%20Discs/TAC2162301.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Cutting%20Discs/TAC2162301%20-%20Total%209%20Inch%20(230mm)%20Metal%20Cutting%20Discs/TAC2162301.jpg"
             }
         ],
         "price": "200",
@@ -1153,7 +1569,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608603181-PRO-Metal-Bonded-Grinding-Disc-for-Small-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470251v117-260860318.jpg",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/2608603181%20-%20Bosch%20PRO%20Metal%20Bonded%20Grinding%20Disc%2C%20115%20x%206%20x%2022.23%20mm/2608603181-PRO-Metal-Bonded-Grinding-Disc-for-Small-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470251v117-260860318.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/2608603181%20-%20Bosch%20PRO%20Metal%20Bonded%20Grinding%20Disc%2C%20115%20x%206%20x%2022.23%20mm/2608603181-PRO-Metal-Bonded-Grinding-Disc-for-Small-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470251v117-260860318.jpg"
             }
         ],
         "price": "130",
@@ -1171,7 +1587,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608603182-PRO-Metal-Bonded-Grinding-Disc-for-Small-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470253v117-2608603182-bo-pro-u-f-1.jpg",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/2608603182%20-%20PRO%20Metal%20Bonded%20Grinding%20Disc%2C%20125%20x%206%20x%2022.23%20mm/2608603182-PRO-Metal-Bonded-Grinding-Disc-for-Small-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470253v117-2608603182-bo-pro-u-f-1.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/2608603182%20-%20PRO%20Metal%20Bonded%20Grinding%20Disc%2C%20125%20x%206%20x%2022.23%20mm/2608603182-PRO-Metal-Bonded-Grinding-Disc-for-Small-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470253v117-2608603182-bo-pro-u-f-1.jpg"
             }
         ],
         "price": "140",
@@ -1189,7 +1605,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608603183-PRO-Metal-Bonded-Grinding-Disc-for-Large-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470255v117-2608603183-bo-pro-u-f-1.jpg",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/2608603183%20-%20PRO%20Metal%20Bonded%20Grinding%20Disc%2C%20180%20x%206%20x%2022.23%20mm/2608603183-PRO-Metal-Bonded-Grinding-Disc-for-Large-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470255v117-2608603183-bo-pro-u-f-1.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/2608603183%20-%20PRO%20Metal%20Bonded%20Grinding%20Disc%2C%20180%20x%206%20x%2022.23%20mm/2608603183-PRO-Metal-Bonded-Grinding-Disc-for-Large-Angle-Grinders-Bore-22.23-mm-oSa-en-KE-o470255v117-2608603183-bo-pro-u-f-1.jpg"
             }
         ],
         "price": "200",
@@ -1207,7 +1623,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "51e5ddd72c3d3018ce07ae3e758e601f.webp",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/2608603184%20-%20Bosch%20PRO%20Metal%20Bonded%20Grinding%20Disc%2C%20230%20x%206%20x%2022.23%20mm/51e5ddd72c3d3018ce07ae3e758e601f.webp"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/2608603184%20-%20Bosch%20PRO%20Metal%20Bonded%20Grinding%20Disc%2C%20230%20x%206%20x%2022.23%20mm/51e5ddd72c3d3018ce07ae3e758e601f.webp"
             }
         ],
         "price": "410",
@@ -1225,7 +1641,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[MGD601151] MGD601151  ABRASIVE METAL GRINDING DISC.jfif",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/MGD601151%20-%20Ingco%204%20Inch%20Metal%20Grinding%20Disc/%5BMGD601151%5D%20MGD601151%20%20ABRASIVE%20METAL%20GRINDING%20DISC.jfif"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/MGD601151%20-%20Ingco%204%20Inch%20Metal%20Grinding%20Disc/%5BMGD601151%5D%20MGD601151%20%20ABRASIVE%20METAL%20GRINDING%20DISC.jfif"
             }
         ],
         "price": "250",
@@ -1243,7 +1659,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[MGD601801] MGD601801  ABRASIVE METAL GRINDING DISC.png",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/MGD601801%20-%20Ingco%207%20Inch%20Metal%20Grinding%20Disc/%5BMGD601801%5D%20MGD601801%20%20ABRASIVE%20METAL%20GRINDING%20DISC.png"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/MGD601801%20-%20Ingco%207%20Inch%20Metal%20Grinding%20Disc/%5BMGD601801%5D%20MGD601801%20%20ABRASIVE%20METAL%20GRINDING%20DISC.png"
             }
         ],
         "price": "400",
@@ -1261,7 +1677,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "MCD301151.jpg",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/MGD602301%20-%20Ingco%209%20Inch%20Metal%20grinding%20Disc/MCD301151.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/MGD602301%20-%20Ingco%209%20Inch%20Metal%20grinding%20Disc/MCD301151.jpg"
             }
         ],
         "price": "650",
@@ -1279,7 +1695,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC2231151.jpg",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/TAC2231151%20-%20Total%204%20Inch%20Metal%20Grinding%20Disc/TAC2231151.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/TAC2231151%20-%20Total%204%20Inch%20Metal%20Grinding%20Disc/TAC2231151.jpg"
             }
         ],
         "price": "150",
@@ -1297,7 +1713,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC2231801.jpg",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/TAC2231801%20-%20Total%207%20Inch%20Metal%20Griniding%20Disc/TAC2231801.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/TAC2231801%20-%20Total%207%20Inch%20Metal%20Griniding%20Disc/TAC2231801.jpg"
             }
         ],
         "price": "320",
@@ -1315,7 +1731,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAC2232301.jpg",
-                "url": "/website%20products/Accessories/Metal%20Grinding%20Discs/TAC2232301%20-%20Total%209%20Inch%20Metal%20Grinidng%20Disc/TAC2232301.jpg"
+                "url": "/Website%20Products/Accessories/Metal%20Grinding%20Discs/TAC2232301%20-%20Total%209%20Inch%20Metal%20Grinidng%20Disc/TAC2232301.jpg"
             }
         ],
         "price": "400",
@@ -1333,7 +1749,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[EPB820121] EPB820121 PLANNER BLADE.jfif",
-                "url": "/website%20products/Accessories/Planer%20Blades/EPB820121%20-%20Ingco%20Planer%20Blade/%5BEPB820121%5D%20EPB820121%20PLANNER%20BLADE.jfif"
+                "url": "/Website%20Products/Accessories/Planer%20Blades/EPB820121%20-%20Ingco%20Planer%20Blade/%5BEPB820121%5D%20EPB820121%20PLANNER%20BLADE.jfif"
             }
         ],
         "price": "600",
@@ -1351,7 +1767,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT9391BL-scaled__80395.jpg",
-                "url": "/website%20products/Accessories/Planer%20Blades/THT9391BL%20-%20Total%20Planer%20Blade/THT9391BL-scaled__80395.jpg"
+                "url": "/Website%20Products/Accessories/Planer%20Blades/THT9391BL%20-%20Total%20Planer%20Blade/THT9391BL-scaled__80395.jpg"
             }
         ],
         "price": "250",
@@ -1369,7 +1785,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[RSB611D] RSB611D RECIPROCATING SAW BLADES FOR WOOD.jfif",
-                "url": "/website%20products/Accessories/Reciprocating%20Saw%20Blades/RSB611D%20-%20Ingco%205%20Pcs%20Reciprocating%20Saw%20Blades%20(Wood)/%5BRSB611D%5D%20RSB611D%20RECIPROCATING%20SAW%20BLADES%20FOR%20WOOD.jfif"
+                "url": "/Website%20Products/Accessories/Reciprocating%20Saw%20Blades/RSB611D%20-%20Ingco%205%20Pcs%20Reciprocating%20Saw%20Blades%20(Wood)/%5BRSB611D%5D%20RSB611D%20RECIPROCATING%20SAW%20BLADES%20FOR%20WOOD.jfif"
             }
         ],
         "price": "550",
@@ -1387,7 +1803,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[SSB922EF] SSB922EF RECIPROCATING SAW BLADE.png",
-                "url": "/website%20products/Accessories/Reciprocating%20Saw%20Blades/SSB922EF%20-%20Ingco%205%20Pcs%20Reciprocating%20Saw%20Blades%20(Metal)/%5BSSB922EF%5D%20SSB922EF%20RECIPROCATING%20SAW%20BLADE.png"
+                "url": "/Website%20Products/Accessories/Reciprocating%20Saw%20Blades/SSB922EF%20-%20Ingco%205%20Pcs%20Reciprocating%20Saw%20Blades%20(Metal)/%5BSSB922EF%5D%20SSB922EF%20RECIPROCATING%20SAW%20BLADE.png"
             }
         ],
         "price": "750",
@@ -1405,7 +1821,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "bosch-2607017465-6-mm-wood-drill-bit-set-6-units-1-600x600.jpg",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/2607017465%20-%20Bosch%20PRO%20Router%20Bit%20Straight%20Set%2C%20Shank%206%20mm%2C%206%20pcs/bosch-2607017465-6-mm-wood-drill-bit-set-6-units-1-600x600.jpg"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/2607017465%20-%20Bosch%20PRO%20Router%20Bit%20Straight%20Set%2C%20Shank%206%20mm%2C%206%20pcs/bosch-2607017465-6-mm-wood-drill-bit-set-6-units-1-600x600.jpg"
             }
         ],
         "price": "3500",
@@ -1423,7 +1839,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2607017466-PRO-Router-Bit-Straight-Set-6-pcs-en-KE-o487504v117-2607017466-bo-pro-u-f-1.jpg",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/2607017466%20-%20Bosch%20PRO%20Router%20Bit%20Straight%20Set%2C%20Shank%208%20mm%2C%206%20pcs/2607017466-PRO-Router-Bit-Straight-Set-6-pcs-en-KE-o487504v117-2607017466-bo-pro-u-f-1.jpg"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/2607017466%20-%20Bosch%20PRO%20Router%20Bit%20Straight%20Set%2C%20Shank%208%20mm%2C%206%20pcs/2607017466-PRO-Router-Bit-Straight-Set-6-pcs-en-KE-o487504v117-2607017466-bo-pro-u-f-1.jpg"
             }
         ],
         "price": "3490",
@@ -1441,7 +1857,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2607017471-PRO-Router-Bit-Mixed-Set-15-pcs-en-KE-o518221v117-2607017471-bo-pro-u-f-1.jpg",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/2607017471%20-%20Bosch%20PRO%20Router%20Bit%20Mixed%20Set%2C%20Shank%206%20mm%2C%2015%20pcs/2607017471-PRO-Router-Bit-Mixed-Set-15-pcs-en-KE-o518221v117-2607017471-bo-pro-u-f-1.jpg"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/2607017471%20-%20Bosch%20PRO%20Router%20Bit%20Mixed%20Set%2C%20Shank%206%20mm%2C%2015%20pcs/2607017471-PRO-Router-Bit-Mixed-Set-15-pcs-en-KE-o518221v117-2607017471-bo-pro-u-f-1.jpg"
             }
         ],
         "price": "8890",
@@ -1459,7 +1875,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2607017472-PRO-Router-Bit-Mixed-Set-15-pcs-en-KE-o487512v117-2607017472-bo-pro-u-f-1.jpg",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/2607017472%20-%20Bosch%20PRO%20Router%20Bit%20Mixed%20Set%2C%20Shank%208%20mm%2C%2015%20pcs/2607017472-PRO-Router-Bit-Mixed-Set-15-pcs-en-KE-o487512v117-2607017472-bo-pro-u-f-1.jpg"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/2607017472%20-%20Bosch%20PRO%20Router%20Bit%20Mixed%20Set%2C%20Shank%208%20mm%2C%2015%20pcs/2607017472-PRO-Router-Bit-Mixed-Set-15-pcs-en-KE-o487512v117-2607017472-bo-pro-u-f-1.jpg"
             }
         ],
         "price": "8900",
@@ -1477,7 +1893,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2607019464-6-piece-TC-router-bit-set-6-mm-shank-en-KE-o179487v288-2607019464-bo-pl-u-a-1.png",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/2607019464%20-%20Bosch%20Tungsten-carbide%20Router%20Bit%20Set%206%20Pieces/2607019464-6-piece-TC-router-bit-set-6-mm-shank-en-KE-o179487v288-2607019464-bo-pl-u-a-1.png"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/2607019464%20-%20Bosch%20Tungsten-carbide%20Router%20Bit%20Set%206%20Pieces/2607019464-6-piece-TC-router-bit-set-6-mm-shank-en-KE-o179487v288-2607019464-bo-pl-u-a-1.png"
             }
         ],
         "price": "4600",
@@ -1495,7 +1911,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2607019469-15-piece-TC-router-bit-set-8-mm-shank-en-KE-o406429v288-2607019469-bo-pl-u-a-1.png",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/2607019469%20-%20Bosch%20Tungsten-carbide%20Router%20Bit%20Set%2015%20pcs/2607019469-15-piece-TC-router-bit-set-8-mm-shank-en-KE-o406429v288-2607019469-bo-pl-u-a-1.png"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/2607019469%20-%20Bosch%20Tungsten-carbide%20Router%20Bit%20Set%2015%20pcs/2607019469-15-piece-TC-router-bit-set-8-mm-shank-en-KE-o406429v288-2607019469-bo-pl-u-a-1.png"
             }
         ],
         "price": "8670",
@@ -1513,7 +1929,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "26150660JA-DREMEL-Multipurpose-Router-Bit-Set--en-KE-dremelmdb01-o16221v113-16221.png",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/26150660JA%20-%20DREMEL%C2%AE%20Multipurpose%20Router%20Bit%20Set/26150660JA-DREMEL-Multipurpose-Router-Bit-Set--en-KE-dremelmdb01-o16221v113-16221.png"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/26150660JA%20-%20DREMEL%C2%AE%20Multipurpose%20Router%20Bit%20Set/26150660JA-DREMEL-Multipurpose-Router-Bit-Set--en-KE-dremelmdb01-o16221v113-16221.png"
             }
         ],
         "price": "8150",
@@ -1531,7 +1947,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[AKRT1201] AKRT1201 12 PCS ROUTER BIT SET 6MM.jfif",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/AKRT1201%20-%20Ingco%20Router%20Bit%20Set%20(6mm)/%5BAKRT1201%5D%20AKRT1201%2012%20PCS%20ROUTER%20BIT%20SET%206MM.jfif"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/AKRT1201%20-%20Ingco%20Router%20Bit%20Set%20(6mm)/%5BAKRT1201%5D%20AKRT1201%2012%20PCS%20ROUTER%20BIT%20SET%206MM.jfif"
             }
         ],
         "price": "",
@@ -1549,7 +1965,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[AKRT1211] AKRT1211 12 PCS ROUTER BIT SET 8MM.jfif",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/AKRT1211%20-%20Ingco%20Router%20Bit%20Set%20(8mm)/%5BAKRT1211%5D%20AKRT1211%2012%20PCS%20ROUTER%20BIT%20SET%208MM.jfif"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/AKRT1211%20-%20Ingco%20Router%20Bit%20Set%20(8mm)/%5BAKRT1211%5D%20AKRT1211%2012%20PCS%20ROUTER%20BIT%20SET%208MM.jfif"
             }
         ],
         "price": "",
@@ -1567,7 +1983,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TACSR0121.webp",
-                "url": "/website%20products/Accessories/Router%20Bits%20Set/TACSR0121%20-%20Total%20Router%20Bits%20Set%20(6mm)/TACSR0121.webp"
+                "url": "/Website%20Products/Accessories/Router%20Bits%20Set/TACSR0121%20-%20Total%20Router%20Bits%20Set%20(6mm)/TACSR0121.webp"
             }
         ],
         "price": "3500",
@@ -1585,7 +2001,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608606081-PRO-X440-Sanding-Belt-for-Sanders-en-KE-o42724.jpg",
-                "url": "/website%20products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/2608606081%20-%20Bosch%20X440%20Sanding%20Belt%20(Belt%20Sander%20Sanding%20Sheets)/2608606081-PRO-X440-Sanding-Belt-for-Sanders-en-KE-o42724.jpg"
+                "url": "/Website%20Products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/2608606081%20-%20Bosch%20X440%20Sanding%20Belt%20(Belt%20Sander%20Sanding%20Sheets)/2608606081-PRO-X440-Sanding-Belt-for-Sanders-en-KE-o42724.jpg"
             }
         ],
         "price": "1860",
@@ -1603,7 +2019,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[AKRS150051] SANDING SHEET AKRS150051.webp",
-                "url": "/website%20products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/AKRS150051%20-%20Ingco%20Sanding%20Sheet%20for%20Sander%20(150mm)/%5BAKRS150051%5D%20SANDING%20SHEET%20AKRS150051.webp"
+                "url": "/Website%20Products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/AKRS150051%20-%20Ingco%20Sanding%20Sheet%20for%20Sander%20(150mm)/%5BAKRS150051%5D%20SANDING%20SHEET%20AKRS150051.webp"
             }
         ],
         "price": "450",
@@ -1621,7 +2037,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "dh-dsz610-e1_l.jpg",
-                "url": "/website%20products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/EDH-DSZ610-E1%20-%20Deli%20Belt%20Sander%20Sheet%20(P80)%20(2%20Pcs)%20(100x610mm)/dh-dsz610-e1_l.jpg"
+                "url": "/Website%20Products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/EDH-DSZ610-E1%20-%20Deli%20Belt%20Sander%20Sheet%20(P80)%20(2%20Pcs)%20(100x610mm)/dh-dsz610-e1_l.jpg"
             }
         ],
         "price": "300",
@@ -1639,7 +2055,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "sgs-180mm-velcro-sanding-disc-pad-base.webp",
-                "url": "/website%20products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/Generic%20Velcro%20Backing%20Pad/sgs-180mm-velcro-sanding-disc-pad-base.webp"
+                "url": "/Website%20Products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/Generic%20Velcro%20Backing%20Pad/sgs-180mm-velcro-sanding-disc-pad-base.webp"
             }
         ],
         "price": "",
@@ -1657,7 +2073,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "download.jfif",
-                "url": "/website%20products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/Generic%20Velcro%20Sanding%20Sheets%20(Sandpaper)/download.jfif"
+                "url": "/Website%20Products/Accessories/Sanding%20Sheet%20(Sandpaper)%20and%20Sanding%20Backing%20Pads/Generic%20Velcro%20Sanding%20Sheets%20(Sandpaper)/download.jfif"
             }
         ],
         "price": "",
@@ -1675,7 +2091,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[STS0108] STS0108 STAPLES 8MM.jfif",
-                "url": "/website%20products/Accessories/Staple%20Pins/Ingco%20Staples%20(%23%20x%2011.3%20x%200.7mm)/%5BSTS0108%5D%20STS0108%20STAPLES%208MM.jfif"
+                "url": "/Website%20Products/Accessories/Staple%20Pins/Ingco%20Staples%20(%23%20x%2011.3%20x%200.7mm)/%5BSTS0108%5D%20STS0108%20STAPLES%208MM.jfif"
             }
         ],
         "price": "",
@@ -1693,7 +2109,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[STS0208] STS0208 STAPLES 8MM.png",
-                "url": "/website%20products/Accessories/Staple%20Pins/Ingco%20Staples%20(%23%20x%2011.3%20x%201.2mm)/%5BSTS0208%5D%20STS0208%20STAPLES%208MM.png"
+                "url": "/Website%20Products/Accessories/Staple%20Pins/Ingco%20Staples%20(%23%20x%2011.3%20x%201.2mm)/%5BSTS0208%5D%20STS0208%20STAPLES%208MM.png"
             }
         ],
         "price": "",
@@ -1711,10 +2127,28 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT3981.jpg",
-                "url": "/website%20products/Accessories/Staple%20Pins/Total%20Staples%20(%23%20x%2011.3%20x%200.7mm)/THT3981.jpg"
+                "url": "/Website%20Products/Accessories/Staple%20Pins/Total%20Staples%20(%23%20x%2011.3%20x%200.7mm)/THT3981.jpg"
             }
         ],
         "price": "",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "edh-jtz0003-ed1---deli-step-drill-bits-set-3-pcs",
+        "name": "EDH-JTZ0003-ED1 - Deli Step Drill Bits Set (3 Pcs)",
+        "description": "Sizes Included:\n\n4–12mm\n4–20mm\n4–32mm\nMaterial: HSS 4241\nFinish: Titanium coated for wear resistance and extended life\nShank Type: Round shank, fits standard chucks\nMarkings: Laser-etched step sizes for quick identification\nUse Case: Ideal for sheet metal, plastic, and wood",
+        "category": "Accessories",
+        "subcategory": "Step Drill Bits",
+        "images": [
+            {
+                "name": "1_accfc396-e5cc-4053-a750-fb46f1d7528c.webp",
+                "url": "/Website%20Products/Accessories/Step%20Drill%20Bits/EDH-JTZ0003-ED1%20-%20Deli%20Step%20Drill%20Bits%20Set%20(3%20Pcs)/1_accfc396-e5cc-4053-a750-fb46f1d7528c.webp"
+            }
+        ],
+        "price": "2250",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -1729,7 +2163,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TPVP1451.jpg",
-                "url": "/website%20products/Accessories/Vibrator%20Pokers/TPVP1451%20-%20Total%20Vibrator%20Poker%20(45mm)/TPVP1451.jpg"
+                "url": "/Website%20Products/Accessories/Vibrator%20Pokers/TPVP1451%20-%20Total%20Vibrator%20Poker%20(45mm)/TPVP1451.jpg"
             }
         ],
         "price": "15000",
@@ -1747,7 +2181,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[VBP1382] VBP1382 VIBRATOR POKER 38MM.jfif",
-                "url": "/website%20products/Accessories/Vibrator%20Pokers/VBP1382%20-%20Ingco%20Vibrator%20Poker%20(38mm)/%5BVBP1382%5D%20VBP1382%20VIBRATOR%20POKER%2038MM.jfif"
+                "url": "/Website%20Products/Accessories/Vibrator%20Pokers/VBP1382%20-%20Ingco%20Vibrator%20Poker%20(38mm)/%5BVBP1382%5D%20VBP1382%20VIBRATOR%20POKER%2038MM.jfif"
             }
         ],
         "price": "17500",
@@ -1765,7 +2199,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[VBP1452] VBP1452 VIBRATOR POKER 45MM.jfif",
-                "url": "/website%20products/Accessories/Vibrator%20Pokers/VBP1452%20-%20Ingco%20Vibrator%20Poker%20(45mm)/%5BVBP1452%5D%20VBP1452%20VIBRATOR%20POKER%2045MM.jfif"
+                "url": "/Website%20Products/Accessories/Vibrator%20Pokers/VBP1452%20-%20Ingco%20Vibrator%20Poker%20(45mm)/%5BVBP1452%5D%20VBP1452%20VIBRATOR%20POKER%2045MM.jfif"
             }
         ],
         "price": "19000",
@@ -1783,7 +2217,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o353109v82_2608901168-standard-portrait-unpackaged-front-nodim.webp",
-                "url": "/website%20products/Consumables/2608901168%20-%20Bosch%20EXPERT%20S470%20Combi%20Block%2069%20x%2097%20x%2026%20mm%2C%20Fine/o353109v82_2608901168-standard-portrait-unpackaged-front-nodim.webp"
+                "url": "/Website%20Products/Consumables/2608901168%20-%20Bosch%20EXPERT%20S470%20Combi%20Block%2069%20x%2097%20x%2026%20mm%2C%20Fine/o353109v82_2608901168-standard-portrait-unpackaged-front-nodim.webp"
             }
         ],
         "price": "200",
@@ -1801,7 +2235,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608901169-EXPERT-S471-Standard-Sanding-Block-en-KE-o353115v117-2608901169-bo-pro-u-f-1.jpg",
-                "url": "/website%20products/Consumables/2608901169%20-%20Bosch%20EXPERT%20S471%20Standard%20Sanding%20Block%2C%2026%20x%2069%20x%2097%20mm%2C%20Medium/2608901169-EXPERT-S471-Standard-Sanding-Block-en-KE-o353115v117-2608901169-bo-pro-u-f-1.jpg"
+                "url": "/Website%20Products/Consumables/2608901169%20-%20Bosch%20EXPERT%20S471%20Standard%20Sanding%20Block%2C%2026%20x%2069%20x%2097%20mm%2C%20Medium/2608901169-EXPERT-S471-Standard-Sanding-Block-en-KE-o353115v117-2608901169-bo-pro-u-f-1.jpg"
             }
         ],
         "price": "150",
@@ -1819,7 +2253,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2608901180-EXPERT-S471-Standard-Sanding-Block-en-KE-o353157v117-2608901180-bo-pro-u-f-1.jpg",
-                "url": "/website%20products/Consumables/2608901180%20-%20Bosch%20EXPERT%20S471%20Standard%20Sanding%20Block%2C%2026%20x%2069%20x%2097%20mm%2C%20Super%20Fine/2608901180-EXPERT-S471-Standard-Sanding-Block-en-KE-o353157v117-2608901180-bo-pro-u-f-1.jpg"
+                "url": "/Website%20Products/Consumables/2608901180%20-%20Bosch%20EXPERT%20S471%20Standard%20Sanding%20Block%2C%2026%20x%2069%20x%2097%20mm%2C%20Super%20Fine/2608901180-EXPERT-S471-Standard-Sanding-Block-en-KE-o353157v117-2608901180-bo-pro-u-f-1.jpg"
             }
         ],
         "price": "150",
@@ -1837,7 +2271,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "PUFOAMGOLDPREMIUM.webp",
-                "url": "/website%20products/Consumables/Asmaco%20PU%20Foam%20(Gold)/PUFOAMGOLDPREMIUM.webp"
+                "url": "/Website%20Products/Consumables/Asmaco%20PU%20Foam%20(Gold)/PUFOAMGOLDPREMIUM.webp"
             }
         ],
         "price": "750",
@@ -1855,7 +2289,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AsmacoUniversalMultiFoam.webp",
-                "url": "/website%20products/Consumables/Asmaco%20PU%20Foam%20(Green)/AsmacoUniversalMultiFoam.webp"
+                "url": "/Website%20Products/Consumables/Asmaco%20PU%20Foam%20(Green)/AsmacoUniversalMultiFoam.webp"
             }
         ],
         "price": "550",
@@ -1873,7 +2307,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Spraypaintinterior.webp",
-                "url": "/website%20products/Consumables/Asmaco%20Spray%20Paints/Spraypaintinterior.webp"
+                "url": "/Website%20Products/Consumables/Asmaco%20Spray%20Paints/Spraypaintinterior.webp"
             }
         ],
         "price": "250",
@@ -1891,11 +2325,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "NTBLACK_8db04f09-6e48-47eb-837a-bd391c92e821.webp",
-                "url": "/website%20products/Consumables/Cable%20Ties/NTBLACK_8db04f09-6e48-47eb-837a-bd391c92e821.webp"
+                "url": "/Website%20Products/Consumables/Cable%20Ties/NTBLACK_8db04f09-6e48-47eb-837a-bd391c92e821.webp"
             },
             {
                 "name": "NTWHITE.webp",
-                "url": "/website%20products/Consumables/Cable%20Ties/NTWHITE.webp"
+                "url": "/Website%20Products/Consumables/Cable%20Ties/NTWHITE.webp"
             }
         ],
         "price": "",
@@ -1913,7 +2347,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DL390050B-i1_400x.webp",
-                "url": "/website%20products/Consumables/DL390050B%20-%20Deli%20Glue%20Gun%20Stick/DL390050B-i1_400x.webp"
+                "url": "/Website%20Products/Consumables/DL390050B%20-%20Deli%20Glue%20Gun%20Stick/DL390050B-i1_400x.webp"
             }
         ],
         "price": "45",
@@ -1931,7 +2365,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "13a.jpg",
-                "url": "/website%20products/Consumables/DL8080-1%20-%20Deli%20Vacuum%20Cleaner%20Replacement%20Filter/13a.jpg"
+                "url": "/Website%20Products/Consumables/DL8080-1%20-%20Deli%20Vacuum%20Cleaner%20Replacement%20Filter/13a.jpg"
             }
         ],
         "price": "500",
@@ -1949,7 +2383,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "{DE1D1808-3AA2-4750-AE5C-BCEC86CA2B11}.png",
-                "url": "/website%20products/Consumables/Gypsum%20Screws/961A%20-%20Gypsum%20Screws%20(3.5%20x%2015mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
+                "url": "/Website%20Products/Consumables/Gypsum%20Screws/961A%20-%20Gypsum%20Screws%20(3.5%20x%2015mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
             }
         ],
         "price": "155",
@@ -1967,7 +2401,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "{DE1D1808-3AA2-4750-AE5C-BCEC86CA2B11}.png",
-                "url": "/website%20products/Consumables/Gypsum%20Screws/961B%20-%20Gypsum%20Screws%20(3.5%20x%2025mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
+                "url": "/Website%20Products/Consumables/Gypsum%20Screws/961B%20-%20Gypsum%20Screws%20(3.5%20x%2025mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
             }
         ],
         "price": "165",
@@ -1985,7 +2419,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "{DE1D1808-3AA2-4750-AE5C-BCEC86CA2B11}.png",
-                "url": "/website%20products/Consumables/Gypsum%20Screws/961C%20-%20Gypsum%20Screws%20(3.5%20x%2032mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
+                "url": "/Website%20Products/Consumables/Gypsum%20Screws/961C%20-%20Gypsum%20Screws%20(3.5%20x%2032mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
             }
         ],
         "price": "220",
@@ -2003,7 +2437,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "{DE1D1808-3AA2-4750-AE5C-BCEC86CA2B11}.png",
-                "url": "/website%20products/Consumables/Gypsum%20Screws/961D%20-%20Gypsum%20Screws%20(3.5%20x%2040mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
+                "url": "/Website%20Products/Consumables/Gypsum%20Screws/961D%20-%20Gypsum%20Screws%20(3.5%20x%2040mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
             }
         ],
         "price": "220",
@@ -2021,7 +2455,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "{DE1D1808-3AA2-4750-AE5C-BCEC86CA2B11}.png",
-                "url": "/website%20products/Consumables/Gypsum%20Screws/961E%20-%20Gypsum%20Screws%20(3.5%20x%2050mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
+                "url": "/Website%20Products/Consumables/Gypsum%20Screws/961E%20-%20Gypsum%20Screws%20(3.5%20x%2050mm)/%7BDE1D1808-3AA2-4750-AE5C-BCEC86CA2B11%7D.png"
             }
         ],
         "price": "275",
@@ -2039,7 +2473,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299%20-%20MDF%20Screws%20(3.5%20x%2016mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299%20-%20MDF%20Screws%20(3.5%20x%2016mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
         "price": "115",
@@ -2057,10 +2491,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299A%20-%20MDF%20Screws%20(4%20x%2019mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299A%20-%20MDF%20Screws%20(4%20x%2019mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
-        "price": "140",
+        "price": "150",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -2075,7 +2509,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299B%20-%20MDF%20Screws%20(4%20x%2025mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299B%20-%20MDF%20Screws%20(4%20x%2025mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
         "price": "190",
@@ -2093,7 +2527,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299C%20-%20MDF%20Screws%20(4%20x%2030mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299C%20-%20MDF%20Screws%20(4%20x%2030mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
         "price": "190",
@@ -2111,7 +2545,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299D%20-%20MDF%20Screws%20(4%20x%2040mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299D%20-%20MDF%20Screws%20(4%20x%2040mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
         "price": "230",
@@ -2129,7 +2563,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299E%20-%20MDF%20Screws%20(4%20x%2050mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299E%20-%20MDF%20Screws%20(4%20x%2050mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
         "price": "250",
@@ -2147,7 +2581,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299F%20-%20MDF%20Screws%20(4%20x%2060mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299F%20-%20MDF%20Screws%20(4%20x%2060mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
         "price": "320",
@@ -2165,7 +2599,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299H%20-%20MDF%20Screws%20(5%20x%2075mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299H%20-%20MDF%20Screws%20(5%20x%2075mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
         "price": "615",
@@ -2183,10 +2617,28 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 125341.png",
-                "url": "/website%20products/Consumables/MDF%20Screws/2299J%20-%20MDF%20Screws%20(5%20x%20100mm)/Screenshot%202026-04-16%20125341.png"
+                "url": "/Website%20Products/Consumables/MDF%20Screws/2299J%20-%20MDF%20Screws%20(5%20x%20100mm)/Screenshot%202026-04-16%20125341.png"
             }
         ],
         "price": "1200",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "malpa-hinges-hydraulic",
+        "name": "Malpa Hinges (Hydraulic)",
+        "description": "Cup Size : 35mm\n\nPRICE : 150",
+        "category": "Consumables",
+        "subcategory": "Consumables",
+        "images": [
+            {
+                "name": "{8496C96D-4DC3-47C8-9701-D3B9013D5D3C}.png",
+                "url": "/Website%20Products/Consumables/Malpa%20Hinges%20(Hydraulic)/%7B8496C96D-4DC3-47C8-9701-D3B9013D5D3C%7D.png"
+            }
+        ],
+        "price": "",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -2201,7 +2653,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 132450.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screw%20CSK%20Star%20Screw/2262G%20-%20Self%20Drilling%20CSK%20Star%20Screw%20(4.0%20x%2025mm)/Screenshot%202026-04-16%20132450.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screw%20CSK%20Star%20Screw/2262G%20-%20Self%20Drilling%20CSK%20Star%20Screw%20(4.0%20x%2025mm)/Screenshot%202026-04-16%20132450.png"
             }
         ],
         "price": "250",
@@ -2219,7 +2671,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 132450.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screw%20CSK%20Star%20Screw/2262H%20-%20Self%20Drilling%20CSK%20Star%20Screw%20(4.0%20x%2032mm)/Screenshot%202026-04-16%20132450.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screw%20CSK%20Star%20Screw/2262H%20-%20Self%20Drilling%20CSK%20Star%20Screw%20(4.0%20x%2032mm)/Screenshot%202026-04-16%20132450.png"
             }
         ],
         "price": "330",
@@ -2237,7 +2689,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 132450.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screw%20CSK%20Star%20Screw/2262I%20-%20Self%20Drilling%20CSK%20Star%20Screw%20(4.0%20x%2038mm)/Screenshot%202026-04-16%20132450.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screw%20CSK%20Star%20Screw/2262I%20-%20Self%20Drilling%20CSK%20Star%20Screw%20(4.0%20x%2038mm)/Screenshot%202026-04-16%20132450.png"
             }
         ],
         "price": "350",
@@ -2255,7 +2707,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 132450.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screw%20CSK%20Star%20Screw/2262J%20-%20Self%20Drilling%20CSK%20Star%20Screw%20(4.0%20x%2050mm)/Screenshot%202026-04-16%20132450.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screw%20CSK%20Star%20Screw/2262J%20-%20Self%20Drilling%20CSK%20Star%20Screw%20(4.0%20x%2050mm)/Screenshot%202026-04-16%20132450.png"
             }
         ],
         "price": "465",
@@ -2273,7 +2725,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 131909.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screws/2262%20-%205.5%20x%2020mm/Screenshot%202026-04-16%20131909.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screws/2262%20-%205.5%20x%2020mm/Screenshot%202026-04-16%20131909.png"
             }
         ],
         "price": "290",
@@ -2291,7 +2743,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 131909.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screws/2262A%20-%205.5%20x%2025mm/Screenshot%202026-04-16%20131909.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screws/2262A%20-%205.5%20x%2025mm/Screenshot%202026-04-16%20131909.png"
             }
         ],
         "price": "600",
@@ -2309,7 +2761,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 131909.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screws/2262B%20-%205.5%20x%2035mm/Screenshot%202026-04-16%20131909.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screws/2262B%20-%205.5%20x%2035mm/Screenshot%202026-04-16%20131909.png"
             }
         ],
         "price": "700",
@@ -2327,7 +2779,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 131909.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screws/2262C%20-%205.5%20x%2040mm/Screenshot%202026-04-16%20131909.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screws/2262C%20-%205.5%20x%2040mm/Screenshot%202026-04-16%20131909.png"
             }
         ],
         "price": "700",
@@ -2345,7 +2797,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 131909.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screws/2262D%20-%205.5%20x%2050mm/Screenshot%202026-04-16%20131909.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screws/2262D%20-%205.5%20x%2050mm/Screenshot%202026-04-16%20131909.png"
             }
         ],
         "price": "700",
@@ -2363,7 +2815,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 131909.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screws/2262E%20-%205.5%20x%2063mm/Screenshot%202026-04-16%20131909.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screws/2262E%20-%205.5%20x%2063mm/Screenshot%202026-04-16%20131909.png"
             }
         ],
         "price": "700",
@@ -2381,7 +2833,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-16 131909.png",
-                "url": "/website%20products/Consumables/Self%20Drilling%20Screws/2262F%20-%205.5%20x%2075mm/Screenshot%202026-04-16%20131909.png"
+                "url": "/Website%20Products/Consumables/Self%20Drilling%20Screws/2262F%20-%205.5%20x%2075mm/Screenshot%202026-04-16%20131909.png"
             }
         ],
         "price": "700",
@@ -2399,7 +2851,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT3521.webp",
-                "url": "/website%20products/Consumables/THT3521%20-%20Total%20Superglue/THT3521.webp"
+                "url": "/Website%20Products/Consumables/THT3521%20-%20Total%20Superglue/THT3521.webp"
             }
         ],
         "price": "50",
@@ -2417,7 +2869,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Tianqin_TQ82086_400x.webp",
-                "url": "/website%20products/Consumables/TQ82086%20-%20Tianqin%20Screw%20Extractor%20Set%20(6%20Pcs)/Tianqin_TQ82086_400x.webp"
+                "url": "/Website%20Products/Consumables/TQ82086%20-%20Tianqin%20Screw%20Extractor%20Set%20(6%20Pcs)/Tianqin_TQ82086_400x.webp"
             }
         ],
         "price": "500",
@@ -2435,7 +2887,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ADJUSTABLE-NOZZLE-768x768.jpg.webp",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/57101%20-%20Tolsen%20Adjustable%20Nozzle/ADJUSTABLE-NOZZLE-768x768.jpg.webp"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/57101%20-%20Tolsen%20Adjustable%20Nozzle/ADJUSTABLE-NOZZLE-768x768.jpg.webp"
             }
         ],
         "price": "500",
@@ -2453,7 +2905,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ADJUSTABLE-NOZZLE-768x768.jpg (1).webp",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/57102%20-%20Tolsen%20Adjustable%20Nozzle%20(Quick%20Connect)/ADJUSTABLE-NOZZLE-768x768.jpg%20(1).webp"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/57102%20-%20Tolsen%20Adjustable%20Nozzle%20(Quick%20Connect)/ADJUSTABLE-NOZZLE-768x768.jpg%20(1).webp"
             }
         ],
         "price": "150",
@@ -2471,7 +2923,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "GARDEN-RAKE-768x768.jpg.webp",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/57510%20-%20Tolsen%206%20Inch%20Garden%20Rake/GARDEN-RAKE-768x768.jpg.webp"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/57510%20-%20Tolsen%206%20Inch%20Garden%20Rake/GARDEN-RAKE-768x768.jpg.webp"
             }
         ],
         "price": "750",
@@ -2489,7 +2941,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1827701079668641.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/EDL2779%20-%20Deli%20Loppers%20(26.5'')/1827701079668641.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/EDL2779%20-%20Deli%20Loppers%20(26.5'')/1827701079668641.jpg"
             }
         ],
         "price": "1250",
@@ -2507,7 +2959,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "4a-4-600x600.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/EDL580321%20-%20Deli%20Loppers%20(30.5'')/4a-4-600x600.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/EDL580321%20-%20Deli%20Loppers%20(30.5'')/4a-4-600x600.jpg"
             }
         ],
         "price": "2250",
@@ -2525,7 +2977,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl580803-3-piece-gardening-tool-set.webp",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/EDL580803%20-%20Deli%20Gardening%20Tool%20Set%20(3%20Pcs)/edl580803-3-piece-gardening-tool-set.webp"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/EDL580803%20-%20Deli%20Gardening%20Tool%20Set%20(3%20Pcs)/edl580803-3-piece-gardening-tool-set.webp"
             }
         ],
         "price": "850",
@@ -2543,7 +2995,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "9203740.png",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/EDL58110B%20-%20Deli%20Mini%20Hose%20Reel%20Set/9203740.png"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/EDL58110B%20-%20Deli%20Mini%20Hose%20Reel%20Set/9203740.png"
             }
         ],
         "price": "3250",
@@ -2561,7 +3013,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GBC31264] GBC31264 GASOLINE GRASS TRIMMER AND BUSH CUTTER 30.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GBC31264%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter/%5BGBC31264%5D%20GBC31264%20GASOLINE%20GRASS%20TRIMMER%20AND%20BUSH%20CUTTER%2030.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GBC31264%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter/%5BGBC31264%5D%20GBC31264%20GASOLINE%20GRASS%20TRIMMER%20AND%20BUSH%20CUTTER%2030.jfif"
             }
         ],
         "price": "26000",
@@ -2579,7 +3031,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GBC45441] GBC45441 GASOLINE GRASS TRIMMER & BUSH CUTTER 43CC.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GBC45441%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(43cc)/%5BGBC45441%5D%20GBC45441%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2043CC.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GBC45441%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(43cc)/%5BGBC45441%5D%20GBC45441%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2043CC.jfif"
             }
         ],
         "price": "20000",
@@ -2597,7 +3049,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GBC53144141] GBC53144141 GASOLINE GRASS TRIMMER & BUSH CUTTER 31CC.png",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GBC53144141%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(31cc)/%5BGBC53144141%5D%20GBC53144141%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2031CC.png"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GBC53144141%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(31cc)/%5BGBC53144141%5D%20GBC53144141%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2031CC.png"
             }
         ],
         "price": "34000",
@@ -2615,7 +3067,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GBC5524421] GBC5524421 GASOLINE GRASS TRIMMER & BUSH CUTTER 52CC.png",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GBC5524421%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(52cc)/%5BGBC5524421%5D%20GBC5524421%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2052CC.png"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GBC5524421%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(52cc)/%5BGBC5524421%5D%20GBC5524421%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2052CC.png"
             }
         ],
         "price": "28850",
@@ -2633,7 +3085,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GC6101] GC6101 GASOLINE CULTIVATOR 6.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GC6101%20-%20Ingco%20Gasoline%20Cultivator/%5BGC6101%5D%20GC6101%20GASOLINE%20CULTIVATOR%206.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GC6101%20-%20Ingco%20Gasoline%20Cultivator/%5BGC6101%5D%20GC6101%20GASOLINE%20CULTIVATOR%206.jfif"
             }
         ],
         "price": "108000",
@@ -2651,7 +3103,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GCS5602411] GCS5602411 GASOLINE CHAIN SAW 62CC TOP 50.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GCS5602411%20-%20Ingco%20Gasoline%20Chainsaw%20(62cc)/%5BGCS5602411%5D%20GCS5602411%20GASOLINE%20CHAIN%20SAW%2062CC%20TOP%2050.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GCS5602411%20-%20Ingco%20Gasoline%20Chainsaw%20(62cc)/%5BGCS5602411%5D%20GCS5602411%20GASOLINE%20CHAIN%20SAW%2062CC%20TOP%2050.jfif"
             }
         ],
         "price": "43500",
@@ -2669,7 +3121,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GCS62241] GCS62241 GASOLINE CHAIN SAW 62CC.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GCS62241%20-%20Ingco%20Gasoline%20Chainsaw%20(62cc)/%5BGCS62241%5D%20GCS62241%20GASOLINE%20CHAIN%20SAW%2062CC.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GCS62241%20-%20Ingco%20Gasoline%20Chainsaw%20(62cc)/%5BGCS62241%5D%20GCS62241%20GASOLINE%20CHAIN%20SAW%2062CC.jfif"
             }
         ],
         "price": "45000",
@@ -2687,7 +3139,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GHT5265511] GHT5265511 GASOLINE GRASS TRIMMER AND BUSH CUTTER.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GHT5265511%20-%20Ingco%20Gasoline%20Hedge%20Trimmer/%5BGHT5265511%5D%20GHT5265511%20GASOLINE%20GRASS%20TRIMMER%20AND%20BUSH%20CUTTER.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GHT5265511%20-%20Ingco%20Gasoline%20Hedge%20Trimmer/%5BGHT5265511%5D%20GHT5265511%20GASOLINE%20GRASS%20TRIMMER%20AND%20BUSH%20CUTTER.jfif"
             }
         ],
         "price": "34650",
@@ -2705,7 +3157,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GLM141181] GLM141181 GASOLINE LAWN MOWER 141CC-4HP.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GLM141181%20-%20Ingco%20Gasoline%20Lawnmower%20(141cc)%20(4HP)/%5BGLM141181%5D%20GLM141181%20GASOLINE%20LAWN%20MOWER%20141CC-4HP.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GLM141181%20-%20Ingco%20Gasoline%20Lawnmower%20(141cc)%20(4HP)/%5BGLM141181%5D%20GLM141181%20GASOLINE%20LAWN%20MOWER%20141CC-4HP.jfif"
             }
         ],
         "price": "71000",
@@ -2723,7 +3175,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GLM196201] GLM196201 GASOLINE LAWN MOWER 196CC-4.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GLM196201%20-%20Ingco%20Gasoline%20Lawnmower%20(4.8HP)%20(196cc)/%5BGLM196201%5D%20GLM196201%20GASOLINE%20LAWN%20MOWER%20196CC-4.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GLM196201%20-%20Ingco%20Gasoline%20Lawnmower%20(4.8HP)%20(196cc)/%5BGLM196201%5D%20GLM196201%20GASOLINE%20LAWN%20MOWER%20196CC-4.jfif"
             }
         ],
         "price": "81000",
@@ -2741,7 +3193,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP201H] GWP201H GASOLINE HIGH PRESSURE WATER PUMP 2_.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GWP201H%20-%20Ingco%20Gasoline%20High%20Pressure%20Water%20Pump%20(2'')/%5BGWP201H%5D%20GWP201H%20GASOLINE%20HIGH%20PRESSURE%20WATER%20PUMP%202_.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GWP201H%20-%20Ingco%20Gasoline%20High%20Pressure%20Water%20Pump%20(2'')/%5BGWP201H%5D%20GWP201H%20GASOLINE%20HIGH%20PRESSURE%20WATER%20PUMP%202_.jfif"
             }
         ],
         "price": "43500",
@@ -2759,7 +3211,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP202] GWP202 GASOLINE WATER PUMP 2_.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GWP202%20-%20Ingco%20Gasoline%20Water%20Pump%20(2'')/%5BGWP202%5D%20GWP202%20GASOLINE%20WATER%20PUMP%202_.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GWP202%20-%20Ingco%20Gasoline%20Water%20Pump%20(2'')/%5BGWP202%5D%20GWP202%20GASOLINE%20WATER%20PUMP%202_.jfif"
             }
         ],
         "price": "25000",
@@ -2777,7 +3229,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP302] GWP302 GASOLINE WATER PUMP 3_.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/GWP302%20-%20Ingco%20Gasoline%20Water%20Pump%20(3'')/%5BGWP302%5D%20GWP302%20GASOLINE%20WATER%20PUMP%203_.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/GWP302%20-%20Ingco%20Gasoline%20Water%20Pump%20(3'')/%5BGWP302%5D%20GWP302%20GASOLINE%20WATER%20PUMP%203_.jfif"
             }
         ],
         "price": "27000",
@@ -2795,7 +3247,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HLT78033] HLT78033 3 PCS GARDEN SHEAR SET.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HLT78033%20-%20Ingco%20Garden%20Shear%20Set%20(3%20Pcs)/%5BHLT78033%5D%20HLT78033%203%20PCS%20GARDEN%20SHEAR%20SET.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HLT78033%20-%20Ingco%20Garden%20Shear%20Set%20(3%20Pcs)/%5BHLT78033%5D%20HLT78033%203%20PCS%20GARDEN%20SHEAR%20SET.jfif"
             }
         ],
         "price": "3290",
@@ -2813,7 +3265,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HLT93301] HLT93301 3 PCS GARDEN SHEAR SET.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HLT93301%20-%20Ingco%20Garden%20Shear%20Set%20(3%20Pcs)%20(Industrial)/%5BHLT93301%5D%20HLT93301%203%20PCS%20GARDEN%20SHEAR%20SET.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HLT93301%20-%20Ingco%20Garden%20Shear%20Set%20(3%20Pcs)%20(Industrial)/%5BHLT93301%5D%20HLT93301%203%20PCS%20GARDEN%20SHEAR%20SET.jfif"
             }
         ],
         "price": "5750",
@@ -2831,7 +3283,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HOS3422] HOS3422 OSCILLATING SPRINKLER.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HOS3422%20-%20Ingco%20Oscillating%20Garden%20Sprinkler/%5BHOS3422%5D%20HOS3422%20OSCILLATING%20SPRINKLER.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HOS3422%20-%20Ingco%20Oscillating%20Garden%20Sprinkler/%5BHOS3422%5D%20HOS3422%20OSCILLATING%20SPRINKLER.jfif"
             }
         ],
         "price": "1750",
@@ -2849,7 +3301,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPHM0201] HPHM0201 PLASTIC HOSE MENDER.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPHM0201%20-%20Ingco%200.5%20Inch%20Plastic%20Hose%20Connector%20(Mender)/%5BHPHM0201%5D%20HPHM0201%20PLASTIC%20HOSE%20MENDER.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPHM0201%20-%20Ingco%200.5%20Inch%20Plastic%20Hose%20Connector%20(Mender)/%5BHPHM0201%5D%20HPHM0201%20PLASTIC%20HOSE%20MENDER.jfif"
             }
         ],
         "price": "120",
@@ -2867,7 +3319,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS0109] HPS0109 PRUNING SHEARS 8_.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS0109%20-%20Ingco%20Pruning%20Shears%20(8'')/%5BHPS0109%5D%20HPS0109%20PRUNING%20SHEARS%208_.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS0109%20-%20Ingco%20Pruning%20Shears%20(8'')/%5BHPS0109%5D%20HPS0109%20PRUNING%20SHEARS%208_.jfif"
             }
         ],
         "price": "785",
@@ -2885,7 +3337,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS0308] HPS0308 PRUNING SHEARS 8_.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS0308%20-%20Ingco%208%20Inch%20(205mm)%20Pruning%20Shear/%5BHPS0308%5D%20HPS0308%20PRUNING%20SHEARS%208_.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS0308%20-%20Ingco%208%20Inch%20(205mm)%20Pruning%20Shear/%5BHPS0308%5D%20HPS0308%20PRUNING%20SHEARS%208_.jfif"
             }
         ],
         "price": "1100",
@@ -2903,7 +3355,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS0402] HPS0402 PLASTIC PULSATING SPRINKLER.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS0402%20-%20Ingco%20Plastic%20Pulsating%20Sprinkler/%5BHPS0402%5D%20HPS0402%20PLASTIC%20PULSATING%20SPRINKLER.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS0402%20-%20Ingco%20Plastic%20Pulsating%20Sprinkler/%5BHPS0402%5D%20HPS0402%20PLASTIC%20PULSATING%20SPRINKLER.jfif"
             }
         ],
         "price": "1300",
@@ -2921,7 +3373,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS0601] HPS0601 PRUNING SHEARS 8.png",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS0601%20-%20Ingco%20Pruning%20Shears%20(8.5'')/%5BHPS0601%5D%20HPS0601%20PRUNING%20SHEARS%208.png"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS0601%20-%20Ingco%20Pruning%20Shears%20(8.5'')/%5BHPS0601%5D%20HPS0601%20PRUNING%20SHEARS%208.png"
             }
         ],
         "price": "1300",
@@ -2939,7 +3391,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS13601] HPS13601 Plastic Auto Gear sprinkler.png",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS13601%20-%20Ingco%20Plastic%20Auto%20Gear%20Sprinkler%20(0.75%20Inch)/%5BHPS13601%5D%20HPS13601%20Plastic%20Auto%20Gear%20sprinkler.png"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS13601%20-%20Ingco%20Plastic%20Auto%20Gear%20Sprinkler%20(0.75%20Inch)/%5BHPS13601%5D%20HPS13601%20Plastic%20Auto%20Gear%20sprinkler.png"
             }
         ],
         "price": "1650",
@@ -2957,7 +3409,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS23602] HPS23602 Plastic 3 Arm Rotatory Sprinkler.png",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS23602%20-%20Ingco%20Plastic%203%20Arm%20Rotary%20Sprinkler/%5BHPS23602%5D%20HPS23602%20Plastic%203%20Arm%20Rotatory%20Sprinkler.png"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS23602%20-%20Ingco%20Plastic%203%20Arm%20Rotary%20Sprinkler/%5BHPS23602%5D%20HPS23602%20Plastic%203%20Arm%20Rotatory%20Sprinkler.png"
             }
         ],
         "price": "700",
@@ -2975,7 +3427,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS3008] HPS3008 PRUNING SAW 12_.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS3008%20-%20Ingco%20Pruning%20Saw%20(12'')/%5BHPS3008%5D%20HPS3008%20PRUNING%20SAW%2012_.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS3008%20-%20Ingco%20Pruning%20Saw%20(12'')/%5BHPS3008%5D%20HPS3008%20PRUNING%20SAW%2012_.jfif"
             }
         ],
         "price": "1350",
@@ -2993,7 +3445,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS33028C] HPS33028C PRUNING SAW 13_.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS33028C%20-%20Ingco%20Pruning%20Saw%20(13'')/%5BHPS33028C%5D%20HPS33028C%20PRUNING%20SAW%2013_.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS33028C%20-%20Ingco%20Pruning%20Saw%20(13'')/%5BHPS33028C%5D%20HPS33028C%20PRUNING%20SAW%2013_.jfif"
             }
         ],
         "price": "1000",
@@ -3011,7 +3463,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPS33061] HPS33061 Plastic Turret sprinkler.png",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS33061%20-%20Ingco%205%20in%201%20Plastic%20Turret%20Sprinkler/%5BHPS33061%5D%20HPS33061%20Plastic%20Turret%20sprinkler.png"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/HPS33061%20-%20Ingco%205%20in%201%20Plastic%20Turret%20Sprinkler/%5BHPS33061%5D%20HPS33061%20Plastic%20Turret%20sprinkler.png"
             }
         ],
         "price": "715",
@@ -3029,7 +3481,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "qd-157812.webp",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/Husqavarna%20272%20XP/qd-157812.webp"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/Husqavarna%20272%20XP/qd-157812.webp"
             }
         ],
         "price": "87500",
@@ -3047,7 +3499,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[LM383] LM383 ELECTRIC LAWN MOWER 1600W.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/LM383%20-%20Ingco%20Electric%20Lawnmower/%5BLM383%5D%20LM383%20ELECTRIC%20LAWN%20MOWER%201600W.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/LM383%20-%20Ingco%20Electric%20Lawnmower/%5BLM383%5D%20LM383%20ELECTRIC%20LAWN%20MOWER%201600W.jfif"
             }
         ],
         "price": "37000",
@@ -3065,7 +3517,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[LMLI20186] LMLI20186 40V LI-ION CORDLESS LAWN MOWER.jfif",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/LMLI20186%20-%20Ingco%20Cordless%20Lawnmower%20(40V)/%5BLMLI20186%5D%20LMLI20186%2040V%20LI-ION%20CORDLESS%20LAWN%20MOWER.jfif"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/LMLI20186%20-%20Ingco%20Cordless%20Lawnmower%20(40V)/%5BLMLI20186%5D%20LMLI20186%2040V%20LI-ION%20CORDLESS%20LAWN%20MOWER.jfif"
             }
         ],
         "price": "102000",
@@ -3083,7 +3535,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG5602411.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/TG5602411%20-%20Total%20Gasoline%20Chainsaw%20(62cc)/TG5602411.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/TG5602411%20-%20Total%20Gasoline%20Chainsaw%20(62cc)/TG5602411.jpg"
             }
         ],
         "price": "40000",
@@ -3101,7 +3553,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TGC5001.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/TGC5001%20-%20Total%20Gasoline%20Tiller%20(196cc)/TGC5001.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/TGC5001%20-%20Total%20Gasoline%20Tiller%20(196cc)/TGC5001.jpg"
             }
         ],
         "price": "82500",
@@ -3119,7 +3571,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TGT141181.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/TGT141181%20-%20Total%20Gasoline%20Lawnmower%20(141cc)%20(4%20HP)/TGT141181.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/TGT141181%20-%20Total%20Gasoline%20Lawnmower%20(141cc)%20(4%20HP)/TGT141181.jpg"
             }
         ],
         "price": "47500",
@@ -3137,7 +3589,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TGT196201.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/TGT196201%20-%20Total%20Gasoline%20Lawnmower%20(4.8HP)/TGT196201.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/TGT196201%20-%20Total%20Gasoline%20Lawnmower%20(4.8HP)/TGT196201.jpg"
             }
         ],
         "price": "70000",
@@ -3155,7 +3607,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT1516301.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/THT1516301%20-%20Total%2055cm%20Hedge%20Shears/THT1516301.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/THT1516301%20-%20Total%2055cm%20Hedge%20Shears/THT1516301.jpg"
             }
         ],
         "price": "2000",
@@ -3173,7 +3625,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP3202.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/TP3202%20-%20Total%20Gasoline%20Water%20Pump%20(2'')/TP3202.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/TP3202%20-%20Total%20Gasoline%20Water%20Pump%20(2'')/TP3202.jpg"
             }
         ],
         "price": "28500",
@@ -3191,7 +3643,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP3302.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/TP3302%20-%20Total%20Gasoline%20Water%20Pump%20(3'')/TP3302.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/TP3302%20-%20Total%20Gasoline%20Water%20Pump%20(3'')/TP3302.jpg"
             }
         ],
         "price": "31500",
@@ -3209,7 +3661,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP5434421.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/TP5434421%20-%20Total%202HP%20(42%20cm)%20Petrol%20Brushcutter%20(Bush%20Cutter)/TP5434421.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/TP5434421%20-%20Total%202HP%20(42%20cm)%20Petrol%20Brushcutter%20(Bush%20Cutter)/TP5434421.jpg"
             }
         ],
         "price": "21000",
@@ -3227,7 +3679,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "YT-84892.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/YT-84892%20-%20Yato%20Gasoline%20Chainsaw%20(52cc)/YT-84892.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/YT-84892%20-%20Yato%20Gasoline%20Chainsaw%20(52cc)/YT-84892.jpg"
             }
         ],
         "price": "23000",
@@ -3245,7 +3697,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "YT-85255.jpg",
-                "url": "/website%20products/Gardening%20Equpiment%20and%20Gardening%20Tools/YT-85255%20-%20Yato%20Gasoline%20Lawnmower%20(3%20in%201)/YT-85255.jpg"
+                "url": "/Website%20Products/Gardening%20Equpiment%20and%20Gardening%20Tools/YT-85255%20-%20Yato%20Gasoline%20Lawnmower%20(3%20in%201)/YT-85255.jpg"
             }
         ],
         "price": "56500",
@@ -3263,7 +3715,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CSGX45_2_400x.webp",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/CSGX45%20-%20Uyus%20Gasoline%20Chainsaw%20(45cc)/CSGX45_2_400x.webp"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/CSGX45%20-%20Uyus%20Gasoline%20Chainsaw%20(45cc)/CSGX45_2_400x.webp"
             }
         ],
         "price": "21000",
@@ -3281,7 +3733,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GBC31264] GBC31264 GASOLINE GRASS TRIMMER AND BUSH CUTTER 30.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GBC31264%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter/%5BGBC31264%5D%20GBC31264%20GASOLINE%20GRASS%20TRIMMER%20AND%20BUSH%20CUTTER%2030.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GBC31264%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter/%5BGBC31264%5D%20GBC31264%20GASOLINE%20GRASS%20TRIMMER%20AND%20BUSH%20CUTTER%2030.jfif"
             }
         ],
         "price": "26000",
@@ -3299,7 +3751,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GBC45441] GBC45441 GASOLINE GRASS TRIMMER & BUSH CUTTER 43CC.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GBC45441%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(43cc)/%5BGBC45441%5D%20GBC45441%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2043CC.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GBC45441%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(43cc)/%5BGBC45441%5D%20GBC45441%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2043CC.jfif"
             }
         ],
         "price": "20000",
@@ -3317,7 +3769,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GBC53144141] GBC53144141 GASOLINE GRASS TRIMMER & BUSH CUTTER 31CC.png",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GBC53144141%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(31cc)/%5BGBC53144141%5D%20GBC53144141%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2031CC.png"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GBC53144141%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(31cc)/%5BGBC53144141%5D%20GBC53144141%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2031CC.png"
             }
         ],
         "price": "34000",
@@ -3335,7 +3787,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GBC5524421] GBC5524421 GASOLINE GRASS TRIMMER & BUSH CUTTER 52CC.png",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GBC5524421%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(52cc)/%5BGBC5524421%5D%20GBC5524421%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2052CC.png"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GBC5524421%20-%20Ingco%20Gasoline%20Grass%20Trimmer%20and%20Bush%20Cutter%20(52cc)/%5BGBC5524421%5D%20GBC5524421%20GASOLINE%20GRASS%20TRIMMER%20%26%20BUSH%20CUTTER%2052CC.png"
             }
         ],
         "price": "28850",
@@ -3353,7 +3805,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GC6101] GC6101 GASOLINE CULTIVATOR 6.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GC6101%20-%20Ingco%20Gasoline%20Cultivator/%5BGC6101%5D%20GC6101%20GASOLINE%20CULTIVATOR%206.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GC6101%20-%20Ingco%20Gasoline%20Cultivator/%5BGC6101%5D%20GC6101%20GASOLINE%20CULTIVATOR%206.jfif"
             }
         ],
         "price": "108000",
@@ -3371,7 +3823,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GCP060-2] GCP060-2 PLATE COMPACTOR 60KGS.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GCP060-2%20-%20Ingco%20Gasoline%20Plate%20Compactor%20(60Kgs)/%5BGCP060-2%5D%20GCP060-2%20PLATE%20COMPACTOR%2060KGS.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GCP060-2%20-%20Ingco%20Gasoline%20Plate%20Compactor%20(60Kgs)/%5BGCP060-2%5D%20GCP060-2%20PLATE%20COMPACTOR%2060KGS.jfif"
             }
         ],
         "price": "88000",
@@ -3389,7 +3841,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GCP160-2] GCP160-2 REVERSIBLE PLATE COMPACTOR 9HP.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GCP160-2%20-%20Ingco%20Reversible%20Plate%20Compactor%20(9HP)/%5BGCP160-2%5D%20GCP160-2%20REVERSIBLE%20PLATE%20COMPACTOR%209HP.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GCP160-2%20-%20Ingco%20Reversible%20Plate%20Compactor%20(9HP)/%5BGCP160-2%5D%20GCP160-2%20REVERSIBLE%20PLATE%20COMPACTOR%209HP.jfif"
             }
         ],
         "price": "255000",
@@ -3407,7 +3859,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GCS5602411] GCS5602411 GASOLINE CHAIN SAW 62CC TOP 50.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GCS5602411%20-%20Ingco%20Gasoline%20Chainsaw%20(62cc)/%5BGCS5602411%5D%20GCS5602411%20GASOLINE%20CHAIN%20SAW%2062CC%20TOP%2050.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GCS5602411%20-%20Ingco%20Gasoline%20Chainsaw%20(62cc)/%5BGCS5602411%5D%20GCS5602411%20GASOLINE%20CHAIN%20SAW%2062CC%20TOP%2050.jfif"
             }
         ],
         "price": "43500",
@@ -3425,7 +3877,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GCS62241] GCS62241 GASOLINE CHAIN SAW 62CC.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GCS62241%20-%20Ingco%20Gasoline%20Chainsaw%20(62cc)/%5BGCS62241%5D%20GCS62241%20GASOLINE%20CHAIN%20SAW%2062CC.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GCS62241%20-%20Ingco%20Gasoline%20Chainsaw%20(62cc)/%5BGCS62241%5D%20GCS62241%20GASOLINE%20CHAIN%20SAW%2062CC.jfif"
             }
         ],
         "price": "45000",
@@ -3443,7 +3895,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GDB80551] GDB80551 GASOLINE HAMMER 2.png",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GDB80551%20-%20Ingco%20Gasoline%20Hammer/%5BGDB80551%5D%20GDB80551%20GASOLINE%20HAMMER%202.png"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GDB80551%20-%20Ingco%20Gasoline%20Hammer/%5BGDB80551%5D%20GDB80551%20GASOLINE%20HAMMER%202.png"
             }
         ],
         "price": "257600",
@@ -3461,7 +3913,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GHPW2103] GHPW2103 GASOLINE PRESSURE WASHER 7HP.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GHPW2103%20-%20Ingco%20Gasoline%20Pressure%20Washer%20(7HP)/%5BGHPW2103%5D%20GHPW2103%20GASOLINE%20PRESSURE%20WASHER%207HP.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GHPW2103%20-%20Ingco%20Gasoline%20Pressure%20Washer%20(7HP)/%5BGHPW2103%5D%20GHPW2103%20GASOLINE%20PRESSURE%20WASHER%207HP.jfif"
             }
         ],
         "price": "81000",
@@ -3479,7 +3931,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GHT5265511] GHT5265511 GASOLINE GRASS TRIMMER AND BUSH CUTTER.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GHT5265511%20-%20Ingco%20Gasoline%20Hedge%20Trimmer/%5BGHT5265511%5D%20GHT5265511%20GASOLINE%20GRASS%20TRIMMER%20AND%20BUSH%20CUTTER.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GHT5265511%20-%20Ingco%20Gasoline%20Hedge%20Trimmer/%5BGHT5265511%5D%20GHT5265511%20GASOLINE%20GRASS%20TRIMMER%20AND%20BUSH%20CUTTER.jfif"
             }
         ],
         "price": "34650",
@@ -3497,7 +3949,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GLM141181] GLM141181 GASOLINE LAWN MOWER 141CC-4HP.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GLM141181%20-%20Ingco%20Gasoline%20Lawnmower%20(141cc)%20(4HP)/%5BGLM141181%5D%20GLM141181%20GASOLINE%20LAWN%20MOWER%20141CC-4HP.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GLM141181%20-%20Ingco%20Gasoline%20Lawnmower%20(141cc)%20(4HP)/%5BGLM141181%5D%20GLM141181%20GASOLINE%20LAWN%20MOWER%20141CC-4HP.jfif"
             }
         ],
         "price": "71000",
@@ -3515,7 +3967,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GLM196201] GLM196201 GASOLINE LAWN MOWER 196CC-4.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GLM196201%20-%20Ingco%20Gasoline%20Lawnmower%20(4.8HP)%20(196cc)/%5BGLM196201%5D%20GLM196201%20GASOLINE%20LAWN%20MOWER%20196CC-4.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GLM196201%20-%20Ingco%20Gasoline%20Lawnmower%20(4.8HP)%20(196cc)/%5BGLM196201%5D%20GLM196201%20GASOLINE%20LAWN%20MOWER%20196CC-4.jfif"
             }
         ],
         "price": "81000",
@@ -3533,7 +3985,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GRT75-2] GRT75-2 PAVEMENT RAMMER 79KGS.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GRT75-2%20-%20Ingco%20Pavement%20Rammer%20(79Kgs)/%5BGRT75-2%5D%20GRT75-2%20PAVEMENT%20RAMMER%2079KGS.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GRT75-2%20-%20Ingco%20Pavement%20Rammer%20(79Kgs)/%5BGRT75-2%5D%20GRT75-2%20PAVEMENT%20RAMMER%2079KGS.jfif"
             }
         ],
         "price": "125000",
@@ -3551,7 +4003,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GVR-22] GVR-22 GASOLINE CONCRETE VIBRATOR 5.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GVR-22%20-%20Ingco%20Gasoline%20Concrete%20Vibrator%20(5.5HP)%20(Hex%20Type)/%5BGVR-22%5D%20GVR-22%20GASOLINE%20CONCRETE%20VIBRATOR%205.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GVR-22%20-%20Ingco%20Gasoline%20Concrete%20Vibrator%20(5.5HP)%20(Hex%20Type)/%5BGVR-22%5D%20GVR-22%20GASOLINE%20CONCRETE%20VIBRATOR%205.jfif"
             }
         ],
         "price": "46250",
@@ -3569,7 +4021,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP201H] GWP201H GASOLINE HIGH PRESSURE WATER PUMP 2_.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GWP201H%20-%20Ingco%20Gasoline%20High%20Pressure%20Water%20Pump%20(2'')/%5BGWP201H%5D%20GWP201H%20GASOLINE%20HIGH%20PRESSURE%20WATER%20PUMP%202_.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GWP201H%20-%20Ingco%20Gasoline%20High%20Pressure%20Water%20Pump%20(2'')/%5BGWP201H%5D%20GWP201H%20GASOLINE%20HIGH%20PRESSURE%20WATER%20PUMP%202_.jfif"
             }
         ],
         "price": "43500",
@@ -3587,7 +4039,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP202] GWP202 GASOLINE WATER PUMP 2_.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GWP202%20-%20Ingco%20Gasoline%20Water%20Pump%20(2'')/%5BGWP202%5D%20GWP202%20GASOLINE%20WATER%20PUMP%202_.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GWP202%20-%20Ingco%20Gasoline%20Water%20Pump%20(2'')/%5BGWP202%5D%20GWP202%20GASOLINE%20WATER%20PUMP%202_.jfif"
             }
         ],
         "price": "25000",
@@ -3605,7 +4057,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP302] GWP302 GASOLINE WATER PUMP 3_.jfif",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GWP302%20-%20Ingco%20Gasoline%20Water%20Pump%20(3'')/%5BGWP302%5D%20GWP302%20GASOLINE%20WATER%20PUMP%203_.jfif"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/GWP302%20-%20Ingco%20Gasoline%20Water%20Pump%20(3'')/%5BGWP302%5D%20GWP302%20GASOLINE%20WATER%20PUMP%203_.jfif"
             }
         ],
         "price": "27000",
@@ -3623,7 +4075,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "qd-157812.webp",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/Husqavarna%20272%20XP/qd-157812.webp"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/Husqavarna%20272%20XP/qd-157812.webp"
             }
         ],
         "price": "87500",
@@ -3641,7 +4093,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG5602411.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TG5602411%20-%20Total%20Gasoline%20Chainsaw%20(62cc)/TG5602411.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TG5602411%20-%20Total%20Gasoline%20Chainsaw%20(62cc)/TG5602411.jpg"
             }
         ],
         "price": "40000",
@@ -3659,7 +4111,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TGC5001.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TGC5001%20-%20Total%20Gasoline%20Tiller%20(196cc)/TGC5001.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TGC5001%20-%20Total%20Gasoline%20Tiller%20(196cc)/TGC5001.jpg"
             }
         ],
         "price": "82500",
@@ -3677,7 +4129,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TGT141181.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TGT141181%20-%20Total%20Gasoline%20Lawnmower%20(141cc)%20(4%20HP)/TGT141181.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TGT141181%20-%20Total%20Gasoline%20Lawnmower%20(141cc)%20(4%20HP)/TGT141181.jpg"
             }
         ],
         "price": "47500",
@@ -3695,7 +4147,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TGT196201.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TGT196201%20-%20Total%20Gasoline%20Lawnmower%20(4.8HP)/TGT196201.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TGT196201%20-%20Total%20Gasoline%20Lawnmower%20(4.8HP)/TGT196201.jpg"
             }
         ],
         "price": "70000",
@@ -3713,7 +4165,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP1016-2.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP1016-2%20-%20Total%20Gasoline%20Floor%20Saw/TP1016-2.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP1016-2%20-%20Total%20Gasoline%20Floor%20Saw/TP1016-2.jpg"
             }
         ],
         "price": "158000",
@@ -3731,7 +4183,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP3202.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP3202%20-%20Total%20Gasoline%20Water%20Pump%20(2'')/TP3202.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP3202%20-%20Total%20Gasoline%20Water%20Pump%20(2'')/TP3202.jpg"
             }
         ],
         "price": "28500",
@@ -3749,7 +4201,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP3302.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP3302%20-%20Total%20Gasoline%20Water%20Pump%20(3'')/TP3302.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP3302%20-%20Total%20Gasoline%20Water%20Pump%20(3'')/TP3302.jpg"
             }
         ],
         "price": "31500",
@@ -3767,7 +4219,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP5434421.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP5434421%20-%20Total%202HP%20(42%20cm)%20Petrol%20Brushcutter%20(Bush%20Cutter)/TP5434421.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP5434421%20-%20Total%202HP%20(42%20cm)%20Petrol%20Brushcutter%20(Bush%20Cutter)/TP5434421.jpg"
             }
         ],
         "price": "21000",
@@ -3785,7 +4237,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP630-2.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP630-2%20-%20Total%20Gasoline%20Concrete%20Vibrator/TP630-2.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP630-2%20-%20Total%20Gasoline%20Concrete%20Vibrator/TP630-2.jpg"
             }
         ],
         "price": "38500",
@@ -3803,7 +4255,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP7100-2E.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP7100-2E%20-%20TOTAL%20Gasoline%20plate%20compactor%20(90Kgs)/TP7100-2E.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP7100-2E%20-%20TOTAL%20Gasoline%20plate%20compactor%20(90Kgs)/TP7100-2E.jpg"
             }
         ],
         "price": "86000",
@@ -3821,7 +4273,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP7125-2.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP7125-2%20-%20TOTAL%20GASOLINE%20REVERSIBLE%20PLATE%20COMPATOR%20(196cc)%20(6.5HP)%20(127Kg)/TP7125-2.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/TP7125-2%20-%20TOTAL%20GASOLINE%20REVERSIBLE%20PLATE%20COMPATOR%20(196cc)%20(6.5HP)%20(127Kg)/TP7125-2.jpg"
             }
         ],
         "price": "176000",
@@ -3839,7 +4291,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "YT-84892.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/YT-84892%20-%20Yato%20Gasoline%20Chainsaw%20(52cc)/YT-84892.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/YT-84892%20-%20Yato%20Gasoline%20Chainsaw%20(52cc)/YT-84892.jpg"
             }
         ],
         "price": "23000",
@@ -3857,7 +4309,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "YT-85255.jpg",
-                "url": "/website%20products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/YT-85255%20-%20Yato%20Gasoline%20Lawnmower%20(3%20in%201)/YT-85255.jpg"
+                "url": "/Website%20Products/Gasoline%20(Petrol)%20Machinery%20and%20Tools/YT-85255%20-%20Yato%20Gasoline%20Lawnmower%20(3%20in%201)/YT-85255.jpg"
             }
         ],
         "price": "56500",
@@ -3875,7 +4327,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT1010103.jpg",
-                "url": "/website%20products/Hand%20Tools/Adjustable%20Spanners/THT1010103%20-%20Total%2010%20inch%20Adjustable%20Spanner/THT1010103.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Adjustable%20Spanners/THT1010103%20-%20Total%2010%20inch%20Adjustable%20Spanner/THT1010103.jpg"
             }
         ],
         "price": "750",
@@ -3893,7 +4345,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT1010123.jpg",
-                "url": "/website%20products/Hand%20Tools/Adjustable%20Spanners/THT1010123%20-%20Total%2012%20inch%20Adjustable%20Spanner/THT1010123.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Adjustable%20Spanners/THT1010123%20-%20Total%2012%20inch%20Adjustable%20Spanner/THT1010123.jpg"
             }
         ],
         "price": "1500",
@@ -3911,7 +4363,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT101063.jpg",
-                "url": "/website%20products/Hand%20Tools/Adjustable%20Spanners/THT101063%20-%20Total%206%20inch%20Adjustable%20Spanner/THT101063.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Adjustable%20Spanners/THT101063%20-%20Total%206%20inch%20Adjustable%20Spanner/THT101063.jpg"
             }
         ],
         "price": "600",
@@ -3929,7 +4381,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT101083.jpg",
-                "url": "/website%20products/Hand%20Tools/Adjustable%20Spanners/THT101083%20-%20Total%208%20inch%20Adjustable%20Spanner/THT101083.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Adjustable%20Spanners/THT101083%20-%20Total%208%20inch%20Adjustable%20Spanner/THT101083.jpg"
             }
         ],
         "price": "550",
@@ -3947,7 +4399,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HHK11091.jpg",
-                "url": "/website%20products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/HHK11091%20-%20Ingco%20Hex%20Key%20Set/HHK11091.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/HHK11091%20-%20Ingco%20Hex%20Key%20Set/HHK11091.jpg"
             }
         ],
         "price": "800",
@@ -3965,7 +4417,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HHK11092.jpg",
-                "url": "/website%20products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/HHK11092%20-%20Ingco%20Hex%20Key%20Set%20(9%20Pcs)/HHK11092.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/HHK11092%20-%20Ingco%20Hex%20Key%20Set%20(9%20Pcs)/HHK11092.jpg"
             }
         ],
         "price": "850",
@@ -3983,7 +4435,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HHK13092.jpg",
-                "url": "/website%20products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/HHK13092%20-%20Ingco%20Torx%20Key%20Set%20(9%20Pcs)/HHK13092.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/HHK13092%20-%20Ingco%20Torx%20Key%20Set%20(9%20Pcs)/HHK13092.jpg"
             }
         ],
         "price": "1150",
@@ -4001,7 +4453,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT1061826.jpg",
-                "url": "/website%20products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/THT1061826%20-%20Total%208%20Pcs%20Hex%20Key%20Set/THT1061826.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/THT1061826%20-%20Total%208%20Pcs%20Hex%20Key%20Set/THT1061826.jpg"
             }
         ],
         "price": "550",
@@ -4019,7 +4471,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT1061846.jpg",
-                "url": "/website%20products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/THT1061846%20-%20Total%208%20Pcs%20Torx%20Key%20Set/THT1061846.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/THT1061846%20-%20Total%208%20Pcs%20Torx%20Key%20Set/THT1061846.jpg"
             }
         ],
         "price": "750",
@@ -4037,7 +4489,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT106191.jpg",
-                "url": "/website%20products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/THT106191%20-%20Total%209%20pcs%20Hex%20Key%20Set/THT106191.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/THT106191%20-%20Total%209%20pcs%20Hex%20Key%20Set/THT106191.jpg"
             }
         ],
         "price": "650",
@@ -4055,10 +4507,28 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT106392.jpg",
-                "url": "/website%20products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/THT106392%20-%20Total%209%20Pcs%20Torx%20Key%20Set/THT106392.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Allan%20Key%20-%20Torx%20Key%20-%20Hex%20Key%20Sets/THT106392%20-%20Total%209%20Pcs%20Torx%20Key%20Set/THT106392.jpg"
             }
         ],
         "price": "650",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dl5709---deli-axe-fibreglass-handle-800g",
+        "name": "DL5709 - Deli Axe (Fibreglass Handle) (800G)",
+        "description": "Weight: 28oz/800g\nDrop-forged axe head\nHeat treatment,45# carbon steel\nUnique design fiberglass handle\nPacked by OPP Bag+Label",
+        "category": "Hand Tools",
+        "subcategory": "Axes",
+        "images": [
+            {
+                "name": "dl5709.webp",
+                "url": "/Website%20Products/Hand%20Tools/Axes/DL5709%20-%20Deli%20Axe%20(Fibreglass%20Handle)%20(800G)/dl5709.webp"
+            }
+        ],
+        "price": "1300",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -4073,7 +4543,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HCG0109] HCG0109 CAULKING GUN.png",
-                "url": "/website%20products/Hand%20Tools/Caulking%20Guns/HCG0109%20-%20Ingco%20Aluminium%20Caulking%20Gun/%5BHCG0109%5D%20HCG0109%20CAULKING%20GUN.png"
+                "url": "/Website%20Products/Hand%20Tools/Caulking%20Guns/HCG0109%20-%20Ingco%20Aluminium%20Caulking%20Gun/%5BHCG0109%5D%20HCG0109%20CAULKING%20GUN.png"
             }
         ],
         "price": "1260",
@@ -4091,7 +4561,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "d90eb3df-996a-43aa-a1ae-bcf55ad302f1.webp",
-                "url": "/website%20products/Hand%20Tools/Caulking%20Guns/THT21309%20-%20Total%20Skeleton%20Caulking%20Gun/d90eb3df-996a-43aa-a1ae-bcf55ad302f1.webp"
+                "url": "/Website%20Products/Hand%20Tools/Caulking%20Guns/THT21309%20-%20Total%20Skeleton%20Caulking%20Gun/d90eb3df-996a-43aa-a1ae-bcf55ad302f1.webp"
             }
         ],
         "price": "550",
@@ -4109,10 +4579,154 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "WhatsApp Image 2025-01-17 at 12.27.49.jpeg",
-                "url": "/website%20products/Hand%20Tools/Chalk%20Line/Chalk%20Line%20Generic/WhatsApp%20Image%202025-01-17%20at%2012.27.49.jpeg"
+                "url": "/Website%20Products/Hand%20Tools/Chalk%20Line/Chalk%20Line%20Generic/WhatsApp%20Image%202025-01-17%20at%2012.27.49.jpeg"
             }
         ],
         "price": "500",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "hch81008---ingco-8oz-claw-hammer",
+        "name": "HCH81008 - Ingco 8oz Claw Hammer",
+        "description": "Weigh:8oz/220g\nMagnetic nail function\nInnovated drop-forged hammer head\nDrop-forged hammerhead\nHeat treatment, 45# carbon steel\nUnique design fiberglass handle\nPacked by label",
+        "category": "Hand Tools",
+        "subcategory": "Claw Hammers",
+        "images": [
+            {
+                "name": "[HCH81008] HCH81008 CLAW HAMMER 8oz_.jfif",
+                "url": "/Website%20Products/Hand%20Tools/Claw%20Hammers/HCH81008%20-%20Ingco%208oz%20Claw%20Hammer/%5BHCH81008%5D%20HCH81008%20CLAW%20HAMMER%208oz_.jfif"
+            }
+        ],
+        "price": "700",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "hch81016---ingco-160z-claw-hammer",
+        "name": "HCH81016 - Ingco 160z Claw Hammer",
+        "description": "Weight:16oz/450g\nMagnetic nail function\nInnovated drop-forged hammer head\nHeat treatment,45# carbon steel\nStrong three-color fiberglass handle for comfortable grip\nPacked by label",
+        "category": "Hand Tools",
+        "subcategory": "Claw Hammers",
+        "images": [
+            {
+                "name": "[HCH81016] HCH81016 CLAW HAMMER 16oz_.png",
+                "url": "/Website%20Products/Hand%20Tools/Claw%20Hammers/HCH81016%20-%20Ingco%20160z%20Claw%20Hammer/%5BHCH81016%5D%20HCH81016%20CLAW%20HAMMER%2016oz_.png"
+            }
+        ],
+        "price": "800",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "thch61008---total-8oz-claw-hammer",
+        "name": "THCH61008 - Total 8oz Claw Hammer",
+        "description": "Weight:8oz/220g\nMagnetic nail function\nInnovated drop-forged hammer head\nHeat treatment,45# carbon steel\nStrong three-color fiberglass handle for comfortable grip\nPacked by label",
+        "category": "Hand Tools",
+        "subcategory": "Claw Hammers",
+        "images": [
+            {
+                "name": "THCH61008.jpg",
+                "url": "/Website%20Products/Hand%20Tools/Claw%20Hammers/THCH61008%20-%20Total%208oz%20Claw%20Hammer/THCH61008.jpg"
+            }
+        ],
+        "price": "500",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "thch61016---total-16oz-claw-hammer",
+        "name": "THCH61016 - Total 16oz Claw Hammer",
+        "description": "Weight:16oz/450g\nMagnetic nail function\nInnovated drop-forged hammer head\nHeat treatment,45# carbon steel\nStrong three-color fiberglass handle for comfortable grip\nPacked by label",
+        "category": "Hand Tools",
+        "subcategory": "Claw Hammers",
+        "images": [
+            {
+                "name": "THCH61016.jpg",
+                "url": "/Website%20Products/Hand%20Tools/Claw%20Hammers/THCH61016%20-%20Total%2016oz%20Claw%20Hammer/THCH61016.jpg"
+            }
+        ],
+        "price": "650",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "thch61020---total-20oz-claw-hammer",
+        "name": "THCH61020 - Total 20oz Claw Hammer",
+        "description": "Weight:20oz/560g\nMagnetic nail function\nInnovated drop-forged hammer head\nHeat treatment,45# carbon steel\nStrong three-color fiberglass handle for comfortable grip\nPacked by label",
+        "category": "Hand Tools",
+        "subcategory": "Claw Hammers",
+        "images": [
+            {
+                "name": "THCH61020.jpg",
+                "url": "/Website%20Products/Hand%20Tools/Claw%20Hammers/THCH61020%20-%20Total%2020oz%20Claw%20Hammer/THCH61020.jpg"
+            }
+        ],
+        "price": "850",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dl110515---deli-heavy-duty-f-clamp-50x150mm",
+        "name": "DL110515 - Deli Heavy-Duty F-Clamp 50x150mm",
+        "description": "Specifications\nType: F-Clamp\nSize: 50x150mm\nClamping Force: 2000N\nMaterial: High-Quality Steel\nHandle Design: Ergonomic Handle\nColor: Yellow and Black",
+        "category": "Hand Tools",
+        "subcategory": "F-Clamp",
+        "images": [
+            {
+                "name": "download-2025-01-12T110420.695.webp",
+                "url": "/Website%20Products/Hand%20Tools/F-Clamp/DL110515%20-%20Deli%20Heavy-Duty%20F-Clamp%2050x150mm/download-2025-01-12T110420.695.webp"
+            }
+        ],
+        "price": "400",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dl110525---deli-heavy-duty-f-clamp-50x250mm",
+        "name": "DL110525 - Deli Heavy-Duty F Clamp 50x250mm",
+        "description": "Material: A3 steel, durable and robust\nSize: 50x250mm\nMax Clamp Force: 1000N\nScrew Thread Diameter: 9.5mm\nFeatures: Includes a 3.5mm thick iron ruler for precise measurements\nDesign: Ergonomic handle for easy grip and adjustment\nColor: Yellow and black for high visibility",
+        "category": "Hand Tools",
+        "subcategory": "F-Clamp",
+        "images": [
+            {
+                "name": "1_-_2024-05-15t174407.440.webp",
+                "url": "/Website%20Products/Hand%20Tools/F-Clamp/DL110525%20-%20Deli%20Heavy-Duty%20F%20Clamp%2050x250mm/1_-_2024-05-15t174407.440.webp"
+            }
+        ],
+        "price": "550",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "dl110830---deli-heavy-duty-f-clamp-80x300mm",
+        "name": "DL110830 - Deli Heavy-Duty F Clamp 80x300mm",
+        "description": "Material: A3 steel, durable and robust\nSize: 80x300mm\nMax Clamp Force: 1000N\nScrew Thread Diameter: 9.5mm\nFeatures: Includes a 3.5mm thick iron ruler for precise measurements\nDesign: Ergonomic handle for easy grip and adjustment\nColor: Yellow and black for high visibility",
+        "category": "Hand Tools",
+        "subcategory": "F-Clamp",
+        "images": [
+            {
+                "name": "1_-_2024-05-15t175342.741.webp",
+                "url": "/Website%20Products/Hand%20Tools/F-Clamp/DL110830%20-%20Deli%20Heavy-Duty%20F%20Clamp%2080x300mm/1_-_2024-05-15t175342.741.webp"
+            }
+        ],
+        "price": "",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -4127,7 +4741,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "WhatsApp-Image-2026-03-02-at-12.44.10-500x500.jpeg",
-                "url": "/website%20products/Hand%20Tools/Files/DL352506%20-%20Deli%20Diamond%20Steel%20File%20Set%20(6%20Pcs)/WhatsApp-Image-2026-03-02-at-12.44.10-500x500.jpeg"
+                "url": "/Website%20Products/Hand%20Tools/Files/DL352506%20-%20Deli%20Diamond%20Steel%20File%20Set%20(6%20Pcs)/WhatsApp-Image-2026-03-02-at-12.44.10-500x500.jpeg"
             }
         ],
         "price": "950",
@@ -4145,7 +4759,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "EDL2141-12_400x.webp",
-                "url": "/website%20products/Hand%20Tools/Files/EDL2141%20-%20Deli%20File%20Set%20(3%20Pcs)%20(140mm)/EDL2141-12_400x.webp"
+                "url": "/Website%20Products/Hand%20Tools/Files/EDL2141%20-%20Deli%20File%20Set%20(3%20Pcs)%20(140mm)/EDL2141-12_400x.webp"
             }
         ],
         "price": "600",
@@ -4163,7 +4777,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl352085-file-set-5pcs.webp",
-                "url": "/website%20products/Hand%20Tools/Files/EDL352085%20-%20Deli%20File%20Set%20(5%20Pcs)%20(8'')/edl352085-file-set-5pcs.webp"
+                "url": "/Website%20Products/Hand%20Tools/Files/EDL352085%20-%20Deli%20File%20Set%20(5%20Pcs)%20(8'')/edl352085-file-set-5pcs.webp"
             }
         ],
         "price": "2150",
@@ -4181,7 +4795,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTF63] HKTF63 6 PCS FILE SET.png",
-                "url": "/website%20products/Hand%20Tools/Files/HKTF63%20-%20Ingco%20File%20Set/%5BHKTF63%5D%20HKTF63%206%20PCS%20FILE%20SET.png"
+                "url": "/Website%20Products/Hand%20Tools/Files/HKTF63%20-%20Ingco%20File%20Set/%5BHKTF63%5D%20HKTF63%206%20PCS%20FILE%20SET.png"
             }
         ],
         "price": "650",
@@ -4199,7 +4813,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTFS1308] HKTFS1308 3 PCS STEEL FILE SET 8_.jfif",
-                "url": "/website%20products/Hand%20Tools/Files/HKTFS1308%20-%20Ingco%203%20Pcs%20Steel%20File%20Set/%5BHKTFS1308%5D%20HKTFS1308%203%20PCS%20STEEL%20FILE%20SET%208_.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Files/HKTFS1308%20-%20Ingco%203%20Pcs%20Steel%20File%20Set/%5BHKTFS1308%5D%20HKTFS1308%203%20PCS%20STEEL%20FILE%20SET%208_.jfif"
             }
         ],
         "price": "1500",
@@ -4217,7 +4831,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTFW0308] HKTFW0308 3PCS WOOD FILE SET.png",
-                "url": "/website%20products/Hand%20Tools/Files/HKTFW0308%20-%20Ingco%203%20pcs%20Wood%20File%20Set/%5BHKTFW0308%5D%20HKTFW0308%203PCS%20WOOD%20FILE%20SET.png"
+                "url": "/Website%20Products/Hand%20Tools/Files/HKTFW0308%20-%20Ingco%203%20pcs%20Wood%20File%20Set/%5BHKTFW0308%5D%20HKTFW0308%203PCS%20WOOD%20FILE%20SET.png"
             }
         ],
         "price": "1500",
@@ -4235,7 +4849,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSFF088] HSFF088 FLAT STEEL FILE 200MM.png",
-                "url": "/website%20products/Hand%20Tools/Files/HSFF088%20-%20Ingco%20Flat%20Steel%20File/%5BHSFF088%5D%20HSFF088%20FLAT%20STEEL%20FILE%20200MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Files/HSFF088%20-%20Ingco%20Flat%20Steel%20File/%5BHSFF088%5D%20HSFF088%20FLAT%20STEEL%20FILE%20200MM.png"
             }
         ],
         "price": "600",
@@ -4253,7 +4867,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSRF088] HSRF088 ROUND STEEL FILE 200MM.png",
-                "url": "/website%20products/Hand%20Tools/Files/HSRF088%20-%20Ingco%20Round%20Steel%20File/%5BHSRF088%5D%20HSRF088%20ROUND%20STEEL%20FILE%20200MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Files/HSRF088%20-%20Ingco%20Round%20Steel%20File/%5BHSRF088%5D%20HSRF088%20ROUND%20STEEL%20FILE%20200MM.png"
             }
         ],
         "price": "500",
@@ -4271,7 +4885,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWFF088] HWFF088 FLAT WOOD FILE 200MM.png",
-                "url": "/website%20products/Hand%20Tools/Files/HWFF088%20-%20Ingco%20Flat%20Wood%20File/%5BHWFF088%5D%20HWFF088%20FLAT%20WOOD%20FILE%20200MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Files/HWFF088%20-%20Ingco%20Flat%20Wood%20File/%5BHWFF088%5D%20HWFF088%20FLAT%20WOOD%20FILE%20200MM.png"
             }
         ],
         "price": "500",
@@ -4289,7 +4903,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWHF088] HWHF088 HALF-ROUND WOOD FILE 200MM.png",
-                "url": "/website%20products/Hand%20Tools/Files/HWHF088%20-%20Ingco%20Half-Round%20Wood%20File/%5BHWHF088%5D%20HWHF088%20HALF-ROUND%20WOOD%20FILE%20200MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Files/HWHF088%20-%20Ingco%20Half-Round%20Wood%20File/%5BHWHF088%5D%20HWHF088%20HALF-ROUND%20WOOD%20FILE%20200MM.png"
             }
         ],
         "price": "500",
@@ -4307,7 +4921,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWRF088] HWRF088 ROUND WOOD FILE 200MM.png",
-                "url": "/website%20products/Hand%20Tools/Files/HWRF088%20-%20Ingco%20Round%20Wood%20File/%5BHWRF088%5D%20HWRF088%20ROUND%20WOOD%20FILE%20200MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Files/HWRF088%20-%20Ingco%20Round%20Wood%20File/%5BHWRF088%5D%20HWRF088%20ROUND%20WOOD%20FILE%20200MM.png"
             }
         ],
         "price": "400",
@@ -4325,7 +4939,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "WhatsApp Image 2025-07-15 at 10.21.34.jpeg",
-                "url": "/website%20products/Hand%20Tools/G-Clamps/DLG204%20-%20Deli%204%20inch%20G-Clamp/WhatsApp%20Image%202025-07-15%20at%2010.21.34.jpeg"
+                "url": "/Website%20Products/Hand%20Tools/G-Clamps/DLG204%20-%20Deli%204%20inch%20G-Clamp/WhatsApp%20Image%202025-07-15%20at%2010.21.34.jpeg"
             }
         ],
         "price": "650",
@@ -4343,7 +4957,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "WhatsApp Image 2025-07-15 at 10.21.35.jpeg",
-                "url": "/website%20products/Hand%20Tools/G-Clamps/DLG205%20-%20Deli%205%20inch%20G-Clamp/WhatsApp%20Image%202025-07-15%20at%2010.21.35.jpeg"
+                "url": "/Website%20Products/Hand%20Tools/G-Clamps/DLG205%20-%20Deli%205%20inch%20G-Clamp/WhatsApp%20Image%202025-07-15%20at%2010.21.35.jpeg"
             }
         ],
         "price": "700",
@@ -4361,7 +4975,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "WhatsApp Image 2025-08-08 at 10.27.28.jpeg",
-                "url": "/website%20products/Hand%20Tools/G-Clamps/DLG206%20-%20Deli%206%20inch%20G-Clamp/WhatsApp%20Image%202025-08-08%20at%2010.27.28.jpeg"
+                "url": "/Website%20Products/Hand%20Tools/G-Clamps/DLG206%20-%20Deli%206%20inch%20G-Clamp/WhatsApp%20Image%202025-08-08%20at%2010.27.28.jpeg"
             }
         ],
         "price": "1150",
@@ -4379,7 +4993,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "07042_1-png.webp",
-                "url": "/website%20products/Hand%20Tools/Grease%20Guns/YT-07042%20-%20Yato%20Grease%20Gun/07042_1-png.webp"
+                "url": "/Website%20Products/Hand%20Tools/Grease%20Guns/YT-07042%20-%20Yato%20Grease%20Gun/07042_1-png.webp"
             }
         ],
         "price": "2500",
@@ -4397,7 +5011,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Ecomm_Large-0-15-218_3.jpg",
-                "url": "/website%20products/Hand%20Tools/Hackaw%20Frames/0-15-218%20-%20Stanley%20Junior%20Hacksaw/Ecomm_Large-0-15-218_3.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hackaw%20Frames/0-15-218%20-%20Stanley%20Junior%20Hacksaw/Ecomm_Large-0-15-218_3.jpg"
             }
         ],
         "price": "2000",
@@ -4415,7 +5029,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1_20__3.webp",
-                "url": "/website%20products/Hand%20Tools/Hackaw%20Frames/EDL353206%20-%20Deli%20Mini%20Hacksaw%20Frame%20(150mm)/1_20__3.webp"
+                "url": "/Website%20Products/Hand%20Tools/Hackaw%20Frames/EDL353206%20-%20Deli%20Mini%20Hacksaw%20Frame%20(150mm)/1_20__3.webp"
             }
         ],
         "price": "250",
@@ -4433,7 +5047,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "a2421a5178b4d48d2fb4330859e94793mc12pl.jpg",
-                "url": "/website%20products/Hand%20Tools/Hackaw%20Frames/MC12PL%20-%20Uyus%20Hacksaw%20Frame/a2421a5178b4d48d2fb4330859e94793mc12pl.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hackaw%20Frames/MC12PL%20-%20Uyus%20Hacksaw%20Frame/a2421a5178b4d48d2fb4330859e94793mc12pl.jpg"
             }
         ],
         "price": "1500",
@@ -4451,7 +5065,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT54106.jpg",
-                "url": "/website%20products/Hand%20Tools/Hackaw%20Frames/THT541016%20-%20Total%20Hacksaw%20Frame%20(Industrial)/THT54106.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hackaw%20Frames/THT541016%20-%20Total%20Hacksaw%20Frame%20(Industrial)/THT54106.jpg"
             }
         ],
         "price": "1350",
@@ -4469,46 +5083,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT541036.jpg",
-                "url": "/website%20products/Hand%20Tools/Hackaw%20Frames/THT541036%20-%20Total%20Hacksaw%20Frame/THT541036.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hackaw%20Frames/THT541036%20-%20Total%20Hacksaw%20Frame/THT541036.jpg"
             }
         ],
-        "price": "425",
-        "isOnOffer": false,
-        "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
-    },
-    {
-        "id": "hch81008---ingco-8oz-claw-hammer",
-        "name": "HCH81008 - Ingco 8oz Claw Hammer",
-        "description": "Weigh:8oz/220g\nMagnetic nail function\nInnovated drop-forged hammer head\nDrop-forged hammerhead\nHeat treatment, 45# carbon steel\nUnique design fiberglass handle\nPacked by label",
-        "category": "Hand Tools",
-        "subcategory": "Hammers",
-        "images": [
-            {
-                "name": "[HCH81008] HCH81008 CLAW HAMMER 8oz_.jfif",
-                "url": "/website%20products/Hand%20Tools/Hammers/HCH81008%20-%20Ingco%208oz%20Claw%20Hammer/%5BHCH81008%5D%20HCH81008%20CLAW%20HAMMER%208oz_.jfif"
-            }
-        ],
-        "price": "700",
-        "isOnOffer": false,
-        "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
-    },
-    {
-        "id": "hch81016---ingco-160z-claw-hammer",
-        "name": "HCH81016 - Ingco 160z Claw Hammer",
-        "description": "Weight:16oz/450g\nMagnetic nail function\nInnovated drop-forged hammer head\nHeat treatment,45# carbon steel\nStrong three-color fiberglass handle for comfortable grip\nPacked by label",
-        "category": "Hand Tools",
-        "subcategory": "Hammers",
-        "images": [
-            {
-                "name": "[HCH81016] HCH81016 CLAW HAMMER 16oz_.png",
-                "url": "/website%20products/Hand%20Tools/Hammers/HCH81016%20-%20Ingco%20160z%20Claw%20Hammer/%5BHCH81016%5D%20HCH81016%20CLAW%20HAMMER%2016oz_.png"
-            }
-        ],
-        "price": "800",
+        "price": "500",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -4523,7 +5101,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HPL01300] HPL01300 IRON PLANER 9_.jfif",
-                "url": "/website%20products/Hand%20Tools/Hand%20Planers/HPL01300%20-%20Ingco%20Planer%20(235mm)/%5BHPL01300%5D%20HPL01300%20IRON%20PLANER%209_.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Hand%20Planers/HPL01300%20-%20Ingco%20Planer%20(235mm)/%5BHPL01300%5D%20HPL01300%20IRON%20PLANER%209_.jfif"
             }
         ],
         "price": "1350",
@@ -4541,7 +5119,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT9391.jpg",
-                "url": "/website%20products/Hand%20Tools/Hand%20Planers/THT9391%20-%20Total%20Planer%20(235mm)/THT9391.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hand%20Planers/THT9391%20-%20Total%20Planer%20(235mm)/THT9391.jpg"
             }
         ],
         "price": "1050",
@@ -4559,7 +5137,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HHAS08400] HHAS08400 HAND SAW 16_-400MM.png",
-                "url": "/website%20products/Hand%20Tools/Handsaws/HHAS08400%20-%20Ingco%2016%20inch%20Hand%20Saw/%5BHHAS08400%5D%20HHAS08400%20HAND%20SAW%2016_-400MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Handsaws/HHAS08400%20-%20Ingco%2016%20inch%20Hand%20Saw/%5BHHAS08400%5D%20HHAS08400%20HAND%20SAW%2016_-400MM.png"
             }
         ],
         "price": "800",
@@ -4577,7 +5155,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HHAS08450] HHAS08450 HAND SAW 18_-450MM.png",
-                "url": "/website%20products/Hand%20Tools/Handsaws/HHAS08450%20-%20Ingco%2018%20inch%20Hand%20Saw/%5BHHAS08450%5D%20HHAS08450%20HAND%20SAW%2018_-450MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Handsaws/HHAS08450%20-%20Ingco%2018%20inch%20Hand%20Saw/%5BHHAS08450%5D%20HHAS08450%20HAND%20SAW%2018_-450MM.png"
             }
         ],
         "price": "850",
@@ -4595,7 +5173,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HHAS08500] HHAS08500 HAND SAW 20_-500MM.png",
-                "url": "/website%20products/Hand%20Tools/Handsaws/HHAS08500%20-%20Ingco%2020%20inch%20Hand%20Saw/%5BHHAS08500%5D%20HHAS08500%20HAND%20SAW%2020_-500MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Handsaws/HHAS08500%20-%20Ingco%2020%20inch%20Hand%20Saw/%5BHHAS08500%5D%20HHAS08500%20HAND%20SAW%2020_-500MM.png"
             }
         ],
         "price": "950",
@@ -4613,7 +5191,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HHAS48400] HHAS48400 HAND SAW 16_-400MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Handsaws/HHAS48400%20-%20Ingco%2016%20Inch%20Handsaw/%5BHHAS48400%5D%20HHAS48400%20HAND%20SAW%2016_-400MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Handsaws/HHAS48400%20-%20Ingco%2016%20Inch%20Handsaw/%5BHHAS48400%5D%20HHAS48400%20HAND%20SAW%2016_-400MM.jfif"
             }
         ],
         "price": "770",
@@ -4631,7 +5209,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT55400.jpg",
-                "url": "/website%20products/Hand%20Tools/Handsaws/THT55400%20-%20Total%2016%20inch%20(400mm)%20Hand%20Saw/THT55400.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Handsaws/THT55400%20-%20Total%2016%20inch%20(400mm)%20Hand%20Saw/THT55400.jpg"
             }
         ],
         "price": "600",
@@ -4649,7 +5227,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT55450.jpg",
-                "url": "/website%20products/Hand%20Tools/Handsaws/THT55450%20-%20Total%2018%20Inch%20Handsaw%20(450mm)/THT55450.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Handsaws/THT55450%20-%20Total%2018%20Inch%20Handsaw%20(450mm)/THT55450.jpg"
             }
         ],
         "price": "700",
@@ -4667,11 +5245,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o178579v82_1609200243_bo_pro_p_f_1.webp",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/1609200243%20-%20Bosch%20Hole%20Cutters%20Set%20(8%20Pcs)/o178579v82_1609200243_bo_pro_p_f_1.webp"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/1609200243%20-%20Bosch%20Hole%20Cutters%20Set%20(8%20Pcs)/o178579v82_1609200243_bo_pro_p_f_1.webp"
             },
             {
                 "name": "o183824v82_1609200243_bo_pro_u_a_1.webp",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/1609200243%20-%20Bosch%20Hole%20Cutters%20Set%20(8%20Pcs)/o183824v82_1609200243_bo_pro_u_a_1.webp"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/1609200243%20-%20Bosch%20Hole%20Cutters%20Set%20(8%20Pcs)/o183824v82_1609200243_bo_pro_u_a_1.webp"
             }
         ],
         "price": "2300",
@@ -4689,7 +5267,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o91429v82_Lochsaegenkoffer.webp",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/2608580803%20-%20HSS%20Bi-Metal%20Holesaw%20Set%20(Plumbers)%20(9%20Pcs)/o91429v82_Lochsaegenkoffer.webp"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/2608580803%20-%20HSS%20Bi-Metal%20Holesaw%20Set%20(Plumbers)%20(9%20Pcs)/o91429v82_Lochsaegenkoffer.webp"
             }
         ],
         "price": "8700",
@@ -4707,7 +5285,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o91429v82_Lochsaegenkoffer.webp",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/2608580804%20-%20HSS%20Bi-Metal%20Holesaw%20Set%20(Electricians)%20(9%20Pcs)/o91429v82_Lochsaegenkoffer.webp"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/2608580804%20-%20HSS%20Bi-Metal%20Holesaw%20Set%20(Electricians)%20(9%20Pcs)/o91429v82_Lochsaegenkoffer.webp"
             }
         ],
         "price": "9700",
@@ -4725,7 +5303,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[AKH0021] AKH0021 9 PCS BI-METAL HOLE SAW SET.jfif",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/AKH0021%20-%20Ingco%20Bi-Metal%20Hole%20Saw%20Set/%5BAKH0021%5D%20AKH0021%209%20PCS%20BI-METAL%20HOLE%20SAW%20SET.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/AKH0021%20-%20Ingco%20Bi-Metal%20Hole%20Saw%20Set/%5BAKH0021%5D%20AKH0021%209%20PCS%20BI-METAL%20HOLE%20SAW%20SET.jfif"
             }
         ],
         "price": "9250",
@@ -4743,7 +5321,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[AKH0092] AKH0092 BI-METAL HOLE SAW SET.jfif",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/AKH0092%20-%20Ingco%20Bi-Metal%20Hole%20Saw%20Set%20(9%20Pcs)/%5BAKH0092%5D%20AKH0092%20BI-METAL%20HOLE%20SAW%20SET.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/AKH0092%20-%20Ingco%20Bi-Metal%20Hole%20Saw%20Set%20(9%20Pcs)/%5BAKH0092%5D%20AKH0092%20BI-METAL%20HOLE%20SAW%20SET.jfif"
             }
         ],
         "price": "6250",
@@ -4761,7 +5339,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[AKHS702] AKHS702 HOLE SAW SET.jfif",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/AKHS702%20-%20Ingco%20Hole%20Saw%20Set%20(7%20Pcs)/%5BAKHS702%5D%20AKHS702%20HOLE%20SAW%20SET.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/AKHS702%20-%20Ingco%20Hole%20Saw%20Set%20(7%20Pcs)/%5BAKHS702%5D%20AKHS702%20HOLE%20SAW%20SET.jfif"
             }
         ],
         "price": "800",
@@ -4779,7 +5357,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "d4sinptuo7mm6fs7j8551oh7n7jcuali.png",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/EDH-SKZ002-E1%20-%20Deli%20Hole%20Saw%20Adaptor/d4sinptuo7mm6fs7j8551oh7n7jcuali.png"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/EDH-SKZ002-E1%20-%20Deli%20Hole%20Saw%20Adaptor/d4sinptuo7mm6fs7j8551oh7n7jcuali.png"
             }
         ],
         "price": "400",
@@ -4797,7 +5375,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSB4061] HSB4061 CARBIDE GRITTED HOLE SAW SET.jfif",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/HSB4061%20-%20Ingco%20Carbide%20Gritted%20Hole%20Saw%20Set/%5BHSB4061%5D%20HSB4061%20CARBIDE%20GRITTED%20HOLE%20SAW%20SET.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/HSB4061%20-%20Ingco%20Carbide%20Gritted%20Hole%20Saw%20Set/%5BHSB4061%5D%20HSB4061%20CARBIDE%20GRITTED%20HOLE%20SAW%20SET.jfif"
             }
         ],
         "price": "3100",
@@ -4815,7 +5393,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1-Copy-157.jpg",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/SEO011%20-%20Uyus%20Hole%20Saw%20Set%20(11%20Pcs)/1-Copy-157.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/SEO011%20-%20Uyus%20Hole%20Saw%20Set%20(11%20Pcs)/1-Copy-157.jpg"
             }
         ],
         "price": "",
@@ -4833,7 +5411,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "sierra-copa-uyustools-15-piezas-seo015.jpg",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/SEO015%20-%20Uyus%20Hole%20Saw%20Set%20(15%20Pcs)/sierra-copa-uyustools-15-piezas-seo015.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/SEO015%20-%20Uyus%20Hole%20Saw%20Set%20(15%20Pcs)/sierra-copa-uyustools-15-piezas-seo015.jpg"
             }
         ],
         "price": "2500",
@@ -4851,11 +5429,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "WhatsApp Image 2025-02-04 at 15.46.42 (1).jpeg",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/SEO205%20-%20Uyus%20Carbide%20Gritted%20Hole%20Saw%20Set/WhatsApp%20Image%202025-02-04%20at%2015.46.42%20(1).jpeg"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/SEO205%20-%20Uyus%20Carbide%20Gritted%20Hole%20Saw%20Set/WhatsApp%20Image%202025-02-04%20at%2015.46.42%20(1).jpeg"
             },
             {
                 "name": "WhatsApp Image 2025-02-04 at 15.46.42 (2).jpeg",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/SEO205%20-%20Uyus%20Carbide%20Gritted%20Hole%20Saw%20Set/WhatsApp%20Image%202025-02-04%20at%2015.46.42%20(2).jpeg"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/SEO205%20-%20Uyus%20Carbide%20Gritted%20Hole%20Saw%20Set/WhatsApp%20Image%202025-02-04%20at%2015.46.42%20(2).jpeg"
             }
         ],
         "price": "",
@@ -4873,7 +5451,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "002-00964.jpg",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/SEO207%20-%20Uyus%20Carbide%20Gritted%20Hole%20Saw%20Set%20(7%20Pcs)/002-00964.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/SEO207%20-%20Uyus%20Carbide%20Gritted%20Hole%20Saw%20Set%20(7%20Pcs)/002-00964.jpg"
             }
         ],
         "price": "5500",
@@ -4891,7 +5469,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TACSH0132.jpg",
-                "url": "/website%20products/Hand%20Tools/Hole%20Saw%20Sets/TACSH0132%20-%20Total%20Hole%20Saw%20Set%20(13%20Pcs)/TACSH0132.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Hole%20Saw%20Sets/TACSH0132%20-%20Total%20Hole%20Saw%20Set%20(13%20Pcs)/TACSH0132.jpg"
             }
         ],
         "price": "7500",
@@ -4909,7 +5487,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl350042-2.webp",
-                "url": "/website%20products/Hand%20Tools/PVC%20Pipe%20Cutters/DL350042%20-%20Deli%2043mm%20Pipe%20Cutter/edl350042-2.webp"
+                "url": "/Website%20Products/Hand%20Tools/PVC%20Pipe%20Cutters/DL350042%20-%20Deli%2043mm%20Pipe%20Cutter/edl350042-2.webp"
             }
         ],
         "price": "600",
@@ -4927,7 +5505,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HPC0232.jfif",
-                "url": "/website%20products/Hand%20Tools/PVC%20Pipe%20Cutters/HPC0232%20-%20Ingco%2032mm%20Pipe%20Cutter/HPC0232.jfif"
+                "url": "/Website%20Products/Hand%20Tools/PVC%20Pipe%20Cutters/HPC0232%20-%20Ingco%2032mm%20Pipe%20Cutter/HPC0232.jfif"
             }
         ],
         "price": "980",
@@ -4945,7 +5523,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HPC0442.jfif",
-                "url": "/website%20products/Hand%20Tools/PVC%20Pipe%20Cutters/HPC0442%20-%20Ingco%20230mm%20Industrial%20Pipe%20Cutter/HPC0442.jfif"
+                "url": "/Website%20Products/Hand%20Tools/PVC%20Pipe%20Cutters/HPC0442%20-%20Ingco%20230mm%20Industrial%20Pipe%20Cutter/HPC0442.jfif"
             }
         ],
         "price": "1650",
@@ -4963,23 +5541,23 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2.jpg",
-                "url": "/website%20products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/2.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/2.jpg"
             },
             {
                 "name": "3.jpg",
-                "url": "/website%20products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/3.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/3.jpg"
             },
             {
                 "name": "4.jpg",
-                "url": "/website%20products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/4.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/4.jpg"
             },
             {
                 "name": "5.jpg",
-                "url": "/website%20products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/5.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/5.jpg"
             },
             {
                 "name": "6.jpg",
-                "url": "/website%20products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/6.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/Generic%20Paint%20Brushes/6.jpg"
             }
         ],
         "price": "",
@@ -4997,7 +5575,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HRHT042301D.jfif",
-                "url": "/website%20products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/HRHT042301D%20-%20Cylinder%20brush%20(Inner%20wall)/HRHT042301D.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/HRHT042301D%20-%20Cylinder%20brush%20(Inner%20wall)/HRHT042301D.jfif"
             }
         ],
         "price": "450",
@@ -5015,7 +5593,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HRHT042302D.jfif",
-                "url": "/website%20products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/HRHT042302D%20-%20Cylinder%20brush%20(Outer%20wall)/HRHT042302D.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/HRHT042302D%20-%20Cylinder%20brush%20(Outer%20wall)/HRHT042302D.jfif"
             }
         ],
         "price": "500",
@@ -5033,7 +5611,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HRHT281002] HRHT281002 MINI CYLINDER BRUSH(INNER WALL) 4_.jfif",
-                "url": "/website%20products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/HRHT281002%20-%20Mini%20cylinder%20brush%20100mm%20(Inner%20wall)/%5BHRHT281002%5D%20HRHT281002%20MINI%20CYLINDER%20BRUSH(INNER%20WALL)%204_.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Paint%20Brushes%20and%20Paint%20Rollers/HRHT281002%20-%20Mini%20cylinder%20brush%20100mm%20(Inner%20wall)/%5BHRHT281002%5D%20HRHT281002%20MINI%20CYLINDER%20BRUSH(INNER%20WALL)%204_.jfif"
             }
         ],
         "price": "300",
@@ -5051,7 +5629,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HPW0808.jfif",
-                "url": "/website%20products/Hand%20Tools/Pipe%20Wrenches/HPW0808%20-%20Ingco%208%20inch%20Pipe%20wrench/HPW0808.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Pipe%20Wrenches/HPW0808%20-%20Ingco%208%20inch%20Pipe%20wrench/HPW0808.jfif"
             }
         ],
         "price": "850",
@@ -5069,7 +5647,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HPW0810.jfif",
-                "url": "/website%20products/Hand%20Tools/Pipe%20Wrenches/HPW0810%20-%20Ingco%2010%20inch%20Pipe%20wrench/HPW0810.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Pipe%20Wrenches/HPW0810%20-%20Ingco%2010%20inch%20Pipe%20wrench/HPW0810.jfif"
             }
         ],
         "price": "1150",
@@ -5087,7 +5665,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HPW0812.jfif",
-                "url": "/website%20products/Hand%20Tools/Pipe%20Wrenches/HPW0812%20-%20Ingco%2012%20inch%20Pipe%20wrench/HPW0812.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Pipe%20Wrenches/HPW0812%20-%20Ingco%2012%20inch%20Pipe%20wrench/HPW0812.jfif"
             }
         ],
         "price": "1200",
@@ -5105,7 +5683,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT170806.jpg",
-                "url": "/website%20products/Hand%20Tools/Pipe%20Wrenches/THT170806%20-%20Total%208%20inch%20Pipe%20Wrench/THT170806.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Pipe%20Wrenches/THT170806%20-%20Total%208%20inch%20Pipe%20Wrench/THT170806.jpg"
             }
         ],
         "price": "750",
@@ -5123,7 +5701,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT171006.jpg",
-                "url": "/website%20products/Hand%20Tools/Pipe%20Wrenches/THT171006%20-%20Total%2010%20inch%20Pipe%20Wrench/THT171006.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Pipe%20Wrenches/THT171006%20-%20Total%2010%20inch%20Pipe%20Wrench/THT171006.jpg"
             }
         ],
         "price": "800",
@@ -5141,7 +5719,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT171206.jpg",
-                "url": "/website%20products/Hand%20Tools/Pipe%20Wrenches/THT171206%20-%20Total%2012%20inch%20Pipe%20Wrench/THT171206.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Pipe%20Wrenches/THT171206%20-%20Total%2012%20inch%20Pipe%20Wrench/THT171206.jpg"
             }
         ],
         "price": "1100",
@@ -5159,7 +5737,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "BDHT81589_1.jpg",
-                "url": "/website%20products/Hand%20Tools/Pliers/BDHT81589%20-%20Black%20and%20Decker%20Pump%20Pliers/BDHT81589_1.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/BDHT81589%20-%20Black%20and%20Decker%20Pump%20Pliers/BDHT81589_1.jpg"
             }
         ],
         "price": "2500",
@@ -5177,7 +5755,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DL2001.webp",
-                "url": "/website%20products/Hand%20Tools/Pliers/DL2001%20-%20Deli%20Curved%20Jaw%20Locking%20Pliers/DL2001.webp"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/DL2001%20-%20Deli%20Curved%20Jaw%20Locking%20Pliers/DL2001.webp"
             }
         ],
         "price": "750",
@@ -5195,7 +5773,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HBNP08160] HBNP08160 BENT NOSE PLIERS 6_.jfif",
-                "url": "/website%20products/Hand%20Tools/Pliers/HBNP08160%20-%20Ingco%20Bent%20Nose%20Pliers/%5BHBNP08160%5D%20HBNP08160%20BENT%20NOSE%20PLIERS%206_.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/HBNP08160%20-%20Ingco%20Bent%20Nose%20Pliers/%5BHBNP08160%5D%20HBNP08160%20BENT%20NOSE%20PLIERS%206_.jfif"
             }
         ],
         "price": "420",
@@ -5213,7 +5791,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HCP28168.jpg",
-                "url": "/website%20products/Hand%20Tools/Pliers/HCP28168%20-%20Ingco%206%20inch%20Combination%20Pliers/HCP28168.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/HCP28168%20-%20Ingco%206%20inch%20Combination%20Pliers/HCP28168.jpg"
             }
         ],
         "price": "850",
@@ -5231,7 +5809,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HMPS06115] HMPS06115 6PCS  MINI PLIERS SET.jfif",
-                "url": "/website%20products/Hand%20Tools/Pliers/HMPS06115%20-%20Ingco%20Mini%20Pliers%20Set%20(6%20Pcs)/%5BHMPS06115%5D%20HMPS06115%206PCS%20%20MINI%20PLIERS%20SET.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/HMPS06115%20-%20Ingco%20Mini%20Pliers%20Set%20(6%20Pcs)/%5BHMPS06115%5D%20HMPS06115%206PCS%20%20MINI%20PLIERS%20SET.jfif"
             }
         ],
         "price": "1500",
@@ -5249,7 +5827,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HCP08208.jpg",
-                "url": "/website%20products/Hand%20Tools/Pliers/HPC08208%20-%20Ingco%208%20inch%20Combination%20Pliers/HCP08208.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/HPC08208%20-%20Ingco%208%20inch%20Combination%20Pliers/HCP08208.jpg"
             }
         ],
         "price": "650",
@@ -5267,7 +5845,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT1K0301.jpg",
-                "url": "/website%20products/Hand%20Tools/Pliers/THT1K0301%20-%20Total%203%20Pcs%20Pliers%20Set/THT1K0301.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/THT1K0301%20-%20Total%203%20Pcs%20Pliers%20Set/THT1K0301.jpg"
             }
         ],
         "price": "1250",
@@ -5285,7 +5863,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TNA308.webp",
-                "url": "/website%20products/Hand%20Tools/Pliers/TNA308%20-%20Uyus%20End%20Cutting%20Pliers/TNA308.webp"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/TNA308%20-%20Uyus%20End%20Cutting%20Pliers/TNA308.webp"
             }
         ],
         "price": "850",
@@ -5303,7 +5881,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "21152-png.webp",
-                "url": "/website%20products/Hand%20Tools/Pliers/YT-21152%20-%20Yato%208%20inch%20Insulated%20COmbination%20Pliers/21152-png.webp"
+                "url": "/Website%20Products/Hand%20Tools/Pliers/YT-21152%20-%20Yato%208%20inch%20Insulated%20COmbination%20Pliers/21152-png.webp"
             }
         ],
         "price": "1650",
@@ -5321,14 +5899,14 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HAN.SCR.29620964_1726654482001.webp",
-                "url": "/website%20products/Hand%20Tools/Precision%20Screwdrivers/DL1033D%20-%20Deli%20Precision%20Screwdriver%20Set/HAN.SCR.29620964_1726654482001.webp"
+                "url": "/Website%20Products/Hand%20Tools/Precision%20Screwdrivers/DL1033D%20-%20Deli%20Precision%20Screwdriver%20Set/HAN.SCR.29620964_1726654482001.webp"
             }
         ],
         "price": "900",
-        "isOnOffer": false,
+        "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 900,
+        "offerPrice": 750
     },
     {
         "id": "hksd0718---ingco-7-pcs-precision-set",
@@ -5339,7 +5917,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSD0718.jpg",
-                "url": "/website%20products/Hand%20Tools/Precision%20Screwdrivers/HKSD0718%20-%20Ingco%207%20Pcs%20Precision%20Set/HKSD0718.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Precision%20Screwdrivers/HKSD0718%20-%20Ingco%207%20Pcs%20Precision%20Set/HKSD0718.jpg"
             }
         ],
         "price": "850",
@@ -5357,7 +5935,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKSDB0348] HKSDB0348 PRECISION SCREWDRIVER SET.png",
-                "url": "/website%20products/Hand%20Tools/Precision%20Screwdrivers/HKSDB0348%20-%20%20Ingco%2032%20Pcs%20Precision%20Screwdriver%20Set/%5BHKSDB0348%5D%20HKSDB0348%20PRECISION%20SCREWDRIVER%20SET.png"
+                "url": "/Website%20Products/Hand%20Tools/Precision%20Screwdrivers/HKSDB0348%20-%20%20Ingco%2032%20Pcs%20Precision%20Screwdriver%20Set/%5BHKSDB0348%5D%20HKSDB0348%20PRECISION%20SCREWDRIVER%20SET.png"
             }
         ],
         "price": "1500",
@@ -5375,7 +5953,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "4PCS-QUICK-RATCHET-BAR-CLAMP-SET-768x768.jpg.webp",
-                "url": "/website%20products/Hand%20Tools/Quick%20Bar%20Clamps/10209%20-%20Tolsen%20Quick%20Bar%20Ratchet%20Clamp%20(4%20Pcs)/4PCS-QUICK-RATCHET-BAR-CLAMP-SET-768x768.jpg.webp"
+                "url": "/Website%20Products/Hand%20Tools/Quick%20Bar%20Clamps/10209%20-%20Tolsen%20Quick%20Bar%20Ratchet%20Clamp%20(4%20Pcs)/4PCS-QUICK-RATCHET-BAR-CLAMP-SET-768x768.jpg.webp"
             }
         ],
         "price": "2750",
@@ -5393,7 +5971,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl110112-quick-bar-clamp.webp",
-                "url": "/website%20products/Hand%20Tools/Quick%20Bar%20Clamps/DL110112%20-%20Deli%2012-inch%20Quick%20Bar%20Clamp/edl110112-quick-bar-clamp.webp"
+                "url": "/Website%20Products/Hand%20Tools/Quick%20Bar%20Clamps/DL110112%20-%20Deli%2012-inch%20Quick%20Bar%20Clamp/edl110112-quick-bar-clamp.webp"
             }
         ],
         "price": "650",
@@ -5411,7 +5989,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1_-_2024-05-15t160138.248.webp",
-                "url": "/website%20products/Hand%20Tools/Quick%20Bar%20Clamps/DLL110118%20-%20Deli%2018-inch%20Quick-Bar%20Clamp/1_-_2024-05-15t160138.248.webp"
+                "url": "/Website%20Products/Hand%20Tools/Quick%20Bar%20Clamps/DLL110118%20-%20Deli%2018-inch%20Quick-Bar%20Clamp/1_-_2024-05-15t160138.248.webp"
             }
         ],
         "price": "700",
@@ -5429,7 +6007,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HQBC36803] HQBC36803 QUICK BAR CLAMPS 80x900mm.png",
-                "url": "/website%20products/Hand%20Tools/Quick%20Bar%20Clamps/HQBC36803%20-%20Ingco%20Quick%20Bar%20Clamp%20(80%20x%20900mm)/%5BHQBC36803%5D%20HQBC36803%20QUICK%20BAR%20CLAMPS%2080x900mm.png"
+                "url": "/Website%20Products/Hand%20Tools/Quick%20Bar%20Clamps/HQBC36803%20-%20Ingco%20Quick%20Bar%20Clamp%20(80%20x%20900mm)/%5BHQBC36803%5D%20HQBC36803%20QUICK%20BAR%20CLAMPS%2080x900mm.png"
             }
         ],
         "price": "3100",
@@ -5447,7 +6025,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTS12101] HKTS12101 10PCS 1-2_ SOCKET SET 300MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Ratchet%20Wrenches/HKTS12101%20-%20Ingco%2010%20Pcs%20Half%20Inch%20Socket%20Set%20with%20L-Handle/%5BHKTS12101%5D%20HKTS12101%2010PCS%201-2_%20SOCKET%20SET%20300MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Ratchet%20Wrenches/HKTS12101%20-%20Ingco%2010%20Pcs%20Half%20Inch%20Socket%20Set%20with%20L-Handle/%5BHKTS12101%5D%20HKTS12101%2010PCS%201-2_%20SOCKET%20SET%20300MM.jfif"
             }
         ],
         "price": "3250",
@@ -5465,14 +6043,14 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THKTHP21426.jpg",
-                "url": "/website%20products/Hand%20Tools/Ratchet%20Wrenches/THKTHP21426%20-%20Total%20142%20Pcs%20Combination%20Tool%20Set/THKTHP21426.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Ratchet%20Wrenches/THKTHP21426%20-%20Total%20142%20Pcs%20Combination%20Tool%20Set/THKTHP21426.jpg"
             }
         ],
         "price": "28500",
-        "isOnOffer": false,
+        "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 28500,
+        "offerPrice": 26000
     },
     {
         "id": "tht121201---total-20-pcs-half-inch-socket-set",
@@ -5483,7 +6061,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT121201.jpg",
-                "url": "/website%20products/Hand%20Tools/Ratchet%20Wrenches/THT121201%20-%20Total%2020%20Pcs%20Half%20Inch%20Socket%20Set/THT121201.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Ratchet%20Wrenches/THT121201%20-%20Total%2020%20Pcs%20Half%20Inch%20Socket%20Set/THT121201.jpg"
             }
         ],
         "price": "5750",
@@ -5501,7 +6079,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT141201.jpg",
-                "url": "/website%20products/Hand%20Tools/Ratchet%20Wrenches/THT141201%20-%20Total%2020%20Pcs%20Quarter%20Inch%20Socket%20Set/THT141201.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Ratchet%20Wrenches/THT141201%20-%20Total%2020%20Pcs%20Quarter%20Inch%20Socket%20Set/THT141201.jpg"
             }
         ],
         "price": "3500",
@@ -5519,7 +6097,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[ABH10601] ABH10601 SCREWDRIVER BIT HOLDER.jfif",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/ABH10601%20-%20Ingco%20Screwdriver%20Bit%20Holder/%5BABH10601%5D%20ABH10601%20SCREWDRIVER%20BIT%20HOLDER.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/ABH10601%20-%20Ingco%20Screwdriver%20Bit%20Holder/%5BABH10601%5D%20ABH10601%20SCREWDRIVER%20BIT%20HOLDER.jfif"
             }
         ],
         "price": "450",
@@ -5537,7 +6115,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "31zmAoIEJVL._SY300_SX300_QL70_FMwebp_.webp",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/BDHT62296%20-%20Black%20and%20Decker%20Star%20Screwdriver%20(6'')/31zmAoIEJVL._SY300_SX300_QL70_FMwebp_.webp"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/BDHT62296%20-%20Black%20and%20Decker%20Star%20Screwdriver%20(6'')/31zmAoIEJVL._SY300_SX300_QL70_FMwebp_.webp"
             }
         ],
         "price": "300",
@@ -5555,14 +6133,14 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HAN.SCR.29620964_1726654482001.webp",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/DL1033D%20-%20Deli%20Precision%20Screwdriver%20Set/HAN.SCR.29620964_1726654482001.webp"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/DL1033D%20-%20Deli%20Precision%20Screwdriver%20Set/HAN.SCR.29620964_1726654482001.webp"
             }
         ],
         "price": "900",
-        "isOnOffer": false,
+        "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 900,
+        "offerPrice": 750
     },
     {
         "id": "hksd0628---ingco-6pcs-screwdriver-set",
@@ -5573,11 +6151,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSD0628.jfif",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HKSD0628%20-%20Ingco%206pcs%20Screwdriver%20Set/HKSD0628.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HKSD0628%20-%20Ingco%206pcs%20Screwdriver%20Set/HKSD0628.jfif"
             }
         ],
         "price": "950",
-        "isOnOffer": true,
+        "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
@@ -5591,7 +6169,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSD0718.jpg",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HKSD0718%20-%20Ingco%207%20Pcs%20Precision%20Set/HKSD0718.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HKSD0718%20-%20Ingco%207%20Pcs%20Precision%20Set/HKSD0718.jpg"
             }
         ],
         "price": "850",
@@ -5609,7 +6187,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSDB0188.jfif",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HKSDB0188%20-%20Ingco%20T-Handle%20Wrench%20Screwdriver%20Set/HKSDB0188.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HKSDB0188%20-%20Ingco%20T-Handle%20Wrench%20Screwdriver%20Set/HKSDB0188.jfif"
             }
         ],
         "price": "700",
@@ -5627,7 +6205,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSDB0248.jfif",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HKSDB0248%20-%20Ingco%2024%20Pcs%20Screwdriver%20Set/HKSDB0248.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HKSDB0248%20-%20Ingco%2024%20Pcs%20Screwdriver%20Set/HKSDB0248.jfif"
             }
         ],
         "price": "1600",
@@ -5645,7 +6223,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKSDB0348] HKSDB0348 PRECISION SCREWDRIVER SET.png",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HKSDB0348%20-%20%20Ingco%2032%20Pcs%20Precision%20Screwdriver%20Set/%5BHKSDB0348%5D%20HKSDB0348%20PRECISION%20SCREWDRIVER%20SET.png"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HKSDB0348%20-%20%20Ingco%2032%20Pcs%20Precision%20Screwdriver%20Set/%5BHKSDB0348%5D%20HKSDB0348%20PRECISION%20SCREWDRIVER%20SET.png"
             }
         ],
         "price": "1500",
@@ -5663,7 +6241,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HS285075] HS285075 SLOTTED SCREWDRIVER.png",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HS285075%20-%20Ingco%20Slotted%20Screwdriver/%5BHS285075%5D%20HS285075%20SLOTTED%20SCREWDRIVER.png"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HS285075%20-%20Ingco%20Slotted%20Screwdriver/%5BHS285075%5D%20HS285075%20SLOTTED%20SCREWDRIVER.png"
             }
         ],
         "price": "150",
@@ -5681,7 +6259,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HS285100] HS285100 SLOTTED SCREWDRIVER.png",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HS285100%20-%20Ingco%20Slotted%20Screwdriver/%5BHS285100%5D%20HS285100%20SLOTTED%20SCREWDRIVER.png"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HS285100%20-%20Ingco%20Slotted%20Screwdriver/%5BHS285100%5D%20HS285100%20SLOTTED%20SCREWDRIVER.png"
             }
         ],
         "price": "250",
@@ -5699,7 +6277,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HS286125] HS286125 SLOTTED SCREWDRIVER.png",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HS286125%20-%20Ingco%20Slotted%20Screwdriver/%5BHS286125%5D%20HS286125%20SLOTTED%20SCREWDRIVER.png"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HS286125%20-%20Ingco%20Slotted%20Screwdriver/%5BHS286125%5D%20HS286125%20SLOTTED%20SCREWDRIVER.png"
             }
         ],
         "price": "250",
@@ -5717,7 +6295,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HS28PH3200] HS28PH3200 PHILIPS SCREWDRIVER PH3.jfif",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HS28PH3200%20-%20Ingco%20Phillips%20Screwdriver%20(PH3)/%5BHS28PH3200%5D%20HS28PH3200%20PHILIPS%20SCREWDRIVER%20PH3.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HS28PH3200%20-%20Ingco%20Phillips%20Screwdriver%20(PH3)/%5BHS28PH3200%5D%20HS28PH3200%20PHILIPS%20SCREWDRIVER%20PH3.jfif"
             }
         ],
         "price": "300",
@@ -5735,7 +6313,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HS28T10100] HS28T10100 TORX SCREWDRIVER 5MM.png",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HS28T10100%20-%20Ingco%20Torx%20Screwdriver%20(5mm)/%5BHS28T10100%5D%20HS28T10100%20TORX%20SCREWDRIVER%205MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HS28T10100%20-%20Ingco%20Torx%20Screwdriver%20(5mm)/%5BHS28T10100%5D%20HS28T10100%20TORX%20SCREWDRIVER%205MM.png"
             }
         ],
         "price": "160",
@@ -5753,7 +6331,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HS28T20150] HS28T20150 TORX SCREWDRIVER 6MM.png",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HS28T20150%20-%20Incgo%20Torx%20Screwdriver%20(6mm)/%5BHS28T20150%5D%20HS28T20150%20TORX%20SCREWDRIVER%206MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HS28T20150%20-%20Incgo%20Torx%20Screwdriver%20(6mm)/%5BHS28T20150%5D%20HS28T20150%20TORX%20SCREWDRIVER%206MM.png"
             }
         ],
         "price": "250",
@@ -5771,7 +6349,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSDPH0075] HSDPH0075 PHILIPS SCREWDRIVER PH0.png",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/HSDPH0075%20-%20Ingco%20Phillips%20Screwdriver%20(PH0)/%5BHSDPH0075%5D%20HSDPH0075%20PHILIPS%20SCREWDRIVER%20PH0.png"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/HSDPH0075%20-%20Ingco%20Phillips%20Screwdriver%20(PH0)/%5BHSDPH0075%5D%20HSDPH0075%20PHILIPS%20SCREWDRIVER%20PH0.png"
             }
         ],
         "price": "150",
@@ -5789,7 +6367,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2827_2Png_zp.png",
-                "url": "/website%20products/Hand%20Tools/Screwdrivers/YT-2827%20-%20Yato%20Insulated%20Screwdriver%20Set/2827_2Png_zp.png"
+                "url": "/Website%20Products/Hand%20Tools/Screwdrivers/YT-2827%20-%20Yato%20Insulated%20Screwdriver%20Set/2827_2Png_zp.png"
             }
         ],
         "price": "1500",
@@ -5807,7 +6385,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CE1305.jpeg",
-                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/CE1305%20-%20Uyus%20Snap%20Off%20Knife/CE1305.jpeg"
+                "url": "/Website%20Products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/CE1305%20-%20Uyus%20Snap%20Off%20Knife/CE1305.jpeg"
             }
         ],
         "price": "350",
@@ -5825,7 +6403,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "66401-1.jpg",
-                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/CEA3SU%20-%20Uyus%20Snap%20Off%20Knife%20Blade/66401-1.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/CEA3SU%20-%20Uyus%20Snap%20Off%20Knife%20Blade/66401-1.jpg"
             }
         ],
         "price": "550",
@@ -5843,7 +6421,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1_7.webp",
-                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/DL018B%20-%20Deli%20Utility%20Knife%20(18mm)/1_7.webp"
+                "url": "/Website%20Products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/DL018B%20-%20Deli%20Utility%20Knife%20(18mm)/1_7.webp"
             }
         ],
         "price": "150",
@@ -5861,7 +6439,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKNS1806] HKNS1806 SNAP-OFF BLADE KNIFE.png",
-                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/HKNS1806%20-%20Ingco%20Snap%20Off%20Blade%20Knife/%5BHKNS1806%5D%20HKNS1806%20SNAP-OFF%20BLADE%20KNIFE.png"
+                "url": "/Website%20Products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/HKNS1806%20-%20Ingco%20Snap%20Off%20Blade%20Knife/%5BHKNS1806%5D%20HKNS1806%20SNAP-OFF%20BLADE%20KNIFE.png"
             }
         ],
         "price": "70",
@@ -5879,7 +6457,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKNS1808] HKNS1808 SNAP-OFF BLADE KNIFE.jfif",
-                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/HKNS1808%20-%20Ingco%20Snap%20Off%20Blade%20Knife/%5BHKNS1808%5D%20HKNS1808%20SNAP-OFF%20BLADE%20KNIFE.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/HKNS1808%20-%20Ingco%20Snap%20Off%20Blade%20Knife/%5BHKNS1808%5D%20HKNS1808%20SNAP-OFF%20BLADE%20KNIFE.jfif"
             }
         ],
         "price": "800",
@@ -5897,7 +6475,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "image_1_354246d6-a6ca-4824-9ea0-df6e76d529f2_300x.avif",
-                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/HKNS28035%20-%20Ingco%20Snap%20Off%20Blade%20Knife/image_1_354246d6-a6ca-4824-9ea0-df6e76d529f2_300x.avif"
+                "url": "/Website%20Products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/HKNS28035%20-%20Ingco%20Snap%20Off%20Blade%20Knife/image_1_354246d6-a6ca-4824-9ea0-df6e76d529f2_300x.avif"
             }
         ],
         "price": "300",
@@ -5915,7 +6493,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Ecomm_Large-STHT10322-800_1.jpg",
-                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/STHT10322-800%20-%20Stanley%20Slide%20Lock%20Snap%20Off%20Knife%20(9mm)/Ecomm_Large-STHT10322-800_1.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/STHT10322-800%20-%20Stanley%20Slide%20Lock%20Snap%20Off%20Knife%20(9mm)/Ecomm_Large-STHT10322-800_1.jpg"
             }
         ],
         "price": "350",
@@ -5933,7 +6511,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Ecomm_Large-STHT10323-800_1.jpg",
-                "url": "/website%20products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/STHT10323-800%20-%20Stanley%20Slide%20Lock%20Snap%20Off%20Knife%20(18mm)/Ecomm_Large-STHT10323-800_1.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Snap-off%20(Stripping)%20Knife/STHT10323-800%20-%20Stanley%20Slide%20Lock%20Snap%20Off%20Knife%20(18mm)/Ecomm_Large-STHT10323-800_1.jpg"
             }
         ],
         "price": "450",
@@ -5951,7 +6529,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HCSPA061] HCSPA061 COMBINATION SPANNER.png",
-                "url": "/website%20products/Hand%20Tools/Spanners/Combination%20Spanners/%5BHCSPA061%5D%20HCSPA061%20COMBINATION%20SPANNER.png"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/Combination%20Spanners/%5BHCSPA061%5D%20HCSPA061%20COMBINATION%20SPANNER.png"
             }
         ],
         "price": "",
@@ -5969,7 +6547,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "83dd9fd4-e862-4e6e-a275-fe827b345061.webp",
-                "url": "/website%20products/Hand%20Tools/Spanners/DLI60008A%20-%20Deli%20Open%20End%20Spanner%20Set/83dd9fd4-e862-4e6e-a275-fe827b345061.webp"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/DLI60008A%20-%20Deli%20Open%20End%20Spanner%20Set/83dd9fd4-e862-4e6e-a275-fe827b345061.webp"
             }
         ],
         "price": "2500",
@@ -5987,7 +6565,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HDSPA08091] HDSPA08091 DOUBLE OPEN END SPANNER 8X9mm.png",
-                "url": "/website%20products/Hand%20Tools/Spanners/Double%20Open%20End%20Spanners/%5BHDSPA08091%5D%20HDSPA08091%20DOUBLE%20OPEN%20END%20SPANNER%208X9mm.png"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/Double%20Open%20End%20Spanners/%5BHDSPA08091%5D%20HDSPA08091%20DOUBLE%20OPEN%20END%20SPANNER%208X9mm.png"
             }
         ],
         "price": "",
@@ -6005,7 +6583,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSPA1088.jfif",
-                "url": "/website%20products/Hand%20Tools/Spanners/HKSPA1088%20-%20Ingco%20Combination%20Spanner%20Set%20(8%20Pcs)/HKSPA1088.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/HKSPA1088%20-%20Ingco%20Combination%20Spanner%20Set%20(8%20Pcs)/HKSPA1088.jfif"
             }
         ],
         "price": "1650",
@@ -6023,7 +6601,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKSPA1142] HKSPA1142 12 PCS COMBINATION SPANNER SET (6-24MM).png",
-                "url": "/website%20products/Hand%20Tools/Spanners/HKSPA1142%20-%20Ingco%20Combination%20Spanner%20Set%20(12%20Pcs)/%5BHKSPA1142%5D%20HKSPA1142%2012%20PCS%20COMBINATION%20SPANNER%20SET%20(6-24MM).png"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/HKSPA1142%20-%20Ingco%20Combination%20Spanner%20Set%20(12%20Pcs)/%5BHKSPA1142%5D%20HKSPA1142%2012%20PCS%20COMBINATION%20SPANNER%20SET%20(6-24MM).png"
             }
         ],
         "price": "4150",
@@ -6041,7 +6619,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSPA1143.jfif",
-                "url": "/website%20products/Hand%20Tools/Spanners/HKSPA1143%20-%20Ingco%20Combination%20Spanner%20Set/HKSPA1143.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/HKSPA1143%20-%20Ingco%20Combination%20Spanner%20Set/HKSPA1143.jfif"
             }
         ],
         "price": "5500",
@@ -6059,7 +6637,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSPA2088.jfif",
-                "url": "/website%20products/Hand%20Tools/Spanners/HKSPA2088%20-%20Ingco%208Pcs%20Double%20open%20end%20spanner%20set/HKSPA2088.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/HKSPA2088%20-%20Ingco%208Pcs%20Double%20open%20end%20spanner%20set/HKSPA2088.jfif"
             }
         ],
         "price": "2000",
@@ -6077,7 +6655,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKSPA3088.jfif",
-                "url": "/website%20products/Hand%20Tools/Spanners/HKSPA3088%20-%20Ingco%20Offser%20Ring%20Spanner%20Set%20(8%20Pcs)/HKSPA3088.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/HKSPA3088%20-%20Ingco%20Offser%20Ring%20Spanner%20Set%20(8%20Pcs)/HKSPA3088.jfif"
             }
         ],
         "price": "2500",
@@ -6095,7 +6673,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "5dba65aac368fc7e8b6f896646de3ef4ec16154dfbf080c7421e63f07a511084.webp",
-                "url": "/website%20products/Hand%20Tools/Spanners/STMT25147%20-%20Stanley%20Offset%20Ring%20Spanner%20(9%20Pcs)/5dba65aac368fc7e8b6f896646de3ef4ec16154dfbf080c7421e63f07a511084.webp"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/STMT25147%20-%20Stanley%20Offset%20Ring%20Spanner%20(9%20Pcs)/5dba65aac368fc7e8b6f896646de3ef4ec16154dfbf080c7421e63f07a511084.webp"
             }
         ],
         "price": "7200",
@@ -6113,7 +6691,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT1022121.jpg",
-                "url": "/website%20products/Hand%20Tools/Spanners/THT1022121-%20Total%20Combination%20Spanner%20Set%20(12%20Pcs)/THT1022121.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/THT1022121-%20Total%20Combination%20Spanner%20Set%20(12%20Pcs)/THT1022121.jpg"
             }
         ],
         "price": "4500",
@@ -6131,11 +6709,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT1022122.jpg",
-                "url": "/website%20products/Hand%20Tools/Spanners/THT1022122%20-%20Total%20Combination%20Spanner%20Set/THT1022122.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/THT1022122%20-%20Total%20Combination%20Spanner%20Set/THT1022122.jpg"
             }
         ],
         "price": "5000",
-        "isOnOffer": true,
+        "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
@@ -6149,7 +6727,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT102286-I.jpg",
-                "url": "/website%20products/Hand%20Tools/Spanners/THT102286%20-%20Total%208%20pcs%20Combination%20spanner%20set/THT102286-I.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spanners/THT102286%20-%20Total%208%20pcs%20Combination%20spanner%20set/THT102286-I.jpg"
             }
         ],
         "price": "1600",
@@ -6167,7 +6745,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HSL28060.jpg",
-                "url": "/website%20products/Hand%20Tools/Spirit%20Levels/HSL28060%20-%20Ingco%2060cm%20Magnetic%20Spirit%20Level/HSL28060.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spirit%20Levels/HSL28060%20-%20Ingco%2060cm%20Magnetic%20Spirit%20Level/HSL28060.jpg"
             }
         ],
         "price": "1350",
@@ -6185,7 +6763,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HSL38040M.jpg",
-                "url": "/website%20products/Hand%20Tools/Spirit%20Levels/HSL38040M%20-%20Ingco%2040cm%20Magnetic%20Spirit%20Level/HSL38040M.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spirit%20Levels/HSL38040M%20-%20Ingco%2040cm%20Magnetic%20Spirit%20Level/HSL38040M.jpg"
             }
         ],
         "price": "1750",
@@ -6203,7 +6781,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT210016.jpg",
-                "url": "/website%20products/Hand%20Tools/Spirit%20Levels/TMT210016%20-%20Total%20100cm%20Spirit%20Level/TMT210016.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spirit%20Levels/TMT210016%20-%20Total%20100cm%20Spirit%20Level/TMT210016.jpg"
             }
         ],
         "price": "1750",
@@ -6221,7 +6799,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT24036.jpg",
-                "url": "/website%20products/Hand%20Tools/Spirit%20Levels/TMT24036%20-%20Total%2040cm%20Spirit%20Level/TMT24036.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spirit%20Levels/TMT24036%20-%20Total%2040cm%20Spirit%20Level/TMT24036.jpg"
             }
         ],
         "price": "400",
@@ -6239,10 +6817,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT26036.jpg",
-                "url": "/website%20products/Hand%20Tools/Spirit%20Levels/TMT26026%20-%20Total%2060cm%20Spirit%20Level/TMT26036.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spirit%20Levels/TMT26026%20-%20Total%2060cm%20Spirit%20Level/TMT26036.jpg"
             }
         ],
-        "price": "500",
+        "price": "600",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -6257,7 +6835,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HQSC0206.jpg",
-                "url": "/website%20products/Hand%20Tools/Spring%20Clamps/HQSC0206%20-%206%20inch%20Spring%20Clamp/HQSC0206.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Spring%20Clamps/HQSC0206%20-%206%20inch%20Spring%20Clamp/HQSC0206.jpg"
             }
         ],
         "price": "150",
@@ -6275,7 +6853,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Ecomm_Large-6-TR110_1.jpg",
-                "url": "/website%20products/Hand%20Tools/Staple%20Guns/6-TR110%20-%20Stanley%20Heavy%20Duty%20Staple%20Gun/Ecomm_Large-6-TR110_1.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Staple%20Guns/6-TR110%20-%20Stanley%20Heavy%20Duty%20Staple%20Gun/Ecomm_Large-6-TR110_1.jpg"
             }
         ],
         "price": "4200",
@@ -6293,7 +6871,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Ecomm_Large-6-TR45_2.jpg",
-                "url": "/website%20products/Hand%20Tools/Staple%20Guns/6-TR45%20-%20Stanley%20Light%20Duty%20Staple%20Gun/Ecomm_Large-6-TR45_2.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Staple%20Guns/6-TR45%20-%20Stanley%20Light%20Duty%20Staple%20Gun/Ecomm_Large-6-TR45_2.jpg"
             }
         ],
         "price": "3500",
@@ -6311,7 +6889,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl1313-3in1-staple-gun.webp",
-                "url": "/website%20products/Hand%20Tools/Staple%20Guns/EDL1313%20-%20Deli%20Staple%20Gun%20(3%20in%201)/edl1313-3in1-staple-gun.webp"
+                "url": "/Website%20Products/Hand%20Tools/Staple%20Guns/EDL1313%20-%20Deli%20Staple%20Gun%20(3%20in%201)/edl1313-3in1-staple-gun.webp"
             }
         ],
         "price": "1500",
@@ -6329,7 +6907,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "EGU002.jpg",
-                "url": "/website%20products/Hand%20Tools/Staple%20Guns/EGU002%20-%20Uyus%203%20in%201%20Staple%20Gun/EGU002.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Staple%20Guns/EGU002%20-%20Uyus%203%20in%201%20Staple%20Gun/EGU002.jpg"
             }
         ],
         "price": "2000",
@@ -6347,7 +6925,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSG14018] HSG14018 STAPLE GUN.png",
-                "url": "/website%20products/Hand%20Tools/Staple%20Guns/HSG14018%20-%20Ingco%20Staple%20Gun/%5BHSG14018%5D%20HSG14018%20STAPLE%20GUN.png"
+                "url": "/Website%20Products/Hand%20Tools/Staple%20Guns/HSG14018%20-%20Ingco%20Staple%20Gun/%5BHSG14018%5D%20HSG14018%20STAPLE%20GUN.png"
             }
         ],
         "price": "1300",
@@ -6365,7 +6943,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSG1403] HSG1403 STAPLE GUN.png",
-                "url": "/website%20products/Hand%20Tools/Staple%20Guns/HSG1403%20-%20Ingco%20Staple%20Gun/%5BHSG1403%5D%20HSG1403%20STAPLE%20GUN.png"
+                "url": "/Website%20Products/Hand%20Tools/Staple%20Guns/HSG1403%20-%20Ingco%20Staple%20Gun/%5BHSG1403%5D%20HSG1403%20STAPLE%20GUN.png"
             }
         ],
         "price": "1600",
@@ -6383,7 +6961,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSG1408] HSG1408 HEAVY DUTY 2 IN 1 STAPLE GUN.jfif",
-                "url": "/website%20products/Hand%20Tools/Staple%20Guns/HSG1408%20-%20Ingco%20Staple%20Gun%20(2%20in%201)/%5BHSG1408%5D%20HSG1408%20HEAVY%20DUTY%202%20IN%201%20STAPLE%20GUN.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Staple%20Guns/HSG1408%20-%20Ingco%20Staple%20Gun%20(2%20in%201)/%5BHSG1408%5D%20HSG1408%20HEAVY%20DUTY%202%20IN%201%20STAPLE%20GUN.jfif"
             }
         ],
         "price": "2700",
@@ -6401,7 +6979,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HSDT1408.jpg",
-                "url": "/website%20products/Hand%20Tools/Testers/HSDT1408%20-%20Ingco%20140mm%20ELectrical%20Tester/HSDT1408.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Testers/HSDT1408%20-%20Ingco%20140mm%20ELectrical%20Tester/HSDT1408.jpg"
             }
         ],
         "price": "150",
@@ -6419,7 +6997,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HSDT1908.jfif",
-                "url": "/website%20products/Hand%20Tools/Testers/HSDT1908%20-%20Ingco%20190mm%20ELectrical%20Tester/HSDT1908.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Testers/HSDT1908%20-%20Ingco%20190mm%20ELectrical%20Tester/HSDT1908.jfif"
             }
         ],
         "price": "250",
@@ -6437,7 +7015,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Ecomm_Large-STHT80891-0_1.jpg",
-                "url": "/website%20products/Hand%20Tools/Tire%20Repair%20Kit/STHT80891-0%20-%20Stanley%20Tire%20Repair%20Kit/Ecomm_Large-STHT80891-0_1.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Tire%20Repair%20Kit/STHT80891-0%20-%20Stanley%20Tire%20Repair%20Kit/Ecomm_Large-STHT80891-0_1.jpg"
             }
         ],
         "price": "1500",
@@ -6455,7 +7033,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HBT618.jfif",
-                "url": "/website%20products/Hand%20Tools/Trowels/HBT618%20-%20Ingco%20Bricklaying%20Trowel%20(6x150mm)/HBT618.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Trowels/HBT618%20-%20Ingco%20Bricklaying%20Trowel%20(6x150mm)/HBT618.jfif"
             }
         ],
         "price": "450",
@@ -6473,7 +7051,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HBT818.jfif",
-                "url": "/website%20products/Hand%20Tools/Trowels/HBT818%20-%20Ingco%20Bricklaying%20Trowel%20(8x200mm)/HBT818.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Trowels/HBT818%20-%20Ingco%20Bricklaying%20Trowel%20(8x200mm)/HBT818.jfif"
             }
         ],
         "price": "450",
@@ -6491,7 +7069,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HFTT858.jpg",
-                "url": "/website%20products/Hand%20Tools/Trowels/HFTT858%20-%20Ingco%20Garden%20Trowel/HFTT858.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Trowels/HFTT858%20-%20Ingco%20Garden%20Trowel/HFTT858.jpg"
             }
         ],
         "price": "600",
@@ -6509,7 +7087,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HPT28138-i2_400x.webp",
-                "url": "/website%20products/Hand%20Tools/Trowels/HPT28138%20-%20Ingco%20Plastering%20Trowel/HPT28138-i2_400x.webp"
+                "url": "/Website%20Products/Hand%20Tools/Trowels/HPT28138%20-%20Ingco%20Plastering%20Trowel/HPT28138-i2_400x.webp"
             }
         ],
         "price": "950",
@@ -6527,7 +7105,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HPTT23108.jfif",
-                "url": "/website%20products/Hand%20Tools/Trowels/HPTT23108%20-%20Ingco%20230x100mm%20Plastering%20%20Trowel/HPTT23108.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Trowels/HPTT23108%20-%20Ingco%20230x100mm%20Plastering%20%20Trowel/HPTT23108.jfif"
             }
         ],
         "price": "350",
@@ -6545,7 +7123,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HPUT08040.jpg",
-                "url": "/website%20products/Hand%20Tools/Trowels/HPUT08100%20-%20Ingco%204%20inch%20Putty%20Trowel/HPUT08040.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Trowels/HPUT08100%20-%20Ingco%204%20inch%20Putty%20Trowel/HPUT08040.jpg"
             }
         ],
         "price": "350",
@@ -6563,7 +7141,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT81286.jpg",
-                "url": "/website%20products/Hand%20Tools/Trowels/THT81286%20-%20Total%20Plastering%20Trowel/THT81286.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Trowels/THT81286%20-%20Total%20Plastering%20Trowel/THT81286.jpg"
             }
         ],
         "price": "900",
@@ -6581,7 +7159,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[AMWH6001] AMWH6001 6PCS MAGNETIC WELDING HOLDER SET.jfif",
-                "url": "/website%20products/Hand%20Tools/Welding%20Magnets/AMWH6001%20-%20Ingco%20Welding%20Magnet%20Set/%5BAMWH6001%5D%20AMWH6001%206PCS%20MAGNETIC%20WELDING%20HOLDER%20SET.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Welding%20Magnets/AMWH6001%20-%20Ingco%20Welding%20Magnet%20Set/%5BAMWH6001%5D%20AMWH6001%206PCS%20MAGNETIC%20WELDING%20HOLDER%20SET.jfif"
             }
         ],
         "price": "1150",
@@ -6599,7 +7177,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "download-2025-03-27T221953.243.webp",
-                "url": "/website%20products/Hand%20Tools/Wire%20Stripper/DL2607%20-%20Deli%207%20inch%20Wire%20Stripper/download-2025-03-27T221953.243.webp"
+                "url": "/Website%20Products/Hand%20Tools/Wire%20Stripper/DL2607%20-%20Deli%207%20inch%20Wire%20Stripper/download-2025-03-27T221953.243.webp"
             }
         ],
         "price": "650",
@@ -6617,7 +7195,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HWSP101.jfif",
-                "url": "/website%20products/Hand%20Tools/Wire%20Stripper/HWSP101%20-%20Ingco%20Wire%20Stripper/HWSP101.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Wire%20Stripper/HWSP101%20-%20Ingco%20Wire%20Stripper/HWSP101.jfif"
             }
         ],
         "price": "1250",
@@ -6635,7 +7213,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT15851.jpg",
-                "url": "/website%20products/Hand%20Tools/Wire%20Stripper/THT15851%20-%20Total%20Wire%20Stripper/THT15851.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Wire%20Stripper/THT15851%20-%20Total%20Wire%20Stripper/THT15851.jpg"
             }
         ],
         "price": "1000",
@@ -6653,7 +7231,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "xlarge_20250722122008_c795c93c.jpeg",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/DL6203-ED1%20-%20Deli%20Wood%20Chisel%20Set%20(3%20Pcs)/xlarge_20250722122008_c795c93c.jpeg"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/DL6203-ED1%20-%20Deli%20Wood%20Chisel%20Set%20(3%20Pcs)/xlarge_20250722122008_c795c93c.jpeg"
             }
         ],
         "price": "1650",
@@ -6671,7 +7249,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWC0806] HWC0806 WOOD CHISEL 6MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/HWC0806%20-%20Ingco%20Wood%20Chisel%20(6mm)/%5BHWC0806%5D%20HWC0806%20WOOD%20CHISEL%206MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/HWC0806%20-%20Ingco%20Wood%20Chisel%20(6mm)/%5BHWC0806%5D%20HWC0806%20WOOD%20CHISEL%206MM.jfif"
             }
         ],
         "price": "600",
@@ -6689,7 +7267,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWC0809] HWC0809 WOOD CHISEL 9MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/HWC0809%20-%20Ingco%20Wood%20Chisel%20(9mm)/%5BHWC0809%5D%20HWC0809%20WOOD%20CHISEL%209MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/HWC0809%20-%20Ingco%20Wood%20Chisel%20(9mm)/%5BHWC0809%5D%20HWC0809%20WOOD%20CHISEL%209MM.jfif"
             }
         ],
         "price": "600",
@@ -6707,7 +7285,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWC0812] HWC0812 WOOD CHISEL 12MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/HWC0812%20-%20Ingco%20Wood%20Chisel%20(12mm)/%5BHWC0812%5D%20HWC0812%20WOOD%20CHISEL%2012MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/HWC0812%20-%20Ingco%20Wood%20Chisel%20(12mm)/%5BHWC0812%5D%20HWC0812%20WOOD%20CHISEL%2012MM.jfif"
             }
         ],
         "price": "500",
@@ -6725,7 +7303,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWC0814] HWC0814 WOOD CHISEL 14MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/HWC0814%20-%20Ingco%20Wood%20Chisel%20(14mm)/%5BHWC0814%5D%20HWC0814%20WOOD%20CHISEL%2014MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/HWC0814%20-%20Ingco%20Wood%20Chisel%20(14mm)/%5BHWC0814%5D%20HWC0814%20WOOD%20CHISEL%2014MM.jfif"
             }
         ],
         "price": "600",
@@ -6743,7 +7321,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWC0816] HWC0816 WOOD CHISEL 16MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/HWC0816%20-%20Ingco%20Wood%20Chisel%20(16mm)/%5BHWC0816%5D%20HWC0816%20WOOD%20CHISEL%2016MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/HWC0816%20-%20Ingco%20Wood%20Chisel%20(16mm)/%5BHWC0816%5D%20HWC0816%20WOOD%20CHISEL%2016MM.jfif"
             }
         ],
         "price": "650",
@@ -6761,7 +7339,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWC0819] HWC0819 WOOD CHISEL 19MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/HWC0819%20-%20Ingco%20Wood%20Chisel%20(19mm)/%5BHWC0819%5D%20HWC0819%20WOOD%20CHISEL%2019MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/HWC0819%20-%20Ingco%20Wood%20Chisel%20(19mm)/%5BHWC0819%5D%20HWC0819%20WOOD%20CHISEL%2019MM.jfif"
             }
         ],
         "price": "650",
@@ -6779,7 +7357,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWC0822] HWC0822 WOOD CHISEL 22MM.png",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/HWC0822%20-%20Ingco%20Wood%20Chisel%20(22mm)/%5BHWC0822%5D%20HWC0822%20WOOD%20CHISEL%2022MM.png"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/HWC0822%20-%20Ingco%20Wood%20Chisel%20(22mm)/%5BHWC0822%5D%20HWC0822%20WOOD%20CHISEL%2022MM.png"
             }
         ],
         "price": "650",
@@ -6797,7 +7375,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HWC0825] HWC0825 WOOD CHISEL 25MM.jfif",
-                "url": "/website%20products/Hand%20Tools/Wood%20Chisels/HWC0825%20-%20Ingco%20Wood%20Chisel%20(25mm)/%5BHWC0825%5D%20HWC0825%20WOOD%20CHISEL%2025MM.jfif"
+                "url": "/Website%20Products/Hand%20Tools/Wood%20Chisels/HWC0825%20-%20Ingco%20Wood%20Chisel%20(25mm)/%5BHWC0825%5D%20HWC0825%20WOOD%20CHISEL%2025MM.jfif"
             }
         ],
         "price": "800",
@@ -6815,7 +7393,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THYSW101214.jpg",
-                "url": "/website%20products/Hand%20Tools/Y-Type%20Socket%20Wrench/THYSW101214%20-%20Total%20Y-Type%20Socket%20Wrench/THYSW101214.jpg"
+                "url": "/Website%20Products/Hand%20Tools/Y-Type%20Socket%20Wrench/THYSW101214%20-%20Total%20Y-Type%20Socket%20Wrench/THYSW101214.jpg"
             }
         ],
         "price": "700",
@@ -6833,7 +7411,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "dl515180-insulated-billhook-cable-stripping-knife.webp",
-                "url": "/website%20products/Insulated%20Tools/DL515180%20-%20Deli%20Insulated%20Bilhook%20Cable%20Stripping%20Knife/dl515180-insulated-billhook-cable-stripping-knife.webp"
+                "url": "/Website%20Products/Insulated%20Tools/DL515180%20-%20Deli%20Insulated%20Bilhook%20Cable%20Stripping%20Knife/dl515180-insulated-billhook-cable-stripping-knife.webp"
             }
         ],
         "price": "2000",
@@ -6851,7 +7429,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "download-2025-01-19T134650.409.webp",
-                "url": "/website%20products/Insulated%20Tools/DL515185%20-%20Deli%20Insulated%20Straight%20Cable%20Knife/download-2025-01-19T134650.409.webp"
+                "url": "/Website%20Products/Insulated%20Tools/DL515185%20-%20Deli%20Insulated%20Straight%20Cable%20Knife/download-2025-01-19T134650.409.webp"
             }
         ],
         "price": "1500",
@@ -6869,7 +7447,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1_734b7967-afe8-4ff9-aab8-51f0dce37f1e.webp",
-                "url": "/website%20products/Insulated%20Tools/EDL512003T%20-%20Deli%20Insulated%20Pliers%20Set%20(3%20Pcs)/1_734b7967-afe8-4ff9-aab8-51f0dce37f1e.webp"
+                "url": "/Website%20Products/Insulated%20Tools/EDL512003T%20-%20Deli%20Insulated%20Pliers%20Set%20(3%20Pcs)/1_734b7967-afe8-4ff9-aab8-51f0dce37f1e.webp"
             }
         ],
         "price": "4000",
@@ -6887,7 +7465,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl512008-insulated-labor-saving-combination-pliers.webp",
-                "url": "/website%20products/Insulated%20Tools/EDL512008%20-%20Insulated%20Labor-Saving%20Combination%20Pliers%20(8'')/edl512008-insulated-labor-saving-combination-pliers.webp"
+                "url": "/Website%20Products/Insulated%20Tools/EDL512008%20-%20Insulated%20Labor-Saving%20Combination%20Pliers%20(8'')/edl512008-insulated-labor-saving-combination-pliers.webp"
             }
         ],
         "price": "1500",
@@ -6905,7 +7483,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl512108-insulated-labor-saving-long-nose-pliers.webp",
-                "url": "/website%20products/Insulated%20Tools/EDL512108%20-%20Deli%20Insulated%20Labour%20Saving%20Long%20Nose%20Pliers/edl512108-insulated-labor-saving-long-nose-pliers.webp"
+                "url": "/Website%20Products/Insulated%20Tools/EDL512108%20-%20Deli%20Insulated%20Labour%20Saving%20Long%20Nose%20Pliers/edl512108-insulated-labor-saving-long-nose-pliers.webp"
             }
         ],
         "price": "1300",
@@ -6923,7 +7501,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1_15__2.webp",
-                "url": "/website%20products/Insulated%20Tools/EDL512207%20-%20Deli%20Insulated%20Labour%20Saving%20Heavy%20Duty%20Cutting%20Pliers/1_15__2.webp"
+                "url": "/Website%20Products/Insulated%20Tools/EDL512207%20-%20Deli%20Insulated%20Labour%20Saving%20Heavy%20Duty%20Cutting%20Pliers/1_15__2.webp"
             }
         ],
         "price": "1300",
@@ -6941,7 +7519,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl515006-insulated-wire-stripping-pliers.webp",
-                "url": "/website%20products/Insulated%20Tools/EDL515006%20-%20Deli%20Insulated%20Wire%20Stripping%20Pliers/edl515006-insulated-wire-stripping-pliers.webp"
+                "url": "/Website%20Products/Insulated%20Tools/EDL515006%20-%20Deli%20Insulated%20Wire%20Stripping%20Pliers/edl515006-insulated-wire-stripping-pliers.webp"
             }
         ],
         "price": "1150",
@@ -6959,7 +7537,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl515106-insulated-cable-cutter-6.webp",
-                "url": "/website%20products/Insulated%20Tools/EDL515106%20-%20Deli%20Insulated%20Cable%20Cutter/edl515106-insulated-cable-cutter-6.webp"
+                "url": "/Website%20Products/Insulated%20Tools/EDL515106%20-%20Deli%20Insulated%20Cable%20Cutter/edl515106-insulated-cable-cutter-6.webp"
             }
         ],
         "price": "1300",
@@ -6977,7 +7555,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl5161501-insulated-slotted-screwdriver.webp",
-                "url": "/website%20products/Insulated%20Tools/EDL5161501%20-%20Insulated%20Slotted%20Screwdriver%20(6.5%20x%20150mm)/edl5161501-insulated-slotted-screwdriver.webp"
+                "url": "/Website%20Products/Insulated%20Tools/EDL5161501%20-%20Insulated%20Slotted%20Screwdriver%20(6.5%20x%20150mm)/edl5161501-insulated-slotted-screwdriver.webp"
             }
         ],
         "price": "400",
@@ -6995,7 +7573,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "H7a01931747e54bdb9feaa94c0c3c8eceA.jpg",
-                "url": "/website%20products/Insulated%20Tools/EDL518150%20-%20Insulated%20Phillips%20Screwdriver%20(PH3%20x%20150mm)/H7a01931747e54bdb9feaa94c0c3c8eceA.jpg"
+                "url": "/Website%20Products/Insulated%20Tools/EDL518150%20-%20Insulated%20Phillips%20Screwdriver%20(PH3%20x%20150mm)/H7a01931747e54bdb9feaa94c0c3c8eceA.jpg"
             }
         ],
         "price": "500",
@@ -7013,7 +7591,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "adj_-wrench-insulated_720x.webp",
-                "url": "/website%20products/Insulated%20Tools/HIADW101%20-%20Ingco%20Insulated%20Adjustable%20Wrench%20(10'')/adj_-wrench-insulated_720x.webp"
+                "url": "/Website%20Products/Insulated%20Tools/HIADW101%20-%20Ingco%20Insulated%20Adjustable%20Wrench%20(10'')/adj_-wrench-insulated_720x.webp"
             }
         ],
         "price": "4000",
@@ -7031,7 +7609,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HIKPS28318.jpg",
-                "url": "/website%20products/Insulated%20Tools/HIKPS28318%20-%20Ingco%20Insulated%20Pliers%20Set%20(3%20Pcs)/HIKPS28318.jpg"
+                "url": "/Website%20Products/Insulated%20Tools/HIKPS28318%20-%20Ingco%20Insulated%20Pliers%20Set%20(3%20Pcs)/HIKPS28318.jpg"
             }
         ],
         "price": "2250",
@@ -7049,7 +7627,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "download.jfif",
-                "url": "/website%20products/Insulated%20Tools/HKISD0608%20-%20Ingco%20Insulated%20Screwdriver%20Set%20(6%20Pcs)/download.jfif"
+                "url": "/Website%20Products/Insulated%20Tools/HKISD0608%20-%20Ingco%20Insulated%20Screwdriver%20Set%20(6%20Pcs)/download.jfif"
             }
         ],
         "price": "2000",
@@ -7067,7 +7645,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKISD1008.jpg",
-                "url": "/website%20products/Insulated%20Tools/HKISD1008%20-%20Ingco%20Interchangeable%20Insulated%20Screwdriver%20Set%20(10%20Pcs)/HKISD1008.jpg"
+                "url": "/Website%20Products/Insulated%20Tools/HKISD1008%20-%20Ingco%20Interchangeable%20Insulated%20Screwdriver%20Set%20(10%20Pcs)/HKISD1008.jpg"
             }
         ],
         "price": "1750",
@@ -7085,7 +7663,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKIST3061.jpg",
-                "url": "/website%20products/Insulated%20Tools/HKIST3061%20-%20Ingco%20Insulated%20Hand%20Tools%20Set%20(6%20Pcs)/HKIST3061.jpg"
+                "url": "/Website%20Products/Insulated%20Tools/HKIST3061%20-%20Ingco%20Insulated%20Hand%20Tools%20Set%20(6%20Pcs)/HKIST3061.jpg"
             }
         ],
         "price": "3080",
@@ -7103,7 +7681,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKITH1601.jpg",
-                "url": "/website%20products/Insulated%20Tools/HKITH1601%20-%20Ingco%20Insulated%20Hand%20Tools%20Set%20(16%20Pcs)/HKITH1601.jpg"
+                "url": "/Website%20Products/Insulated%20Tools/HKITH1601%20-%20Ingco%20Insulated%20Hand%20Tools%20Set%20(16%20Pcs)/HKITH1601.jpg"
             }
         ],
         "price": "15500",
@@ -7121,7 +7699,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKTV01P051.webp",
-                "url": "/website%20products/Insulated%20Tools/HKTV01P051%20-%20Ingco%20Insulated%20Hand%20Tools%20Set%20(5%20Pcs)/HKTV01P051.webp"
+                "url": "/Website%20Products/Insulated%20Tools/HKTV01P051%20-%20Ingco%20Insulated%20Hand%20Tools%20Set%20(5%20Pcs)/HKTV01P051.webp"
             }
         ],
         "price": "4000",
@@ -7139,7 +7717,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKTV01S101-i1_400x.webp",
-                "url": "/website%20products/Insulated%20Tools/HKTV01S101%20-%20Ingco%20Insulated%20Hand%20Tools%20Set%20(10%20Pcs)/HKTV01S101-i1_400x.webp"
+                "url": "/Website%20Products/Insulated%20Tools/HKTV01S101%20-%20Ingco%20Insulated%20Hand%20Tools%20Set%20(10%20Pcs)/HKTV01S101-i1_400x.webp"
             }
         ],
         "price": "3500",
@@ -7157,7 +7735,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "21152-png.webp",
-                "url": "/website%20products/Insulated%20Tools/YT-21152%20-%20Yato%208%20inch%20Insulated%20Combination%20Pliers/21152-png.webp"
+                "url": "/Website%20Products/Insulated%20Tools/YT-21152%20-%20Yato%208%20inch%20Insulated%20Combination%20Pliers/21152-png.webp"
             }
         ],
         "price": "1500",
@@ -7175,10 +7753,226 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2827_2Png_zp.png",
-                "url": "/website%20products/Insulated%20Tools/YT-2827%20-%20Yato%20Insulated%20Screwdriver%20Set/2827_2Png_zp.png"
+                "url": "/Website%20Products/Insulated%20Tools/YT-2827%20-%20Yato%20Insulated%20Screwdriver%20Set/2827_2Png_zp.png"
             }
         ],
         "price": "1500",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "fundi-folding-ladder",
+        "name": "Fundi Folding Ladder",
+        "description": "The Fundi Aluminum Folding Ladder FFL27 ( 2 x 7 STEP ) is a versatile, high-performance access solution built for both professional and household tasks. Crafted from premium-grade aluminum, it combines strength, safety, and portability in a compact foldable design. Whether you're painting, repairing, or reaching elevated spaces, this ladder adapts to your needs with its multi-configuration setup and anti-slip features.\n\nAvailable Sizes :\nFFL 26 (2 x 6 Step)\nFFL 27 (2 x 7 Step)\nFFL 28 (2 x 8 Step)\nFFL 29 (2 x 9 Step)\nFFL 210 ( 2 x 10 Step)\nFFL42 (4 x 2 STEP)\nFFL43 (4 x 3 STEP)\nFFL44 (4 x 4 STEP)\nFFL45 (4 x 5 STEP)\nFFL46 (4 x 6 STEP)\nFFL47 (4 x 7 STEP)\nFFL48 (4 x 8 STEP)\nFFL49 (4 x 9 STEP)\nFFL410 (4 x 10 STEP)",
+        "category": "Ladders",
+        "subcategory": "Ladders",
+        "images": [
+            {
+                "name": "Screenshot_6_7f03d92f-c188-4254-9edc-c2f527b23e7a_1200x1200.webp",
+                "url": "/Website%20Products/Ladders/Fundi%20Folding%20Ladder/Screenshot_6_7f03d92f-c188-4254-9edc-c2f527b23e7a_1200x1200.webp"
+            }
+        ],
+        "price": "",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "kazi-kazi-single-ladder",
+        "name": "Kazi Kazi Single Ladder",
+        "description": "The Kazi Kazi Premium Aluminum Ladder is a single-configuration, lightweight ladder designed for homeowners, contractors, and facility managers who demand durability, safety, and ease of use. Crafted from aircraft-grade aluminum, it offers a stable platform for everyday tasks—from changing bulbs and painting to maintenance and installations.\n\nAvailable sizes :\nKKSL6 (6 STEP)\nKKSL8 (8 STEP)\nKKSL10 (10 STEP)\nKKSL12 (12 STEP)\nKKSL14 (14 STEP)\nKKSL16 (16 STEP)\nKKSL18 (18 STEP)\nKKSL20 (20 STEP)",
+        "category": "Ladders",
+        "subcategory": "Ladders",
+        "images": [
+            {
+                "name": "Screenshot_29_33febe9d-cfad-4822-b667-cf80af121f0a_1200x1200.webp",
+                "url": "/Website%20Products/Ladders/Kazi%20Kazi%20Single%20Ladder/Screenshot_29_33febe9d-cfad-4822-b667-cf80af121f0a_1200x1200.webp"
+            }
+        ],
+        "price": "",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "marangi-extension-ladder",
+        "name": "Marangi Extension Ladder",
+        "description": "The Marangi Aluminum Extension Ladder is a rugged, professional-grade ladder built for extended reach and heavy-duty use. Its extension design offers enhanced height flexibility while maintaining compact portability. Whether you're working on home repairs, construction sites, or facility maintenance, this ladder delivers durability, safety, and convenience in one sleek package\n\nAvailable sizes :\nMEL37 (3x 7 STEP)\nMEL39 (3 x 9 STEP)\nMEL310 (3 x 10 STEP)\nMEL312 (3 x 12 STEP)\nMEL314 (3 x 14 STEP)\nMEL316 (3 x 16 STEP)",
+        "category": "Ladders",
+        "subcategory": "Ladders",
+        "images": [
+            {
+                "name": "Screenshot_7_5815bb93-754f-411e-be9a-6f3fffba9b27_1200x1200.webp",
+                "url": "/Website%20Products/Ladders/Marangi%20Extension%20Ladder/Screenshot_7_5815bb93-754f-411e-be9a-6f3fffba9b27_1200x1200.webp"
+            }
+        ],
+        "price": "",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "nyumba-step-ladder",
+        "name": "Nyumba Step Ladder",
+        "description": "The Nyumba Aluminum Step Ladder is a compact, A-frame ladder designed for homeowners, DIYers, and light commercial use. With its sturdy aluminum build and anti-slip features, it offers a safe and reliable solution for reaching elevated areas indoors and outdoors. Whether you're changing a bulb, painting a wall, or installing fixtures, this ladder delivers stability, portability, and ease of use.\n\nAvailable Sizes :\nNSL3 (3 STEP)\nNSL4 (4 STEP)\nNSL5 (5 STEP)\nNSL6 (6 STEP)\nNSL7 (7 STEP)\nNSL8 (8 STEP)\nNSL9 (9 STEP)\nNSL10 (10 STEP)",
+        "category": "Ladders",
+        "subcategory": "Ladders",
+        "images": [
+            {
+                "name": "NSL10A_1200x1200.webp",
+                "url": "/Website%20Products/Ladders/Nyumba%20Step%20Ladder/NSL10A_1200x1200.webp"
+            }
+        ],
+        "price": "",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "acqua-storm-ultra-black",
+        "name": "Acqua Storm Ultra (Black)",
+        "description": "Description\nThe Versatile Heater is the best water heating solution for the kitchen sink or washbasin.\n\nDetail\nEasy Installation\nWorks in any position.\n3 Temperature Settings\nThe right level of heating and economy.\nInstant Hot Water\nNo waste of water and power.\nVersatile\nFor sinks, bidets and lavatories.",
+        "category": "Lorenzetti Showerheads",
+        "subcategory": "Lorenzetti Showerheads",
+        "images": [
+            {
+                "name": "acqua-storm-preto.png",
+                "url": "/Website%20Products/Lorenzetti%20Showerheads/Acqua%20Storm%20Ultra%20(Black)/acqua-storm-preto.png"
+            }
+        ],
+        "price": "23500",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "advanced-multitemperatures",
+        "name": "Advanced Multitemperatures",
+        "description": "Description\nThe advanced technology is in all details of Advanced Shower, from a design with embedded wires to a refill type heating element which facilitates its change. Everything to ensure easy installation.\nThe shower is compatible with solar water heaters, thus expanding its use.\n\nDetail\nMultitemperature command\n4 Temperatures - More comfort and economy.\nQuick change heating element\nRefill Type\nBig Spreader\nMore safisfaction in your shower.",
+        "category": "Lorenzetti Showerheads",
+        "subcategory": "Lorenzetti Showerheads",
+        "images": [
+            {
+                "name": "advanced-multi.png",
+                "url": "/Website%20Products/Lorenzetti%20Showerheads/Advanced%20Multitemperatures/advanced-multi.png"
+            }
+        ],
+        "price": "8750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "bella-ducha-4t-ultra",
+        "name": "Bella Ducha 4T Ultra",
+        "description": "Description\nWith modern design, Bella Ducha 4T Ultra decorates your bathroom perfectly.\nDesigned to provide comfort and savings at bath time, Bella Ducha 4T Ultra has a large spreader and 4 temperature options which are ideal for all seasons.\nThe shower is compatible with solar water heaters, thus extending its use.\n\nDetail\n4 temperatures\nHeating and economy in the right measure.\nQuick-Change Heating Element\nType Refill.\nLarge spreader\nMore comfort during your shower.\nColor choices:\n- Blue\n- White",
+        "category": "Lorenzetti Showerheads",
+        "subcategory": "Lorenzetti Showerheads",
+        "images": [
+            {
+                "name": "bella-ducha-ultra-azul3699d00c264e412cb4fe9523e8fc5182.png",
+                "url": "/Website%20Products/Lorenzetti%20Showerheads/Bella%20Ducha%204T%20Ultra/bella-ducha-ultra-azul3699d00c264e412cb4fe9523e8fc5182.png"
+            }
+        ],
+        "price": "3750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "duo-shower-quadra-turbo-multitemperature",
+        "name": "Duo Shower Quadra Turbo Multitemperature",
+        "description": "Description\n02 types of shower streams from only one device\nA unique, smart and effective option\nA shower of technology & design. A blend of flowing lines with ultra-thin spreader and high technology make the Duo Shower a unique and unforgettable shower.\nShower with large spreader, meaning water for the whole body, or shower with steerable and stronger concentrated stream, for that relaxing shower. Be sure to try this new shower sensation.\n\nDetail\nMultitemperatures command\nComfort and Economy\nBult-in Pressurizer\nTrue pumping technology to increase the water flow and pressure\nDRI\nDevice for the tilt regulation",
+        "category": "Lorenzetti Showerheads",
+        "subcategory": "Lorenzetti Showerheads",
+        "images": [
+            {
+                "name": "duo-shower-quadra-turbo-multi.png",
+                "url": "/Website%20Products/Lorenzetti%20Showerheads/Duo%20Shower%20Quadra%20Turbo%20Multitemperature/duo-shower-quadra-turbo-multi.png"
+            }
+        ],
+        "price": "13500",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "loren-shower-ultra",
+        "name": "Loren Shower Ultra",
+        "description": "LOREN SHOWER ULTRA\nUltra heating element\nElectronic temp control\nSuitable for both hard & soft water\nWall mount and stylish design\nWith control pin\n220V-6800W",
+        "category": "Lorenzetti Showerheads",
+        "subcategory": "Lorenzetti Showerheads",
+        "images": [
+            {
+                "name": "loren-shower-eletronico-amb.jpg",
+                "url": "/Website%20Products/Lorenzetti%20Showerheads/Loren%20Shower%20Ultra/loren-shower-eletronico-amb.jpg"
+            }
+        ],
+        "price": "6285",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "maxi-ducha-ultra",
+        "name": "Maxi Ducha Ultra",
+        "description": "Maxi Ducha now comes with the new Loren Ultra Heating Element. The Loren Ultra technology revolutionizes the concept of durability and performance compared to standard heating elements.\n\nMaxi Ducha comes with an economic pricing and modern design.With its wide spreader, Maxi Ducha offers you a relaxing shower, thanks to its uniform water flow.\nThe shower is compatible with solar heating, widening its use cases.",
+        "category": "Lorenzetti Showerheads",
+        "subcategory": "Lorenzetti Showerheads",
+        "images": [
+            {
+                "name": "productimagesmaxiduchaimages-8586710692264278931maxiduchaultraambjpg-637102888138651451.jpg",
+                "url": "/Website%20Products/Lorenzetti%20Showerheads/Maxi%20Ducha%20Ultra/productimagesmaxiduchaimages-8586710692264278931maxiduchaultraambjpg-637102888138651451.jpg"
+            }
+        ],
+        "price": "3500",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "top-jet-multitemperature",
+        "name": "Top Jet Multitemperature",
+        "description": "Description\nMaximum comfort and a pleasurable bath from the well-known wall mounted showerheads with a big spreader delivering a larger bathing area for an amazing water jet. Pre-set 04 temperatures offering more confort and economy for all seasons. Practical Controling through button or by an exclusive 30 cm extended pin for easier reach.\nA shower that mixes curved and modern lines created by Lorenzetti designers awarded-winning by \"Museu da Casa Brasileira\" in 2011.\nTop Jet shower is compatible with solar water heaters, raising your usage coverage.\n\nDetail\nMultitemperature Command\n04 temperatures - More comfort and economy\nEasy Installation\nQuick replacement Heating element. Cartridge type,  easy access.\nBig Spreader\nMore comfort to your bath\n30cm Pin Control\nTemperature control within your hands reach",
+        "category": "Lorenzetti Showerheads",
+        "subcategory": "Lorenzetti Showerheads",
+        "images": [
+            {
+                "name": "productimagestopjetmultitemperaturasimages-8588092900191650808topjetmultitemperaturasambjpg-637102896595963769.jpg",
+                "url": "/Website%20Products/Lorenzetti%20Showerheads/Top%20Jet%20Multitemperature/productimagestopjetmultitemperaturasimages-8588092900191650808topjetmultitemperaturasambjpg-637102896595963769.jpg"
+            }
+        ],
+        "price": "6650",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "undersink-versatile-heater",
+        "name": "Undersink Versatile Heater",
+        "description": "Description\nThe Versatile Heater is the best water heating solution for the kitchen sink or washbasin.\n\nDetail\nEasy Installation\nWorks in any position.\n3 Temperature Settings\nThe right level of heating and economy.\nInstant Hot Water\nNo waste of water and power.\nVersatile\nFor sinks, bidets and lavatories.",
+        "category": "Lorenzetti Showerheads",
+        "subcategory": "Lorenzetti Showerheads",
+        "images": [
+            {
+                "name": "aquecedor-versátil_banheiro-amb_1000x1000.jpg",
+                "url": "/Website%20Products/Lorenzetti%20Showerheads/Undersink%20Versatile%20Heater/aquecedor-versa%CC%81til_banheiro-amb_1000x1000.jpg"
+            }
+        ],
+        "price": "11000",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -7193,7 +7987,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "X_20250617-1119317510.jpg",
-                "url": "/website%20products/Measuring%20Tools/Angle%20Squares%20(T%20Squares)/ECN212%20-%20Uyus%20305mm%20(12-inch)%20Machinist's%20Angle%20Square/X_20250617-1119317510.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Angle%20Squares%20(T%20Squares)/ECN212%20-%20Uyus%20305mm%20(12-inch)%20Machinist's%20Angle%20Square/X_20250617-1119317510.jpg"
             }
         ],
         "price": "800",
@@ -7211,7 +8005,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Deli_EDL4041Y-i1_167x.webp",
-                "url": "/website%20products/Measuring%20Tools/Angle%20Squares%20(T%20Squares)/EDL4041Y%20-%20Deli%20Triangle%20Carpenter%20Square%20(18cm)/Deli_EDL4041Y-i1_167x.webp"
+                "url": "/Website%20Products/Measuring%20Tools/Angle%20Squares%20(T%20Squares)/EDL4041Y%20-%20Deli%20Triangle%20Carpenter%20Square%20(18cm)/Deli_EDL4041Y-i1_167x.webp"
             }
         ],
         "price": "700",
@@ -7229,7 +8023,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HAS20202] HAS20202 ANGLE SQUARE.png",
-                "url": "/website%20products/Measuring%20Tools/Angle%20Squares%20(T%20Squares)/HAS20202%20-%20Ingco%20Angle%20Square/%5BHAS20202%5D%20HAS20202%20ANGLE%20SQUARE.png"
+                "url": "/Website%20Products/Measuring%20Tools/Angle%20Squares%20(T%20Squares)/HAS20202%20-%20Ingco%20Angle%20Square/%5BHAS20202%5D%20HAS20202%20ANGLE%20SQUARE.png"
             }
         ],
         "price": "600",
@@ -7247,7 +8041,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT61126.jpg",
-                "url": "/website%20products/Measuring%20Tools/Angle%20Squares%20(T%20Squares)/TMT61126%20-%20Total%20Angle%20Square/TMT61126.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Angle%20Squares%20(T%20Squares)/TMT61126%20-%20Total%20Angle%20Square/TMT61126.jpg"
             }
         ],
         "price": "1000",
@@ -7265,7 +8059,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[DCM100014] DCM100014 DIGITAL AC CLAMP METER 6000 COUNTS.jfif",
-                "url": "/website%20products/Measuring%20Tools/Clamp%20Meters/DCM100014%20-%20Ingco%20DIGITAL%20AC%20CLAMP%20METER%206000%20COUNTS/%5BDCM100014%5D%20DCM100014%20DIGITAL%20AC%20CLAMP%20METER%206000%20COUNTS.jfif"
+                "url": "/Website%20Products/Measuring%20Tools/Clamp%20Meters/DCM100014%20-%20Ingco%20DIGITAL%20AC%20CLAMP%20METER%206000%20COUNTS/%5BDCM100014%5D%20DCM100014%20DIGITAL%20AC%20CLAMP%20METER%206000%20COUNTS.jfif"
             }
         ],
         "price": "8500",
@@ -7283,7 +8077,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[DCM2001] DCM2001 DIGITAL AC CLAMP METER 2000 COUNTS.jfif",
-                "url": "/website%20products/Measuring%20Tools/Clamp%20Meters/DCM2001%20-%20Ingco%20DIGITAL%20AC%20CLAMP%20METER%202000%20COUNTS/%5BDCM2001%5D%20DCM2001%20DIGITAL%20AC%20CLAMP%20METER%202000%20COUNTS.jfif"
+                "url": "/Website%20Products/Measuring%20Tools/Clamp%20Meters/DCM2001%20-%20Ingco%20DIGITAL%20AC%20CLAMP%20METER%202000%20COUNTS/%5BDCM2001%5D%20DCM2001%20DIGITAL%20AC%20CLAMP%20METER%202000%20COUNTS.jfif"
             }
         ],
         "price": "3000",
@@ -7301,7 +8095,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1.jpg",
-                "url": "/website%20products/Measuring%20Tools/Clamp%20Meters/TMT42002%20-%20Total%20AC%20Clamp%20Meter%20(2000%20Count)/1.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Clamp%20Meters/TMT42002%20-%20Total%20AC%20Clamp%20Meter%20(2000%20Count)/1.jpg"
             }
         ],
         "price": "3250",
@@ -7319,7 +8113,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT423.jpg",
-                "url": "/website%20products/Measuring%20Tools/Clamp%20Meters/TMT423%20-%20Clamp%20Meter%20Test%20Leads/TMT423.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Clamp%20Meters/TMT423%20-%20Clamp%20Meter%20Test%20Leads/TMT423.jpg"
             }
         ],
         "price": "500",
@@ -7337,7 +8131,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT46003.jpg",
-                "url": "/website%20products/Measuring%20Tools/Clamp%20Meters/TMT46003%20-%20Total%20AC%20clamp%20meter%20(6000%20count)/TMT46003.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Clamp%20Meters/TMT46003%20-%20Total%20AC%20clamp%20meter%20(6000%20count)/TMT46003.jpg"
             }
         ],
         "price": "4500",
@@ -7355,7 +8149,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "UT204_1.jpg",
-                "url": "/website%20products/Measuring%20Tools/Clamp%20Meters/UT201%20-%20Uni-T%20Clamp%20Meter/UT204_1.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Clamp%20Meters/UT201%20-%20Uni-T%20Clamp%20Meter/UT204_1.jpg"
             }
         ],
         "price": "",
@@ -7373,7 +8167,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "UT205E_1.jpg",
-                "url": "/website%20products/Measuring%20Tools/Clamp%20Meters/UT2078%20-%20Uni-T%20Clamp%20Meter/UT205E_1.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Clamp%20Meters/UT2078%20-%20Uni-T%20Clamp%20Meter/UT205E_1.jpg"
             }
         ],
         "price": "",
@@ -7391,7 +8185,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o391272v54_GLM_25-23_on_dyn.png",
-                "url": "/website%20products/Measuring%20Tools/Laser%20Distance%20Detectors/GLM%2025%20-%20Bosch%2025m%20Laser%20Distance%20Detector/o391272v54_GLM_25-23_on_dyn.png"
+                "url": "/Website%20Products/Measuring%20Tools/Laser%20Distance%20Detectors/GLM%2025%20-%20Bosch%2025m%20Laser%20Distance%20Detector/o391272v54_GLM_25-23_on_dyn.png"
             }
         ],
         "price": "5300",
@@ -7409,7 +8203,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o337111v54_GLM_40_SKU-0601072900.webp",
-                "url": "/website%20products/Measuring%20Tools/Laser%20Distance%20Detectors/GLM%2040%20-%20Bosch%2040m%20Laser%20Distance%20Detector/o337111v54_GLM_40_SKU-0601072900.webp"
+                "url": "/Website%20Products/Measuring%20Tools/Laser%20Distance%20Detectors/GLM%2040%20-%20Bosch%2040m%20Laser%20Distance%20Detector/o337111v54_GLM_40_SKU-0601072900.webp"
             }
         ],
         "price": "15300",
@@ -7427,7 +8221,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "MDL060_5_400x.webp",
-                "url": "/website%20products/Measuring%20Tools/Laser%20Distance%20Detectors/MDL060%20-%20Uyus%2060m%20Laser%20Distance%20Detector/MDL060_5_400x.webp"
+                "url": "/Website%20Products/Measuring%20Tools/Laser%20Distance%20Detectors/MDL060%20-%20Uyus%2060m%20Laser%20Distance%20Detector/MDL060_5_400x.webp"
             }
         ],
         "price": "7500",
@@ -7445,7 +8239,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o410605v54_GLL_12-22_G_sos_0601065320.webp",
-                "url": "/website%20products/Measuring%20Tools/Laser%20Levels/GLL%2012-22%20G%20Professional%20-%20Bosch%20Laser%20Level%20(Green%20Line)/o410605v54_GLL_12-22_G_sos_0601065320.webp"
+                "url": "/Website%20Products/Measuring%20Tools/Laser%20Levels/GLL%2012-22%20G%20Professional%20-%20Bosch%20Laser%20Level%20(Green%20Line)/o410605v54_GLL_12-22_G_sos_0601065320.webp"
             }
         ],
         "price": "10900",
@@ -7463,7 +8257,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o410603v54_GLL_12-22_sos_0601065220.webp",
-                "url": "/website%20products/Measuring%20Tools/Laser%20Levels/GLL%2012-22%20Professional%20-%20Bosch%20Laser%20Level%20(Red%20Line)/o410603v54_GLL_12-22_sos_0601065220.webp"
+                "url": "/Website%20Products/Measuring%20Tools/Laser%20Levels/GLL%2012-22%20Professional%20-%20Bosch%20Laser%20Level%20(Red%20Line)/o410603v54_GLL_12-22_sos_0601065220.webp"
             }
         ],
         "price": "9900",
@@ -7481,7 +8275,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o219047v54_hugll064.webp",
-                "url": "/website%20products/Measuring%20Tools/Laser%20Levels/GLL3-15%20X%20-%20Bosch%20Laser%20Level/o219047v54_hugll064.webp"
+                "url": "/Website%20Products/Measuring%20Tools/Laser%20Levels/GLL3-15%20X%20-%20Bosch%20Laser%20Level/o219047v54_hugll064.webp"
             }
         ],
         "price": "23000",
@@ -7499,7 +8293,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSMT081025] HSMT081025 STEEL MEASURING TAPE 10M.jfif",
-                "url": "/website%20products/Measuring%20Tools/Measuring%20Tapes/HSMT081025%20-%20Ingco%20Steel%20Measuring%20Tape%20(10mx25mm)/%5BHSMT081025%5D%20HSMT081025%20STEEL%20MEASURING%20TAPE%2010M.jfif"
+                "url": "/Website%20Products/Measuring%20Tools/Measuring%20Tapes/HSMT081025%20-%20Ingco%20Steel%20Measuring%20Tape%20(10mx25mm)/%5BHSMT081025%5D%20HSMT081025%20STEEL%20MEASURING%20TAPE%2010M.jfif"
             }
         ],
         "price": "850",
@@ -7517,7 +8311,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HSMT08519] HSMT08519 STEEL MEASURING TAPE 5M.jfif",
-                "url": "/website%20products/Measuring%20Tools/Measuring%20Tapes/HSMT08519%20-%20Ingco%20Steel%20Measuring%20Tape%20(5x19mm)/%5BHSMT08519%5D%20HSMT08519%20STEEL%20MEASURING%20TAPE%205M.jfif"
+                "url": "/Website%20Products/Measuring%20Tools/Measuring%20Tapes/HSMT08519%20-%20Ingco%20Steel%20Measuring%20Tape%20(5x19mm)/%5BHSMT08519%5D%20HSMT08519%20STEEL%20MEASURING%20TAPE%205M.jfif"
             }
         ],
         "price": "450",
@@ -7535,7 +8329,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT126051.jpg",
-                "url": "/website%20products/Measuring%20Tools/Measuring%20Tapes/TMT126051%20-%20Total%205m%20x%2019mm%20Steel%20Measuring%20Tape/TMT126051.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Measuring%20Tapes/TMT126051%20-%20Total%205m%20x%2019mm%20Steel%20Measuring%20Tape/TMT126051.jpg"
             }
         ],
         "price": "450",
@@ -7553,7 +8347,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT126081.jpg",
-                "url": "/website%20products/Measuring%20Tools/Measuring%20Tapes/TMT126081%20-%20Total%208m%20x%2025mm%20Steel%20Measuring%20Tape/TMT126081.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Measuring%20Tapes/TMT126081%20-%20Total%208m%20x%2025mm%20Steel%20Measuring%20Tape/TMT126081.jpg"
             }
         ],
         "price": "750",
@@ -7571,7 +8365,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TMT34316.jpg",
-                "url": "/website%20products/Measuring%20Tools/Measuring%20Tapes/TMT134316%20-%20Total%203m%20x%2016mm%20Steel%20Measuring%20Tape/TMT34316.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Measuring%20Tapes/TMT134316%20-%20Total%203m%20x%2016mm%20Steel%20Measuring%20Tape/TMT34316.jpg"
             }
         ],
         "price": "300",
@@ -7589,7 +8383,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DM310002.jpg",
-                "url": "/website%20products/Measuring%20Tools/Multimeters/DM310002%20-%20Ingco%201000v%20Multimeter/DM310002.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Multimeters/DM310002%20-%20Ingco%201000v%20Multimeter/DM310002.jpg"
             }
         ],
         "price": "5000",
@@ -7607,7 +8401,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[DM360011] DM360011 DIGITAL MULTIMETER.jfif",
-                "url": "/website%20products/Measuring%20Tools/Multimeters/DM360011%20-%20Ingco%20600v%20Multimeter/%5BDM360011%5D%20DM360011%20DIGITAL%20MULTIMETER.jfif"
+                "url": "/Website%20Products/Measuring%20Tools/Multimeters/DM360011%20-%20Ingco%20600v%20Multimeter/%5BDM360011%5D%20DM360011%20DIGITAL%20MULTIMETER.jfif"
             }
         ],
         "price": "1750",
@@ -7664,7 +8458,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HSDT1408.jpg",
-                "url": "/website%20products/Measuring%20Tools/Testers/HSDT1408%20-%20Ingco%20140mm%20ELectrical%20Tester/HSDT1408.jpg"
+                "url": "/Website%20Products/Measuring%20Tools/Testers/HSDT1408%20-%20Ingco%20140mm%20ELectrical%20Tester/HSDT1408.jpg"
             }
         ],
         "price": "150",
@@ -7682,7 +8476,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HSDT1908.jfif",
-                "url": "/website%20products/Measuring%20Tools/Testers/HSDT1908%20-%20Ingco%20190mm%20ELectrical%20Tester/HSDT1908.jfif"
+                "url": "/Website%20Products/Measuring%20Tools/Testers/HSDT1908%20-%20Ingco%20190mm%20ELectrical%20Tester/HSDT1908.jfif"
             }
         ],
         "price": "250",
@@ -7692,130 +8486,94 @@ export const catalogue: Tool[] = [
         "offerPrice": 0
     },
     {
-        "id": "gks-140---bosch-1400w-7-inch-circular-saw",
-        "name": "GKS 140 - Bosch 1400w 7 inch Circular Saw",
-        "description": "Additional data\n\nRated input power: 1400 W\nSaw blade diameter: 184 mm\nVoltage, electrical: 220 V\nNo-load speed: 6,200 rpm\nSaw blade bore diameter: 20 mm\nWeight: 3.7 kg\nBaseplate: 290 x 150 mm\nGuide rail compatible: No\nTotal vibration values (Wood sawing)\nVibration emission value ah: 2.4 m/s²\nUncertainty K: 1.5 m/s²\nWood sawing\nSALE 12500",
+        "id": "dl1033d---deli-precision-screwdriver-set",
+        "name": "DL1033D - Deli Precision Screwdriver Set",
+        "description": "Key features:\n\n33-piece set for versatile repair applications\nPrecision bits suitable for delicate electronics\nMagnetic bit holder for easier handling\nCompact, organized storage case for convenience and portability\nSpecifications:\nNumber of pieces: 33\nApplications: Mobile phones, laptops, watches, small electronics",
         "category": "Monthly Offers",
         "subcategory": "Monthly Offers",
         "images": [
             {
-                "name": "GKS 140.webp",
-                "url": "/website%20products/Monthly%20Offers/GKS%20140%20-%20Bosch%201400w%207%20inch%20Circular%20Saw/GKS%20140.webp"
+                "name": "HAN.SCR.29620964_1726654482001.webp",
+                "url": "/Website%20Products/Monthly%20Offers/DL1033D%20-%20Deli%20Precision%20Screwdriver%20Set/HAN.SCR.29620964_1726654482001.webp"
             }
         ],
-        "price": "14080",
+        "price": "900",
         "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 900,
+        "offerPrice": 750
     },
     {
-        "id": "hksd0628---ingco-6pcs-screwdriver-set",
-        "name": "HKSD0628 - Ingco 6pcs Screwdriver Set",
-        "description": "6 pcs screwdriver setnew design handle\nMaterial:CR-V\nRound blade\n1pcs SL5.5*5*75\n1pcs SL5.5*5*100\n1pcs SL6.5*6*150\n1pcs PH1*5*75\n1pcs PH1*5*100\n1pcs PH2*6*150\nPacked by double blister\n\nSALE 650",
+        "id": "gbh220---bosch-rotary-hammer--total-chuck-with-sds-adapter",
+        "name": "GBH220 - Bosch Rotary Hammer + Total Chuck (With SDS Adapter)",
+        "description": "- Bosch GBH 220 (720W)\n- SDS-Plus\n- 2.7J impact energy\n- 2 modes\n- Total 13mm chuck + SDS adapter\n- Convert to standard bits instantly",
         "category": "Monthly Offers",
         "subcategory": "Monthly Offers",
         "images": [
             {
-                "name": "HKSD0628.jfif",
-                "url": "/website%20products/Monthly%20Offers/HKSD0628%20-%20Ingco%206pcs%20Screwdriver%20Set/HKSD0628.jfif"
+                "name": "GBH220.jpg",
+                "url": "/Website%20Products/Monthly%20Offers/GBH220%20-%20Bosch%20Rotary%20Hammer%20%2B%20Total%20Chuck%20(With%20SDS%20Adapter)/GBH220.jpg"
             }
         ],
-        "price": "950",
+        "price": "21220",
         "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 21220,
+        "offerPrice": 19650
     },
     {
-        "id": "tht1022122---total-combination-spanner-set",
-        "name": "THT1022122 - Total Combination Spanner Set",
-        "description": "12pcs combination spanner set\nSize:6-32mm\n6mm,8mm,10mm,12mm,14mm,17mm,19mm,22mm,24mm,27mm,30mm,32mm\nFine polished\nPacked by canvas bag",
+        "id": "gsb600---bosch-600w-impact-drill",
+        "name": "GSB600 - Bosch 600w Impact Drill",
+        "description": "Rated input power :600 W\nNo-load speed, 1st gear : 0 – 3,000 rpm\nPower output: 600 W\nWeight : 1.7 kg\nImpact rate at no-load speed :0 – 48,000 bpm\nChuck capacity, min./max. : 1.5 – 13 mm",
         "category": "Monthly Offers",
         "subcategory": "Monthly Offers",
         "images": [
             {
-                "name": "THT1022122.jpg",
-                "url": "/website%20products/Monthly%20Offers/THT1022122%20-%20Total%20Combination%20Spanner%20Set/THT1022122.jpg"
+                "name": "o396105v54_GSB_600_Handle_dyn.webp",
+                "url": "/Website%20Products/Monthly%20Offers/GSB600%20-%20Bosch%20600w%20Impact%20Drill/o396105v54_GSB_600_Handle_dyn.webp"
             }
         ],
-        "price": "5000",
+        "price": "5490",
         "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 5490,
+        "offerPrice": 5000
     },
     {
-        "id": "tpbx0141---total-plastic-tool-box-14-inches",
-        "name": "TPBX0141 - Total Plastic Tool Box (14 Inches)",
-        "description": "14\" Plastic Tool Box\nSize : 356mm(14\"\")*168mm（6.6\"\"）*160mm(6.3\"\")\nMaterial ：PP\nWeight : 720g\nPP plastic buckle\nMax Load : 10KG\nHigh-strength Handle\nUpper cover with three storage areas\nUpper cover with scale function\nContains 1Pcs plastic tray\nPacked by label\n\nSALE 800",
+        "id": "thkthp21426---total-142-pcs-combination-tool-set",
+        "name": "THKTHP21426 - Total 142 Pcs Combination Tool Set",
+        "description": "142 Pcs Combination Tools Set\nInclude：\n1/2\"\"DR.Part：\n19Pcs 1/2\"\" Hexagonal Socket: 8-10-12-13-14-15-16-17-18-19-20-21-22-23-24-25-27-30-32MM\n5Pcs 1/2\"\" Star Socket:E10 12 14 16 20\n1Pcs 1/2\"\"Dr.Flex handle，375MM\n1Pcs 1/2\"\" ratchet wrench,45T\n2Pcs 1/2\"\" Extension bar:75mm(3\"\") 250mm(10\"\")\n1Pcs 1/2\"\" Dr. Universal joint\n1Pcs 1/2\"\"(F)*3/8\"\"(M) three way adaptor\n2Pcs Spark plug socket 1/2\"\"Dr.16MM&21MM\n1Pcs 1/2\"\"*10\"\" L handle\n3/8\"\"DR.Part：\n15Pcs 3/8\"\" 12pt.socket:6-7-8-9-10-11-12-13-14-15-17-18-19-21-22\n1Pcs 3/8\"\" ratchet wrench,45T\n2Pcs 3/8\"\" Extension bar:75mm(3\"\") 150mm(6\"\")\n1Pcs 3/8\"\" Dr. Universal joint\n1/4\"\"DR.Part:\n26Pcs 1/4\"\"*25MM Screwdriver bits:\nPH0-PH1-PH1-PH2-PH2-PH3-PZ0-PZ1-PZ2-PZ3-SL4-SL5-SL6-SL7-H2-H3-H4-H5-H6-T10H-T15H-T20H-T25H-T27H-T30H-T40H\n1Pcs Bit holder\n9Pcs 1/4\"\" Hexagonal Socket:4-4.5-5-5.5-6-7-8-9-10\n5Pcs 1/4\"\" Star Socket:E4 5 6 7 8\n1Pcs 1/4\"\" ratchet wrench,45T\n3Pcs 1/4\"\" Extension bar:50mm(2\"\") 100mm(4\"\") 150mm(6\"\")\n1Pcs 1/4\"\" Dr. Universal joint\n1Pcs 3/8\"\"(F)*1/4\"\"(M)three way adaptor\n1Pcs 1/4\"\"*150mm Spinner handle\n1Pcs 1/4\"\"*150mm Flexible extension bar\n17 Pcs Combination spanner:6-7-8-9-10-11-12-13-14-15-16-17-18-19-21-22-24\n5Pcs Flare nut spanner:8*10-10*12-11*13-12*14-17*19\n10 Pcs Hex key:2.5-3-4-5-6-7-8-10-12-14MM\n1 Pcs 300g Machinist hammer\n1 Pcs 7\"\" Combination Pliers\n1Pcs 10\"\"Curved jaw lock wrench\n2Pcs S2 Slotted screwdriver: SL6.5*100 SL6.5*150\n2Pcs S2 Phillips screwdriver:PH2*100 PH2*150\n2Pcs Stubby screwdriver:PH2*38 SL6.5*38\nPacked by BMC",
         "category": "Monthly Offers",
         "subcategory": "Monthly Offers",
         "images": [
             {
-                "name": "TPBX0141.jpg",
-                "url": "/website%20products/Monthly%20Offers/TPBX0141%20-%20Total%20Plastic%20Tool%20Box%20(14%20Inches)/TPBX0141.jpg"
+                "name": "THKTHP21426.jpg",
+                "url": "/Website%20Products/Monthly%20Offers/THKTHP21426%20-%20Total%20142%20Pcs%20Combination%20Tool%20Set/THKTHP21426.jpg"
             }
         ],
-        "price": "1500",
+        "price": "28500",
         "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 28500,
+        "offerPrice": 26000
     },
     {
-        "id": "tpbx0171---total-plastic-tool-box-17-inches",
-        "name": "TPBX0171 - Total Plastic Tool Box (17 Inches)",
-        "description": "SPECIFICATIONS\nSize : 436mm(17\"\")*220mm（8.7\"\"）*205mm(8\"\")\nMaterial： PP\nweight：1390g\nPP plastic buckle\nMax Load : 15KG\nHigh-strength Handle\nUpper cover with three storage areas\nUpper cover with scale function\nContains 1Pcs plastic tray\nPacked by carton box\n\nSALE 1850",
+        "id": "tpwli20362---total-cordless-pressure-washer-20v",
+        "name": "TPWLI20362 - Total Cordless Pressure Washer (20V)",
+        "description": "Voltage: 20V\nMax. pressure: 24.8Bar\nFlow rate: 2.8L/min\nAuto stop system\nInclude:\n1 Set 2-pattern spray gun\n1 Pcs 6m water inlet hose with quick connector\n1 Pcs 300ml foam producer\n1 Pcs self suction connector\n1 Pcs portable bag\n1 Pcs 2Ah battery pack (TFBLI20011)\n1 Pcs charger (TFCLI2001)\nCharge volts: 220-240V~50/60Hz\nPacked by color box",
         "category": "Monthly Offers",
         "subcategory": "Monthly Offers",
         "images": [
             {
-                "name": "TPBX0171.jpg",
-                "url": "/website%20products/Monthly%20Offers/TPBX0171%20-%20Total%20Plastic%20Tool%20Box%20(17%20Inches)/TPBX0171.jpg"
+                "name": "TPWLI20362.jpg",
+                "url": "/Website%20Products/Monthly%20Offers/TPWLI20362%20-%20Total%20Cordless%20Pressure%20Washer%20(20V)/TPWLI20362.jpg"
             }
         ],
-        "price": "2500",
+        "price": "10500",
         "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
-    },
-    {
-        "id": "tpbx0201---total-plastic-tool-box-20-inches",
-        "name": "TPBX0201 - Total Plastic Tool Box (20 Inches)",
-        "description": "20\" Plastic Tool Box\nSize : 508mm(20\"\")*296mm（11.7\"\"）*261mm(10.3\"\")\nMaterial ：PP\nWeight : 2150g\nPP plastic buckle\nMax Load : 20KG\nHigh-strength Handle\nUpper cover with three storage areas\nUpper cover with scale function\nContains 1Pcs plastic tray\nPacked by label\n\nSALE 2850",
-        "category": "Monthly Offers",
-        "subcategory": "Monthly Offers",
-        "images": [
-            {
-                "name": "TPBX0201.jpg",
-                "url": "/website%20products/Monthly%20Offers/TPBX0201%20-%20Total%20Plastic%20Tool%20Box%20(20%20Inches)/TPBX0201.jpg"
-            }
-        ],
-        "price": "3500",
-        "isOnOffer": true,
-        "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
-    },
-    {
-        "id": "tt4506---total-530w-electric-spray-gun",
-        "name": "TT4506 - Total 530w Electric Spray Gun",
-        "description": "High-performance electric spray gun for home, workshop, and DIY use\nOperates on standard 220–240V ~ 50/60Hz power supply\nPowerful 530W motor for consistent spraying performance\nHandles maximum viscosity up to 130 DIN-s for various liquids\nAdjustable spray amplitude for precise control and uniform coverage\nSuitable for blowing dust and light cleaning tasks\nLarge 1000ml container for extended spraying sessions\nPaint flow rate of 410ml/min for 50 DIN paint\nWater flow rate of 950ml/min for cleaning or other liquid applications\nIdeal for painting, varnishing, and coating projects\nLightweight and ergonomic design for ease of use\nEfficient and quick application for professional or DIY tasks\n\nSALE 4500",
-        "category": "Monthly Offers",
-        "subcategory": "Monthly Offers",
-        "images": [
-            {
-                "name": "2.jpg",
-                "url": "/website%20products/Monthly%20Offers/TT4506%20-%20Total%20530w%20Electric%20Spray%20Gun/2.jpg"
-            }
-        ],
-        "price": "5000",
-        "isOnOffer": true,
-        "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 10500,
+        "offerPrice": 9600
     },
     {
         "id": "ac20248---ingco-24l-air-compressor",
@@ -7826,7 +8584,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AC20248.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/AC20248%20-%20Ingco%2024L%20Air%20Compressor/AC20248.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/AC20248%20-%20Ingco%2024L%20Air%20Compressor/AC20248.jpg"
             }
         ],
         "price": "31000",
@@ -7844,7 +8602,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "a2e72166a2ef41c2a34578045a571017.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/AC25508%20-%20Ingco%2050L%20Air%20Compressor/a2e72166a2ef41c2a34578045a571017.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/AC25508%20-%20Ingco%2050L%20Air%20Compressor/a2e72166a2ef41c2a34578045a571017.jpg"
             }
         ],
         "price": "32900",
@@ -7862,7 +8620,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AC301008.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/AC301008%20-%20Ingco%20100L%20Air%20Compressor/AC301008.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/AC301008%20-%20Ingco%20100L%20Air%20Compressor/AC301008.jpg"
             }
         ],
         "price": "86500",
@@ -7880,7 +8638,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ACS112501.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/ACS112501%20-%20Ingco%2050L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS112501.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/ACS112501%20-%20Ingco%2050L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS112501.jpg"
             }
         ],
         "price": "45000",
@@ -7898,7 +8656,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ACS175241.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/ACS175241%20-%20Ingco%2024L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS175241.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/ACS175241%20-%20Ingco%2024L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS175241.jpg"
             }
         ],
         "price": "27000",
@@ -7916,7 +8674,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ACS2241001.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/ACS2241001%20-%20Ingco%20100L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS2241001.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/ACS2241001%20-%20Ingco%20100L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS2241001.jpg"
             }
         ],
         "price": "84000",
@@ -7934,7 +8692,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ATG0601.jfif",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/ATG0601%20-%20Ingco%20Air%20Tire%20Inflating%20Gun/ATG0601.jfif"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/ATG0601%20-%20Ingco%20Air%20Tire%20Inflating%20Gun/ATG0601.jfif"
             }
         ],
         "price": "2500",
@@ -7952,7 +8710,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "FHCPK06-800-800-500x500.webp",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/FHCPK06%20-%20Fixtec%20Air%20Compressor%20Set%20(6%20Pcs)/FHCPK06-800-800-500x500.webp"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/FHCPK06%20-%20Fixtec%20Air%20Compressor%20Set%20(6%20Pcs)/FHCPK06-800-800-500x500.webp"
             }
         ],
         "price": "1000",
@@ -7970,7 +8728,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1558984.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/SP1760-M%20Uyus%20Spray%20Gun%20(600cc)%20(1.7mm)/1558984.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/SP1760-M%20Uyus%20Spray%20Gun%20(600cc)%20(1.7mm)/1558984.jpg"
             }
         ],
         "price": "4250",
@@ -7988,7 +8746,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAT10401.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TAT10401%20-%20Total%20Air%20Spray%20Gun%20(400cc)%20(1.5mm)/TAT10401.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TAT10401%20-%20Total%20Air%20Spray%20Gun%20(400cc)%20(1.5mm)/TAT10401.jpg"
             }
         ],
         "price": "2500",
@@ -8006,7 +8764,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAT10601.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TAT10601%20-%20Total%20Air%20Spray%20Gun%20(600cc)/TAT10601.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TAT10601%20-%20Total%20Air%20Spray%20Gun%20(600cc)/TAT10601.jpg"
             }
         ],
         "price": "3000",
@@ -8024,7 +8782,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAT10605.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TAT10605%20-%20Total%20LVMP%20Air%20Spray%20Gun%20(600cc)/TAT10605.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TAT10605%20-%20Total%20LVMP%20Air%20Spray%20Gun%20(600cc)/TAT10605.jpg"
             }
         ],
         "price": "10000",
@@ -8042,7 +8800,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAT11005.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TAT11005%20-%20Total%20Air%20Spray%20Gun%20(1000cc)/TAT11005.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TAT11005%20-%20Total%20Air%20Spray%20Gun%20(1000cc)/TAT11005.jpg"
             }
         ],
         "price": "2850",
@@ -8060,7 +8818,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAT11601.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TAT11601%20-%20Total%20Tire%20Inflating%20Gun/TAT11601.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TAT11601%20-%20Total%20Tire%20Inflating%20Gun/TAT11601.jpg"
             }
         ],
         "price": "2250",
@@ -8078,7 +8836,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAT20751.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TAT20751%20-%20Total%20Washing%20Gun%20(750cc)/TAT20751.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TAT20751%20-%20Total%20Washing%20Gun%20(750cc)/TAT20751.jpg"
             }
         ],
         "price": "1750",
@@ -8096,7 +8854,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAT40122.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TAT40122%20-%20Total%20Air%20Impact%20Wrench%20(12mm)%20(610Nm)/TAT40122.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TAT40122%20-%20Total%20Air%20Impact%20Wrench%20(12mm)%20(610Nm)/TAT40122.jpg"
             }
         ],
         "price": "10500",
@@ -8114,7 +8872,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TAT81501.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TAT81501%20-%20Total%20Air%20Nailer%20%26%20Stapler%20(2%20in%201)/TAT81501.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TAT81501%20-%20Total%20Air%20Nailer%20%26%20Stapler%20(2%20in%201)/TAT81501.jpg"
             }
         ],
         "price": "7500",
@@ -8132,7 +8890,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TATK053.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TATK053%20-%20Total%20Air%20Tools%20Set%20(5%20Pcs)/TATK053.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TATK053%20-%20Total%20Air%20Tools%20Set%20(5%20Pcs)/TATK053.jpg"
             }
         ],
         "price": "4000",
@@ -8150,7 +8908,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TC202416-_24_2_8.webp",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TC202416%20-%20Total%20Air%20Compressor%20(24L)%20(2HP)/TC202416-_24_2_8.webp"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TC202416%20-%20Total%20Air%20Compressor%20(24L)%20(2HP)/TC202416-_24_2_8.webp"
             }
         ],
         "price": "17500",
@@ -8168,7 +8926,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TC255016-1.webp",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TC255016%20-%20Total%20Air%20Compressor%20(50L)%20(1.5HP)/TC255016-1.webp"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TC255016%20-%20Total%20Air%20Compressor%20(50L)%20(1.5HP)/TC255016-1.webp"
             }
         ],
         "price": "23000",
@@ -8186,7 +8944,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCS1110242-85.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TCS1110242%20-%20Total%20Silent%20Air%20Compressor%20(24L)%20(1.5HP)/TCS1110242-85.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TCS1110242%20-%20Total%20Silent%20Air%20Compressor%20(24L)%20(1.5HP)/TCS1110242-85.jpg"
             }
         ],
         "price": "22000",
@@ -8204,7 +8962,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCS1120508.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TCS1120508%20-%20Total%20Silent%20Air%20Compressor%20(50L)%20(1.6HP)/TCS1120508.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TCS1120508%20-%20Total%20Silent%20Air%20Compressor%20(50L)%20(1.6HP)/TCS1120508.jpg"
             }
         ],
         "price": "34250",
@@ -8222,7 +8980,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCS2241008.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/TCS2241008%20-%20Total%20Silent%20Air%20Compressor%20(100L)%20(3.2HP)/TCS2241008.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/TCS2241008%20-%20Total%20Silent%20Air%20Compressor%20(100L)%20(3.2HP)/TCS2241008.jpg"
             }
         ],
         "price": "72",
@@ -8240,7 +8998,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT11101-3.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/THT11101%20-%20Total%20Air%20Hose%20(10m)/THT11101-3.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/THT11101%20-%20Total%20Air%20Hose%20(10m)/THT11101-3.jpg"
             }
         ],
         "price": "1500",
@@ -8258,7 +9016,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THT118302.jpg",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/THT118302%20-%20Total%20Air%20Grease%20Lubricator%20(30L)/THT118302.jpg"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/THT118302%20-%20Total%20Air%20Grease%20Lubricator%20(30L)/THT118302.jpg"
             }
         ],
         "price": "30000",
@@ -8276,7 +9034,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "yt-24250-_zip.webp",
-                "url": "/website%20products/Pneumatic%20(Air%20Compressor)%20Tools/YT-24250%20-%20Yato%20Air%20Hose%20Reel%20(15m)/yt-24250-_zip.webp"
+                "url": "/Website%20Products/Pneumatic%20(Air%20Compressor)%20Tools/YT-24250%20-%20Yato%20Air%20Hose%20Reel%20(15m)/yt-24250-_zip.webp"
             }
         ],
         "price": "15500",
@@ -8294,7 +9052,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AC20248.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/AC20248%20-%20Ingco%2024L%20Air%20Compressor/AC20248.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/AC20248%20-%20Ingco%2024L%20Air%20Compressor/AC20248.jpg"
             }
         ],
         "price": "31000",
@@ -8312,7 +9070,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "a2e72166a2ef41c2a34578045a571017.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/AC25508%20-%20Ingco%2050L%20Air%20Compressor/a2e72166a2ef41c2a34578045a571017.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/AC25508%20-%20Ingco%2050L%20Air%20Compressor/a2e72166a2ef41c2a34578045a571017.jpg"
             }
         ],
         "price": "32900",
@@ -8330,7 +9088,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AC301008.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/AC301008%20-%20Ingco%20100L%20Air%20Compressor/AC301008.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/AC301008%20-%20Ingco%20100L%20Air%20Compressor/AC301008.jpg"
             }
         ],
         "price": "86500",
@@ -8348,7 +9106,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ACS112501.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/ACS112501%20-%20Ingco%2050L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS112501.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/ACS112501%20-%20Ingco%2050L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS112501.jpg"
             }
         ],
         "price": "45000",
@@ -8366,7 +9124,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ACS175241.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/ACS175241%20-%20Ingco%2024L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS175241.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/ACS175241%20-%20Ingco%2024L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS175241.jpg"
             }
         ],
         "price": "27000",
@@ -8384,7 +9142,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ACS2241001.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/ACS2241001%20-%20Ingco%20100L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS2241001.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/ACS2241001%20-%20Ingco%20100L%20Silent%20and%20Oil-free%20Air%20Compressor/ACS2241001.jpg"
             }
         ],
         "price": "84000",
@@ -8402,7 +9160,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TC202416-_24_2_8.webp",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/TC202416%20-%20Total%20Air%20Compressor%20(24L)%20(2HP)/TC202416-_24_2_8.webp"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/TC202416%20-%20Total%20Air%20Compressor%20(24L)%20(2HP)/TC202416-_24_2_8.webp"
             }
         ],
         "price": "17500",
@@ -8420,7 +9178,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TC255016-1.webp",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/TC255016%20-%20Total%20Air%20Compressor%20(50L)%20(1.5HP)/TC255016-1.webp"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/TC255016%20-%20Total%20Air%20Compressor%20(50L)%20(1.5HP)/TC255016-1.webp"
             }
         ],
         "price": "23000",
@@ -8438,7 +9196,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCS1110242-85.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/TCS1110242%20-%20Total%20Silent%20Air%20Compressor%20(24L)%20(1.5HP)/TCS1110242-85.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/TCS1110242%20-%20Total%20Silent%20Air%20Compressor%20(24L)%20(1.5HP)/TCS1110242-85.jpg"
             }
         ],
         "price": "22000",
@@ -8456,7 +9214,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCS1120508.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/TCS1120508%20-%20Total%20Silent%20Air%20Compressor%20(50L)%20(1.6HP)/TCS1120508.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/TCS1120508%20-%20Total%20Silent%20Air%20Compressor%20(50L)%20(1.6HP)/TCS1120508.jpg"
             }
         ],
         "price": "34250",
@@ -8474,7 +9232,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCS2241008.jpg",
-                "url": "/website%20products/Power%20Tools/Air%20Compressors/TCS2241008%20-%20Total%20Silent%20Air%20Compressor%20(100L)%20(3.2HP)/TCS2241008.jpg"
+                "url": "/Website%20Products/Power%20Tools/Air%20Compressors/TCS2241008%20-%20Total%20Silent%20Air%20Compressor%20(100L)%20(3.2HP)/TCS2241008.jpg"
             }
         ],
         "price": "72",
@@ -8492,7 +9250,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AG24008.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/AG24008%20-%20Ingco%209%20inch%202400w%20Angle%20grinder/AG24008.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/AG24008%20-%20Ingco%209%20inch%202400w%20Angle%20grinder/AG24008.jpg"
             }
         ],
         "price": "16500",
@@ -8510,7 +9268,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AG7118.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/AG7118%20-%20Ingco%204%20inch%20710w%20Angle%20Grinder/AG7118.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/AG7118%20-%20Ingco%204%20inch%20710w%20Angle%20Grinder/AG7118.jpg"
             }
         ],
         "price": "5500",
@@ -8528,7 +9286,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AG750282.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/AG750282%20-%20Ingco%204%20inch%20750w%20Angle%20Grinder/AG750282.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/AG750282%20-%20Ingco%204%20inch%20750w%20Angle%20Grinder/AG750282.jpg"
             }
         ],
         "price": "6000",
@@ -8546,7 +9304,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AG90028.png",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/AG90028%20-%20Ingco%204%20inch%20900w%20Angle%20grinder/AG90028.png"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/AG90028%20-%20Ingco%204%20inch%20900w%20Angle%20grinder/AG90028.png"
             }
         ],
         "price": "7000",
@@ -8564,7 +9322,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[COSLI241298] COSLI241298 20V LI-ION CORDLESS 2 PCS COMBO KIT.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/COSLI241298%20-%20Ingco%2020v%204AH%20Cordless%20Drill%20Grinder%20Combo%20Set/%5BCOSLI241298%5D%20COSLI241298%2020V%20LI-ION%20CORDLESS%202%20PCS%20COMBO%20KIT.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/COSLI241298%20-%20Ingco%2020v%204AH%20Cordless%20Drill%20Grinder%20Combo%20Set/%5BCOSLI241298%5D%20COSLI241298%2020V%20LI-ION%20CORDLESS%202%20PCS%20COMBO%20KIT.jpg"
             }
         ],
         "price": "20000",
@@ -8582,7 +9340,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CAGLI2211532 LITHIUM-ION ANGLE GRINDER 20V.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/Cagli2211532%20-%20Ingco%2020V%20Cordless%20Angle%20Grinder/CAGLI2211532%20LITHIUM-ION%20ANGLE%20GRINDER%2020V.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/Cagli2211532%20-%20Ingco%2020V%20Cordless%20Angle%20Grinder/CAGLI2211532%20LITHIUM-ION%20ANGLE%20GRINDER%2020V.jpg"
             }
         ],
         "price": "24000",
@@ -8600,7 +9358,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Dewalt-Angle-Grinder-4.5-inch-115mm-DWE4120-B5-Paddle-Switch-900W.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/DWE4120-B5%20-%20Dewalt%20900w%20Angle%20Grinder%20(4'')/Dewalt-Angle-Grinder-4.5-inch-115mm-DWE4120-B5-Paddle-Switch-900W.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/DWE4120-B5%20-%20Dewalt%20900w%20Angle%20Grinder%20(4'')/Dewalt-Angle-Grinder-4.5-inch-115mm-DWE4120-B5-Paddle-Switch-900W.jpg"
             }
         ],
         "price": "17000",
@@ -8618,7 +9376,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DWE492_2.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/DWE492-QS%20-%20Dewalt%20(2200W)%209''%20Angle%20Grinder/DWE492_2.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/DWE492-QS%20-%20Dewalt%20(2200W)%209''%20Angle%20Grinder/DWE492_2.jpg"
             }
         ],
         "price": "25000",
@@ -8636,7 +9394,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o332817v54_GWS2200fullexecution.webp",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/GWS%202200%20-%20Bosch%209%20inch%202200w%20Angle%20Grinder/o332817v54_GWS2200fullexecution.webp"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/GWS%202200%20-%20Bosch%209%20inch%202200w%20Angle%20Grinder/o332817v54_GWS2200fullexecution.webp"
             }
         ],
         "price": "13900",
@@ -8654,7 +9412,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o91923v54_GWS-24-230_H_Dynamik.webp",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/GWS%2024-230%20H%20Bosch%20(9'')%20Angle%20Grinder%202400W/o91923v54_GWS-24-230_H_Dynamik.webp"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/GWS%2024-230%20H%20Bosch%20(9'')%20Angle%20Grinder%202400W/o91923v54_GWS-24-230_H_Dynamik.webp"
             }
         ],
         "price": "23060",
@@ -8672,10 +9430,28 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o328882v54_FullExecution_GWS.webp",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/GWS%20700%20-%20Bosch%204%20inch%20710w%20Angle%20Grinder/o328882v54_FullExecution_GWS.webp"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/GWS%20700%20-%20Bosch%204%20inch%20710w%20Angle%20Grinder/o328882v54_FullExecution_GWS.webp"
             }
         ],
         "price": "5490",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "gws-9-115s---bosch-4-inch-900w-angle-grinder-variable-speed",
+        "name": "GWS 9-115S - Bosch 4 inch 900w Angle Grinder (Variable Speed)",
+        "description": "Professional Angle Grinders from the Power Tools collection. High-quality engineering for reliable performance.",
+        "category": "Power Tools",
+        "subcategory": "Angle Grinders",
+        "images": [
+            {
+                "name": "o304281v54_lv-176724-12-gws_9-115_s_dyn_01.webp",
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/GWS%209-115S%20-%20Bosch%204%20inch%20900w%20Angle%20Grinder%20(Variable%20Speed)/o304281v54_lv-176724-12-gws_9-115_s_dyn_01.webp"
+            }
+        ],
+        "price": "",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -8690,7 +9466,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "25952_1-1536x1536.png.webp",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/TAGLI261521%20-%20Total%2020V%20Brushless%20Cordless%20Grinder/25952_1-1536x1536.png.webp"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/TAGLI261521%20-%20Total%2020V%20Brushless%20Cordless%20Grinder/25952_1-1536x1536.png.webp"
             }
         ],
         "price": "9500",
@@ -8708,7 +9484,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCKLI20273.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/TCKLI20273%20-%20Total%20Cordless%20Combination%20Kit%20(Drill%20and%20Grinder)/TCKLI20273.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/TCKLI20273%20-%20Total%20Cordless%20Combination%20Kit%20(Drill%20and%20Grinder)/TCKLI20273.jpg"
             }
         ],
         "price": "18500",
@@ -8726,7 +9502,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG10710076.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/TG10710076%20-%20Total%204%20inch%20710w%20Angle%20Grinder/TG10710076.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/TG10710076%20-%20Total%204%20inch%20710w%20Angle%20Grinder/TG10710076.jpg"
             }
         ],
         "price": "4000",
@@ -8744,7 +9520,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG10711556.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/TG10711556%20-%20Total%204%20inch%20750w%20Angle%20Grinder/TG10711556.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/TG10711556%20-%20Total%204%20inch%20750w%20Angle%20Grinder/TG10711556.jpg"
             }
         ],
         "price": "5000",
@@ -8762,7 +9538,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG-110125565.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/TG110125565%20-%20Total%205%20inch%201100W%20Angle%20Grinder%20(Variable%20Speed)/TG-110125565.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/TG110125565%20-%20Total%205%20inch%201100W%20Angle%20Grinder%20(Variable%20Speed)/TG-110125565.jpg"
             }
         ],
         "price": "7500",
@@ -8780,7 +9556,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG1252306.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Grinders/TG1252306%20-%20Total%209%20inch%202400w%20Angle%20Grinder/TG1252306.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Grinders/TG1252306%20-%20Total%209%20inch%202400w%20Angle%20Grinder/TG1252306.jpg"
             }
         ],
         "price": "13000",
@@ -8798,7 +9574,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o113114v54_P_K_GPO_14CE_Dynamik.webp",
-                "url": "/website%20products/Power%20Tools/Angle%20Polisher%20-%20Buffing%20Machine/GPO%2014CE%20-%20Bosch%201400w%20Pro%20Angle%20Polsiher/o113114v54_P_K_GPO_14CE_Dynamik.webp"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Polisher%20-%20Buffing%20Machine/GPO%2014CE%20-%20Bosch%201400w%20Pro%20Angle%20Polsiher/o113114v54_P_K_GPO_14CE_Dynamik.webp"
             }
         ],
         "price": "28450",
@@ -8816,7 +9592,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o283013v54_lv-139333-12-GPO950_dyn_01.png",
-                "url": "/website%20products/Power%20Tools/Angle%20Polisher%20-%20Buffing%20Machine/GPO%20950%20-%20Bosch%20950w%20Angle%20Polisher/o283013v54_lv-139333-12-GPO950_dyn_01.png"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Polisher%20-%20Buffing%20Machine/GPO%20950%20-%20Bosch%20950w%20Angle%20Polisher/o283013v54_lv-139333-12-GPO950_dyn_01.png"
             }
         ],
         "price": "19350",
@@ -8834,7 +9610,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP11418018.jpg",
-                "url": "/website%20products/Power%20Tools/Angle%20Polisher%20-%20Buffing%20Machine/TP11418018%20-%20Total%201400w%20Angle%20Polisher/TP11418018.jpg"
+                "url": "/Website%20Products/Power%20Tools/Angle%20Polisher%20-%20Buffing%20Machine/TP11418018%20-%20Total%201400w%20Angle%20Polisher/TP11418018.jpg"
             }
         ],
         "price": "11000",
@@ -8852,7 +9628,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AB4018.jpg",
-                "url": "/website%20products/Power%20Tools/Blowers/AB4018%20-%20Ingco%20400w%20Blower/AB4018.jpg"
+                "url": "/Website%20Products/Power%20Tools/Blowers/AB4018%20-%20Ingco%20400w%20Blower/AB4018.jpg"
             }
         ],
         "price": "3650",
@@ -8870,7 +9646,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AB6008.jpg",
-                "url": "/website%20products/Power%20Tools/Blowers/AB6008%20-%20Ingco%20600w%20Blower/AB6008.jpg"
+                "url": "/Website%20Products/Power%20Tools/Blowers/AB6008%20-%20Ingco%20600w%20Blower/AB6008.jpg"
             }
         ],
         "price": "600",
@@ -8888,7 +9664,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o275032v54_GBL620_dyn_01.png",
-                "url": "/website%20products/Power%20Tools/Blowers/GBL%20620%20-%20Bosch%20650w%20Blower/o275032v54_GBL620_dyn_01.png"
+                "url": "/Website%20Products/Power%20Tools/Blowers/GBL%20620%20-%20Bosch%20650w%20Blower/o275032v54_GBL620_dyn_01.png"
             }
         ],
         "price": "6500",
@@ -8906,7 +9682,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "M4000B.jpg",
-                "url": "/website%20products/Power%20Tools/Blowers/M4000B%20-%20Makita%20550w%20Blower/M4000B.jpg"
+                "url": "/Website%20Products/Power%20Tools/Blowers/M4000B%20-%20Makita%20550w%20Blower/M4000B.jpg"
             }
         ],
         "price": "5500",
@@ -8924,7 +9700,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TABLI2078_7bed8b62-a1aa-4356-9fc9-7424e72f0a0e.webp",
-                "url": "/website%20products/Power%20Tools/Blowers/TABLI2078%20-%20Total%20Cordless%20Blower%20(20V)/TABLI2078_7bed8b62-a1aa-4356-9fc9-7424e72f0a0e.webp"
+                "url": "/Website%20Products/Power%20Tools/Blowers/TABLI2078%20-%20Total%20Cordless%20Blower%20(20V)/TABLI2078_7bed8b62-a1aa-4356-9fc9-7424e72f0a0e.webp"
             }
         ],
         "price": "2500",
@@ -8942,7 +9718,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CS18538.jpg",
-                "url": "/website%20products/Power%20Tools/Circular%20Saws/CS18538%20-%20Ingco%201400W%207%20Inch%20Circular%20Saw/CS18538.jpg"
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/CS18538%20-%20Ingco%201400W%207%20Inch%20Circular%20Saw/CS18538.jpg"
             }
         ],
         "price": "11000",
@@ -8960,7 +9736,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "81ygib-xral._sl1500__1_.webp",
-                "url": "/website%20products/Power%20Tools/Circular%20Saws/DWE5615-GB%20-%20Dewalt%207%20inch%20Circular%20Saw%20(1350W)/81ygib-xral._sl1500__1_.webp"
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/DWE5615-GB%20-%20Dewalt%207%20inch%20Circular%20Saw%20(1350W)/81ygib-xral._sl1500__1_.webp"
             }
         ],
         "price": "24000",
@@ -8978,11 +9754,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "GKS 140.webp",
-                "url": "/website%20products/Power%20Tools/Circular%20Saws/GKS%20140%20-%20Bosch%201400w%207%20inch%20Circular%20Saw/GKS%20140.webp"
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/GKS%20140%20-%20Bosch%201400w%207%20inch%20Circular%20Saw/GKS%20140.webp"
             }
         ],
         "price": "14080",
-        "isOnOffer": true,
+        "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
@@ -8996,7 +9772,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o246835v54_lv-84102-49-GKS_235_Turbo_Dy.png",
-                "url": "/website%20products/Power%20Tools/Circular%20Saws/GKS%20235%20Turbo%20-%20Bosch%20PRO%20Heavy%20Duty%20(2050W)%20(9'')%20Circular%20Saw/o246835v54_lv-84102-49-GKS_235_Turbo_Dy.png"
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/GKS%20235%20Turbo%20-%20Bosch%20PRO%20Heavy%20Duty%20(2050W)%20(9'')%20Circular%20Saw/o246835v54_lv-84102-49-GKS_235_Turbo_Dy.png"
             }
         ],
         "price": "30800",
@@ -9014,7 +9790,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TS11418526.jpg",
-                "url": "/website%20products/Power%20Tools/Circular%20Saws/TS11418526-8%20-%20Total%201400w%207%20inch%20Circular%20Saw/TS11418526.jpg"
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/TS11418526-8%20-%20Total%201400w%207%20inch%20Circular%20Saw/TS11418526.jpg"
             }
         ],
         "price": "9000",
@@ -9032,7 +9808,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TS1161856.jpg",
-                "url": "/website%20products/Power%20Tools/Circular%20Saws/TS1161856-8%20-%20Total%201600W%207%20inch%20Circular%20Saw/TS1161856.jpg"
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/TS1161856-8%20-%20Total%201600W%207%20inch%20Circular%20Saw/TS1161856.jpg"
             }
         ],
         "price": "11000",
@@ -9050,10 +9826,46 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TS1222356.jpg",
-                "url": "/website%20products/Power%20Tools/Circular%20Saws/TS122235622%20-%20Total%202200W%209%20inch%20Circular%20Saw/TS1222356.jpg"
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/TS122235622%20-%20Total%202200W%209%20inch%20Circular%20Saw/TS1222356.jpg"
             }
         ],
         "price": "17000",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "tsli1851---total-cordless-circular-saw-20v",
+        "name": "TSLI1851 - Total Cordless Circular Saw (20V)",
+        "description": "SPECIFICATIONS\nBrushless motor\nVoltage: 20V\nNo-load speed: 4800rpm\nBlade diameter: 185mm(7-1/4'')\nCutting capacity:\n45° degree: 45mm\n90° degree: 65mm\nAdjustable cutting depth\nAdjustable bevel cutting\nInclude:\n1 Pcs 185mm saw blade\nBattery and charger sold separately\nPacked by color box",
+        "category": "Power Tools",
+        "subcategory": "Circular Saws",
+        "images": [
+            {
+                "name": "TSLI1851.jpg",
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/TSLI1851%20-%20Total%20Cordless%20Circular%20Saw%20(20V)/TSLI1851.jpg"
+            }
+        ],
+        "price": "12000",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "tsli18513---total-cordless-circular-saw-20v-with-battery-and-charger",
+        "name": "TSLI18513 - Total Cordless Circular Saw (20V) (WIth Battery and Charger)",
+        "description": "Brushless motor\nVoltage: 20V\nNo-load speed: 4800rpm\nBlade diameter: 185mm(7-1/4”)\nArbor size:20mm\nCutting capacity:\n45° degree: 45mm\n90° degree: 65mm\nAdjustable cutting depth\nAdjustable bevel cutting\nInclude:\n1 Pcs 185mm saw blade",
+        "category": "Power Tools",
+        "subcategory": "Circular Saws",
+        "images": [
+            {
+                "name": "TSLI18513.jpg",
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/TSLI18513%20-%20Total%20Cordless%20Circular%20Saw%20(20V)%20(WIth%20Battery%20and%20Charger)/TSLI18513.jpg"
+            }
+        ],
+        "price": "21500",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -9068,7 +9880,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "chinesw.jpg",
-                "url": "/website%20products/Power%20Tools/Circular%20Saws/UY-SCC235%20-%20Uyus%202800w%209%20inch%20Circular%20Saw/chinesw.jpg"
+                "url": "/Website%20Products/Power%20Tools/Circular%20Saws/UY-SCC235%20-%20Uyus%202800w%209%20inch%20Circular%20Saw/chinesw.jpg"
             }
         ],
         "price": "17000",
@@ -9086,7 +9898,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o260252v54_lv-84560-12-GSB_16_RE_dyn_highres_02.png",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/GSB-16%20Re%20-%20Bosch%20Pro%20Heavy%20Duty%20Impact%20Drill%20(750W)/o260252v54_lv-84560-12-GSB_16_RE_dyn_highres_02.png"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/GSB-16%20Re%20-%20Bosch%20Pro%20Heavy%20Duty%20Impact%20Drill%20(750W)/o260252v54_lv-84560-12-GSB_16_RE_dyn_highres_02.png"
             }
         ],
         "price": "11160",
@@ -9104,7 +9916,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "WhatsApp-Image-2020-06-10-at-09.50.48.jpeg",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/GSB570%20-%20Bosch%20570w%20Impact%20Drill/WhatsApp-Image-2020-06-10-at-09.50.48.jpeg"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/GSB570%20-%20Bosch%20570w%20Impact%20Drill/WhatsApp-Image-2020-06-10-at-09.50.48.jpeg"
             }
         ],
         "price": "5490",
@@ -9122,14 +9934,14 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o396105v54_GSB_600_Handle_dyn.webp",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/GSB600%20-%20Bosch%20600w%20Impact%20Drill/o396105v54_GSB_600_Handle_dyn.webp"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/GSB600%20-%20Bosch%20600w%20Impact%20Drill/o396105v54_GSB_600_Handle_dyn.webp"
             }
         ],
         "price": "5490",
-        "isOnOffer": false,
+        "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 5490,
+        "offerPrice": 5000
     },
     {
         "id": "id11008---ingco-1100w-impact-drill",
@@ -9140,7 +9952,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ID11008.jpg",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/ID11008%20-%20Ingco%201100w%20Impact%20Drill/ID11008.jpg"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/ID11008%20-%20Ingco%201100w%20Impact%20Drill/ID11008.jpg"
             }
         ],
         "price": "6250",
@@ -9158,7 +9970,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "9ca782f12a3f42d9ac7354efd048365f.jpg",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/ID6808%20-%20Ingco%20680w%20Impact%20Drill/9ca782f12a3f42d9ac7354efd048365f.jpg"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/ID6808%20-%20Ingco%20680w%20Impact%20Drill/9ca782f12a3f42d9ac7354efd048365f.jpg"
             }
         ],
         "price": "4500",
@@ -9176,7 +9988,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ID8508.jpg",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/ID8508%20-%20Ingco%20810w%20Impact%20Drill/ID8508.jpg"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/ID8508%20-%20Ingco%20810w%20Impact%20Drill/ID8508.jpg"
             }
         ],
         "price": "5350",
@@ -9194,10 +10006,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG1071366E.jpg",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/TG1071366%20-%20Total%20710w%20Impact%20Drill/TG1071366E.jpg"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/TG1071366%20-%20Total%20710w%20Impact%20Drill/TG1071366E.jpg"
             }
         ],
-        "price": "4250",
+        "price": "4500",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -9212,10 +10024,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG1081316.jpg",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/TG1081316%20-%20Total%20810w%20Impact%20Drill/TG1081316.jpg"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/TG1081316%20-%20Total%20810w%20Impact%20Drill/TG1081316.jpg"
             }
         ],
-        "price": "4950",
+        "price": "5500",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -9230,7 +10042,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG211166.jpg",
-                "url": "/website%20products/Power%20Tools/Corded%20Drills/TG21116%20-%20Total%20Impact%20Drill%20(1100W)/TG211166.jpg"
+                "url": "/Website%20Products/Power%20Tools/Corded%20Drills/TG21116%20-%20Total%20Impact%20Drill%20(1100W)/TG211166.jpg"
             }
         ],
         "price": "11500",
@@ -9248,7 +10060,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o458332v54_GBA_18V_5Ah_Dyn.webp",
-                "url": "/website%20products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/Bosch%2018V%205.0Ah%20Cordless%20Battery/o458332v54_GBA_18V_5Ah_Dyn.webp"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/Bosch%2018V%205.0Ah%20Cordless%20Battery/o458332v54_GBA_18V_5Ah_Dyn.webp"
             }
         ],
         "price": "16500",
@@ -9266,7 +10078,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "FCLI2001.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/FCLI2001%20-%20Ingco%2020V%20(2AH)%20Cordless%20tools%20P20S%20Battery%20Charger/FCLI2001.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/FCLI2001%20-%20Ingco%2020V%20(2AH)%20Cordless%20tools%20P20S%20Battery%20Charger/FCLI2001.jpg"
             }
         ],
         "price": "2500",
@@ -9284,7 +10096,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "FCLI20411.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/FCLI20411%20-%20Ingco%2020V%20(4AH)%20Cordless%20tools%20P20S%20Battery%20Charger/FCLI20411.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/FCLI20411%20-%20Ingco%2020V%20(4AH)%20Cordless%20tools%20P20S%20Battery%20Charger/FCLI20411.jpg"
             }
         ],
         "price": "3000",
@@ -9302,7 +10114,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o245049v54_P_A_GAX_18V-30_dyn.webp",
-                "url": "/website%20products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/GAX%2018V-30%20-%20Bosch%2018V%20Cordless%20Charger/o245049v54_P_A_GAX_18V-30_dyn.webp"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/GAX%2018V-30%20-%20Bosch%2018V%20Cordless%20Charger/o245049v54_P_A_GAX_18V-30_dyn.webp"
             }
         ],
         "price": "6000",
@@ -9320,7 +10132,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o275819v54_o275819v12_12V2-0Ah_dyn_02(2).webp",
-                "url": "/website%20products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/GBA%2012V%202.0Ah%20-%20Bosch%2012V%202.0Ah%20Cordless%20Battery/o275819v54_o275819v12_12V2-0Ah_dyn_02(2).webp"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/GBA%2012V%202.0Ah%20-%20Bosch%2012V%202.0Ah%20Cordless%20Battery/o275819v54_o275819v12_12V2-0Ah_dyn_02(2).webp"
             }
         ],
         "price": "4500",
@@ -9338,7 +10150,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o395624v54_GBA_18V_ProCORE_12Ah_dyn.webp",
-                "url": "/website%20products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/HEAVY%20DUTY%20ProCORE18V%2012.0Ah%20-%20Bosch%2018V%2012.0Ah%20Cordless%20Battery/o395624v54_GBA_18V_ProCORE_12Ah_dyn.webp"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/HEAVY%20DUTY%20ProCORE18V%2012.0Ah%20-%20Bosch%2018V%2012.0Ah%20Cordless%20Battery/o395624v54_GBA_18V_ProCORE_12Ah_dyn.webp"
             }
         ],
         "price": "",
@@ -9356,7 +10168,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TFBLI20011.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/TFBLI20011%20-%20Total%20Lithium-Ion%20Battery%20Pack%20(2.0AH)/TFBLI20011.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/TFBLI20011%20-%20Total%20Lithium-Ion%20Battery%20Pack%20(2.0AH)/TFBLI20011.jpg"
             }
         ],
         "price": "3000",
@@ -9374,7 +10186,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TFCLI2001-500x425.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/TFCLI2001%20-%20Total%20Fast%20Intelligent%20Charger%20(2A)/TFCLI2001-500x425.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Batteries%20and%20Chargers/TFCLI2001%20-%20Total%20Fast%20Intelligent%20Charger%20(2A)/TFCLI2001-500x425.jpg"
             }
         ],
         "price": "2500",
@@ -9392,7 +10204,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CDLI12202 (1).jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/CDLI12202%20-%20Ingco%2012V%20Cordless%20Drill/CDLI12202%20(1).jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/CDLI12202%20-%20Ingco%2012V%20Cordless%20Drill/CDLI12202%20(1).jpg"
             }
         ],
         "price": "6000",
@@ -9410,7 +10222,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CIDLI20558.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/CIDLI20558%20-%20Ingco%2020V%20Cordless%20Impact%20Drill%20(55nm)/CIDLI20558.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/CIDLI20558%20-%20Ingco%2020V%20Cordless%20Impact%20Drill%20(55nm)/CIDLI20558.jpg"
             }
         ],
         "price": "12500",
@@ -9428,7 +10240,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[COSLI241298] COSLI241298 20V LI-ION CORDLESS 2 PCS COMBO KIT.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/COSLI241298%20-%20Ingco%2020v%204AH%20Cordless%20Drill%20Grinder%20Combo%20Set/%5BCOSLI241298%5D%20COSLI241298%2020V%20LI-ION%20CORDLESS%202%20PCS%20COMBO%20KIT.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/COSLI241298%20-%20Ingco%2020v%204AH%20Cordless%20Drill%20Grinder%20Combo%20Set/%5BCOSLI241298%5D%20COSLI241298%2020V%20LI-ION%20CORDLESS%202%20PCS%20COMBO%20KIT.jpg"
             }
         ],
         "price": "20000",
@@ -9446,7 +10258,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DCD776S2A_1.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/DCD776S2-B5%20-%20Dewalt%20CORDLESS%20DRILL%2018V%20XR%20LI-ION%201.5AH/DCD776S2A_1.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/DCD776S2-B5%20-%20Dewalt%20CORDLESS%20DRILL%2018V%20XR%20LI-ION%201.5AH/DCD776S2A_1.jpg"
             }
         ],
         "price": "35000",
@@ -9464,7 +10276,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CORDLESS-DRILL-18V-MAX-H-D-XR-LI-ION-5.0AH-BRUSHLESS-2.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/DCD996P2-B5%20-%20Dewalt%20CORDLESS%20DRILL%2018V%20MAX%20HD%20XR%20LI-%20ION%205.0AH%20BRUSHLESS/CORDLESS-DRILL-18V-MAX-H-D-XR-LI-ION-5.0AH-BRUSHLESS-2.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/DCD996P2-B5%20-%20Dewalt%20CORDLESS%20DRILL%2018V%20MAX%20HD%20XR%20LI-%20ION%205.0AH%20BRUSHLESS/CORDLESS-DRILL-18V-MAX-H-D-XR-LI-ION-5.0AH-BRUSHLESS-2.jpg"
             }
         ],
         "price": "73500",
@@ -9482,7 +10294,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Bosch-Cordless-Impact-Drill-GSB120.webp",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/GSB120%20-%20Bosch%2012V%20Cordless%20Impact%20Drill/Bosch-Cordless-Impact-Drill-GSB120.webp"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/GSB120%20-%20Bosch%2012V%20Cordless%20Impact%20Drill/Bosch-Cordless-Impact-Drill-GSB120.webp"
             }
         ],
         "price": "14600",
@@ -9500,11 +10312,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Pic.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/GSB183-li%20-%20Bosch%2018V%20Cordless%20Impact%20Drill/Pic.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/GSB183-li%20-%20Bosch%2018V%20Cordless%20Impact%20Drill/Pic.jpg"
             },
             {
                 "name": "o394082v54_gsb_183-li_sos_06019K9100_120_180_1C0_1E0_1E2_1G0_1H0_1K0_1L0.webp",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/GSB183-li%20-%20Bosch%2018V%20Cordless%20Impact%20Drill/o394082v54_gsb_183-li_sos_06019K9100_120_180_1C0_1E0_1E2_1G0_1H0_1K0_1L0.webp"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/GSB183-li%20-%20Bosch%2018V%20Cordless%20Impact%20Drill/o394082v54_gsb_183-li_sos_06019K9100_120_180_1C0_1E0_1E2_1G0_1H0_1K0_1L0.webp"
             }
         ],
         "price": "16990",
@@ -9522,7 +10334,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTHP11651] HKTHP11651 165 PCS TOOLS SET - 20V.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/HKTHP11651%20-%20Ingco%2020V%20Cordless%20Impact%20Drill%20Tool%20Set/%5BHKTHP11651%5D%20HKTHP11651%20165%20PCS%20TOOLS%20SET%20-%2020V.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/HKTHP11651%20-%20Ingco%2020V%20Cordless%20Impact%20Drill%20Tool%20Set/%5BHKTHP11651%5D%20HKTHP11651%20165%20PCS%20TOOLS%20SET%20-%2020V.jpg"
             }
         ],
         "price": "16000",
@@ -9540,7 +10352,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCKLI20273.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/TCKLI20273%20-%20Total%20Cordless%20Combination%20Kit%20(Drill%20and%20Grinder)/TCKLI20273.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/TCKLI20273%20-%20Total%20Cordless%20Combination%20Kit%20(Drill%20and%20Grinder)/TCKLI20273.jpg"
             }
         ],
         "price": "18500",
@@ -9558,7 +10370,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THKTHP11652.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/THKTHP11652%20-%20Total%2020V%20Cordless%20Impact%20Drill%20Tool%20Set/THKTHP11652.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/THKTHP11652%20-%20Total%2020V%20Cordless%20Impact%20Drill%20Tool%20Set/THKTHP11652.jpg"
             }
         ],
         "price": "13000",
@@ -9576,7 +10388,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TIDLI20558E.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/TIDLI20558E%20-%20Total%2020v%20Cordless%20Impact%20Drill%20(55nm)/TIDLI20558E.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/TIDLI20558E%20-%20Total%2020v%20Cordless%20Impact%20Drill%20(55nm)/TIDLI20558E.jpg"
             }
         ],
         "price": "11000",
@@ -9594,7 +10406,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TIDLI20668.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/TIDLI20668%20-%20Total%20Compact%20Brushless%20Cordless%20Impact%20Drill%20(66Nm)/TIDLI20668.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/TIDLI20668%20-%20Total%20Compact%20Brushless%20Cordless%20Impact%20Drill%20(66Nm)/TIDLI20668.jpg"
             }
         ],
         "price": "12500",
@@ -9612,7 +10424,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TIDLI209681.jpg",
-                "url": "/website%20products/Power%20Tools/Cordless%20Drills/TIDLI209681%20-%20Total%20Brushless%20Cordless%20Impact%20Drill%20(20V)%20(96Nm)/TIDLI209681.jpg"
+                "url": "/Website%20Products/Power%20Tools/Cordless%20Drills/TIDLI209681%20-%20Total%20Brushless%20Cordless%20Impact%20Drill%20(20V)%20(96Nm)/TIDLI209681.jpg"
             }
         ],
         "price": "9000",
@@ -9630,7 +10442,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o400770v54_o400770v12BoschGSH14CTOOLBOX01.webp",
-                "url": "/website%20products/Power%20Tools/Demolition%20Hammers/GSH%2014%20C%20-%20Bosch%201750w%20Demolition%20Breaker%20(28J)/o400770v54_o400770v12BoschGSH14CTOOLBOX01.webp"
+                "url": "/Website%20Products/Power%20Tools/Demolition%20Hammers/GSH%2014%20C%20-%20Bosch%201750w%20Demolition%20Breaker%20(28J)/o400770v54_o400770v12BoschGSH14CTOOLBOX01.webp"
             }
         ],
         "price": "167000",
@@ -9648,7 +10460,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o375915v54_GSH_16-28_sos_F4_0611335000_30_60.webp",
-                "url": "/website%20products/Power%20Tools/Demolition%20Hammers/GSH%2016-28%20-%20Bsoch%201750w%20Demolition%20Hammer%20(41J)/o375915v54_GSH_16-28_sos_F4_0611335000_30_60.webp"
+                "url": "/Website%20Products/Power%20Tools/Demolition%20Hammers/GSH%2016-28%20-%20Bsoch%201750w%20Demolition%20Hammer%20(41J)/o375915v54_GSH_16-28_sos_F4_0611335000_30_60.webp"
             }
         ],
         "price": "210000",
@@ -9666,7 +10478,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o375916v54_GSH_16-30_sos_F4_0611335100_40_B0_P0.webp",
-                "url": "/website%20products/Power%20Tools/Demolition%20Hammers/GSH%2016-30%20-%20Bosch%201750w%20Demolition%20Breaker%20(41J)/o375916v54_GSH_16-30_sos_F4_0611335100_40_B0_P0.webp"
+                "url": "/Website%20Products/Power%20Tools/Demolition%20Hammers/GSH%2016-30%20-%20Bosch%201750w%20Demolition%20Breaker%20(41J)/o375916v54_GSH_16-30_sos_F4_0611335100_40_B0_P0.webp"
             }
         ],
         "price": "",
@@ -9684,7 +10496,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o375917v54_GSH_27_VC_sos_F4_061130A000_30_40_80_B0_P0.png",
-                "url": "/website%20products/Power%20Tools/Demolition%20Hammers/GSH%2027%20VC%20-%20Bosch%201900w%20Demolition%20Breaker/o375917v54_GSH_27_VC_sos_F4_061130A000_30_40_80_B0_P0.png"
+                "url": "/Website%20Products/Power%20Tools/Demolition%20Hammers/GSH%2027%20VC%20-%20Bosch%201900w%20Demolition%20Breaker/o375917v54_GSH_27_VC_sos_F4_061130A000_30_40_80_B0_P0.png"
             }
         ],
         "price": "225000",
@@ -9702,7 +10514,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o108203v54_GSH_5_dynamic.png",
-                "url": "/website%20products/Power%20Tools/Demolition%20Hammers/PRO%20GSH%205%20-%20Bosch%201100w%20Demolition%20Hammer/o108203v54_GSH_5_dynamic.png"
+                "url": "/Website%20Products/Power%20Tools/Demolition%20Hammers/PRO%20GSH%205%20-%20Bosch%201100w%20Demolition%20Hammer/o108203v54_GSH_5_dynamic.png"
             }
         ],
         "price": "",
@@ -9720,7 +10532,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o340423v54_gsh_500_full_execution.webp",
-                "url": "/website%20products/Power%20Tools/Demolition%20Hammers/PRO%20GSH%20500%20-%20Bosch%201100w%20Demolition%20Hammer/o340423v54_gsh_500_full_execution.webp"
+                "url": "/Website%20Products/Power%20Tools/Demolition%20Hammers/PRO%20GSH%20500%20-%20Bosch%201100w%20Demolition%20Hammer/o340423v54_gsh_500_full_execution.webp"
             }
         ],
         "price": "45000",
@@ -9738,7 +10550,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TH215456.jpg",
-                "url": "/website%20products/Power%20Tools/Demolition%20Hammers/TH215456%20-%20Total%201700w%20Demolition%20Breaker%20(Hammer)/TH215456.jpg"
+                "url": "/Website%20Products/Power%20Tools/Demolition%20Hammers/TH215456%20-%20Total%201700w%20Demolition%20Breaker%20(Hammer)/TH215456.jpg"
             }
         ],
         "price": "31500",
@@ -9756,7 +10568,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TH220502.jpg",
-                "url": "/website%20products/Power%20Tools/Demolition%20Hammers/TH220502%20-%20Total%202200w%20Demolition%20Breaker%20(Hammer)/TH220502.jpg"
+                "url": "/Website%20Products/Power%20Tools/Demolition%20Hammers/TH220502%20-%20Total%202200w%20Demolition%20Breaker%20(Hammer)/TH220502.jpg"
             }
         ],
         "price": "92500",
@@ -9774,7 +10586,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TWS10501.jpg",
-                "url": "/website%20products/Power%20Tools/Drywall%20Sander/TDWS105016%20-%20Total%20Drywall%20Sander/TWS10501.jpg"
+                "url": "/Website%20Products/Power%20Tools/Drywall%20Sander/TDWS105016%20-%20Total%20Drywall%20Sander/TWS10501.jpg"
             }
         ],
         "price": "19000",
@@ -9792,7 +10604,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot2026-03-02170828.webp",
-                "url": "/website%20products/Power%20Tools/Drywall%20Sander/TDWS10508%20-%20Total%20Drywall%20Sander%20(850W)/Screenshot2026-03-02170828.webp"
+                "url": "/Website%20Products/Power%20Tools/Drywall%20Sander/TDWS10508%20-%20Total%20Drywall%20Sander%20(850W)/Screenshot2026-03-02170828.webp"
             }
         ],
         "price": "11000",
@@ -9810,7 +10622,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o323133v54_lv-178630-12-gho_700_full_execution_02.png",
-                "url": "/website%20products/Power%20Tools/Electric%20Planer/GH0%20700%20-%20Bosch%20ELectric%20Planer/o323133v54_lv-178630-12-gho_700_full_execution_02.png"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Planer/GH0%20700%20-%20Bosch%20ELectric%20Planer/o323133v54_lv-178630-12-gho_700_full_execution_02.png"
             }
         ],
         "price": "13920",
@@ -9828,10 +10640,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[PL10508] PL10508 ELECTRIC PLANER.png",
-                "url": "/website%20products/Power%20Tools/Electric%20Planer/PL10508%20-%20Ingco%201050w%20Electric%20Planer/%5BPL10508%5D%20PL10508%20ELECTRIC%20PLANER.png"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Planer/PL10508%20-%20Ingco%201050w%20Electric%20Planer/%5BPL10508%5D%20PL10508%20ELECTRIC%20PLANER.png"
             }
         ],
-        "price": "14500",
+        "price": "20000",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -9846,7 +10658,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o375726v54_GHO_18V-LI_sos_F4_06015A0300.webp",
-                "url": "/website%20products/Power%20Tools/Electric%20Planer/Pro%20Heavy%20Duty%20GHO%2018V-Li%20-%20Bosch%20Cordless%20Planer/o375726v54_GHO_18V-LI_sos_F4_06015A0300.webp"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Planer/Pro%20Heavy%20Duty%20GHO%2018V-Li%20-%20Bosch%20Cordless%20Planer/o375726v54_GHO_18V-LI_sos_F4_06015A0300.webp"
             }
         ],
         "price": "40500",
@@ -9864,7 +10676,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o375727v54_GHO_26-82_D_sos_F4_06015A4300_02_32_70.webp",
-                "url": "/website%20products/Power%20Tools/Electric%20Planer/Pro%20Heavy%20Duty%20GHO26-82D%20-%20Bosch%20Electric%20Planer%20(710W)/o375727v54_GHO_26-82_D_sos_F4_06015A4300_02_32_70.webp"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Planer/Pro%20Heavy%20Duty%20GHO26-82D%20-%20Bosch%20Electric%20Planer%20(710W)/o375727v54_GHO_26-82_D_sos_F4_06015A4300_02_32_70.webp"
             }
         ],
         "price": "30000",
@@ -9882,7 +10694,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TL1108236.jpg",
-                "url": "/website%20products/Power%20Tools/Electric%20Planer/TL1108236%20-%20Total%20Electric%20Planer%20(1050W)/TL1108236.jpg"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Planer/TL1108236%20-%20Total%20Electric%20Planer%20(1050W)/TL1108236.jpg"
             }
         ],
         "price": "11500",
@@ -9900,7 +10712,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TL5508216.jpg",
-                "url": "/website%20products/Power%20Tools/Electric%20Planer/TL5508216%20-%20Total%20Electric%20Planer%20(550W)/TL5508216.jpg"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Planer/TL5508216%20-%20Total%20Electric%20Planer%20(550W)/TL5508216.jpg"
             }
         ],
         "price": "8000",
@@ -9918,7 +10730,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "SPG5008.jpg",
-                "url": "/website%20products/Power%20Tools/Electric%20Spray%20Guns/SPG5008%20-%20Ingco%20550w%20Electric%20Spray%20Gun/SPG5008.jpg"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Spray%20Guns/SPG5008%20-%20Ingco%20550w%20Electric%20Spray%20Gun/SPG5008.jpg"
             }
         ],
         "price": "6250",
@@ -9936,10 +10748,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TSGLI2004.jpg",
-                "url": "/website%20products/Power%20Tools/Electric%20Spray%20Guns/TSGLI20042%20-%20Total%2020v%20Cordless%20Spray%20Gun/TSGLI2004.jpg"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Spray%20Guns/TSGLI20042%20-%20Total%2020v%20Cordless%20Spray%20Gun/TSGLI2004.jpg"
             }
         ],
-        "price": "",
+        "price": "9000",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -9954,7 +10766,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TT3506.jpg",
-                "url": "/website%20products/Power%20Tools/Electric%20Spray%20Guns/TT3506%20-%20Total%20450w%20Electric%20Spray%20Gun/TT3506.jpg"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Spray%20Guns/TT3506%20-%20Total%20450w%20Electric%20Spray%20Gun/TT3506.jpg"
             }
         ],
         "price": "4000",
@@ -9972,11 +10784,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2.jpg",
-                "url": "/website%20products/Power%20Tools/Electric%20Spray%20Guns/TT4506%20-%20Total%20530w%20Electric%20Spray%20Gun/2.jpg"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Spray%20Guns/TT4506%20-%20Total%20530w%20Electric%20Spray%20Gun/2.jpg"
             }
         ],
         "price": "5000",
-        "isOnOffer": true,
+        "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
@@ -9990,7 +10802,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TT5006-2.jpg",
-                "url": "/website%20products/Power%20Tools/Electric%20Spray%20Guns/TT5006-2%20-%20Total%20550w%20Electric%20Spray%20Gun/TT5006-2.jpg"
+                "url": "/Website%20Products/Power%20Tools/Electric%20Spray%20Guns/TT5006-2%20-%20Total%20550w%20Electric%20Spray%20Gun/TT5006-2.jpg"
             }
         ],
         "price": "6000",
@@ -10008,7 +10820,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "GG148-8.jpg",
-                "url": "/website%20products/Power%20Tools/Glue%20Gun/GG148-8%20-%20Ingco%20Glue%20Gun/GG148-8.jpg"
+                "url": "/Website%20Products/Power%20Tools/Glue%20Gun/GG148-8%20-%20Ingco%20Glue%20Gun/GG148-8.jpg"
             }
         ],
         "price": "1400",
@@ -10026,7 +10838,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TT201116.jpg",
-                "url": "/website%20products/Power%20Tools/Glue%20Gun/TT201116%20-%20Total%20Glue%20Gun/TT201116.jpg"
+                "url": "/Website%20Products/Power%20Tools/Glue%20Gun/TT201116%20-%20Total%20Glue%20Gun/TT201116.jpg"
             }
         ],
         "price": "1350",
@@ -10044,7 +10856,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o284269v54_lv-166639-12-FullExecution_060194D0L0_GHG180.webp",
-                "url": "/website%20products/Power%20Tools/Heat%20Guns/GHG180%20-%20Bosch%20Heat%20Gun/o284269v54_lv-166639-12-FullExecution_060194D0L0_GHG180.webp"
+                "url": "/Website%20Products/Power%20Tools/Heat%20Guns/GHG180%20-%20Bosch%20Heat%20Gun/o284269v54_lv-166639-12-FullExecution_060194D0L0_GHG180.webp"
             }
         ],
         "price": "5490",
@@ -10062,7 +10874,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HG5030_C2L0.jpg",
-                "url": "/website%20products/Power%20Tools/Heat%20Guns/HG5030%20-%20Makita%20Heat%20Gun/HG5030_C2L0.jpg"
+                "url": "/Website%20Products/Power%20Tools/Heat%20Guns/HG5030%20-%20Makita%20Heat%20Gun/HG5030_C2L0.jpg"
             }
         ],
         "price": "5490",
@@ -10080,11 +10892,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "UY-PSC2000_1_400x.webp",
-                "url": "/website%20products/Power%20Tools/Heat%20Guns/UY-PSC2000%20-%20Uyus%202000w%20Heat%20Gun/UY-PSC2000_1_400x.webp"
+                "url": "/Website%20Products/Power%20Tools/Heat%20Guns/UY-PSC2000%20-%20Uyus%202000w%20Heat%20Gun/UY-PSC2000_1_400x.webp"
             },
             {
                 "name": "UY-PSC2000_400x.webp",
-                "url": "/website%20products/Power%20Tools/Heat%20Guns/UY-PSC2000%20-%20Uyus%202000w%20Heat%20Gun/UY-PSC2000_400x.webp"
+                "url": "/Website%20Products/Power%20Tools/Heat%20Guns/UY-PSC2000%20-%20Uyus%202000w%20Heat%20Gun/UY-PSC2000_400x.webp"
             }
         ],
         "price": "3000",
@@ -10102,7 +10914,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CIWLI20135.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/CIWLI20135%20-%20Ingco%201350nm%20Cordless%20Impact%20Wrench/CIWLI20135.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/CIWLI20135%20-%20Ingco%201350nm%20Cordless%20Impact%20Wrench/CIWLI20135.jpg"
             }
         ],
         "price": "54000",
@@ -10120,7 +10932,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CIWLI20236.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/CIWLI20236%20-%20Ingco%20230nm%20Cordless%20Impact%20Wrench/CIWLI20236.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/CIWLI20236%20-%20Ingco%20230nm%20Cordless%20Impact%20Wrench/CIWLI20236.jpg"
             }
         ],
         "price": "12500",
@@ -10138,7 +10950,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CIWLI20401.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/CIWLI20401%20-%20Ingco%20400nm%20Cordless%20Impact%20Wrench/CIWLI20401.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/CIWLI20401%20-%20Ingco%20400nm%20Cordless%20Impact%20Wrench/CIWLI20401.jpg"
             }
         ],
         "price": "11550",
@@ -10156,7 +10968,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CIWLI20851.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/CIWLI20851tm%20-%20Ingco%20850nm%20Cordless%20Impact%20Wrench/CIWLI20851.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/CIWLI20851tm%20-%20Ingco%20850nm%20Cordless%20Impact%20Wrench/CIWLI20851.jpg"
             }
         ],
         "price": "10500",
@@ -10174,7 +10986,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[COSLI23048] COSLI23048 20V LI-ION CORDLESS 2 PCS COMBO KIT.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/COSLI23048%20-%20Ingco%202pcs%20Impact%20Wrench%20Combo%20Set/%5BCOSLI23048%5D%20COSLI23048%2020V%20LI-ION%20CORDLESS%202%20PCS%20COMBO%20KIT.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/COSLI23048%20-%20Ingco%202pcs%20Impact%20Wrench%20Combo%20Set/%5BCOSLI23048%5D%20COSLI23048%2020V%20LI-ION%20CORDLESS%202%20PCS%20COMBO%20KIT.jpg"
             }
         ],
         "price": "16380",
@@ -10192,7 +11004,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "COSLI240789.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/COSLI240789%20-%20Ingco%20Cordless%20Impact%20Wrench%20Combo%20Kit/COSLI240789.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/COSLI240789%20-%20Ingco%20Cordless%20Impact%20Wrench%20Combo%20Kit/COSLI240789.jpg"
             }
         ],
         "price": "30800",
@@ -10210,7 +11022,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TIWLI2040.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/TIWLI2040%20-%20Total%20400nm%20Cordless%20impact%20wrench/TIWLI2040.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/TIWLI2040%20-%20Total%20400nm%20Cordless%20impact%20wrench/TIWLI2040.jpg"
             }
         ],
         "price": "15000",
@@ -10228,7 +11040,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TIWLI2050.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/TIWLI2050%20-%20Total%20500nm%20Cordless%20Impact%20Wrench/TIWLI2050.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/TIWLI2050%20-%20Total%20500nm%20Cordless%20Impact%20Wrench/TIWLI2050.jpg"
             }
         ],
         "price": "20500",
@@ -10246,7 +11058,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TIWLI2085.jpg",
-                "url": "/website%20products/Power%20Tools/Impact%20Wrenches/TIWLI2085%20-%20Total%20850nm%20Cordless%20Impact%20Wrench/TIWLI2085.jpg"
+                "url": "/Website%20Products/Power%20Tools/Impact%20Wrenches/TIWLI2085%20-%20Total%20850nm%20Cordless%20Impact%20Wrench/TIWLI2085.jpg"
             }
         ],
         "price": "29750",
@@ -10277,7 +11089,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "800W-JIG-SAW-2-768x768.jpg.webp",
-                "url": "/website%20products/Power%20Tools/Jigsaws/79551%20-%20Tolsen%20800W%20Jigsaw/800W-JIG-SAW-2-768x768.jpg.webp"
+                "url": "/Website%20Products/Power%20Tools/Jigsaws/79551%20-%20Tolsen%20800W%20Jigsaw/800W-JIG-SAW-2-768x768.jpg.webp"
             }
         ],
         "price": "7500",
@@ -10295,7 +11107,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "57452b7caf571feed32241336e0aad30@2x.webp",
-                "url": "/website%20products/Power%20Tools/Jigsaws/GST%20650%20-%20Bosch%20450w%20Jigsaw/57452b7caf571feed32241336e0aad30%402x.webp"
+                "url": "/Website%20Products/Power%20Tools/Jigsaws/GST%20650%20-%20Bosch%20450w%20Jigsaw/57452b7caf571feed32241336e0aad30%402x.webp"
             }
         ],
         "price": "6500",
@@ -10313,7 +11125,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o402243v54_GST_750_dyn.webp",
-                "url": "/website%20products/Power%20Tools/Jigsaws/GST%20750%20-%20Bosch%20520w%20Jigsaw/o402243v54_GST_750_dyn.webp"
+                "url": "/Website%20Products/Power%20Tools/Jigsaws/GST%20750%20-%20Bosch%20520w%20Jigsaw/o402243v54_GST_750_dyn.webp"
             }
         ],
         "price": "15000",
@@ -10331,10 +11143,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "JS57028.jpg",
-                "url": "/website%20products/Power%20Tools/Jigsaws/JS57028%20-%20Ingco%20570w%20Jigsaw/JS57028.jpg"
+                "url": "/Website%20Products/Power%20Tools/Jigsaws/JS57028%20-%20Ingco%20570w%20Jigsaw/JS57028.jpg"
             }
         ],
-        "price": "6000",
+        "price": "5500",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -10349,7 +11161,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TS206656.jpg",
-                "url": "/website%20products/Power%20Tools/Jigsaws/TS206656%20-%20Total%20570w%20Jigsaw/TS206656.jpg"
+                "url": "/Website%20Products/Power%20Tools/Jigsaws/TS206656%20-%20Total%20570w%20Jigsaw/TS206656.jpg"
             }
         ],
         "price": "5500",
@@ -10367,7 +11179,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TS2081006.jpg",
-                "url": "/website%20products/Power%20Tools/Jigsaws/TS2081006%20-%20Total%20800W%20Jigsaw/TS2081006.jpg"
+                "url": "/Website%20Products/Power%20Tools/Jigsaws/TS2081006%20-%20Total%20800W%20Jigsaw/TS2081006.jpg"
             }
         ],
         "price": "10500",
@@ -10385,7 +11197,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "COS35568.jpg",
-                "url": "/website%20products/Power%20Tools/Metal%20Cut-off%20Saw/COS35568%20-%20ingco%202400w%20Metal%20Cut-off%20Saw/COS35568.jpg"
+                "url": "/Website%20Products/Power%20Tools/Metal%20Cut-off%20Saw/COS35568%20-%20ingco%202400w%20Metal%20Cut-off%20Saw/COS35568.jpg"
             }
         ],
         "price": "27750",
@@ -10403,7 +11215,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o288412v54_274242-gco_200_dyn_01.webp",
-                "url": "/website%20products/Power%20Tools/Metal%20Cut-off%20Saw/GCO%20220%20-%20Bosch%202200w%20Metal%20Cut-off%20Saw/o288412v54_274242-gco_200_dyn_01.webp"
+                "url": "/Website%20Products/Power%20Tools/Metal%20Cut-off%20Saw/GCO%20220%20-%20Bosch%202200w%20Metal%20Cut-off%20Saw/o288412v54_274242-gco_200_dyn_01.webp"
             }
         ],
         "price": "31000",
@@ -10421,7 +11233,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o275849v54_lv-98432-12-GCO_2400_dyn_highres.webp",
-                "url": "/website%20products/Power%20Tools/Metal%20Cut-off%20Saw/GCO%20240%20-%20Bosch%202400w%20Metal%20Cut-off%20Saw/o275849v54_lv-98432-12-GCO_2400_dyn_highres.webp"
+                "url": "/Website%20Products/Power%20Tools/Metal%20Cut-off%20Saw/GCO%20240%20-%20Bosch%202400w%20Metal%20Cut-off%20Saw/o275849v54_lv-98432-12-GCO_2400_dyn_highres.webp"
             }
         ],
         "price": "37000",
@@ -10439,7 +11251,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TS9243558.jpg",
-                "url": "/website%20products/Power%20Tools/Metal%20Cut-off%20Saw/TS9243558%20-%20Total%202400W%20Metak%20Cut-Off%20Saw/TS9243558.jpg"
+                "url": "/Website%20Products/Power%20Tools/Metal%20Cut-off%20Saw/TS9243558%20-%20Total%202400W%20Metak%20Cut-Off%20Saw/TS9243558.jpg"
             }
         ],
         "price": "22000",
@@ -10457,7 +11269,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "F0133000JB-DREMEL-3000-en-KE-dremelmdb01-o16229v113-dremel-3000-15.png",
-                "url": "/website%20products/Power%20Tools/Mini%20Grinder%20-%20Dremel%20Tool/Bosch%20Dremel%203000/F0133000JB-DREMEL-3000-en-KE-dremelmdb01-o16229v113-dremel-3000-15.png"
+                "url": "/Website%20Products/Power%20Tools/Mini%20Grinder%20-%20Dremel%20Tool/Bosch%20Dremel%203000/F0133000JB-DREMEL-3000-en-KE-dremelmdb01-o16229v113-dremel-3000-15.png"
             }
         ],
         "price": "15000",
@@ -10475,7 +11287,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TG513326E.jpg",
-                "url": "/website%20products/Power%20Tools/Mini%20Grinder%20-%20Dremel%20Tool/TG513326%20-%20Total%20Mini%20Grinder%20Dremel%20Set/TG513326E.jpg"
+                "url": "/Website%20Products/Power%20Tools/Mini%20Grinder%20-%20Dremel%20Tool/TG513326%20-%20Total%20Mini%20Grinder%20Dremel%20Set/TG513326E.jpg"
             }
         ],
         "price": "5000",
@@ -10493,7 +11305,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "BM2S24001.jpg",
-                "url": "/website%20products/Power%20Tools/Mitre%20Saw/BM2S24001%20-%20Ingco%202400w%20Mitre%20Saw/BM2S24001.jpg"
+                "url": "/Website%20Products/Power%20Tools/Mitre%20Saw/BM2S24001%20-%20Ingco%202400w%20Mitre%20Saw/BM2S24001.jpg"
             }
         ],
         "price": "53000",
@@ -10511,7 +11323,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "BMS14007.jpg",
-                "url": "/website%20products/Power%20Tools/Mitre%20Saw/BMS14007%20-%20Ingco%201400w%20Mitre%20Saw/BMS14007.jpg"
+                "url": "/Website%20Products/Power%20Tools/Mitre%20Saw/BMS14007%20-%20Ingco%201400w%20Mitre%20Saw/BMS14007.jpg"
             }
         ],
         "price": "16250",
@@ -10529,7 +11341,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o357457v54_GCM_216_dyn.webp",
-                "url": "/website%20products/Power%20Tools/Mitre%20Saw/GCM%20216%20-%20Bosch%201100w%20Mitre%20Saw/o357457v54_GCM_216_dyn.webp"
+                "url": "/Website%20Products/Power%20Tools/Mitre%20Saw/GCM%20216%20-%20Bosch%201100w%20Mitre%20Saw/o357457v54_GCM_216_dyn.webp"
             }
         ],
         "price": "32000",
@@ -10547,7 +11359,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o404641v54_GCM_254_dyn_REE.webp",
-                "url": "/website%20products/Power%20Tools/Mitre%20Saw/GCM%20254%20-%20Bosch%201750w%20Mitre%20Saw/o404641v54_GCM_254_dyn_REE.webp"
+                "url": "/Website%20Products/Power%20Tools/Mitre%20Saw/GCM%20254%20-%20Bosch%201750w%20Mitre%20Saw/o404641v54_GCM_254_dyn_REE.webp"
             }
         ],
         "price": "43500",
@@ -10565,10 +11377,46 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TS42142107.jpg",
-                "url": "/website%20products/Power%20Tools/Mitre%20Saw/TS42142107%20-%20Total%201400%20Mitre%20Saw/TS42142107.jpg"
+                "url": "/Website%20Products/Power%20Tools/Mitre%20Saw/TS42142107%20-%20Total%201400%20Mitre%20Saw/TS42142107.jpg"
             }
         ],
         "price": "17000",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "edc177---deli-mixer-1800w-double-paddle",
+        "name": "EDC177 - Deli Mixer (1800W) (Double Paddle)",
+        "description": "Rated Voltage\t220-240V~50/60Hz\nRated Power\t1800W\nNo-load Speed\t180-480/250-650 rpm\nMixing Pad Thread\tM14\nVariable speed control\nAccessories\tWith 2pcs wrenches\nWith 2pcs mixing paddle\nWith 1 set extra carbon brushes\nPackage\tColor box",
+        "category": "Power Tools",
+        "subcategory": "Mixers",
+        "images": [
+            {
+                "name": "edc177-mixer.webp",
+                "url": "/Website%20Products/Power%20Tools/Mixers/EDC177%20-%20Deli%20Mixer%20(1800W)%20(Double%20Paddle)/edc177-mixer.webp"
+            }
+        ],
+        "price": "17500",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "td614006---total-mixer-1400w-single-paddle",
+        "name": "TD614006 - Total Mixer (1400W) (Single Paddle)",
+        "description": "VOLTAGE\t230V - 50Hz\nPOWER\t1.400W\nSPEEDS\t2\nNO LOAD SPEED\t180 - 480 / 300 - 750 rpm / min\nWHISK SIZE\tM14\nWEIGTH\t5 Kg",
+        "category": "Power Tools",
+        "subcategory": "Mixers",
+        "images": [
+            {
+                "name": "TD614006.jpg",
+                "url": "/Website%20Products/Power%20Tools/Mixers/TD614006%20-%20Total%20Mixer%20(1400W)%20(Single%20Paddle)/TD614006.jpg"
+            }
+        ],
+        "price": "14000",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -10583,7 +11431,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CBNLI2016.jpg",
-                "url": "/website%20products/Power%20Tools/Nail%20Guns/CBNLI2016%20-%20Ingco%20Cordless%20Brad%20Nailer/CBNLI2016.jpg"
+                "url": "/Website%20Products/Power%20Tools/Nail%20Guns/CBNLI2016%20-%20Ingco%20Cordless%20Brad%20Nailer/CBNLI2016.jpg"
             }
         ],
         "price": "29000",
@@ -10601,7 +11449,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CBNLI3508.jpg",
-                "url": "/website%20products/Power%20Tools/Nail%20Guns/CBNLI3508%20-%20Ingco%20Cordless%20Brad%20Nailer/CBNLI3508.jpg"
+                "url": "/Website%20Products/Power%20Tools/Nail%20Guns/CBNLI3508%20-%20Ingco%20Cordless%20Brad%20Nailer/CBNLI3508.jpg"
             }
         ],
         "price": "24000",
@@ -10619,7 +11467,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCBNLI3508.jpg",
-                "url": "/website%20products/Power%20Tools/Nail%20Guns/TCBNLI3508%20-%20Total%20Cordless%20Brad%20Nailer%20(35mm)/TCBNLI3508.jpg"
+                "url": "/Website%20Products/Power%20Tools/Nail%20Guns/TCBNLI3508%20-%20Total%20Cordless%20Brad%20Nailer%20(35mm)/TCBNLI3508.jpg"
             }
         ],
         "price": "21000",
@@ -10637,7 +11485,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCBNLI5005.jpg",
-                "url": "/website%20products/Power%20Tools/Nail%20Guns/TCBNLI5005%20-%20Total%20Cordless%20Brad%20Nailer%20(50mm)/TCBNLI5005.jpg"
+                "url": "/Website%20Products/Power%20Tools/Nail%20Guns/TCBNLI5005%20-%20Total%20Cordless%20Brad%20Nailer%20(50mm)/TCBNLI5005.jpg"
             }
         ],
         "price": "24000",
@@ -10655,7 +11503,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TT328151.jpg",
-                "url": "/website%20products/Power%20Tools/Pipe%20Welding%20(PPR)%20Tools/TT328151%20-%20Total%201400w%20Plastic%20Pipe%20Welding%20Tool%20(PPR%20Welding%20Machine)/TT328151.jpg"
+                "url": "/Website%20Products/Power%20Tools/Pipe%20Welding%20(PPR)%20Tools/TT328151%20-%20Total%201400w%20Plastic%20Pipe%20Welding%20Tool%20(PPR%20Welding%20Machine)/TT328151.jpg"
             }
         ],
         "price": "8000",
@@ -10663,6 +11511,24 @@ export const catalogue: Tool[] = [
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
+    },
+    {
+        "id": "tpwli20362---total-cordless-pressure-washer-20v",
+        "name": "TPWLI20362 - Total Cordless Pressure Washer (20V)",
+        "description": "Voltage: 20V\nMax. pressure: 24.8Bar\nFlow rate: 2.8L/min\nAuto stop system\nInclude:\n1 Set 2-pattern spray gun\n1 Pcs 6m water inlet hose with quick connector\n1 Pcs 300ml foam producer\n1 Pcs self suction connector\n1 Pcs portable bag\n1 Pcs 2Ah battery pack (TFBLI20011)\n1 Pcs charger (TFCLI2001)\nCharge volts: 220-240V~50/60Hz\nPacked by color box",
+        "category": "Power Tools",
+        "subcategory": "Pressure Washers",
+        "images": [
+            {
+                "name": "TPWLI20362.jpg",
+                "url": "/Website%20Products/Power%20Tools/Pressure%20Washers/TPWLI20362%20-%20Total%20Cordless%20Pressure%20Washer%20(20V)/TPWLI20362.jpg"
+            }
+        ],
+        "price": "10500",
+        "isOnOffer": true,
+        "isBestseller": false,
+        "originalPrice": 10500,
+        "offerPrice": 9600
     },
     {
         "id": "gbh-12-52-dv-professional---bosch-1700w-rotary-hammer",
@@ -10673,7 +11539,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o375983v54_GBH_12-52_DV_sos_F4_0611266000_30_40_60_B0.webp",
-                "url": "/website%20products/Power%20Tools/Rotary%20Hammers/GBH%2012-52%20DV%20Professional%20-%20Bosch%201700w%20Rotary%20Hammer/o375983v54_GBH_12-52_DV_sos_F4_0611266000_30_40_60_B0.webp"
+                "url": "/Website%20Products/Power%20Tools/Rotary%20Hammers/GBH%2012-52%20DV%20Professional%20-%20Bosch%201700w%20Rotary%20Hammer/o375983v54_GBH_12-52_DV_sos_F4_0611266000_30_40_60_B0.webp"
             }
         ],
         "price": "163000",
@@ -10691,7 +11557,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o246408v54_lv-105498-12-GBH2-24DRE_dyn_02.webp",
-                "url": "/website%20products/Power%20Tools/Rotary%20Hammers/GBH%202-24%20DRE%20Professional%20-%20Bosch%20800w%20Rotary%20Hammer/o246408v54_lv-105498-12-GBH2-24DRE_dyn_02.webp"
+                "url": "/Website%20Products/Power%20Tools/Rotary%20Hammers/GBH%202-24%20DRE%20Professional%20-%20Bosch%20800w%20Rotary%20Hammer/o246408v54_lv-105498-12-GBH2-24DRE_dyn_02.webp"
             }
         ],
         "price": "26600",
@@ -10709,7 +11575,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o376079v54_GBH_2-26_F_sos_F4_06112A4070_00_30_60.webp",
-                "url": "/website%20products/Power%20Tools/Rotary%20Hammers/GBH%202-26%20F%20Professional%20-%20Bosch%20830w%20Rotary%20Hammer/o376079v54_GBH_2-26_F_sos_F4_06112A4070_00_30_60.webp"
+                "url": "/Website%20Products/Power%20Tools/Rotary%20Hammers/GBH%202-26%20F%20Professional%20-%20Bosch%20830w%20Rotary%20Hammer/o376079v54_GBH_2-26_F_sos_F4_06112A4070_00_30_60.webp"
             }
         ],
         "price": "34700",
@@ -10727,7 +11593,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o375979v54_GBH_8-45_D_sos_F4_0611265100_30_40_60.webp",
-                "url": "/website%20products/Power%20Tools/Rotary%20Hammers/GBH%208-45%20D%20Professional%20-%20Bosch%201500w%20Rotary%20Hammer/o375979v54_GBH_8-45_D_sos_F4_0611265100_30_40_60.webp"
+                "url": "/Website%20Products/Power%20Tools/Rotary%20Hammers/GBH%208-45%20D%20Professional%20-%20Bosch%201500w%20Rotary%20Hammer/o375979v54_GBH_8-45_D_sos_F4_0611265100_30_40_60.webp"
             }
         ],
         "price": "",
@@ -10745,10 +11611,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "RGH9028.jpg",
-                "url": "/website%20products/Power%20Tools/Rotary%20Hammers/RGH9028%20-%20Ingco%20800w%20Rotary%20Hammer%20(1%20Chuck)/RGH9028.jpg"
+                "url": "/Website%20Products/Power%20Tools/Rotary%20Hammers/RGH9028%20-%20Ingco%20800w%20Rotary%20Hammer%20(1%20Chuck)/RGH9028.jpg"
             }
         ],
-        "price": "10",
+        "price": "10500",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -10763,7 +11629,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "RGH9028-2.jpg",
-                "url": "/website%20products/Power%20Tools/Rotary%20Hammers/RGH9028-2%20-%20Ingco%20800w%20Rotary%20Hammer%20(2%20Chuck)/RGH9028-2.jpg"
+                "url": "/Website%20Products/Power%20Tools/Rotary%20Hammers/RGH9028-2%20-%20Ingco%20800w%20Rotary%20Hammer%20(2%20Chuck)/RGH9028-2.jpg"
             }
         ],
         "price": "13000",
@@ -10781,7 +11647,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TH110266.jpg",
-                "url": "/website%20products/Power%20Tools/Rotary%20Hammers/TH110266%20-%20Total%201050w%20Rotary%20Hammer/TH110266.jpg"
+                "url": "/Website%20Products/Power%20Tools/Rotary%20Hammers/TH110266%20-%20Total%201050w%20Rotary%20Hammer/TH110266.jpg"
             }
         ],
         "price": "15000",
@@ -10799,7 +11665,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TH308268-2.jpg",
-                "url": "/website%20products/Power%20Tools/Rotary%20Hammers/TH308268-2%20-%20Total%20800w%20Rotary%20Hammer%20(2%20Chucks)/TH308268-2.jpg"
+                "url": "/Website%20Products/Power%20Tools/Rotary%20Hammers/TH308268-2%20-%20Total%20800w%20Rotary%20Hammer%20(2%20Chucks)/TH308268-2.jpg"
             }
         ],
         "price": "11500",
@@ -10817,7 +11683,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o316066v54_gkf_550_dyn_1.webp",
-                "url": "/website%20products/Power%20Tools/Routers/GKF%20550%20-%20Bosch%20550w%20Palm%20Router/o316066v54_gkf_550_dyn_1.webp"
+                "url": "/Website%20Products/Power%20Tools/Routers/GKF%20550%20-%20Bosch%20550w%20Palm%20Router/o316066v54_gkf_550_dyn_1.webp"
             }
         ],
         "price": "11500",
@@ -10835,7 +11701,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o345597v54_433.webp",
-                "url": "/website%20products/Power%20Tools/Routers/GOF%20130%20-%20Bosch%201300w%20Router/o345597v54_433.webp"
+                "url": "/Website%20Products/Power%20Tools/Routers/GOF%20130%20-%20Bosch%201300w%20Router/o345597v54_433.webp"
             }
         ],
         "price": "18560",
@@ -10853,7 +11719,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "PLM6001.jpg",
-                "url": "/website%20products/Power%20Tools/Routers/PLM6001%20-%20Ingco%20Laminate%20Trimmer%20(Palm%20Router)/PLM6001.jpg"
+                "url": "/Website%20Products/Power%20Tools/Routers/PLM6001%20-%20Ingco%20Laminate%20Trimmer%20(Palm%20Router)/PLM6001.jpg"
             }
         ],
         "price": "",
@@ -10871,7 +11737,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "RT22008.jpg",
-                "url": "/website%20products/Power%20Tools/Routers/RT22008%20-%20Ingco%202200w%20Router/RT22008.jpg"
+                "url": "/Website%20Products/Power%20Tools/Routers/RT22008%20-%20Ingco%202200w%20Router/RT22008.jpg"
             }
         ],
         "price": "18500",
@@ -10889,7 +11755,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TLT6001.jpg",
-                "url": "/website%20products/Power%20Tools/Routers/TLT6001%20-%20Total%20Laminate%20Trimmer%20(Palm%20Router)/TLT6001.jpg"
+                "url": "/Website%20Products/Power%20Tools/Routers/TLT6001%20-%20Total%20Laminate%20Trimmer%20(Palm%20Router)/TLT6001.jpg"
             }
         ],
         "price": "8500",
@@ -10907,7 +11773,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TR111226.jpg",
-                "url": "/website%20products/Power%20Tools/Routers/TR111226%20-%20Total%202200w%20Router/TR111226.jpg"
+                "url": "/Website%20Products/Power%20Tools/Routers/TR111226%20-%20Total%202200w%20Router/TR111226.jpg"
             }
         ],
         "price": "15000",
@@ -10925,7 +11791,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "FS3208.jpg",
-                "url": "/website%20products/Power%20Tools/Sanders/FS3208%20-%20Ingco%20350w%20Finishing%20Sander/FS3208.jpg"
+                "url": "/Website%20Products/Power%20Tools/Sanders/FS3208%20-%20Ingco%20350w%20Finishing%20Sander/FS3208.jpg"
             }
         ],
         "price": "7000",
@@ -10943,7 +11809,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o407281v54_gex_125_BeautyShot.webp",
-                "url": "/website%20products/Power%20Tools/Sanders/GEX%20125%20-%20Bosch%20280w%20Random%20Orbital%20Sander/o407281v54_gex_125_BeautyShot.webp"
+                "url": "/Website%20Products/Power%20Tools/Sanders/GEX%20125%20-%20Bosch%20280w%20Random%20Orbital%20Sander/o407281v54_gex_125_BeautyShot.webp"
             }
         ],
         "price": "12700",
@@ -10961,7 +11827,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o361136v54_GEX_125-1_AE_sos_0601387503.webp",
-                "url": "/website%20products/Power%20Tools/Sanders/GEX%20125-1%20AE%20-%20Bosch%20250w%20Random%20Orbital%20Sander/o361136v54_GEX_125-1_AE_sos_0601387503.webp"
+                "url": "/Website%20Products/Power%20Tools/Sanders/GEX%20125-1%20AE%20-%20Bosch%20250w%20Random%20Orbital%20Sander/o361136v54_GEX_125-1_AE_sos_0601387503.webp"
             }
         ],
         "price": "",
@@ -10979,7 +11845,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o379329v54_GEX_40-150_sos_F4_060137B250_02.webp",
-                "url": "/website%20products/Power%20Tools/Sanders/GEX%2040-150%20-%20Bosch%20400w%20Random%20Orbital%20Sander/o379329v54_GEX_40-150_sos_F4_060137B250_02.webp"
+                "url": "/Website%20Products/Power%20Tools/Sanders/GEX%2040-150%20-%20Bosch%20400w%20Random%20Orbital%20Sander/o379329v54_GEX_40-150_sos_F4_060137B250_02.webp"
             }
         ],
         "price": "37030",
@@ -10997,7 +11863,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o428054v54_428054.webp",
-                "url": "/website%20products/Power%20Tools/Sanders/GSS%20140%20-%20Bosch%20220w%20Finishing%20Sander/o428054v54_428054.webp"
+                "url": "/Website%20Products/Power%20Tools/Sanders/GSS%20140%20-%20Bosch%20220w%20Finishing%20Sander/o428054v54_428054.webp"
             }
         ],
         "price": "5490",
@@ -11015,7 +11881,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o476965v54_GSS_20-18_Dyn.webp",
-                "url": "/website%20products/Power%20Tools/Sanders/GSS%2020-18%20-%20Bosch%20200w%20Finishing%20Sander/o476965v54_GSS_20-18_Dyn.webp"
+                "url": "/Website%20Products/Power%20Tools/Sanders/GSS%2020-18%20-%20Bosch%20200w%20Finishing%20Sander/o476965v54_GSS_20-18_Dyn.webp"
             }
         ],
         "price": "8990",
@@ -11033,7 +11899,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "PBS12001.jpg",
-                "url": "/website%20products/Power%20Tools/Sanders/PBS12001%20-%20Ingco%20Belt%20Sander/PBS12001.jpg"
+                "url": "/Website%20Products/Power%20Tools/Sanders/PBS12001%20-%20Ingco%20Belt%20Sander/PBS12001.jpg"
             }
         ],
         "price": "21500",
@@ -11051,7 +11917,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[RS4516] RS4516 ROTARY SANDER 450W.jpg",
-                "url": "/website%20products/Power%20Tools/Sanders/RS4516%20-%20Ingco%20450w%20Rotary%20Sander/%5BRS4516%5D%20RS4516%20ROTARY%20SANDER%20450W.jpg"
+                "url": "/Website%20Products/Power%20Tools/Sanders/RS4516%20-%20Ingco%20450w%20Rotary%20Sander/%5BRS4516%5D%20RS4516%20ROTARY%20SANDER%20450W.jpg"
             }
         ],
         "price": "11000",
@@ -11069,10 +11935,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TF2061506.jpg",
-                "url": "/website%20products/Power%20Tools/Sanders/TF2061506%20-%20Total%20Rotary%20Sander%20(450W)/TF2061506.jpg"
+                "url": "/Website%20Products/Power%20Tools/Sanders/TF2061506%20-%20Total%20Rotary%20Sander%20(450W)/TF2061506.jpg"
             }
         ],
-        "price": "7500",
+        "price": "8500",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -11087,7 +11953,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TF2031256-1.jpg",
-                "url": "/website%20products/Power%20Tools/Sanders/TF2131256%20-%20Total%20350w%20Rotary%20Sander/TF2031256-1.jpg"
+                "url": "/Website%20Products/Power%20Tools/Sanders/TF2131256%20-%20Total%20350w%20Rotary%20Sander/TF2031256-1.jpg"
             }
         ],
         "price": "7500",
@@ -11105,7 +11971,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "614392904_1964640621114962_3363497205725538829_n (1).jpg",
-                "url": "/website%20products/Power%20Tools/Soldering%20Irons/SI01606%20-%20Ingco%2070W%20Soldering%20Iron%20(Variable%20Temp)/614392904_1964640621114962_3363497205725538829_n%20(1).jpg"
+                "url": "/Website%20Products/Power%20Tools/Soldering%20Irons/SI01606%20-%20Ingco%2070W%20Soldering%20Iron%20(Variable%20Temp)/614392904_1964640621114962_3363497205725538829_n%20(1).jpg"
             }
         ],
         "price": "1250",
@@ -11123,7 +11989,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "611665266_1433256218815284_6687341826696230321_n.jpg",
-                "url": "/website%20products/Power%20Tools/Soldering%20Irons/SI01608%20-%20Ingco%2090W%20Soldering%20Iron%20(Variable%20Temp)/611665266_1433256218815284_6687341826696230321_n.jpg"
+                "url": "/Website%20Products/Power%20Tools/Soldering%20Irons/SI01608%20-%20Ingco%2090W%20Soldering%20Iron%20(Variable%20Temp)/611665266_1433256218815284_6687341826696230321_n.jpg"
             }
         ],
         "price": "1500",
@@ -11141,7 +12007,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "613239581_757788213464455_2855882867687363714_n.jpg",
-                "url": "/website%20products/Power%20Tools/Soldering%20Irons/SI01610%20-%20Ingco%20120W%20Soldering%20Iron%20(Variable%20Temp)/613239581_757788213464455_2855882867687363714_n.jpg"
+                "url": "/Website%20Products/Power%20Tools/Soldering%20Irons/SI01610%20-%20Ingco%20120W%20Soldering%20Iron%20(Variable%20Temp)/613239581_757788213464455_2855882867687363714_n.jpg"
             }
         ],
         "price": "1750",
@@ -11159,7 +12025,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "616660266_869643895926808_8679140178579609251_n.jpg",
-                "url": "/website%20products/Power%20Tools/Soldering%20Irons/TET1606%20-%20Total%2060W%20Electric%20Soldering%20Iron/616660266_869643895926808_8679140178579609251_n.jpg"
+                "url": "/Website%20Products/Power%20Tools/Soldering%20Irons/TET1606%20-%20Total%2060W%20Electric%20Soldering%20Iron/616660266_869643895926808_8679140178579609251_n.jpg"
             }
         ],
         "price": "1250",
@@ -11177,7 +12043,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ING-MMA1302.jpg",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/ING-MMA1302%20-%20Ingco%20130A%20Welding%20Machine/ING-MMA1302.jpg"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/ING-MMA1302%20-%20Ingco%20130A%20Welding%20Machine/ING-MMA1302.jpg"
             }
         ],
         "price": "15000",
@@ -11195,7 +12061,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ING-MMA1606.jpg",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/ING-MMA1606%20-%20Ingco%20160A%20Welding%20Machine/ING-MMA1606.jpg"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/ING-MMA1606%20-%20Ingco%20160A%20Welding%20Machine/ING-MMA1606.jpg"
             }
         ],
         "price": "18000",
@@ -11213,7 +12079,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ING-MMA18059.jpg",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/ING-MMA18059%20-%20Ingco%20180A%20Welding%20Machine/ING-MMA18059.jpg"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/ING-MMA18059%20-%20Ingco%20180A%20Welding%20Machine/ING-MMA18059.jpg"
             }
         ],
         "price": "19750",
@@ -11231,7 +12097,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ING-MMA20069.jpg",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/ING-MMA20069%20-%20Ingco%20200A%20Welding%20Machine/ING-MMA20069.jpg"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/ING-MMA20069%20-%20Ingco%20200A%20Welding%20Machine/ING-MMA20069.jpg"
             }
         ],
         "price": "20790",
@@ -11249,7 +12115,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[ING-MMA2506] ING-MMA2506 INVERTER WELDING MACHINE 250A.png",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/ING-MMA2508%20-%20Ingco%20250A%20Welding%20Machine/%5BING-MMA2506%5D%20ING-MMA2506%20INVERTER%20WELDING%20MACHINE%20250A.png"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/ING-MMA2508%20-%20Ingco%20250A%20Welding%20Machine/%5BING-MMA2506%5D%20ING-MMA2506%20INVERTER%20WELDING%20MACHINE%20250A.png"
             }
         ],
         "price": "50000",
@@ -11267,7 +12133,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "{B8E8E730-BB56-4E5A-9612-7E7CFEB508E2}.png",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/Prescott%20MIG%20MMA%20TIG%20LIFT-200%20Multi-Process%20Welder/%7BB8E8E730-BB56-4E5A-9612-7E7CFEB508E2%7D.png"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/Prescott%20MIG%20MMA%20TIG%20LIFT-200%20Multi-Process%20Welder/%7BB8E8E730-BB56-4E5A-9612-7E7CFEB508E2%7D.png"
             }
         ],
         "price": "63500",
@@ -11285,7 +12151,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TW21306.jpg",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/TW21306%20-%20Total%20130A%20Welding%20Machine/TW21306.jpg"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/TW21306%20-%20Total%20130A%20Welding%20Machine/TW21306.jpg"
             }
         ],
         "price": "12000",
@@ -11303,7 +12169,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TW218016.jpg",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/TW218016%20-%20Total%20180A%20Welding%20Machine/TW218016.jpg"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/TW218016%20-%20Total%20180A%20Welding%20Machine/TW218016.jpg"
             }
         ],
         "price": "17500",
@@ -11321,7 +12187,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TW220069.jpg",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/TW220069%20-%20Total%20200A%20Welding%20Machine/TW220069.jpg"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/TW220069%20-%20Total%20200A%20Welding%20Machine/TW220069.jpg"
             }
         ],
         "price": "19500",
@@ -11339,7 +12205,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TW225069.jpg",
-                "url": "/website%20products/Power%20Tools/Welding%20Machines/TW225069%20-%20Total%20250A%20Welding%20Machine/TW225069.jpg"
+                "url": "/Website%20Products/Power%20Tools/Welding%20Machines/TW225069%20-%20Total%20250A%20Welding%20Machine/TW225069.jpg"
             }
         ],
         "price": "29000",
@@ -11357,7 +12223,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "1_-_2024-05-09t014131.080.webp",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Gloves/DL521021XL%20-%20Deli%20Knitted%20Gloves%20and%20PVC%20Dots%20(XL)/1_-_2024-05-09t014131.080.webp"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Gloves/DL521021XL%20-%20Deli%20Knitted%20Gloves%20and%20PVC%20Dots%20(XL)/1_-_2024-05-09t014131.080.webp"
             }
         ],
         "price": "120",
@@ -11375,7 +12241,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Screenshot 2026-04-14 101205.png",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Gloves/DL521032%20-%20Deli%20Polyester%20(PU)%20Safety%20Gloves/Screenshot%202026-04-14%20101205.png"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Gloves/DL521032%20-%20Deli%20Polyester%20(PU)%20Safety%20Gloves/Screenshot%202026-04-14%20101205.png"
             }
         ],
         "price": "150",
@@ -11393,7 +12259,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HGVW01] HGVW01 WELDING LEATHER GLOVES 14_.jfif",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Gloves/HGVW01%20-%20Ingco%2014%20Inch%20Welding%20Leather%20Gloves/%5BHGVW01%5D%20HGVW01%20WELDING%20LEATHER%20GLOVES%2014_.jfif"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Gloves/HGVW01%20-%20Ingco%2014%20Inch%20Welding%20Leather%20Gloves/%5BHGVW01%5D%20HGVW01%20WELDING%20LEATHER%20GLOVES%2014_.jfif"
             }
         ],
         "price": "1400",
@@ -11411,7 +12277,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HGVW02] HGVW02 WELDING LEATHER GLOVES.png",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Gloves/HGVW02%20-%20Ingco%2016%20Inch%20Welding%20Leather%20Gloves/%5BHGVW02%5D%20HGVW02%20WELDING%20LEATHER%20GLOVES.png"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Gloves/HGVW02%20-%20Ingco%2016%20Inch%20Welding%20Leather%20Gloves/%5BHGVW02%5D%20HGVW02%20WELDING%20LEATHER%20GLOVES.png"
             }
         ],
         "price": "1890",
@@ -11429,7 +12295,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TSP1702-XL.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Gloves/TSP1702-XL%20-%20Total%20Cut%20Resistant%20Gloves/TSP1702-XL.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Gloves/TSP1702-XL%20-%20Total%20Cut%20Resistant%20Gloves/TSP1702-XL.jpg"
             }
         ],
         "price": "600",
@@ -11447,7 +12313,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TSP1806-XL.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Gloves/TSP1806-XL%20-%20Total%20Mechanic%20Gloves/TSP1806-XL.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Gloves/TSP1806-XL%20-%20Total%20Mechanic%20Gloves/TSP1806-XL.jpg"
             }
         ],
         "price": "1500",
@@ -11465,7 +12331,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "2-stripes-Reflector-Jacket.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Reflectors/Generic%20Velcro%20Reflector/2-stripes-Reflector-Jacket.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Reflectors/Generic%20Velcro%20Reflector/2-stripes-Reflector-Jacket.jpg"
             }
         ],
         "price": "",
@@ -11483,7 +12349,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Pocket-reflector-vest-2.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Reflectors/Generic%20Zip%20Reflector%20with%20Pockets/Pocket-reflector-vest-2.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Reflectors/Generic%20Zip%20Reflector%20with%20Pockets/Pocket-reflector-vest-2.jpg"
             }
         ],
         "price": "",
@@ -11501,7 +12367,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[AHM111] AHM111 AUTO-DARKENING WELDING GLASSES.jfif",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/AHM111%20-%20Ingco%20Auto%20Darkening%20Glasses/%5BAHM111%5D%20AHM111%20AUTO-DARKENING%20WELDING%20GLASSES.jfif"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/AHM111%20-%20Ingco%20Auto%20Darkening%20Glasses/%5BAHM111%5D%20AHM111%20AUTO-DARKENING%20WELDING%20GLASSES.jfif"
             }
         ],
         "price": "",
@@ -11519,7 +12385,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "uDgMDQwROD2_jrlowXgsrQ.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/DL522002%20-%20Deli%20Medical%20Grade%20Safety%20Goggles/uDgMDQwROD2_jrlowXgsrQ.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/DL522002%20-%20Deli%20Medical%20Grade%20Safety%20Goggles/uDgMDQwROD2_jrlowXgsrQ.jpg"
             }
         ],
         "price": "450",
@@ -11537,7 +12403,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "humujing-FPSG01-800-800.webp",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/FPSG01%20-%20Fixtec%20PVC%20Safety%20Goggles/humujing-FPSG01-800-800.webp"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/FPSG01%20-%20Fixtec%20PVC%20Safety%20Goggles/humujing-FPSG01-800-800.webp"
             }
         ],
         "price": "300",
@@ -11554,8 +12420,8 @@ export const catalogue: Tool[] = [
         "subcategory": "Safety Goggles",
         "images": [
             {
-                "name": "heisefanghujing-FPSG04-800-800.webp",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/FPSG03%20-%20Fixtec%20Safety%20Goggles/heisefanghujing-FPSG04-800-800.webp"
+                "name": "FPSG03-Safety-Clear-Googles-600x600.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/FPSG03%20-%20Fixtec%20Safety%20Goggles/FPSG03-Safety-Clear-Googles-600x600.webp"
             }
         ],
         "price": "200",
@@ -11573,7 +12439,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HSG06.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/HSG06%20-%20Ingco%20Safety%20Goggles%20(Dark)/HSG06.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/HSG06%20-%20Ingco%20Safety%20Goggles%20(Dark)/HSG06.jpg"
             }
         ],
         "price": "280",
@@ -11591,7 +12457,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TSP9403.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/TSP9403%20-%20Total%20Auto-Darking%20Welding%20Goggles/TSP9403.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Goggles/TSP9403%20-%20Total%20Auto-Darking%20Welding%20Goggles/TSP9403.jpg"
             }
         ],
         "price": "1750",
@@ -11609,7 +12475,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ace-duma-safety-shoes-greywith-grey-strip-855465.webp",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/ACE%20Safety%20Shoes%20(Duma)/ace-duma-safety-shoes-greywith-grey-strip-855465.webp"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/ACE%20Safety%20Shoes%20(Duma)/ace-duma-safety-shoes-greywith-grey-strip-855465.webp"
             }
         ],
         "price": "",
@@ -11627,7 +12493,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ace-mamba-safety-shoes-blue-403703.webp",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/ACE%20Safety%20Shoes%20(Mamba)/ace-mamba-safety-shoes-blue-403703.webp"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/ACE%20Safety%20Shoes%20(Mamba)/ace-mamba-safety-shoes-blue-403703.webp"
             }
         ],
         "price": "",
@@ -11637,34 +12503,252 @@ export const catalogue: Tool[] = [
         "offerPrice": 0
     },
     {
-        "id": "cp-safety-shoes",
-        "name": "C&P Safety Shoes",
-        "description": "Professional Safety Shoes from the Safety Equipment (PPEs) collection. High-quality engineering for reliable performance.",
+        "id": "feetguard-safety-boot",
+        "name": "FEETGUARD Safety Boot",
+        "description": "Feetguard is a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Feetguard is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
         "category": "Safety Equipment (PPEs)",
         "subcategory": "Safety Shoes",
         "images": [
             {
-                "name": "WhatsApp Image 2026-04-14 at 10.58.25 (1).jpeg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/C%26P%20Safety%20Shoes/WhatsApp%20Image%202026-04-14%20at%2010.58.25%20(1).jpeg"
-            },
-            {
-                "name": "WhatsApp Image 2026-04-14 at 10.58.25.jpeg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/C%26P%20Safety%20Shoes/WhatsApp%20Image%202026-04-14%20at%2010.58.25.jpeg"
-            },
-            {
-                "name": "WhatsApp Image 2026-04-14 at 10.58.26 (1).jpeg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/C%26P%20Safety%20Shoes/WhatsApp%20Image%202026-04-14%20at%2010.58.26%20(1).jpeg"
-            },
-            {
-                "name": "WhatsApp Image 2026-04-14 at 10.58.26 (2).jpeg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/C%26P%20Safety%20Shoes/WhatsApp%20Image%202026-04-14%20at%2010.58.26%20(2).jpeg"
-            },
-            {
-                "name": "WhatsApp Image 2026-04-14 at 10.58.26.jpeg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/C%26P%20Safety%20Shoes/WhatsApp%20Image%202026-04-14%20at%2010.58.26.jpeg"
+                "name": "Feetfguard-Thumb-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/FEETGUARD%20Safety%20Boot/Feetfguard-Thumb-1000x665.jpg.webp"
             }
         ],
-        "price": "",
+        "price": "3750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "feetlite-safety-boot",
+        "name": "FEETLITE Safety Boot",
+        "description": "Feetlite is a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Worksafe is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Feetlite-White-Big-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/FEETLITE%20Safety%20Boot/Feetlite-White-Big-1000x665.jpg.webp"
+            }
+        ],
+        "price": "3200",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "feetmate-safety-boot",
+        "name": "FEETMATE Safety Boot",
+        "description": "Feetmate is a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Feetgmate is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Feetmate-Thumb-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/FEETMATE%20Safety%20Boot/Feetmate-Thumb-1000x665.jpg.webp"
+            }
+        ],
+        "price": "3750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "feetmax-safety-boot",
+        "name": "FEETMAX Safety Boot",
+        "description": "Feetmax is a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Feetguard is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Feetmax-White-Big-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/FEETMAX%20Safety%20Boot/Feetmax-White-Big-1000x665.jpg.webp"
+            }
+        ],
+        "price": "3450",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "hunter-safety-boot",
+        "name": "HUNTER Safety Boot",
+        "description": "Hunter is a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Hunter is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Hunter-Thumb-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/HUNTER%20Safety%20Boot/Hunter-Thumb-1000x665.jpg.webp"
+            }
+        ],
+        "price": "3750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "maxsafe-safety-shoe",
+        "name": "MAXSAFE Safety Shoe",
+        "description": "Maxsafe is an executive safety shoe with a fashionable style, comfort and all-round protection. These shoes consist of a steel toe cap, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Maxsafe is the ideal safety shoe for site visits of all kinds by the executive staff.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Maxsafe-Thumb-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/MAXSAFE%20Safety%20Shoe/Maxsafe-Thumb-1000x665.jpg.webp"
+            }
+        ],
+        "price": "6950",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "safeshoe-safety-shoe",
+        "name": "SAFESHOE Safety Shoe",
+        "description": "Safeshoe is a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust rubber sole with flexibility, abrasion resistance and oil resisting properties. Safeshoe is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Safeshoe-Thumb-min-1000x636.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/SAFESHOE%20Safety%20Shoe/Safeshoe-Thumb-min-1000x636.jpg.webp"
+            }
+        ],
+        "price": "3100",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "shieldmax-safety-shoe",
+        "name": "SHIELDMAX Safety Shoe",
+        "description": "Shieldmax is an executive safety shoe with a fashionable style, comfort and all-round protection. These shoes consist of a steel toe cap, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Shieldmax is the ideal safety shoe for site visits of all kinds by the executive staff.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Shieldsafe-Thumb1-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/SHIELDMAX%20Safety%20Shoe/Shieldsafe-Thumb1-1000x665.jpg.webp"
+            }
+        ],
+        "price": "4100",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "shieldsafe-safety-shoe",
+        "name": "SHIELDSAFE Safety Shoe",
+        "description": "Shieldsafe is an executive safety shoe with a fashionable style, comfort and all-round protection. These shoes consist of a steel toe cap, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Shieldsafe is the ideal safety shoe for site visits of all kinds by the executive staff",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Shieldsafe-Thumb1-1-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/SHIELDSAFE%20Safety%20Shoe/Shieldsafe-Thumb1-1-1000x665.jpg.webp"
+            }
+        ],
+        "price": "4100",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "shieldtec-safety-shoe",
+        "name": "SHIELDTEC Safety Shoe",
+        "description": "Shieldtec is an executive safety shoe with a fashionable style, comfort and all-round protection. These shoes consist of a steel toe cap, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Shieldtec is the ideal safety shoe for site visits of all kinds by the executive staff.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "ShieldTec-Thumb1-1000x1503.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/SHIELDTEC%20Safety%20Shoe/ShieldTec-Thumb1-1000x1503.jpg.webp"
+            }
+        ],
+        "price": "4100",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "tecsafe-safety-shoe",
+        "name": "TECSAFE Safety Shoe",
+        "description": "Tecsafe is an executive safety shoe with a fashionable style, comfort and all-round protection. These shoes consist of a steel toe cap, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Tecsafe is the ideal safety shoe for site visits of all kinds by the executive staff.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Tecsafe-Thumb-min-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/TECSAFE%20Safety%20Shoe/Tecsafe-Thumb-min-1000x665.jpg.webp"
+            }
+        ],
+        "price": "7250",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "worklite-safety-boot",
+        "name": "WORKLITE Safety Boot",
+        "description": "Workliteis a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Worklite is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Worklite-Thumb-min-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/WORKLITE%20Safety%20Boot/Worklite-Thumb-min-1000x665.jpg.webp"
+            }
+        ],
+        "price": "3750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "workmate-safety-boot",
+        "name": "WORKMATE Safety Boot",
+        "description": "Workmate is a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties. Workmate is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Workmate-Thumb-min-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/WORKMATE%20Safety%20Boot/Workmate-Thumb-min-1000x665.jpg.webp"
+            }
+        ],
+        "price": "3750",
+        "isOnOffer": false,
+        "isBestseller": false,
+        "originalPrice": 0,
+        "offerPrice": 0
+    },
+    {
+        "id": "worksafe-safety-boot",
+        "name": "WORKSAFE Safety Boot",
+        "description": "Worksafe is a safety footwear with a unique style, comfort and all-round protection. These shoes consist of a steel toe cap, and a steel midsole, with quality and genuine water-resistant leather for your outdoor use and a robust PU double density sole that equals a rubber sole but has the advantages of being lighter in weight yet have the same flexibility, abrasion resistance and oil resisting properties.  Worksafe is the ideal safety shoe for areas of maintenance, transport, forestry, construction, mining industries and hydro plants.",
+        "category": "Safety Equipment (PPEs)",
+        "subcategory": "Safety Shoes",
+        "images": [
+            {
+                "name": "Worksafe-1000x665.jpg.webp",
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Safety%20Shoes/WORKSAFE%20Safety%20Boot/Worksafe-1000x665.jpg.webp"
+            }
+        ],
+        "price": "3750",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -11679,7 +12763,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AHM006.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/AHM006%20-%20Ingco%20Auto-Darkening%20Welding%20Helmet/AHM006.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/AHM006%20-%20Ingco%20Auto-Darkening%20Welding%20Helmet/AHM006.jpg"
             }
         ],
         "price": "7450",
@@ -11697,7 +12781,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AHM111.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/AHM111%20-%20Ingco%20Auto-Darkening%20Welding%20Glasses/AHM111.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/AHM111%20-%20Ingco%20Auto-Darkening%20Welding%20Glasses/AHM111.jpg"
             }
         ],
         "price": "2000",
@@ -11715,7 +12799,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "AHM112.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/AHM112%20-%20Ingco%20Auto-Darkening%20Welding%20Goggles/AHM112.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/AHM112%20-%20Ingco%20Auto-Darkening%20Welding%20Goggles/AHM112.jpg"
             }
         ],
         "price": "2100",
@@ -11733,7 +12817,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TSP303.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/TSP303%20-%20Total%20Welding%20Goggles/TSP303.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/TSP303%20-%20Total%20Welding%20Goggles/TSP303.jpg"
             }
         ],
         "price": "250",
@@ -11751,10 +12835,10 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TSP9309.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/TSP9309%20-%20Total%20Auto-Darkening%20Welding%20Helmet/TSP9309.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/TSP9309%20-%20Total%20Auto-Darkening%20Welding%20Helmet/TSP9309.jpg"
             }
         ],
-        "price": "3000",
+        "price": "4000",
         "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
@@ -11769,7 +12853,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TSP9403.jpg",
-                "url": "/website%20products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/TSP9403%20-%20Total%20Auto-Darking%20Welding%20Goggles/TSP9403.jpg"
+                "url": "/Website%20Products/Safety%20Equipment%20(PPEs)/Welding%20Headgear/TSP9403%20-%20Total%20Auto-Darking%20Welding%20Goggles/TSP9403.jpg"
             }
         ],
         "price": "1750",
@@ -11787,7 +12871,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "o279466v54_lv-137994-12-P_A_Tool_Bag_dyn_V1.webp",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/Bosch%20Professional%20Tool%20Bag%20-%20Freedom%20Concept%20Professional/o279466v54_lv-137994-12-P_A_Tool_Bag_dyn_V1.webp"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/Bosch%20Professional%20Tool%20Bag%20-%20Freedom%20Concept%20Professional/o279466v54_lv-137994-12-P_A_Tool_Bag_dyn_V1.webp"
             }
         ],
         "price": "2050",
@@ -11805,7 +12889,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[COSLI241298] COSLI241298 20V LI-ION CORDLESS 2 PCS COMBO KIT.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/COSLI241298%20-%20Ingco%2020v%204AH%20Cordless%20Drill%20Grinder%20Combo%20Set/%5BCOSLI241298%5D%20COSLI241298%2020V%20LI-ION%20CORDLESS%202%20PCS%20COMBO%20KIT.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/COSLI241298%20-%20Ingco%2020v%204AH%20Cordless%20Drill%20Grinder%20Combo%20Set/%5BCOSLI241298%5D%20COSLI241298%2020V%20LI-ION%20CORDLESS%202%20PCS%20COMBO%20KIT.jpg"
             }
         ],
         "price": "20000",
@@ -11823,7 +12907,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "edl432717-stainless-steel-tool-box.webp",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/EDL432717%20-%20Deli%20Stainless%20Steel%20Tool%20Box%20(17%20Inches)/edl432717-stainless-steel-tool-box.webp"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/EDL432717%20-%20Deli%20Stainless%20Steel%20Tool%20Box%20(17%20Inches)/edl432717-stainless-steel-tool-box.webp"
             }
         ],
         "price": "3000",
@@ -11841,7 +12925,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTHP11651] HKTHP11651 165 PCS TOOLS SET - 20V.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HKTHP11651%20-%20Ingco%2020V%20Cordless%20Impact%20Drill%20Tool%20Set/%5BHKTHP11651%5D%20HKTHP11651%20165%20PCS%20TOOLS%20SET%20-%2020V.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HKTHP11651%20-%20Ingco%2020V%20Cordless%20Impact%20Drill%20Tool%20Set/%5BHKTHP11651%5D%20HKTHP11651%20165%20PCS%20TOOLS%20SET%20-%2020V.jpg"
             }
         ],
         "price": "16000",
@@ -11859,7 +12943,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTHP21681] HKTHP21681 168 PCS HANDTOOLS SET.png",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HKTHP21681%20-%20Ingco%20168%20Pcs%20Hand%20Tools%20Set/%5BHKTHP21681%5D%20HKTHP21681%20168%20PCS%20HANDTOOLS%20SET.png"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HKTHP21681%20-%20Ingco%20168%20Pcs%20Hand%20Tools%20Set/%5BHKTHP21681%5D%20HKTHP21681%20168%20PCS%20HANDTOOLS%20SET.png"
             }
         ],
         "price": "9000",
@@ -11877,7 +12961,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTHP22161] HKTHP22161 216 PCS COMBINATION SET.jfif",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HKTHP22161-%20Ingco%20216%20Pcs%20Combination%20Set/%5BHKTHP22161%5D%20HKTHP22161%20216%20PCS%20COMBINATION%20SET.jfif"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HKTHP22161-%20Ingco%20216%20Pcs%20Combination%20Set/%5BHKTHP22161%5D%20HKTHP22161%20216%20PCS%20COMBINATION%20SET.jfif"
             }
         ],
         "price": "28000",
@@ -11895,7 +12979,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKTTS0131.webp",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HKTTS0131%20-%20Ingco%2013%20Pcs%20Electronic%20(Telecom)%20Tool%20Set/HKTTS0131.webp"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HKTTS0131%20-%20Ingco%2013%20Pcs%20Electronic%20(Telecom)%20Tool%20Set/HKTTS0131.webp"
             }
         ],
         "price": "4000",
@@ -11913,7 +12997,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTTS0511] HKTTS0511 51 PCS TELECOM TOOLS SET.png",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HKTTS0511%20-%20Ingco%2051%20Pcs%20Electronic%20(Telecom)%20Tool%20Set/%5BHKTTS0511%5D%20HKTTS0511%2051%20PCS%20TELECOM%20TOOLS%20SET.png"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HKTTS0511%20-%20Ingco%2051%20Pcs%20Electronic%20(Telecom)%20Tool%20Set/%5BHKTTS0511%5D%20HKTTS0511%2051%20PCS%20TELECOM%20TOOLS%20SET.png"
             }
         ],
         "price": "18000",
@@ -11931,7 +13015,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HKTV01P051] HKTV01P051  5 PCS INSULATED HAND TOOLS SET.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HKTV01P051%20-%20Ingco%205%20Pcs%20Insulated%20Hand%20Tools%20Set/%5BHKTV01P051%5D%20HKTV01P051%20%205%20PCS%20INSULATED%20HAND%20TOOLS%20SET.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HKTV01P051%20-%20Ingco%205%20Pcs%20Insulated%20Hand%20Tools%20Set/%5BHKTV01P051%5D%20HKTV01P051%20%205%20PCS%20INSULATED%20HAND%20TOOLS%20SET.jpg"
             }
         ],
         "price": "4000",
@@ -11949,7 +13033,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HKTV01S101-i1_500x.webp",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HKTV01S101%20-%20Ingco%2010%20Pcs%20Insulated%20Hand%20Tools%20Set/HKTV01S101-i1_500x.webp"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HKTV01S101%20-%20Ingco%2010%20Pcs%20Insulated%20Hand%20Tools%20Set/HKTV01S101-i1_500x.webp"
             }
         ],
         "price": "4000",
@@ -11967,7 +13051,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "HTCS15591.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HTCS15591%20-%20Ingco%2059%20Pcs%20Tools%20Chest/HTCS15591.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HTCS15591%20-%20Ingco%2059%20Pcs%20Tools%20Chest/HTCS15591.jpg"
             }
         ],
         "price": "30800",
@@ -11985,7 +13069,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HTCS220971] HTCS220971 TOOL CHEST SET.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HTCS220971%20-%20Ingco%20Tool%20Chest/%5BHTCS220971%5D%20HTCS220971%20TOOL%20CHEST%20SET.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HTCS220971%20-%20Ingco%20Tool%20Chest/%5BHTCS220971%5D%20HTCS220971%20TOOL%20CHEST%20SET.jpg"
             }
         ],
         "price": "33880",
@@ -12003,7 +13087,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[HTCS271621] HTCS271621 162 PCS TOOL CHEST.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/HTCS271621%20-%20Ingco%20162%20Pcs%20Tool%20Chest/%5BHTCS271621%5D%20HTCS271621%20162%20PCS%20TOOL%20CHEST.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/HTCS271621%20-%20Ingco%20162%20Pcs%20Tool%20Chest/%5BHTCS271621%5D%20HTCS271621%20162%20PCS%20TOOL%20CHEST.jpg"
             }
         ],
         "price": "130900",
@@ -12021,7 +13105,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TCKLI20273.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/TCKLI20273%20-%20Total%20Cordless%20Combination%20Kit%20(Drill%20and%20Grinder)/TCKLI20273.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/TCKLI20273%20-%20Total%20Cordless%20Combination%20Kit%20(Drill%20and%20Grinder)/TCKLI20273.jpg"
             }
         ],
         "price": "18500",
@@ -12039,7 +13123,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THKTHP11652.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THKTHP11652%20-%20Total%2020V%20Cordless%20Impact%20Drill%20Tool%20Set/THKTHP11652.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THKTHP11652%20-%20Total%2020V%20Cordless%20Impact%20Drill%20Tool%20Set/THKTHP11652.jpg"
             }
         ],
         "price": "13000",
@@ -12057,7 +13141,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THKTHP21006.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THKTHP21006%20-%20Total%20100%20Pcs%20Toolkit/THKTHP21006.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THKTHP21006%20-%20Total%20100%20Pcs%20Toolkit/THKTHP21006.jpg"
             }
         ],
         "price": "19000",
@@ -12075,14 +13159,14 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THKTHP21426.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THKTHP21426%20-%20Total%20142%20Pcs%20Combination%20Tool%20Set/THKTHP21426.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THKTHP21426%20-%20Total%20142%20Pcs%20Combination%20Tool%20Set/THKTHP21426.jpg"
             }
         ],
         "price": "27000",
-        "isOnOffer": false,
+        "isOnOffer": true,
         "isBestseller": false,
-        "originalPrice": 0,
-        "offerPrice": 0
+        "originalPrice": 28500,
+        "offerPrice": 26000
     },
     {
         "id": "thkthp2186---total-168-pcs-hand-tools-set",
@@ -12093,7 +13177,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THKTHP21686.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THKTHP2186%20-%20Total%20168%20Pcs%20Hand%20Tools%20Set/THKTHP21686.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THKTHP2186%20-%20Total%20168%20Pcs%20Hand%20Tools%20Set/THKTHP21686.jpg"
             }
         ],
         "price": "8000",
@@ -12111,7 +13195,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THKTHP22166.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THKTHP22166%20-%20Total%20216%20Pcs%20Combination%20Toolkit/THKTHP22166.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THKTHP22166%20-%20Total%20216%20Pcs%20Combination%20Toolkit/THKTHP22166.jpg"
             }
         ],
         "price": "26000",
@@ -12129,7 +13213,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THPTCS71321.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THPTCS71321%20-%20Total%20132%20Pcs%20Tool%20Chest/THPTCS71321.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THPTCS71321%20-%20Total%20132%20Pcs%20Tool%20Chest/THPTCS71321.jpg"
             }
         ],
         "price": "30000",
@@ -12147,7 +13231,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THPTCS73281.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THPTCS73281%20-%20Total%20328%20Pcs%20Tool%20Chest%20Set/THPTCS73281.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THPTCS73281%20-%20Total%20328%20Pcs%20Tool%20Chest%20Set/THPTCS73281.jpg"
             }
         ],
         "price": "130000",
@@ -12165,7 +13249,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THTCS121081.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THTCS121081%20-%20Total%20108%20Pcs%20Toolchest/THTCS121081.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THTCS121081%20-%20Total%20108%20Pcs%20Toolchest/THTCS121081.jpg"
             }
         ],
         "price": "26000",
@@ -12183,7 +13267,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "THTCS12591.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/THTCS12591%20-%20Total%2059%20Pcs%20Tool%20Chest/THTCS12591.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/THTCS12591%20-%20Total%2059%20Pcs%20Tool%20Chest/THTCS12591.jpg"
             }
         ],
         "price": "28000",
@@ -12201,11 +13285,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TPBX0141.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/TPBX0141%20-%20Total%20Plastic%20Tool%20Box%20(14%20Inches)/TPBX0141.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/TPBX0141%20-%20Total%20Plastic%20Tool%20Box%20(14%20Inches)/TPBX0141.jpg"
             }
         ],
         "price": "1500",
-        "isOnOffer": true,
+        "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
@@ -12219,11 +13303,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TPBX0171.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/TPBX0171%20-%20Total%20Plastic%20Tool%20Box%20(17%20Inches)/TPBX0171.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/TPBX0171%20-%20Total%20Plastic%20Tool%20Box%20(17%20Inches)/TPBX0171.jpg"
             }
         ],
         "price": "2500",
-        "isOnOffer": true,
+        "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
@@ -12237,11 +13321,11 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TPBX0201.jpg",
-                "url": "/website%20products/Tool%20Sets%20(Tool%20Boxes)/TPBX0201%20-%20Total%20Plastic%20Tool%20Box%20(20%20Inches)/TPBX0201.jpg"
+                "url": "/Website%20Products/Tool%20Sets%20(Tool%20Boxes)/TPBX0201%20-%20Total%20Plastic%20Tool%20Box%20(20%20Inches)/TPBX0201.jpg"
             }
         ],
         "price": "3500",
-        "isOnOffer": true,
+        "isOnOffer": false,
         "isBestseller": false,
         "originalPrice": 0,
         "offerPrice": 0
@@ -12255,7 +13339,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DSD-486x461_1.webp",
-                "url": "/website%20products/Water%20Pumps/Borehole%20Submersible%20Pumps/DSD%2037%20-%20DAYLIFF%200.37KW%201PH%20CW%2030M%20CABLE%20%26%20FSWITCH/DSD-486x461_1.webp"
+                "url": "/Website%20Products/Water%20Pumps/Borehole%20Submersible%20Pumps/DSD%2037%20-%20DAYLIFF%200.37KW%201PH%20CW%2030M%20CABLE%20%26%20FSWITCH/DSD-486x461_1.webp"
             }
         ],
         "price": "25000",
@@ -12273,7 +13357,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "dq15-800x600.jpg",
-                "url": "/website%20products/Water%20Pumps/Circulator%20(Shower%20Booster)%20Pumps/DQ15F%20-%20Dayliff%20Circulator%20(Shower%20Booster)%20Pump%20(CW%20Flowswitch)/dq15-800x600.jpg"
+                "url": "/Website%20Products/Water%20Pumps/Circulator%20(Shower%20Booster)%20Pumps/DQ15F%20-%20Dayliff%20Circulator%20(Shower%20Booster)%20Pump%20(CW%20Flowswitch)/dq15-800x600.jpg"
             }
         ],
         "price": "10500",
@@ -12291,7 +13375,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DayliffFloatswitch.webp",
-                "url": "/website%20products/Water%20Pumps/Float%20Switches/Dayliff%20Float%20Switch/DayliffFloatswitch.webp"
+                "url": "/Website%20Products/Water%20Pumps/Float%20Switches/Dayliff%20Float%20Switch/DayliffFloatswitch.webp"
             }
         ],
         "price": "2000",
@@ -12309,7 +13393,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GHPW2103] GHPW2103 GASOLINE PRESSURE WASHER 7HP.jfif",
-                "url": "/website%20products/Water%20Pumps/Gasoline%20Water%20Pumps/GHPW2103%20-%20Ingco%20Gasoline%20Pressure%20Washer%20(7HP)/%5BGHPW2103%5D%20GHPW2103%20GASOLINE%20PRESSURE%20WASHER%207HP.jfif"
+                "url": "/Website%20Products/Water%20Pumps/Gasoline%20Water%20Pumps/GHPW2103%20-%20Ingco%20Gasoline%20Pressure%20Washer%20(7HP)/%5BGHPW2103%5D%20GHPW2103%20GASOLINE%20PRESSURE%20WASHER%207HP.jfif"
             }
         ],
         "price": "81000",
@@ -12327,7 +13411,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP201H] GWP201H GASOLINE HIGH PRESSURE WATER PUMP 2_.jfif",
-                "url": "/website%20products/Water%20Pumps/Gasoline%20Water%20Pumps/GWP201H%20-%20Ingco%20Gasoline%20High%20Pressure%20Water%20Pump%20(2'')/%5BGWP201H%5D%20GWP201H%20GASOLINE%20HIGH%20PRESSURE%20WATER%20PUMP%202_.jfif"
+                "url": "/Website%20Products/Water%20Pumps/Gasoline%20Water%20Pumps/GWP201H%20-%20Ingco%20Gasoline%20High%20Pressure%20Water%20Pump%20(2'')/%5BGWP201H%5D%20GWP201H%20GASOLINE%20HIGH%20PRESSURE%20WATER%20PUMP%202_.jfif"
             }
         ],
         "price": "43500",
@@ -12345,7 +13429,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP202] GWP202 GASOLINE WATER PUMP 2_.jfif",
-                "url": "/website%20products/Water%20Pumps/Gasoline%20Water%20Pumps/GWP202%20-%20Ingco%20Gasoline%20Water%20Pump%20(2'')/%5BGWP202%5D%20GWP202%20GASOLINE%20WATER%20PUMP%202_.jfif"
+                "url": "/Website%20Products/Water%20Pumps/Gasoline%20Water%20Pumps/GWP202%20-%20Ingco%20Gasoline%20Water%20Pump%20(2'')/%5BGWP202%5D%20GWP202%20GASOLINE%20WATER%20PUMP%202_.jfif"
             }
         ],
         "price": "25000",
@@ -12363,7 +13447,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "[GWP302] GWP302 GASOLINE WATER PUMP 3_.jfif",
-                "url": "/website%20products/Water%20Pumps/Gasoline%20Water%20Pumps/GWP302%20-%20Ingco%20Gasoline%20Water%20Pump%20(3'')/%5BGWP302%5D%20GWP302%20GASOLINE%20WATER%20PUMP%203_.jfif"
+                "url": "/Website%20Products/Water%20Pumps/Gasoline%20Water%20Pumps/GWP302%20-%20Ingco%20Gasoline%20Water%20Pump%20(3'')/%5BGWP302%5D%20GWP302%20GASOLINE%20WATER%20PUMP%203_.jfif"
             }
         ],
         "price": "27000",
@@ -12381,7 +13465,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP3202.jpg",
-                "url": "/website%20products/Water%20Pumps/Gasoline%20Water%20Pumps/TP3202%20-%20Total%20Gasoline%20Water%20Pump%20(2'')/TP3202.jpg"
+                "url": "/Website%20Products/Water%20Pumps/Gasoline%20Water%20Pumps/TP3202%20-%20Total%20Gasoline%20Water%20Pump%20(2'')/TP3202.jpg"
             }
         ],
         "price": "28000",
@@ -12399,7 +13483,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TP3302.jpg",
-                "url": "/website%20products/Water%20Pumps/Gasoline%20Water%20Pumps/TP3302%20-%20Total%20Gasoline%20Water%20Pump%20(3'')/TP3302.jpg"
+                "url": "/Website%20Products/Water%20Pumps/Gasoline%20Water%20Pumps/TP3302%20-%20Total%20Gasoline%20Water%20Pump%20(3'')/TP3302.jpg"
             }
         ],
         "price": "31500",
@@ -12417,7 +13501,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "CPM150-800x600_bd1c1614-a57d-4d67-9bb6-8776ddcadf4c.webp",
-                "url": "/website%20products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/CPM158%20-%20Pedrollo%201hp%20Peripheral%20Impeller%20Booster%20Pumps/CPM150-800x600_bd1c1614-a57d-4d67-9bb6-8776ddcadf4c.webp"
+                "url": "/Website%20Products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/CPM158%20-%20Pedrollo%201hp%20Peripheral%20Impeller%20Booster%20Pumps/CPM150-800x600_bd1c1614-a57d-4d67-9bb6-8776ddcadf4c.webp"
             }
         ],
         "price": "25900",
@@ -12435,7 +13519,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "dayliff-DDC158-800x600_1.webp",
-                "url": "/website%20products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/DDC%20158%20-%20Dayliff%201HP%20Booster%20Pump/dayliff-DDC158-800x600_1.webp"
+                "url": "/Website%20Products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/DDC%20158%20-%20Dayliff%201HP%20Booster%20Pump/dayliff-DDC158-800x600_1.webp"
             }
         ],
         "price": "13900",
@@ -12453,7 +13537,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "dayliff-ddp60-800x600_1.webp",
-                "url": "/website%20products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/DDP%2060%20-%20Dayliff%200.5hp%20Peripheral%20Impeller%20Booster%20Pumps/dayliff-ddp60-800x600_1.webp"
+                "url": "/Website%20Products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/DDP%2060%20-%20Dayliff%200.5hp%20Peripheral%20Impeller%20Booster%20Pumps/dayliff-ddp60-800x600_1.webp"
             }
         ],
         "price": "6300",
@@ -12471,7 +13555,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "ddpe-water-pumps-in-kenya-486x461.webp",
-                "url": "/website%20products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/DDP%2060E%20-%20Dayliff%200.5hp%20Econo%20Peripheral%20Impeller%20Booster%20Pumps/ddpe-water-pumps-in-kenya-486x461.webp"
+                "url": "/Website%20Products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/DDP%2060E%20-%20Dayliff%200.5hp%20Econo%20Peripheral%20Impeller%20Booster%20Pumps/ddpe-water-pumps-in-kenya-486x461.webp"
             }
         ],
         "price": "5400",
@@ -12489,7 +13573,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Pedrollo-PKM-60-486x461_4f6cf9e0-ed86-4a7c-8eb4-638bd5f495d0.webp",
-                "url": "/website%20products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/PKM60%20-%20Davis%20and%20Shirtliff%20Pedrollo%200.5hp%20Peripheral%20Impeller%20Booster%20Pumps/Pedrollo-PKM-60-486x461_4f6cf9e0-ed86-4a7c-8eb4-638bd5f495d0.webp"
+                "url": "/Website%20Products/Water%20Pumps/Peripheral%20Booster%20(Centrifugal)%20Pumps/PKM60%20-%20Davis%20and%20Shirtliff%20Pedrollo%200.5hp%20Peripheral%20Impeller%20Booster%20Pumps/Pedrollo-PKM-60-486x461_4f6cf9e0-ed86-4a7c-8eb4-638bd5f495d0.webp"
             }
         ],
         "price": "9000",
@@ -12507,7 +13591,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DAYLIFF_SUPERPRESSCON_P.webp",
-                "url": "/website%20products/Water%20Pumps/Pressure%20Controllers/Dayliff%20Superpress%20P%20Pressure%20Controller/DAYLIFF_SUPERPRESSCON_P.webp"
+                "url": "/Website%20Products/Water%20Pumps/Pressure%20Controllers/Dayliff%20Superpress%20P%20Pressure%20Controller/DAYLIFF_SUPERPRESSCON_P.webp"
             }
         ],
         "price": "4600",
@@ -12525,7 +13609,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Controller.webp",
-                "url": "/website%20products/Water%20Pumps/Pressure%20Controllers/Dayliff%20Superpress%20S%20Pressure%20Controller/Controller.webp"
+                "url": "/Website%20Products/Water%20Pumps/Pressure%20Controllers/Dayliff%20Superpress%20S%20Pressure%20Controller/Controller.webp"
             }
         ],
         "price": "5600",
@@ -12543,7 +13627,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Press-Control-1.1kW-486x461.webp",
-                "url": "/website%20products/Water%20Pumps/Pressure%20Controllers/Mondial%20PRESSCONTROL%201.1KW%20(1%20Inch)/Press-Control-1.1kW-486x461.webp"
+                "url": "/Website%20Products/Water%20Pumps/Pressure%20Controllers/Mondial%20PRESSCONTROL%201.1KW%20(1%20Inch)/Press-Control-1.1kW-486x461.webp"
             }
         ],
         "price": "7900",
@@ -12561,7 +13645,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "DDA1000P_4db8859d-e0cd-47e6-99f2-e2a7af66c9a1.webp",
-                "url": "/website%20products/Water%20Pumps/Submersible%20Pumps/DDA1000P%20-%20Dayliff%201hp%20Submersible%20Pump/DDA1000P_4db8859d-e0cd-47e6-99f2-e2a7af66c9a1.webp"
+                "url": "/Website%20Products/Water%20Pumps/Submersible%20Pumps/DDA1000P%20-%20Dayliff%201hp%20Submersible%20Pump/DDA1000P_4db8859d-e0cd-47e6-99f2-e2a7af66c9a1.webp"
             }
         ],
         "price": "17300",
@@ -12579,7 +13663,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Dayliff-DDW750S-800x600.webp",
-                "url": "/website%20products/Water%20Pumps/Submersible%20Pumps/DDW%20750%20S%20-%20Dayliff%200.5hp%20Drainage%20Pump%20(Clean%20Water)/Dayliff-DDW750S-800x600.webp"
+                "url": "/Website%20Products/Water%20Pumps/Submersible%20Pumps/DDW%20750%20S%20-%20Dayliff%200.5hp%20Drainage%20Pump%20(Clean%20Water)/Dayliff-DDW750S-800x600.webp"
             }
         ],
         "price": "9900",
@@ -12597,7 +13681,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "Dayliff-DDW750V-800x600.webp",
-                "url": "/website%20products/Water%20Pumps/Submersible%20Pumps/DDW%20750%20V%20-%20Dayliff%200.5hp%20Drainage%20Pump%20(Dirty%20Water)/Dayliff-DDW750V-800x600.webp"
+                "url": "/Website%20Products/Water%20Pumps/Submersible%20Pumps/DDW%20750%20V%20-%20Dayliff%200.5hp%20Drainage%20Pump%20(Dirty%20Water)/Dayliff-DDW750V-800x600.webp"
             }
         ],
         "price": "10300",
@@ -12615,7 +13699,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "SPC7508.jpg",
-                "url": "/website%20products/Water%20Pumps/Submersible%20Pumps/SPC7508%20-%20Ingco%201hp%20Submersible%20Pump/SPC7508.jpg"
+                "url": "/Website%20Products/Water%20Pumps/Submersible%20Pumps/SPC7508%20-%20Ingco%201hp%20Submersible%20Pump/SPC7508.jpg"
             }
         ],
         "price": "18500",
@@ -12633,7 +13717,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "SPD7508.jpg",
-                "url": "/website%20products/Water%20Pumps/Submersible%20Pumps/SPD7508%20-%20Ingco%201hp%20Drainage%20(Sewer%20Submersible)%20Pump%20(Dirty%20Water)/SPD7508.jpg"
+                "url": "/Website%20Products/Water%20Pumps/Submersible%20Pumps/SPD7508%20-%20Ingco%201hp%20Drainage%20(Sewer%20Submersible)%20Pump%20(Dirty%20Water)/SPD7508.jpg"
             }
         ],
         "price": "11000",
@@ -12651,7 +13735,7 @@ export const catalogue: Tool[] = [
         "images": [
             {
                 "name": "TWP63706.jpg",
-                "url": "/website%20products/Water%20Pumps/Submersible%20Pumps/TWP63706%20-%20Total%200.5hp%20Submersible%20Pump/TWP63706.jpg"
+                "url": "/Website%20Products/Water%20Pumps/Submersible%20Pumps/TWP63706%20-%20Total%200.5hp%20Submersible%20Pump/TWP63706.jpg"
             }
         ],
         "price": "11750",

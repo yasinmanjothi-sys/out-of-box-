@@ -5,7 +5,7 @@ const pdfParse = require('pdf-parse');
 
 // Configuration
 const PROJECT_ROOT = path.resolve(__dirname, '..');
-const PRODUCTS_DIR = path.join(PROJECT_ROOT, 'public', 'website products');
+const PRODUCTS_DIR = path.join(PROJECT_ROOT, 'public', 'Website Products');
 const OUTPUT_FILE = path.join(PROJECT_ROOT, 'src', 'lib', 'catalogue.ts');
 
 // Extensions that are definitively NOT images — everything else is treated as an image
@@ -18,8 +18,9 @@ const NON_IMAGE_EXTS = new Set([
 // Extensions we consider spec/text documents
 const SPEC_EXTS = new Set(['.txt', '.docx', '.pdf']);
 
-// Regex to detect a PRICE line anywhere in spec text
+// Regex to detect PRICE and OFFER PRICE lines
 const PRICE_REGEX = /^PRICE\s+(\d+(?:\.\d+)?)/im;
+const OFFER_PRICE_REGEX = /^OFFER\s+PRICE\s+(\d+(?:\.\d+)?)/im;
 
 /**
  * Recursively walks directory to get all files
@@ -71,13 +72,13 @@ async function extractTextFromFile(filePath) {
 }
 
 /**
- * Reads ALL spec files in a product folder, merges text, extracts price.
- * Returns { description: string, price: string }
+ * Reads ALL spec files in a product folder, merges text, extracts prices.
+ * Returns { description: string, price: string, offerPrice: string }
  */
 async function extractDescription(files) {
     const specFiles = files.filter(f => SPEC_EXTS.has(path.extname(f.name).toLowerCase()));
 
-    if (specFiles.length === 0) return { description: '', price: '' };
+    if (specFiles.length === 0) return { description: '', price: '', offerPrice: '' };
 
     // Priority order for reading spec files
     const priorityNames = ['specs.txt', 'specs.docx', 'description.txt', 'description.docx'];
@@ -96,6 +97,7 @@ async function extractDescription(files) {
     // Read all spec files and merge lines (deduplicate, preserve first-seen order)
     const seenLines = new Map(); // trimmed line -> true
     let priceValue = '';
+    let offerPriceValue = '';
 
     for (const f of ordered) {
         const text = await extractTextFromFile(f.path);
@@ -113,6 +115,13 @@ async function extractDescription(files) {
                 continue; // don't include PRICE line in description
             }
 
+            // Check for OFFER PRICE line — capture first match, strip all occurrences
+            const offerPriceMatch = trimmed.match(OFFER_PRICE_REGEX);
+            if (offerPriceMatch) {
+                if (!offerPriceValue) offerPriceValue = offerPriceMatch[1];
+                continue; // don't include OFFER PRICE line in description
+            }
+
             // Deduplicate by trimmed content (handles minor whitespace differences)
             if (!seenLines.has(trimmed)) {
                 seenLines.set(trimmed, line);
@@ -126,7 +135,7 @@ async function extractDescription(files) {
     // Collapse runs of more than 2 consecutive blank lines
     description = description.replace(/\n{3,}/g, '\n\n');
 
-    return { description, price: priceValue };
+    return { description, price: priceValue, offerPrice: offerPriceValue };
 }
 
 /**
@@ -171,8 +180,8 @@ async function sync() {
             missingImages.push(`[${category}] > [${subcategory}] > ${folderName}`);
         }
 
-        // Description + Price from spec files
-        const { description: rawDescription, price } = await extractDescription(allFiles);
+        // Description + Prices from spec files
+        const { description: rawDescription, price, offerPrice } = await extractDescription(allFiles);
         const description = rawDescription ||
             `Professional ${subcategory} from the ${category} collection. High-quality engineering for reliable performance.`;
 
@@ -195,8 +204,8 @@ async function sync() {
             price: price ? price.toString() : '',
             isOnOffer,
             isBestseller,
-            originalPrice: 0,
-            offerPrice: 0
+            originalPrice: offerPrice ? parseInt(price) : 0,
+            offerPrice: offerPrice ? parseInt(offerPrice) : 0
         });
     }
 
@@ -228,6 +237,20 @@ async function sync() {
             }
         }
     }
+
+    // Copy originalPrice and offerPrice from Monthly Offers entries to matching products in other categories
+    const offerPriceMap = {};
+    products.forEach(p => {
+        if (p.category === 'Monthly Offers' && p.offerPrice > 0) {
+            offerPriceMap[p.name] = { originalPrice: p.originalPrice, offerPrice: p.offerPrice };
+        }
+    });
+    products.forEach(p => {
+        if (p.isOnOffer && p.category !== 'Monthly Offers' && offerPriceMap[p.name]) {
+            p.originalPrice = offerPriceMap[p.name].originalPrice;
+            p.offerPrice = offerPriceMap[p.name].offerPrice;
+        }
+    });
 
     // Generate TypeScript output
     const content = `export interface ProductImage {

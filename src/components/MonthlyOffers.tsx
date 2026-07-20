@@ -10,15 +10,17 @@ export default function MonthlyOffers() {
         return `KSh ${price}`;
     }
 
-    // Get products marked as monthly offers
+    // Get products from the Monthly Offers category (these have correct prices extracted)
     const offers = catalogue
-        .filter(p => p.isOnOffer && p.images && p.images.length > 0)
+        .filter(p => p.category === 'Monthly Offers' && p.images && p.images.length > 0)
         .map(product => ({
             id: product.id,
             name: product.name.replace(/^.*\s-\s/, ''),
             image: product.images[0].url,
             category: product.category,
-            price: formatPrice(product.price)
+            price: formatPrice(product.price),
+            originalPrice: product.originalPrice,
+            offerPrice: product.offerPrice
         }))
 
     if (offers.length === 0) return null
@@ -43,7 +45,10 @@ export default function MonthlyOffers() {
                                 <span className="offer-category">{item.category}</span>
                                 <h3 className="offer-name">{item.name}</h3>
                                 <div className="offer-footer">
-                                    <span className="offer-price">{item.price}</span>
+                                    <div className="offer-prices">
+                                        <span className="offer-original-price">KSh {(item.originalPrice ?? 0).toLocaleString()}</span>
+                                        <span className="offer-price">KSh {(item.offerPrice ?? 0).toLocaleString()}</span>
+                                    </div>
                                 </div>
                             </div>
                         </Link>

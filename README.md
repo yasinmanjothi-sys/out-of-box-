@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Deployment & Environment Variables
+
+This project requires certain environment variables to be set for production builds.
+
+- `NEXT_PUBLIC_GA_ID`: Your Google Analytics Measurement ID (e.g., `G-NP6MCSLSZX`).
+
+**Important:** The production build (`npm run build`) will fail if `NEXT_PUBLIC_GA_ID` is missing. This is a safety feature to prevent deployments without active tracking.

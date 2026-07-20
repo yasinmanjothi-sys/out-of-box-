@@ -3,6 +3,8 @@
 # Large product image folder - served via FTP to HostPinnacle, not via GitHub
 /public/website products/
 deployment-pinnacle.zip
+Out_Of_Box_Deploy_*.zip
+Out_Of_Box_Fixed_Analytics_*.zip
 
 # dependencies
 /node_modules
