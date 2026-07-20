@@ -1,19 +1,43 @@
+'use client'
+
 import Link from 'next/link'
-import { Wrench, Ruler, HardHat, Hammer, Drill, Plug, Leaf, Droplets } from 'lucide-react'
+import { getProducts } from '@/lib/parseProducts'
+import { Wrench, Ruler, HardHat, Hammer, Plug, Leaf, Droplets, Zap, Briefcase } from 'lucide-react'
 import './shopbycategory.css'
 
-const categoryCards = [
-    { name: 'Power Tools', icon: Drill, description: 'Drills, grinders, saws & more' },
-    { name: 'Hand Tools', icon: Wrench, description: 'Wrenches, pliers, screwdrivers' },
-    { name: 'Measuring Tools', icon: Ruler, description: 'Levels, tapes, laser measures' },
-    { name: 'Safety Equipment (PPEs)', icon: HardHat, description: 'Helmets, goggles, gloves' },
-    { name: 'Accessories', icon: Plug, description: 'Bits, discs, blades & attachments' },
-    { name: 'Tool Sets (Tool Boxes)', icon: Hammer, description: 'Complete sets & storage' },
-    { name: 'Gardening Equpiment and Gardening Tools', icon: Leaf, description: 'Mowers, trimmers, tillers' },
-    { name: 'Water Pumps', icon: Droplets, description: 'Gasoline & submersible pumps' },
-]
+const categoryIconMap: { [key: string]: any } = {
+    'Power Tools': Zap,
+    'Hand Tools': Wrench,
+    'Measuring Tools': Ruler,
+    'Safety Equipment (PPEs)': HardHat,
+    'Accessories': Plug,
+    'Tool Sets (Tool Boxes)': Hammer,
+    'Gardening Equpiment and Gardening Tools': Leaf,
+    'Water Pumps': Droplets,
+    'Pneumatic (Air Compressor) Tools': Wrench,
+    'Gasoline (Petrol) Machinery and Tools': Zap,
+    'Insulated Tools': Plug,
+    'Consumables': Briefcase,
+}
+
+const categoryDescriptionMap: { [key: string]: string } = {
+    'Power Tools': 'Drills, grinders, saws & more',
+    'Hand Tools': 'Wrenches, pliers, screwdrivers',
+    'Measuring Tools': 'Levels, tapes, laser measures',
+    'Safety Equipment (PPEs)': 'Helmets, goggles, gloves',
+    'Accessories': 'Bits, discs, blades & attachments',
+    'Tool Sets (Tool Boxes)': 'Complete sets & storage',
+    'Gardening Equpiment and Gardening Tools': 'Mowers, trimmers, tillers',
+    'Water Pumps': 'Gasoline & submersible pumps',
+    'Pneumatic (Air Compressor) Tools': 'Air compressors & tools',
+    'Gasoline (Petrol) Machinery and Tools': 'Petrol-powered equipment',
+    'Insulated Tools': 'Electrician-safe tools',
+    'Consumables': 'Supplies & consumable items',
+}
 
 export default function ShopByCategory() {
+    const categories = getProducts()
+
     return (
         <section className="categories-section faded-ruler">
             <div className="container">
@@ -23,15 +47,16 @@ export default function ShopByCategory() {
                 </div>
 
                 <div className="categories-grid">
-                    {categoryCards.map((cat) => {
-                        const IconComp = cat.icon
+                    {categories.map((cat) => {
+                        const IconComp = categoryIconMap[cat.name] || Plug
+                        const description = categoryDescriptionMap[cat.name] || 'Browse our selection'
                         return (
                             <Link href={`/catalogue?category=${encodeURIComponent(cat.name)}`} key={cat.name} className="category-card-home">
                                 <div className="category-icon-wrap">
                                     <IconComp size={36} strokeWidth={1.5} />
                                 </div>
                                 <h3 className="category-card-name">{cat.name}</h3>
-                                <p className="category-card-desc">{cat.description}</p>
+                                <p className="category-card-desc">{description}</p>
                             </Link>
                         )
                     })}

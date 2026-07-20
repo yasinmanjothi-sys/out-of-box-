@@ -1,0 +1,8 @@
+Missing Images Audit Report - Generated at 2026-07-07T15:26:45.604Z
+
+Products with 0 images found in their folders:
+
+[Measuring Tools] > [Multimeters] > TMT423 - Multimeter Test Leads
+[Measuring Tools] > [Multimeters] > UT31 - Uni-T Multimeter
+[Measuring Tools] > [Multimeters] > UT33 - Uni-T Multimeter
+[Power Tools] > [Impact Wrenches] > TIWLI42608 - Total 600nm (42V) Cordless Impact Wrench

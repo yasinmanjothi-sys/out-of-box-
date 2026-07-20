@@ -13,15 +13,17 @@ interface StatProps {
 }
 
 function Counter({ end, label, suffix = '', duration = 2000, icon }: StatProps) {
-    const [count, setCount] = useState(0)
+    const [count, setCount] = useState(end)
     const [isVisible, setIsVisible] = useState(false)
     const counterRef = useRef<HTMLDivElement>(null)
+    const hasAnimated = useRef(false)
 
     useEffect(() => {
         const observer = new IntersectionObserver(
             ([entry]) => {
-                if (entry.isIntersecting) {
+                if (entry.isIntersecting && !hasAnimated.current) {
                     setIsVisible(true)
+                    hasAnimated.current = true
                 }
             },
             { threshold: 0.1 }
@@ -74,7 +76,7 @@ function Counter({ end, label, suffix = '', duration = 2000, icon }: StatProps) 
             <div className="stat-icon-wrapper">
                 {icon}
             </div>
-            <div className="stat-number">
+            <div className="stat-number" suppressHydrationWarning>
                 {count.toLocaleString()}{suffix}
             </div>
             <div className="stat-label">{label}</div>
@@ -100,13 +102,13 @@ export default function AnimatedStats() {
                         icon={<Wrench size={32} strokeWidth={1.5} />}
                     />
                     <Counter
-                        end={100}
-                        label="Professionals Supplied"
+                        end={1000000}
+                        label="Professionals Served"
                         suffix="+"
                         icon={<Users size={32} strokeWidth={1.5} />}
                     />
                     <Counter
-                        end={2}
+                        end={4}
                         label="Years of Excellence"
                         icon={<Award size={32} strokeWidth={1.5} />}
                     />

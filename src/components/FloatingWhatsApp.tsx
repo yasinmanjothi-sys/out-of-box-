@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import { usePathname } from 'next/navigation'
 import { MessageCircle } from 'lucide-react'
+import { trackWhatsAppInquiry } from '@/lib/analytics'
 import './floatingwhatsapp.css'
 
 export default function FloatingWhatsApp() {
@@ -35,6 +36,7 @@ export default function FloatingWhatsApp() {
             aria-label="Contact us on WhatsApp"
             target="_blank"
             rel="noopener noreferrer"
+            onClick={() => trackWhatsAppInquiry('Floating Button')}
             style={{
                 opacity: isHome ? Math.pow(introProgress, 5) : 1, // Steep curve to keep hidden during intro
                 pointerEvents: isHome && introProgress < 1 ? 'none' : 'auto',

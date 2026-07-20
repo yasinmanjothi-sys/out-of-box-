@@ -5,7 +5,7 @@ const trustItems = [
     { icon: Package, value: '500+', label: 'Products Available' },
     { icon: ShieldCheck, value: '100%', label: 'Genuine Products' },
     { icon: MessageCircle, value: 'Instant', label: 'WhatsApp Support' },
-    { icon: Award, value: 'Authorized', label: 'Official Dealer' },
+    { icon: Award, value: 'Authorized', label: 'Distributor' },
 ]
 
 export default function TrustBar() {

@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/16b012b5bdf911a1.css","style"]
+:HL["/_next/static/chunks/4449cd0e32e870b4.css","style"]
+:HL["/logos/outofbox-logo-cropped.svg","image"]
+0:{"buildId":"dk_edEJYogmpJDF_2A7dl","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"catalogue","paramType":null,"paramKey":"catalogue","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

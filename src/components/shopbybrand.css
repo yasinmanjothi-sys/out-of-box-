@@ -1,47 +1,83 @@
-.brands-section {
-    padding: 4rem 0;
-    border-top: 5px solid var(--safety-orange);
-    border-bottom: 5px solid var(--safety-orange);
+.brands-ribbon-section {
+    padding: 3rem 0;
+    background-color: var(--pure-white);
+    border-top: 1px solid var(--steel-silver);
+    border-bottom: 1px solid var(--steel-silver);
 }
 
-.brands-strip {
+.section-header-compact {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.compact-title {
+    font-size: 1.25rem;
+    color: var(--steel-silver);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo-ribbon {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
-}
-
-.brand-pill {
-    display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.5rem;
-    background-color: rgba(255, 255, 255, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    border-radius: 50px;
+    gap: 3rem;
+}
+
+.brand-logo-item {
+    position: relative;
+    padding: 1rem 0.5rem;
+    cursor: pointer;
     text-decoration: none;
-    color: var(--pure-white);
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
-    font-size: 0.95rem;
-    transition: all 0.3s ease;
-    backdrop-filter: blur(4px);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.brand-pill:hover {
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: var(--safety-orange);
-    transform: translateY(-3px);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+.brand-logo-text {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5rem;
+    color: #333;
+    letter-spacing: 1.5px;
+    opacity: 0.4;
+    transition: all 0.4s ease;
 }
 
-.brand-dot {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    flex-shrink: 0;
+.brand-underline {
+    position: absolute;
+    bottom: 0.5rem;
+    left: 0;
+    width: 0;
+    height: 4px;
+    background-color: var(--brand-color);
+    transition: width 0.3s ease;
 }
 
-.brand-label {
-    letter-spacing: 0.5px;
+.brand-logo-item:hover .brand-logo-text {
+    opacity: 1;
+    color: var(--brand-color);
+    transform: scale(1.1);
+}
+
+.brand-logo-item:hover .brand-underline {
+    width: 100%;
+}
+
+.trusted-by-notice {
+    margin-top: 2rem;
+    text-align: center;
+    color: var(--steel-silver);
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+@media (max-width: 768px) {
+    .logo-ribbon {
+        gap: 1.5rem;
+    }
+    .brand-logo-text {
+        font-size: 1.75rem;
+    }
 }

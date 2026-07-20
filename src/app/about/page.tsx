@@ -1,17 +1,39 @@
 import AnimatedStats from '@/components/AnimatedStats'
 
 export const metadata = {
-    title: 'About Us | Out of Box Tools',
-    description: 'Learn more about Out of Box Tools and our commitment to quality hardware.',
+    title: 'About Us',
+    description: 'Out of Box Tools & Hardware supplies trade professionals and DIY enthusiasts with top-quality tools, hardware, plumbing, and electrical equipment in Nairobi. Learn about our mission and commitment.',
+}
+
+const organizationJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Out of Box Tools & Hardware",
+    url: "https://outofboxtools.com",
+    contactPoint: {
+        "@type": "ContactPoint",
+        telephone: "+254110264532",
+        contactType: "customer service",
+        email: "info@outofboxtools.com"
+    },
+    sameAs: [
+        "https://www.instagram.com/outofboxtools/",
+        "https://www.tiktok.com/@outofboxtools",
+        "https://www.facebook.com/OutofBoxTools/"
+    ],
 }
 
 export default function AboutPage() {
     return (
         <div className="page-wrapper" style={{ backgroundColor: 'var(--pure-white)', overflow: 'hidden' }}>
+            <script
+                type="application/ld+json"
+                dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
+            />
             <div className="container" style={{ paddingTop: '4rem', paddingBottom: '2rem', position: 'relative' }}>
-                <h1 className="page-title" style={{ position: 'relative', zIndex: 2 }}>About Out of Box Tools</h1>
+                <h1 className="page-title" style={{ position: 'relative', zIndex: 2 }}>About Out of Box Tools &amp; Hardware</h1>
 
-                <div style={{ maxWidth: '800px', margin: '2rem 0', color: 'var(--graphite-grey)', fontSize: '1.125rem', lineHeight: '1.8', position: 'relative', zIndex: 2 }}>
+                <div style={{ maxWidth: '900px', margin: '2rem auto', color: 'var(--graphite-grey)', fontSize: '1.125rem', lineHeight: '1.8', position: 'relative', zIndex: 2 }}>
                     <p style={{ marginBottom: '1.5rem' }}>
                         At <strong>Out of Box Tools</strong>, we believe that the foundation of every successful project relies on the quality of the equipment used. Founded on the principle of providing unparalleled reliability, we supply trade professionals, contractors, and DIY enthusiasts with the finest hardware available.
                     </p>
